@@ -1,0 +1,34 @@
+name: Importer le ZIP du projet
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Décompresser le projet
+        run: |
+          ZIP_FILE=$(find . -maxdepth 1 -type f -name '*.zip' | head -n 1)
+          if [ -z "$ZIP_FILE" ]; then
+            echo "Aucun fichier ZIP trouvé à la racine."
+            exit 1
+          fi
+          unzip -o "$ZIP_FILE" -d .
+          rm "$ZIP_FILE"
+
+      - name: Enregistrer les fichiers
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "Importer le projet Nuvio"
+            git push
+          fi
