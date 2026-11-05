@@ -21,6 +21,7 @@ jobs:
             exit 1
           fi
           unzip -o "$ZIP_FILE" -d .
+          rm -f .github/workflows/deploy.yml
           rm "$ZIP_FILE"
 
       - name: Enregistrer les fichiers
@@ -29,6 +30,6 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
           if ! git diff --cached --quiet; then
-            git commit -m "Importer le projet Nuvio"
+            git commit -m "Importer les fichiers du projet Nuvio"
             git push
           fi
