@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1744876",
+    "type": "movie",
+    "name": "Fito Paez : Le monde dans une chanson",
+    "poster": "https://image.tmdb.org/t/p/w500/vG6rXAyLSu5MqIZG5jTjP6tpdbl.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg",
+    "description": "Un film documentaire qui observe, écoute et interagit avec Fito Páez dans une profonde intimité. La caméra, presque invisible, est témoin de chacun de ses gestes, l'accompagnant pendant plus d'un an lors d'enregistrements, de répétitions, de tournées et de concerts dans les grandes villes d'Amérique latine, d'Europe et des États-Unis. C'est aussi un voyage à travers la vie de l'un des plus grands artistes hispanophones : ses amours et ses peines, ses enfants et ses amitiés, ses excès, ses tragédies, ses échecs et ses succès.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1744876"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1744876-fito-paez-el-mundo-cabe-en-una-cancion/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1744876",
+      "hasScheduledVideos": false
+    }
+  }
+}

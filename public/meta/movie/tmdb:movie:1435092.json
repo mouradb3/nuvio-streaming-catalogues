@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1435092",
+    "type": "movie",
+    "name": "Goodbye June",
+    "poster": "https://image.tmdb.org/t/p/w500/jvgg5Q5PXJ2IVpMRrm3QZsS08pB.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/9MJifKtwH3hSDPSqguyvFfgdmtA.jpg",
+    "description": "Le film se déroule juste avant Noël, quand la santé défaillante d'une mère plonge ses quatre enfants adultes et leur père exaspérant dans le chaos, les obligeant à affronter leurs relations dysfonctionnelles et un deuil imminent. Mais June, cette mère à l'esprit acéré, orchestre son déclin comme elle l'entend : avec un humour mordant, une franchise déconcertante et beaucoup d'amour.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1435092"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1435092-goodbye-june/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1435092",
+      "hasScheduledVideos": false
+    }
+  }
+}

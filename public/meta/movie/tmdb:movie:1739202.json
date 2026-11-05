@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1739202",
+    "type": "movie",
+    "name": "L'Envers du sport : Raygun, Breaking Badly",
+    "poster": "https://image.tmdb.org/t/p/w500/pgZoTGXmkQXoO7F8wgBmlyy6zxy.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg",
+    "description": "Lorsque la performance de Raygun aux Jeux olympiques de Paris 2024 est devenue virale du jour au lendemain, une avalanche de mèmes, de fausses informations et de théories du complot a suivi, tous remettant en question la manière dont elle avait réussi à atteindre la scène olympique.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1739202"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1739202-untold-raygun-breaking-badly/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1739202",
+      "hasScheduledVideos": false
+    }
+  }
+}

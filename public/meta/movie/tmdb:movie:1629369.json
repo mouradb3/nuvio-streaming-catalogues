@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1629369",
+    "type": "movie",
+    "name": "L'Ascension brisée de Moriah Wilson",
+    "poster": "https://image.tmdb.org/t/p/w500/zoa2XatA43nKhF1kx8nVcVyH1M0.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/xQFxoGYtwMBAq89DPa9gUcLlOdA.jpg",
+    "description": "Ce documentaire examine en détail la vie rayonnante de la cycliste Moriah Wilson et les efforts déployés par l'individu coupable de son meurtre choquant pour échapper à la justice.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1629369"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1629369-the-truth-and-tragedy-of-moriah-wilson/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1629369",
+      "hasScheduledVideos": false
+    }
+  }
+}

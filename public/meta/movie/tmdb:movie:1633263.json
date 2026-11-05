@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1633263",
+    "type": "movie",
+    "name": "Wonderful Nightmare",
+    "poster": "https://image.tmdb.org/t/p/w500/5plgPtzwuIHUKMN044igzRkbd90.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/43xC9erNcSoBBfZRokKgm5xb9Ek.jpg",
+    "description": "Quand une avocate implacable meurt à la suite d'une erreur du paradis, elle est forcée de vivre dans la peau de l'épouse d'un inconnu pendant un mois pour retrouver sa vie d'avant.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1633263"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1633263-wonderful-nightmare/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1633263",
+      "hasScheduledVideos": false
+    }
+  }
+}

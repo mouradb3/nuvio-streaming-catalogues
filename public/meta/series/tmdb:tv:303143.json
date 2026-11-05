@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:303143",
+    "type": "series",
+    "name": "My Royal Nemesis",
+    "poster": "https://image.tmdb.org/t/p/w500/u2cX3CVzUZLIGVwd9HB7bUhE7OP.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/p1ntnKJwn1URGv1xpU6NN33Y11O.jpg",
+    "description": "Condamnée à mourir à l'ère Joseon, une méchante se réveille dans le Séoul moderne et rencontre un héritier sans pitié qui pourrait être sa dernière chance de réécrire son destin.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/303143"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/303143/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:303143",
+      "hasScheduledVideos": true
+    }
+  }
+}

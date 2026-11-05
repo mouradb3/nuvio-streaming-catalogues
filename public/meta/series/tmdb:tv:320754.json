@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:320754",
+    "type": "series",
+    "name": "Les Affaires organisées",
+    "poster": "https://image.tmdb.org/t/p/w500/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/rMvfkMMITQXIMm44epyRaGwMaNw.jpg",
+    "description": "Lorsqu'une carte légendaire tombe entre les mains d'un célèbre escroc, il décide de monter une dernière arnaque avant d'arrêter pour de bon.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/320754"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/320754-organize-isler/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:320754",
+      "hasScheduledVideos": true
+    }
+  }
+}

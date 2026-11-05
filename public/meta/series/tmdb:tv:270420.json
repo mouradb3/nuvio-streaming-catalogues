@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:270420",
+    "type": "series",
+    "name": "Juste humaine",
+    "poster": "https://image.tmdb.org/t/p/w500/wPqwfPOfJOMLFR1ZF2HL6mcpVas.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
+    "description": "Dotée du pouvoir d'exaucer les vœux, la vie d'une renarde cynique à neuf queues prend un tournant lorsqu'elle rencontre un footballeur, changeant ainsi le destin des deux personnages.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/270420"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/270420/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:270420",
+      "hasScheduledVideos": true
+    }
+  }
+}

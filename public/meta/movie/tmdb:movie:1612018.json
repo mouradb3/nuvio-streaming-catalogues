@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1612018",
+    "type": "movie",
+    "name": "Jackass : le meilleur pour la fin",
+    "poster": "https://image.tmdb.org/t/p/w500/xd7tpoTpkOUIMf0Xd6DcCWqNrNQ.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/dUbP1HNdI0aCq1zgRJw28PWSqmk.jpg",
+    "description": "Le cinquième et dernier volet de la franchise « Jackass », dans lequel l'équipe se lance dans une dernière aventure complètement folle.\n\nDisponibilité Canada : Paramount Plus, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1612018"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1612018-jackass-best-and-last/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1612018",
+      "hasScheduledVideos": false
+    }
+  }
+}

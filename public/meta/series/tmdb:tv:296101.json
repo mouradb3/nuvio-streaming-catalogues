@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:296101",
+    "type": "series",
+    "name": "Grow Up Show",
+    "poster": "https://image.tmdb.org/t/p/w500/6UTl7dGkApReBWc3r9mmeZQGNE8.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/58WqFaGaATt9lj9STPhZZGF0PKF.jpg",
+    "description": "Mizuka rejoint une troupe de cirque en difficulté mais sa venue va contribuer à lui redonner ses lettres de noblesse sous le chapiteau.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/296101"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/296101/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:296101",
+      "hasScheduledVideos": true
+    }
+  }
+}

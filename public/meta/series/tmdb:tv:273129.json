@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:273129",
+    "type": "series",
+    "name": "爱情没有神话",
+    "poster": "https://image.tmdb.org/t/p/w500/o4JGc8bITlCsqBp7Oh0MOujqIMu.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/nQKWL5akhnv0puDu2jbsWpyqRG4.jpg",
+    "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/273129"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/273129/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:273129",
+      "hasScheduledVideos": true
+    }
+  }
+}

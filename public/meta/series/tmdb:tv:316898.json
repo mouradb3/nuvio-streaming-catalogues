@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:316898",
+    "type": "series",
+    "name": "Trust Me : Le faux prophète",
+    "poster": "https://image.tmdb.org/t/p/w500/fJGDEMzC13NPJa99YKMJZw2Icb6.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ujWjoKl1uZfiBRvZL7qbxCkMLQs.jpg",
+    "description": "Dans ce documentaire, une experte des sectes et un cinéaste infiltrent une communauté fondamentaliste polygame pour démasquer un prophète autoproclamé et le traduire en justice.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/316898"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/316898-trust-me-the-false-prophet/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:316898",
+      "hasScheduledVideos": true
+    }
+  }
+}

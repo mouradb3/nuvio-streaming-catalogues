@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:252193",
+    "type": "series",
+    "name": "Last Samurai Standing",
+    "poster": "https://image.tmdb.org/t/p/w500/oUIQQiZQTgFsYtW7LbZc7cLY8ow.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/vcU8hIHXuADItJSzEmt2F8IMq5l.jpg",
+    "description": "En 1878, dans le Japon de l'ère post-samouraï, 292 samouraïs déchus sont attirés dans un jeu de survie où 100 milliards de yens sont promis au dernier concurrent en lice. La compétition commence au temple Tenryuji de Kyoto, centre historique et sanctuaire spirituel, et se termine à Tokyo. Un seul survivant sortira de ce jeu mystérieux et mortel.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/252193"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/252193/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:252193",
+      "hasScheduledVideos": true
+    }
+  }
+}

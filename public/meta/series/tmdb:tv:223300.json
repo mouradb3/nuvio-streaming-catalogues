@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:223300",
+    "type": "series",
+    "name": "The Abandons",
+    "poster": "https://image.tmdb.org/t/p/w500/z6O7Mju7Ew4KtJGckV4Wo0Us2ma.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/dHCr5HgldBavJPzAYFYmM0rEdQo.jpg",
+    "description": "Territoire de Washington, 1854. Les matriarches de deux familles que tout oppose, l'une fortunée et privilégiée, liée par le sang, et l'autre constituée d'orphelins et de marginaux unis par l'amour et la nécessité, voient leurs destins rassemblés par les crimes, un terrible secret, un amour maudit et un gisement d'argent. Une collision qui fait écho à la lutte entre riches et pauvres dans un coin d'Amérique hors de portée de la justice.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "5.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/223300"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/223300-the-abandons/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:223300",
+      "hasScheduledVideos": true
+    }
+  }
+}

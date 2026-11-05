@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1679730",
+    "type": "movie",
+    "name": "L'Héroïne au ruban",
+    "poster": "https://image.tmdb.org/t/p/w500/bJpeZXtrS2ZrOUKfwQ81s9a0GSo.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/8SEb8rEZ9DYqBT7U3FI5nBOS1lV.jpg",
+    "description": "Quand le terrible Nergal détruit son royaume, la princesse Sapphire renaît sous les traits de l'Héroïne au ruban et lutte pour éviter à son nouveau pays le même sort sinistre.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1679730"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1679730-the-ribbon-hero/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1679730",
+      "hasScheduledVideos": false
+    }
+  }
+}

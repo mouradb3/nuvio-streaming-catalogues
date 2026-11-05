@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1441563",
+    "type": "movie",
+    "name": "Mon père Noël secret",
+    "poster": "https://image.tmdb.org/t/p/w500/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/bXZcSDQoyXlzzUw9qxjZjiUSYov.jpg",
+    "description": "Une mère célibataire cherche un emploi. Une station de ski cherche un père Noël. Déguisée pour la circonstance, Taylor pourra-t-elle convaincre un bel héritier de l'embaucher ?\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1441563"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1441563-my-secret-santa/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1441563",
+      "hasScheduledVideos": false
+    }
+  }
+}

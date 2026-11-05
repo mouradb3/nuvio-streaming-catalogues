@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:284110",
+    "type": "series",
+    "name": "主角",
+    "poster": "https://image.tmdb.org/t/p/w500/3lsrmiNXSUeRoeBP7lvaDwGwEt9.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/i5pSbVLpRKUPfFckfsX0kpHLdWC.jpg",
+    "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/284110"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/284110/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:284110",
+      "hasScheduledVideos": true
+    }
+  }
+}

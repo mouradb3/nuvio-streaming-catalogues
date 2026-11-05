@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1723460",
+    "type": "movie",
+    "name": "Amour et Machinations",
+    "poster": "https://image.tmdb.org/t/p/w500/jTbpTfNfHYIKmnciYRgzvcveuNe.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/c3hLMqh2QqJd7m1ar6rxw9eio35.jpg",
+    "description": "Une série de courriels menaçants dégénère en un complot de vengeance impliquant un marshal américain récemment marié et son ex-petite amie.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1723460"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1723460-a-toxic-love-story/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1723460",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:281016",
+    "type": "series",
+    "name": "Boyfriend on Demand",
+    "poster": "https://image.tmdb.org/t/p/w500/1yFwwOlscIjCHrOV88A5rY2YWmH.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/sjOTFlGapgXFjwV3LmD9eHZEp3d.jpg",
+    "description": "Épuisée par le travail, Seo Mi-rae ne pense pas à l'amour, jusqu’à ce qu'un site de rencontres éveille quelque chose en elle... Et si c'était le début d'une romance ?\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/281016"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/281016/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:281016",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1412598",
+    "type": "movie",
+    "name": "Killer Whale",
+    "poster": "https://image.tmdb.org/t/p/w500/uBf00f5fjbwtdT11VDCOiSZKOB7.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ykigHs1OIyqqV04zfFqIlSHp546.jpg",
+    "description": "L'histoire suit Maddie et Trish, deux meilleures amies qui se retrouvent piégées dans un lagon isolé avec une dangereuse orque nommée Ceto.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1412598"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1412598-killer-whale/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1412598",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:293144",
+    "type": "series",
+    "name": "Wash It All Away",
+    "poster": "https://image.tmdb.org/t/p/w500/u3FoBE3Vw0tTHFV6djpSv5HHBU5.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/qwQwTAvgH6QXPOOKsIlE0i2GfOn.jpg",
+    "description": "L'histoire prend place dans une blanchisserie d'une ville balnéaire. Nommée Kinme Cleaning, Takana Kinme y travaille tous les jours. Il s'agit d'une jeune fille pleine de bonne humeur qui adore les sources chaudes.\n\nCette histoire « amère » se centre sur Kinme et des personnes qui l'entoure.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/293144"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/293144/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:293144",
+      "hasScheduledVideos": true
+    }
+  }
+}

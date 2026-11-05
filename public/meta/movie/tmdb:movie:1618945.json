@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1618945",
+    "type": "movie",
+    "name": "Yoh! Bestie",
+    "poster": "https://image.tmdb.org/t/p/w500/9wBzRaeWfELNOPmcvOVTmB3kDEl.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/1EVHnzF3gescyQZSqwbx5LfQ1EN.jpg",
+    "description": "Thando n'a jamais de chance en amour, mais lorsque son meilleur ami revient de voyage accompagné de sa fiancée, elle est contrainte de faire face à un nouveau sentiment : la jalousie.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1618945"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1618945-yoh-bestie/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1618945",
+      "hasScheduledVideos": false
+    }
+  }
+}

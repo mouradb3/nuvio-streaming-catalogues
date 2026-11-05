@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:278577",
+    "type": "series",
+    "name": "骄阳似我",
+    "poster": "https://image.tmdb.org/t/p/w500/9evuKu7J3dKoQF8wxGdkHPP47il.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/kiEtIq7Up7vpbAYvPTJPKHiJE1t.jpg",
+    "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads, Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "8.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/278577"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/278577/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:278577",
+      "hasScheduledVideos": true
+    }
+  }
+}

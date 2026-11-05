@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1330021",
+    "type": "movie",
+    "name": "De si remarquables créatures",
+    "poster": "https://image.tmdb.org/t/p/w500/ay12YxITkgfpY107arfcHfuLnQG.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+    "description": "Tova, une veuve âgée, se lie d'une amitié improbable avec Marcellus, une pieuvre géante et pacifique qui vit dans l'aquarium où elle travaille. Sans que Tova le sache, Marcellus s'est donné pour mission de résoudre un mystère qui guérira le cœur de la veuve et la mènera à une découverte qui changera sa vie. Basé sur le livre à succès.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1330021"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1330021-remarkably-bright-creatures/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1330021",
+      "hasScheduledVideos": false
+    }
+  }
+}

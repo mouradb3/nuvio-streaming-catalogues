@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:323579",
+    "type": "series",
+    "name": "GATE24: The Border",
+    "poster": "https://image.tmdb.org/t/p/w500/axY8zSLIjUoaThP1RxxoBfdDUnH.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/6jRWDRwDlmcwEmMVN10nY6tt2mP.jpg",
+    "description": "Dotée d'un sens aigu de l'observation, mais maladroite avec les autres, une douanière excentrique rejoint une unité frontalière hétéroclite chargée de protéger le Japon.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/323579"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/323579-gate24/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:323579",
+      "hasScheduledVideos": true
+    }
+  }
+}

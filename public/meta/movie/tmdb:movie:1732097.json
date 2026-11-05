@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1732097",
+    "type": "movie",
+    "name": "Euphoria: A Look Back",
+    "poster": "https://image.tmdb.org/t/p/w500/1us6iYG7P600BgSdwjb6mFYCP97.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/fQiNGtgo9gEpyOIxX29FtUHpcaD.jpg",
+    "description": "L'équipe et les acteurs de la série Euphoria de HBO reviennent en exclusivité sur les origines, l'évolution et les influences de cette série acclamée par la critique.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "4.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1732097"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1732097-euphoria-a-look-back/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1732097",
+      "hasScheduledVideos": false
+    }
+  }
+}

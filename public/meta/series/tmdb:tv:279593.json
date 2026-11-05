@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:279593",
+    "type": "series",
+    "name": "小城大事",
+    "poster": "https://image.tmdb.org/t/p/w500/qOxz5TnqxgZTLx31PWXsuEJ8AIb.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/l43ULOU8DQA0LomqfmSQoDKschy.jpg",
+    "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/279593"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/279593/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:279593",
+      "hasScheduledVideos": true
+    }
+  }
+}

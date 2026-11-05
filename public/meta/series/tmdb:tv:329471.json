@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:329471",
+    "type": "series",
+    "name": "The Grand Tour",
+    "poster": "https://image.tmdb.org/t/p/w500/kq6XB6xmD86txW4UR32tT2JUiN9.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/40Dx3P1mllQq1jhgN3K8dlti6CS.jpg",
+    "description": "Et c'est reparti pour The Grand Tour ! La plus grande émission automobile au monde reprend la route avec de nouveaux présentateurs, Thomas Holland, James Engelsman et Francis Bourgeois, tout en conservant sa formule en dehors des clous mêlant aventures à travers le monde, véhicules incroyables, cascades épiques et opinions tranchées.\n\nDisponibilité France : Amazon Prime Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/329471"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/329471-the-grand-tour/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:329471",
+      "hasScheduledVideos": true
+    }
+  }
+}

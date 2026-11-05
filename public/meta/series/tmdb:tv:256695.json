@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:256695",
+    "type": "series",
+    "name": "Regular Show : Les cassettes oubliées",
+    "poster": "https://image.tmdb.org/t/p/w500/gZuwOtqQRPvLOhLV21qfaC3tIxS.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/43Tu4TnFO57R6eK6XUBFGJrazrZ.jpg",
+    "description": "Mordecai, un geai bleu, et Rigby, un raton laveur, deux amis paresseux, travaillent dans un parc municipal. Mais, quoi qu'ils entreprennent, leurs tâches quotidiennes finissent invariablement par basculer dans un chaos totalement surréaliste, au grand désespoir de leur patron et de leurs collègues...\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "9.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/256695"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/256695-regular-show-the-lost-tapes/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:256695",
+      "hasScheduledVideos": true
+    }
+  }
+}

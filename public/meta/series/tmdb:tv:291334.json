@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:291334",
+    "type": "series",
+    "name": "The Fall and Rise of Reggie Dinkins",
+    "poster": "https://image.tmdb.org/t/p/w500/tqWQdIdzDj9gBgVg5Sd50mpcx65.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/sxgF5j8ZCzDzRr6H7qalL8u7TyR.jpg",
+    "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/291334"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/291334-the-fall-and-rise-of-reggie-dinkins/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:291334",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1650175",
+    "type": "movie",
+    "name": "Goldmine",
+    "poster": "https://image.tmdb.org/t/p/w500/6z08rP046kEPVbj148EtdumJmRZ.jpg",
+    "description": "Disponibilité France : Bloodstream.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1650175"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1650175-goldmine/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1650175",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1032892",
+    "type": "movie",
+    "name": "Destins croisés",
+    "poster": "https://image.tmdb.org/t/p/w500/xxiCtlfsf3ObdRnKEkw4RzpUr5E.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/uM5i623wwNfoGD97iwwQWQ7GlZL.jpg",
+    "description": "Trois histoires, s'étalant sur plusieurs millénaires, s'entrecroisent et abordent les thèmes de l'espoir, du lien et du cycle de la vie.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1032892"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1032892-in-the-blink-of-an-eye/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1032892",
+      "hasScheduledVideos": false
+    }
+  }
+}

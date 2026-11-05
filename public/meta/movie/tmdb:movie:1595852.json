@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1595852",
+    "type": "movie",
+    "name": "Boulevard",
+    "poster": "https://image.tmdb.org/t/p/w500/uY4JEgiOMk2MFZ60XTc9X6De2NU.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/98uiDns59GUw26SQSCFmuSHTki3.jpg",
+    "description": "Nouvelle ville, nouvelle vie. Et avec elle, la rencontre fortuite avec Luke, un jeune homme plein d'adrénaline hanté par ses démons. Malgré les avertissements, Hasley ne peut l'éviter. Dans leur \"boulevard\", ils partagent un amour passionnel et libérateur. Mais alors que son passé menace de les détruire, Hasley doit se poser la question : peut-on sauver quelqu'un qui ne veut pas être sauvé ?\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1595852"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1595852-boulevard/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1595852",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:840464",
+    "type": "movie",
+    "name": "Greenland : Migration",
+    "poster": "https://image.tmdb.org/t/p/w500/g1kyyNhgEWRxYQvd5MXwM1URUNf.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/cLFbDVfhllIMybpo2fkGNzehiQG.jpg",
+    "description": "Après l'impact dévastateur d'une comète qui a réduit la Terre en ruines, la famille Garrity doit quitter la sécurité de son bunker au Groenland. Commence alors un périple pour leur survie et l'avenir de l'Humanité à travers un monde dévasté à la recherche d'un nouveau foyer.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/840464"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/840464-greenland-2-migration/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:840464",
+      "hasScheduledVideos": false
+    }
+  }
+}

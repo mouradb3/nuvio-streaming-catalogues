@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1602705",
+    "type": "movie",
+    "name": "Lettre à ma jeunesse",
+    "poster": "https://image.tmdb.org/t/p/w500/xxwgHtSCcUeo21jwui1i2KYKhr9.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/3RaVf9MWpB74kK8AtPJ7DJmfZNA.jpg",
+    "description": "Dans un orphelinat, un adolescent rebelle et un responsable discret nouent un lien improbable tout en essayant d'accepter leurs passés douloureux.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1602705"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1602705-surat-untuk-masa-mudaku/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1602705",
+      "hasScheduledVideos": false
+    }
+  }
+}

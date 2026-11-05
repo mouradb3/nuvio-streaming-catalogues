@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1451344",
+    "type": "movie",
+    "name": "Mes hommes d'action",
+    "poster": "https://image.tmdb.org/t/p/w500/A01Ca3GfoUZ192ebgHHj6MYOG35.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/doasZ6ROBhD0xIRsvAFdTeZsKhp.jpg",
+    "description": "Un policier fait équipe avec le nouveau mari de son ex-femme pour traquer ses ravisseurs. Ces drôles d'alliés passeront-ils outre leurs différends le temps d'un sauvetage déjanté ?\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1451344"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1451344/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1451344",
+      "hasScheduledVideos": false
+    }
+  }
+}

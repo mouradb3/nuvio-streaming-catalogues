@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1380316",
+    "type": "movie",
+    "name": "Is God Is",
+    "poster": "https://image.tmdb.org/t/p/w500/97r9aSMjho8vY1HLQKfm5nn3hVz.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/6AS9zVu3rUs7dj4N2ZNnKjI8YZ1.jpg",
+    "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1380316"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1380316-is-god-is/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1380316",
+      "hasScheduledVideos": false
+    }
+  }
+}

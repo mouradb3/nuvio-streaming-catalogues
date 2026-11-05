@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:269161",
+    "type": "series",
+    "name": "Bandi",
+    "poster": "https://image.tmdb.org/t/p/w500/x3OUbjbHcTzasrhNe0QeASasJ3W.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/zRPfRuLq1eCyEvlsKhl1k96lRw9.jpg",
+    "description": "À la suite de la mort de leur mère, leur pilier et leur repère, onze frères et sœurs âgés de 7 à 23 ans tentent de rester unis face à l’adversité. Mais pour certains d’entre eux, le trafic de drogue semble être la seule issue pour survivre. Une décision loin de faire l’unanimité et qui met à rude épreuve la solidité de leurs liens familiaux.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/269161"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/269161-bandi/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:269161",
+      "hasScheduledVideos": true
+    }
+  }
+}

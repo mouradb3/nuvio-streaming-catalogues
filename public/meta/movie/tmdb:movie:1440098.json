@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1440098",
+    "type": "movie",
+    "name": "Attirés malgré nous",
+    "poster": "https://image.tmdb.org/t/p/w500/fWCEAgqwVgSqelrDS48F843ZHx7.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/i65y7cMae36K0giN0GRaMjAHUru.jpg",
+    "description": "Marfil, fille d'un homme d'affaires espagnol, voit sa vie new-yorkaise basculer lorsqu'elle est enlevée puis mystérieusement relâchée. Son père engage un garde du corps, Sebastian Moore, et, contraints de passer tout leur temps ensemble, une attirance inévitable naît entre eux, dans un monde où les apparences sont trompeuses. Adapté du roman de Mercedes Ron, autrice de la saga À Contre-sens.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1440098"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1440098-enfrentados-marfil/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1440098",
+      "hasScheduledVideos": false
+    }
+  }
+}

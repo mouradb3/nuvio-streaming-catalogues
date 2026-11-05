@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:298343",
+    "type": "series",
+    "name": "Strip Law",
+    "poster": "https://image.tmdb.org/t/p/w500/hs9kjF67nO5vc3kBgm3IF2MLnRe.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/jH1vBLHxp7E2AZGdhvjnxA96mJh.jpg",
+    "description": "Dans cette comédie d'animation irrévérencieuse pour adultes, un avocat coincé fait équipe avec une magicienne de Las Vegas pour pimenter les affaires les plus stupides de la ville.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/298343"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/298343-strip-law/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:298343",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:302020",
+    "type": "series",
+    "name": "てつりょー！meet with 鉄道むすめ",
+    "poster": "https://image.tmdb.org/t/p/w500/vHXCic8xST3Htbb7O98RKQR1pSv.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/3jnuPu5CMCDWX7h9JM7SAuF2Ick.jpg",
+    "description": "Disponibilité Canada : Hidive Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/302020"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/302020-meet-with/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:302020",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:299365",
+    "type": "series",
+    "name": "신입사원 강회장",
+    "poster": "https://image.tmdb.org/t/p/w500/ryoklqf5Xi76b1Cqb0h4I7zL6qa.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/nxOsQE8UrifZpQ9hcZ7xjMHEbmn.jpg",
+    "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/299365"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/299365/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:299365",
+      "hasScheduledVideos": true
+    }
+  }
+}

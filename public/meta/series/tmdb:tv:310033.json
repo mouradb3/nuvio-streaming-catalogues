@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:tv:310033",
+    "type": "series",
+    "name": "붉은 진주",
+    "poster": "https://image.tmdb.org/t/p/w500/5FLLysBG46534liTEwhORj0skVz.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/oQzp6JxTqjESsEkWsnmGYgvP5Ur.jpg",
+    "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/310033"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/310033/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:310033",
+      "hasScheduledVideos": true
+    }
+  }
+}

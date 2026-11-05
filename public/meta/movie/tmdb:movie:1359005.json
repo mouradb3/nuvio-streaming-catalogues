@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1359005",
+    "type": "movie",
+    "name": "Per Aspera Ad Astra",
+    "poster": "https://image.tmdb.org/t/p/w500/dKT6A7yQWxvRhZwX5uudHofvpja.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/AdsSM2GIlub3dB74ibSnWLJYsT0.jpg",
+    "description": "Lorsqu'un système d'IA défaillant met en péril un vaisseau spatial, un technicien doit pénétrer dans le rêve d'un membre d'équipage pour récupérer un code et sauver les passagers.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1359005"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1359005/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1359005",
+      "hasScheduledVideos": false
+    }
+  }
+}

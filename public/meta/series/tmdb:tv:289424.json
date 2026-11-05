@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:289424",
+    "type": "series",
+    "name": "De notre mieux",
+    "poster": "https://image.tmdb.org/t/p/w500/pdxOM4FIGRykIv6KxF648fG9bor.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/4ZXZi107TbfBJFGT4cnqbavQIoc.jpg",
+    "description": "Un réalisateur, qui cherche en vain à percer depuis 20 ans, touche le fond… jusqu'au jour où il rencontre une productrice débordée qui l'aide à retrouver l'estime de soi.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/289424"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/289424/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:289424",
+      "hasScheduledVideos": true
+    }
+  }
+}

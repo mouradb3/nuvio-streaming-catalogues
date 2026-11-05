@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:286506",
+    "type": "series",
+    "name": "百花杀",
+    "poster": "https://image.tmdb.org/t/p/w500/sWdiop8BQwODB6tVOMeTfi0XHE3.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/q7aDczLPQxb8rDAz5FzPwmFzDFo.jpg",
+    "description": "Disponibilité Canada : Rakuten Viki, Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/286506"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/286506/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:286506",
+      "hasScheduledVideos": true
+    }
+  }
+}

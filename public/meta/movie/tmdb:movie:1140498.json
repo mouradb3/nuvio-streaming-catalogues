@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1140498",
+    "type": "movie",
+    "name": "Is This Thing On?",
+    "poster": "https://image.tmdb.org/t/p/w500/fVNItYILyTAKEJMyU7pnQgV6a3W.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/argJlxQHbXAzyH8fKnjLfoEyDcd.jpg",
+    "description": "Disponibilité Canada : Crave, Crave Amazon Channel, Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1140498"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1140498-is-this-thing-on/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1140498",
+      "hasScheduledVideos": false
+    }
+  }
+}

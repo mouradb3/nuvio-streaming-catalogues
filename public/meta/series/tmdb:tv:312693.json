@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:312693",
+    "type": "series",
+    "name": "Small Prophets",
+    "poster": "https://image.tmdb.org/t/p/w500/vkp6w1iq72JrFQnpFkWPLWWMZGa.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/x5OnfR9mcpHvtsrXg1ZxB1Vk6lW.jpg",
+    "description": "Depuis la mystérieuse disparition de sa compagne il y a sept ans, la vie de Michael est en pause. Mais une recette trouvée dans un vieux grimoire pourrait bien lui apporter des réponses.\n\nDisponibilité France : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/312693"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/312693-small-prophets/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:312693",
+      "hasScheduledVideos": true
+    }
+  }
+}

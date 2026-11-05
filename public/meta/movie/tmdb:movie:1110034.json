@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1110034",
+    "type": "movie",
+    "name": "Kraken",
+    "poster": "https://image.tmdb.org/t/p/w500/uUCVGVWnBgIf6NV3AqHpJcCBC8T.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/oV472EbPedkc5QzqolGc7sCgCnn.jpg",
+    "description": "Johanne, biologiste marine, mène des recherches dans une ferme piscicole à Vangsnes, un petit village situé au bord de l'un des fjords les plus profonds de Norvège, suite à une série de morts mystérieuses.\n\nDisponibilité France : Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1110034"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1110034-kraken/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1110034",
+      "hasScheduledVideos": false
+    }
+  }
+}

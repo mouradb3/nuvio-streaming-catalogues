@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:304774",
+    "type": "series",
+    "name": "La huitième famille",
+    "poster": "https://image.tmdb.org/t/p/w500/y8NmGRfD3GuhhR8bTj7rXWkOMqk.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/rMIcPgTdi3lB7J0iZEyHFDAZDCT.jpg",
+    "description": "L'ascension d'une famille du textile au rang de puissance mondiale s'accompagne de luttes pour maintenir sa position, tout en faisant face à des trahisons et des coups du sort dans cette histoire d'ambition et de survie.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/304774"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/304774-sekizinci-aile/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:304774",
+      "hasScheduledVideos": true
+    }
+  }
+}

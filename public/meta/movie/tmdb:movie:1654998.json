@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1654998",
+    "type": "movie",
+    "name": "R.L. Stine's Pumpkinhead 2",
+    "poster": "https://image.tmdb.org/t/p/w500/4liM7YBglVRk2UVuKsN7YQDmMpr.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/osHkvmg97Trv1QHVW1WIObbN1pu.jpg",
+    "description": "Sam et Becka font la course contre la montre pour empêcher une nouvelle malédiction de Pumpkinhead de faire des ravages dans toute la ville de Redhaven.\n\nDisponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1654998"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1654998-r-l-stine-s-pumpkinhead-2/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1654998",
+      "hasScheduledVideos": false
+    }
+  }
+}

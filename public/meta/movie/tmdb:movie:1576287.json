@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1576287",
+    "type": "movie",
+    "name": "Frankenstein : La leçon d'anatomie",
+    "poster": "https://image.tmdb.org/t/p/w500/l1F9EIwShcQX7kmnqucIBsXUG5S.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/16pzCxNJ6pV6kI9hvM1eLn0KtuO.jpg",
+    "description": "Faufilez-vous dans les coulisses avec le cinéaste visionnaire Guillermo del Toro, les acteurs et les techniciens de \"Frankenstein\" qui réinventent ce grand classique sous vos yeux.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1576287"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1576287-frankenstein-the-anatomy-lesson/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1576287",
+      "hasScheduledVideos": false
+    }
+  }
+}

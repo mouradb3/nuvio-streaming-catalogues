@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:312493",
+    "type": "series",
+    "name": "Viral Hit",
+    "poster": "https://image.tmdb.org/t/p/w500/cjy716l2l6uCCbvkkRgFReCdjYF.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/cUNHl2RBFO7qNoAhmRyML0BdWsY.jpg",
+    "description": "Après avoir accidentellement fait le buzz à la suite d'une bagarre, un ado pauvre et harcelé lance une chaîne de streaming pour se faire de l'argent et échapper au désespoir.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/312493"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/312493/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:312493",
+      "hasScheduledVideos": true
+    }
+  }
+}

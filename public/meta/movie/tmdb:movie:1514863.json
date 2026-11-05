@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1514863",
+    "type": "movie",
+    "name": "Best of the Best",
+    "poster": "https://image.tmdb.org/t/p/w500/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
+    "description": "Deux meilleures amies inséparables depuis l'enfance se lancent un défi de taille : intégrer et faire triompher la troupe universitaire de danse Bollywood. Mais la compétition s'avère bien plus féroce et impitoyable qu'elles ne l'imaginaient, mettant leur amitié fusionnelle à rude épreuve.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1514863"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1514863-best-of-the-best/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1514863",
+      "hasScheduledVideos": false
+    }
+  }
+}

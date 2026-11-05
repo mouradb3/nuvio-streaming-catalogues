@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1637319",
+    "type": "movie",
+    "name": "Hannah Montana : Spécial 20 ans !",
+    "poster": "https://image.tmdb.org/t/p/w500/hfxvdEBTt3YsV5h7MNzjfMXTWpd.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/w9NnNrq1aOu9hXhhUyMhQMts1oM.jpg",
+    "description": "Ce programme anniversaire des 20 ans de Hannah Montana est une lettre d’amour aux fans, empreinte d’une profonde nostalgie. Miley Cyrus y revisite ses moments les plus marquants dans une interview exclusive menée par Alex Cooper. Les spectateurs découvrent aussi des archives des coulisses, des visages familiers, des invités surprises et une performance musicale spéciale de Miley.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1637319"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1637319-hannah-montana-20th-anniversary-special/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1637319",
+      "hasScheduledVideos": false
+    }
+  }
+}

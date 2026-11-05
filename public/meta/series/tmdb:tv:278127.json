@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:278127",
+    "type": "series",
+    "name": "唐宫奇案之青雾风鸣",
+    "poster": "https://image.tmdb.org/t/p/w500/t9uq0A7luhtnbzLcp0jCQu8f6Ii.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/u9AkHDe9oiw62hZ8muokTUWdB27.jpg",
+    "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/278127"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/278127/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:278127",
+      "hasScheduledVideos": true
+    }
+  }
+}

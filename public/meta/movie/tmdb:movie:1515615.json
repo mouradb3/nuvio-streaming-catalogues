@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1515615",
+    "type": "movie",
+    "name": "More Than a Kiss",
+    "poster": "https://image.tmdb.org/t/p/w500/qmLFYcm6MFp02IIF5Qn6FuoPnKd.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/7yuHdP85F2ZxhKbSoPgCBT9uJT3.jpg",
+    "description": "Sean, élève brillant visant le MIT, accepte d'aider Flora, une adolescente populaire mais peu investie dans ses études, à améliorer ses résultats scolaires. Ce qui commence comme un simple accord se transforme peu à peu en une histoire d'amour qui remet en question leurs projets et leurs certitudes.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1515615"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1515615-kissing-is-the-easy-part/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1515615",
+      "hasScheduledVideos": false
+    }
+  }
+}

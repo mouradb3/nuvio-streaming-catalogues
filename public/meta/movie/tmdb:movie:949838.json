@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:949838",
+    "type": "movie",
+    "name": "72 heures",
+    "poster": "https://image.tmdb.org/t/p/w500/oRCQDEb8wqBIQIs12BBtimPL1Bw.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/hL5EIk48251OXlbIbRJq3yaBHk8.jpg",
+    "description": "Un quadragénaire en perte de vitesse espère sauver sa carrière dans la publicité en rejoignant un groupe de vingtenaires pour un enterrement de vie de garçon déjanté de trois jours, après avoir été ajouté par erreur à leur conversation par SMS.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/949838"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/949838-72-hours/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:949838",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1692419",
+    "type": "movie",
+    "name": "5 Bomoh",
+    "poster": "https://image.tmdb.org/t/p/w500/mICRHUkbo9PjJhlDzip6Jhh1x5J.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/6lWAqLdSVnLEWzKiIdM3vFn7Ol8.jpg",
+    "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1692419"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1692419-5-bomoh/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1692419",
+      "hasScheduledVideos": false
+    }
+  }
+}

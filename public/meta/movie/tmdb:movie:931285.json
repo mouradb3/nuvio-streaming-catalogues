@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:931285",
+    "type": "movie",
+    "name": "Mortal Kombat II",
+    "poster": "https://image.tmdb.org/t/p/w500/2ylGKeyxjmcUAkqC8uFarwhL1Pu.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+    "description": "Les champions préférés de tous – faisant équipe avec Johnny Cage en personne –s’affrontent les uns les autres dans la bataille sanglante par excellence où tous les coups sont permis pour vaincre le règne cruel de Shao Kahn qui menace l’existence même du Royaume de la Terre et ses protecteurs.\n\nDisponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/931285"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/931285-mortal-kombat-ii/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:931285",
+      "hasScheduledVideos": false
+    }
+  }
+}

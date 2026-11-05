@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1398486",
+    "type": "movie",
+    "name": "Maigret et le mort amoureux",
+    "poster": "https://image.tmdb.org/t/p/w500/yfFRDEWHalKnNnBisirTaBeLLPM.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/g4dglmohwnvl1yCYObZjmxZY9Do.jpg",
+    "description": "Le commissaire Maigret est appelé en urgence au Quai d’Orsay. Monsieur Berthier-Lagès, ancien ambassadeur renommé, a été assassiné. Maigret découvre qu’il entretenait depuis cinquante ans une correspondance amoureuse avec la princesse de Vuynes, dont le mari, étrange coïncidence, vient de décéder. En se confrontant aux membres des deux familles et au mutisme suspect de la domestique du diplomate, Maigret va aller de surprise en surprise…\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1398486"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1398486-maigret-et-le-mort-amoureux/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1398486",
+      "hasScheduledVideos": false
+    }
+  }
+}

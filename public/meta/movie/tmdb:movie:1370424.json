@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1370424",
+    "type": "movie",
+    "name": "He's Watching You",
+    "poster": "https://image.tmdb.org/t/p/w500/lGrxMTGzoO120uuHuYxwbv5Ypcw.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/j4NdsFyYxPYAZl7ZYTD9wq1Tis2.jpg",
+    "description": "Un adolescent enquêtant sur de mystérieux meurtres dans sa petite ville découvre une collection de cassettes VHS qui pourraient révéler l'identité d'un célèbre tueur en série. Mais peut-être est-il déjà trop tard ?\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1370424"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1370424-he-s-watching-you/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1370424",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:316832",
+    "type": "series",
+    "name": "Mon frère le Minotaure",
+    "poster": "https://image.tmdb.org/t/p/w500/2hLC2rTqB3Qao85lRINWmt4d6RB.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/iWFrb4RtT7EknjtoRarAFi7ysUt.jpg",
+    "description": "Un minotaure élevé par des humains rêve de son passé, il se lance alors dans une quête extraordinaire, avec l'aide de son frère et de ses amis, pour comprendre qui il est vraiment.\n\nDisponibilité France : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/316832"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/316832-my-brother-the-minotaur/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:316832",
+      "hasScheduledVideos": true
+    }
+  }
+}

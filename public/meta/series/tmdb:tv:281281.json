@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:281281",
+    "type": "series",
+    "name": "GIGN",
+    "poster": "https://image.tmdb.org/t/p/w500/DuXHZLWYIGW2vG6HFhOv5skDPQ.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/tMpfa73LmKpeZ3Fix1QmFGIUrKI.jpg",
+    "description": "Après une attaque sans précédent contre le GIGN, un officier sur le point de quitter le terrain doit mener une mission périlleuse qui le force à affronter son passé.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/281281"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/281281-gign/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:281281",
+      "hasScheduledVideos": true
+    }
+  }
+}

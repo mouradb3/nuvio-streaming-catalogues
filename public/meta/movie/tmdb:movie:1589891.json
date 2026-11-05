@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1589891",
+    "type": "movie",
+    "name": "Thérapie de choc",
+    "poster": "https://image.tmdb.org/t/p/w500/dkqhodrNPdwI25kNW8SmANQI7Wv.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/gtuXARxjGdfsGFqEwggBB8zUJza.jpg",
+    "description": "Un psychologue condamné à des travaux d'intérêt général aide un policier torturé par une infidélité. Ensemble, ils affrontent le danger et s'offrent une seconde chance.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1589891"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1589891-la-hora-de-los-valientes/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1589891",
+      "hasScheduledVideos": false
+    }
+  }
+}

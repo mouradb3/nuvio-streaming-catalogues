@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:312557",
+    "type": "series",
+    "name": "Academie Minerva",
+    "poster": "https://image.tmdb.org/t/p/w500/cTTXRklz5tJWX6wrN3XrjHo34H1.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg",
+    "description": "Au lycée militaire Minerva, des adolescents doivent composer avec la discipline, la rivalité et la pression familiale, tandis qu'un jeune cadet cherche des réponses concernant son ami disparu.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/312557"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/312557-minerva-la-scuola/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:312557",
+      "hasScheduledVideos": true
+    }
+  }
+}

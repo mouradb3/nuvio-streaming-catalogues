@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1493859",
+    "type": "movie",
+    "name": "Mission Pizza",
+    "poster": "https://image.tmdb.org/t/p/w500/1xNCKksGotlqxGoBWaB22mi7LVK.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/75UkXLlLedidOGo0VogF0A0NPfC.jpg",
+    "description": "Des étudiants descendent récupérer une pizza à l'entrée de leur résidence. Seul problème : ils sont dans un état second après avoir pris une drogue artisanale, et descendre deux étages se transforme en une quête aussi hallucinante que transformatrice.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1493859"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1493859-pizza-movie/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1493859",
+      "hasScheduledVideos": false
+    }
+  }
+}

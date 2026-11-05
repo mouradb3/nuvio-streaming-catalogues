@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:324115",
+    "type": "series",
+    "name": "The Evil Lawyer",
+    "poster": "https://image.tmdb.org/t/p/w500/oLmVnnJFdHvnaGB2asEebnbE4ly.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/gC6NyZkkyxwzip33k6XJ5ngP0dy.jpg",
+    "description": "Accusé à tort d'un crime brutal qu'il n'a pas commis, un jeune avocat confie son sort à une pénaliste redoutable afin de laver son nom et de découvrir la vérité.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/324115"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/324115/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:324115",
+      "hasScheduledVideos": true
+    }
+  }
+}

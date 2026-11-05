@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1732625",
+    "type": "movie",
+    "name": "LEGO Disney Princesses : Pagaille au Château",
+    "poster": "https://image.tmdb.org/t/p/w500/9dTghWbaGZuh9dZKr96OdSu9S06.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/kBrBcgdite6vpa6VkYEcjZuof7z.jpg",
+    "description": "Lors d'une violente averse, les princesses et leurs fidèles compagnons recueillent des animaux en détresse tout en profitant d'une journée douillette au château. Mais lorsque les animaux sèment la pagaille, c'est le chaos total. Une enquête révèle qu'un méchant farceur est à l'origine de ce désordre ; grâce au travail d'équipe, à leur vivacité d'esprit et à l'aide d'un ami inattendu, les princesses devront rétablir l'ordre et sauver leur foyer.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1732625"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1732625-lego-disney-princess-magical-mayhem/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1732625",
+      "hasScheduledVideos": false
+    }
+  }
+}

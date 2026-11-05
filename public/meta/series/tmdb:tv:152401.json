@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:152401",
+    "type": "series",
+    "name": "Dona Beja",
+    "poster": "https://image.tmdb.org/t/p/w500/eN3jw7AEOwNtTQTsGVHlEPvs6OC.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/gSvEG4PrNiqBKxNrhrtWsquzIKK.jpg",
+    "description": "Disponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/152401"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/152401-dona-beja/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:152401",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1722713",
+    "type": "movie",
+    "name": "Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo",
+    "poster": "https://image.tmdb.org/t/p/w500/7MCnV8wb1tODOrM8NmWAuPWm40Y.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/6QdbhPXNVFJ3cVCCFscOulC3Bpa.jpg",
+    "description": "Ce documentaire explore comment l'enlèvement de Miguel Ángel Blanco en 1997 a transformé la peur en résistance collective et a façonné la lutte de l'Espagne contre le terrorisme de l'ETA.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1722713"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1722713-miguel-angel-blanco-las-48-horas-que-lo-cambiaron-todo/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1722713",
+      "hasScheduledVideos": false
+    }
+  }
+}

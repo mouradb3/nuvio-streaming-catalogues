@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:224372",
+    "type": "series",
+    "name": "A Knight of the Seven Kingdoms",
+    "poster": "https://image.tmdb.org/t/p/w500/iremK1ulD6WPOvT9ShQDlZuEtL0.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
+    "description": "Du monde de Westeros nous vient une histoire improbable centrée sur les aventures d'un duo inattendu : le chevalier Ser Duncan et son écuyer l'Œuf.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/224372"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/224372-a-knight-of-the-seven-kingdoms/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:224372",
+      "hasScheduledVideos": true
+    }
+  }
+}

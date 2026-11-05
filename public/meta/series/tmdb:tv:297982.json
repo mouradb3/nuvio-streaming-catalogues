@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:297982",
+    "type": "series",
+    "name": "Irremplaçable",
+    "poster": "https://image.tmdb.org/t/p/w500/gLbtMLqbN6fgYsTuHFvzJu7Hopi.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/o91jmFILQk1UAqPbpEjT3D3OxoO.jpg",
+    "description": "Xu Chi se hisse du statut de diplômée à celui de consultante, mais dans cet environnement de travail où règne une compétition féroce, elle doit apprendre à qui faire confiance.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/297982"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/297982/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:297982",
+      "hasScheduledVideos": true
+    }
+  }
+}

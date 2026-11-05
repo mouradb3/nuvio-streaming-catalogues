@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:271855",
+    "type": "series",
+    "name": "Sandokan",
+    "poster": "https://image.tmdb.org/t/p/w500/xHQDSDYFWbHuN71s23Yy9lwN70j.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/1AA5xIVt1PTrbLxCCBxRyvjdpqO.jpg",
+    "description": "Dans la jungle luxuriante de Bornéo, Sandokan, pirate intrépide, vit pour la liberté. Sa rencontre avec Marianne, fille du consul britannique, fait naître un amour impossible. Traqués par Lord Brooke, ils luttent contre la tyrannie. Pour sauver son peuple, Sandokan doit devenir le légendaire Tigre de Malaisie.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/271855"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/271855-sandokan/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:271855",
+      "hasScheduledVideos": true
+    }
+  }
+}

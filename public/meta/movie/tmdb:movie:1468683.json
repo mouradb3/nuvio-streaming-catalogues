@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1468683",
+    "type": "movie",
+    "name": "Heartstopper Forever",
+    "poster": "https://image.tmdb.org/t/p/w500/r4lVJVO1BeBb11cBcXBdbHc9e9k.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/wG6yUcgv4xaj64KX7SSPEwBGXW0.jpg",
+    "description": "C'est la rentrée pour la bande de Truham-Higgs. Alors que la relation entre Nick et Charlie évolue, l'heure est venue de penser à ce qui les attend après le lycée.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1468683"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1468683-heartstopper-forever/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1468683",
+      "hasScheduledVideos": false
+    }
+  }
+}

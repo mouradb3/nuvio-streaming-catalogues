@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1481343",
+    "type": "movie",
+    "name": "La Bouche du Diable",
+    "poster": "https://image.tmdb.org/t/p/w500/9IKCSvhoKUM6LwD279FxuIvr8OL.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/pLyaH6k69OJHnONSmN3R7Peh6HE.jpg",
+    "description": "En Thaïlande, cinq amis explorent les grottes de la Bouche du Diable pour une dernière aventure avant de se lancer dans la vie d'adultes. Mais ils découvrent rapidement qu'une chose se met à les traquer sous l'eau… une chose rapide, silencieuse et mortelle. Dans l'obscurité étouffante, la confiance se volatilise, la panique se répand, et chaque erreur se transforme en une lutte pour la survie.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1481343"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1481343-the-devil-s-mouth/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1481343",
+      "hasScheduledVideos": false
+    }
+  }
+}

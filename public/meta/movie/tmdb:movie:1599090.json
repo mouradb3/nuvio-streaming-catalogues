@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1599090",
+    "type": "movie",
+    "name": "Gratte-ciel : L'ascension en direct",
+    "poster": "https://image.tmdb.org/t/p/w500/lLdQaNQUrgkDyYIyEOd9lFhwozq.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ln4AcBFey31UWfW3cQdKPwdfvAd.jpg",
+    "description": "Sans corde ni peur. Alex Honnold, légende du solo intégral, tente en direct l'ascension à haut risque d'un des plus hauts gratte-ciel du monde à Taipei, à Taïwan.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1599090"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1599090-skyscraper-live/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1599090",
+      "hasScheduledVideos": false
+    }
+  }
+}

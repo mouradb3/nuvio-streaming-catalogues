@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1530510",
+    "type": "movie",
+    "name": "Le Mondial de Martín",
+    "poster": "https://image.tmdb.org/t/p/w500/1p5tZnJS4uZNhpDWhnmT1ehCYwH.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/5Dkv39CuytJDnJeZjkepFtOWqBr.jpg",
+    "description": "Séismes, rivaux américains, drame sportif. Contre toute attente, le Mexique accueille le plus grand tournoi international de foot. Et la vraie histoire est encore plus incroyable.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1530510"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1530510-mexico-86/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1530510",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:250505",
+    "type": "series",
+    "name": "Les Sept Cadrans d'Agatha Christie",
+    "poster": "https://image.tmdb.org/t/p/w500/yd5vUf3eYDL9t8LEqX6I1yCbZoU.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/eVEbRtSOrczWlYnVmwM195AnX86.jpg",
+    "description": "Une jeune aristocrate brillante cherche à élucider le mystère d'un meurtre commis pendant une fête fastueuse dans une maison de campagne. Une adaptation du roman d'Agatha Christie.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/250505"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/250505-agatha-christie-s-seven-dials/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:250505",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:878608",
+    "type": "movie",
+    "name": "Résurrection",
+    "poster": "https://image.tmdb.org/t/p/w500/yZxEsi2s7NyO1QGjizXA9GLh49O.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/gry8VX2ssomFFv0ogcmlv3ZGUWd.jpg",
+    "description": "Dans un monde où les humains ne savent plus rêver, un être pas comme les autres perd pied et n'arrive plus à distinguer l’illusion de la réalité. Seule une femme voit clair en lui. Elle parvient à pénétrer ses rêves, en quête de la vérité…\n\nDisponibilité France : Cine+ OCS Amazon Channel , Molotov TV.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/878608"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/878608/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:878608",
+      "hasScheduledVideos": false
+    }
+  }
+}

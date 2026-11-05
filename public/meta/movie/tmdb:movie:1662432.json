@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1662432",
+    "type": "movie",
+    "name": "À la recherche de Harry : L'art derrière la magie",
+    "poster": "https://image.tmdb.org/t/p/w500/5TUG0bEeoHoi8RcL27maevZkavP.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/3S2YwyacgPspDSHbUhnApjEx2Wp.jpg",
+    "description": "Un aperçu exclusif des coulisses de la série Harry Potter, raconté par les artistes et artisans qui redonnent vie à cette histoire tant appréciée.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1662432"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1662432-finding-harry-the-craft-behind-the-magic/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1662432",
+      "hasScheduledVideos": false
+    }
+  }
+}

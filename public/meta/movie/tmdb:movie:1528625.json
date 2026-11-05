@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1528625",
+    "type": "movie",
+    "name": "The Grieving",
+    "poster": "https://image.tmdb.org/t/p/w500/x1JOtA7iSVJDOQG4gpj3ujXepKh.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/im5reyQPEWcYTaK0Bz8tCpqPZj9.jpg",
+    "description": "Disponibilité France : Insomnia Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "3.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1528625"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1528625-the-grieving/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1528625",
+      "hasScheduledVideos": false
+    }
+  }
+}

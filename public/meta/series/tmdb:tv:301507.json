@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:301507",
+    "type": "series",
+    "name": "Heated Rivalry",
+    "poster": "https://image.tmdb.org/t/p/w500/f6XK4kapYKA5Q99oMru5tNdJ0Fs.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/3vuBfAuAltIR6UdANUQ1lLXOeia.jpg",
+    "description": "Deux stars du hockey vivent une romance secrète qui dure plusieurs années, alors qu'ils poursuivent la gloire et se débattent avec l'amour.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "8.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/301507"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/301507-heated-rivalry/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:301507",
+      "hasScheduledVideos": true
+    }
+  }
+}

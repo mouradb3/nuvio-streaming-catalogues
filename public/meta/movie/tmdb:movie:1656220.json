@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1656220",
+    "type": "movie",
+    "name": "23 000 vies",
+    "poster": "https://image.tmdb.org/t/p/w500/waS4Swo3nLoS7DaDwd1hqwbzREp.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/q5L3aXchoCgwbZbwWl5FjhGmuYs.jpg",
+    "description": "Un groupe de jeunes met le cap sur la Méditerranée pour aider des réfugiés... une mission qui met leurs convictions en matière de loi et de justice à l'épreuve.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1656220"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1656220-23-000-leben/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1656220",
+      "hasScheduledVideos": false
+    }
+  }
+}

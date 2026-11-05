@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:335535",
+    "type": "series",
+    "name": "Grand d'Espagne",
+    "poster": "https://image.tmdb.org/t/p/w500/76OXBz1TovntN6Ih9HRxWPvTGsL.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/fyuUkmbcTqH0NEgywaLlsYL720K.jpg",
+    "description": "Prêt à tout pour vendre son manoir en ruines, un marquis déchu veut plier l'affaire avec une mystérieuse et charmante millionnaire. Mais celle-ci a ses propres projets...\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/335535"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/335535-grande-de-espana/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:335535",
+      "hasScheduledVideos": true
+    }
+  }
+}

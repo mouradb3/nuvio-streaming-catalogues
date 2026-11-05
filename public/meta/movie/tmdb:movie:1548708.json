@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1548708",
+    "type": "movie",
+    "name": "SAKAMOTO DAYS",
+    "poster": "https://image.tmdb.org/t/p/w500/6IHypVNR2WBcfxU1E4WAZvCpN18.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/cD3S6FZfCgNVpSdri7V7qQi17I3.jpg",
+    "description": "Disponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1548708"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1548708-sakamoto-days/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1548708",
+      "hasScheduledVideos": false
+    }
+  }
+}

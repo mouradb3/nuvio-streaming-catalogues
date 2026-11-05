@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:279323",
+    "type": "series",
+    "name": "Le Palais de l'est",
+    "poster": "https://image.tmdb.org/t/p/w500/h7KGDi71fnpRwvJsif9UtZo2lZH.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/8PHBAdPyfIwS5W6cfKLhItEb875.jpg",
+    "description": "Sur ordre du roi, un visiteur du monde des esprits et une dame de la cour à l'écoute des morts entrent dans le Palais de l'est. Perceront-ils ses sombres secrets ?\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/279323"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/279323/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:279323",
+      "hasScheduledVideos": true
+    }
+  }
+}

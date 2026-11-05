@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:289078",
+    "type": "series",
+    "name": "我不是大师",
+    "poster": "https://image.tmdb.org/t/p/w500/sGxyz6BCOpbn9rKxqCfrW2yBOkX.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/eTlMy2amueTqJBFZm5x14GGhZxH.jpg",
+    "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/289078"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/289078/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:289078",
+      "hasScheduledVideos": true
+    }
+  }
+}

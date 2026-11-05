@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1400032",
+    "type": "movie",
+    "name": "10 Dance",
+    "poster": "https://image.tmdb.org/t/p/w500/iQOIOz8BZ2QLMyFJ7Leo9izSyti.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/hsuT5b5EcDAVCY3Oe0Iyez2lTES.jpg",
+    "description": "Deux danseurs que tout oppose à part leur passion décident de s'associer pour gagner une compétition. Malgré des débuts compliqués, ils apprennent rapidement à s'aimer.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1400032"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1400032-10dance/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1400032",
+      "hasScheduledVideos": false
+    }
+  }
+}

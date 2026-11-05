@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1668364",
+    "type": "movie",
+    "name": "Le Désir",
+    "poster": "https://image.tmdb.org/t/p/w500/iDO37qSlAyGVuxRW2SBQwKJ7eG6.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/oBter8Y5p2ZFUwWgQ1T9pulGFTJ.jpg",
+    "description": "Lucero, une brillante avocate qui mène une vie en apparence parfaite, se laisse emporter par une relation intense avec le jeune entraîneur de natation de sa fille. Ce qui commence comme un désir interdit menace bientôt l'équilibre fragile de son mariage et de sa carrière. Alors que son monde s'effondre avec des conséquences tragiques et que son amour pour sa famille est mis à l'épreuve, Lucero découvre jusqu'où elle est prête à aller pour protéger les siens.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1668364"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1668364-deseo/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1668364",
+      "hasScheduledVideos": false
+    }
+  }
+}

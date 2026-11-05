@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1387382",
+    "type": "movie",
+    "name": "Hunting Season",
+    "poster": "https://image.tmdb.org/t/p/w500/p7cAkSxZ5Mxw4z5v0sqDofKZHVR.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/eJ0HooOOD1uzI39CfOQNWIiWKlJ.jpg",
+    "description": "Disponibilité Canada : Paramount Plus, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1387382"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1387382-hunting-season/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1387382",
+      "hasScheduledVideos": false
+    }
+  }
+}

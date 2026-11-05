@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:680493",
+    "type": "movie",
+    "name": "Retour à Silent Hill",
+    "poster": "https://image.tmdb.org/t/p/w500/A0eYqBMVdcM6RLpDpLZuKMLpdKS.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/v0NEB75SZjxY8GS3ho8WeEvjIT3.jpg",
+    "description": "Lorsqu’il reçoit une mystérieuse lettre de Mary, son amour perdu, James est attiré vers Silent Hill, une ville autrefois familière, aujourd’hui engloutie par les ténèbres. En partant à sa recherche, James affronte des créatures monstrueuses et découvre une vérité terrifiante qui le poussera aux limites de la folie.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/680493"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/680493-return-to-silent-hill/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:680493",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1115544",
+    "type": "movie",
+    "name": "Mike & Nick & Nick & Alice",
+    "poster": "https://image.tmdb.org/t/p/w500/fmimhXqKUmpwaOrYS2TAcEWvcMv.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
+    "description": "Deux gangsters et la femme qu'ils aiment tentent de survivre à la nuit la plus dangereuse de leur vie. Comme si cela ne suffisait pas, un élément imprévisible vient s'ajouter à l'équation : une machine à remonter le temps.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1115544"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1115544-mike-nick-nick-alice/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1115544",
+      "hasScheduledVideos": false
+    }
+  }
+}

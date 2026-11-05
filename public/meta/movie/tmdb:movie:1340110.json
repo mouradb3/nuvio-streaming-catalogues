@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1340110",
+    "type": "movie",
+    "name": "Redux Redux",
+    "poster": "https://image.tmdb.org/t/p/w500/9u7sUTYPPTxGCXbkcw8FTq50PnO.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/nBTUocp7lHmyrTmD8mTBOYem4ok.jpg",
+    "description": "Irene Kelly voyage à travers des univers parallèles, tuant à répétition l’assassin de sa fille. Habitée par la haine et le désir de vengeance, son humanité ne tient plus qu’à un fil…\n\nDisponibilité France : Molotov TV, SFR Play, Shadowz, Shadowz Amazon Channel, Sooner.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1340110"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1340110-redux-redux/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1340110",
+      "hasScheduledVideos": false
+    }
+  }
+}

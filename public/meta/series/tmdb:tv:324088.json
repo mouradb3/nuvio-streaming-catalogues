@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:324088",
+    "type": "series",
+    "name": "Witch Detectives",
+    "poster": "https://image.tmdb.org/t/p/w500/9aegNkCWfwtCBSDQEjqoAkcXn1X.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/oahCDKqbtxeMrXNLH7D3PAh4hBC.jpg",
+    "description": "Du jour au lendemain, trois adolescentes deviennent détectives privées pour aider à faire fonctionner une agence de détectives. Grâce à leurs pouvoirs magiques, elles résolvent ensemble des crimes, des disparitions, des cambriolages… et bien plus encore.\n\nDisponibilité France : SFR Play, TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "10",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/324088"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/324088-witch-detectives/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:324088",
+      "hasScheduledVideos": true
+    }
+  }
+}

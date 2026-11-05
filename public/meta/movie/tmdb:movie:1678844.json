@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1678844",
+    "type": "movie",
+    "name": "Le Bus : Les Bleus en grève",
+    "poster": "https://image.tmdb.org/t/p/w500/xy5oC3dWw2OuSUHXIBPm6XQLk8n.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/dTEbfFiaYupyhgFg9ZC4NpH5p8G.jpg",
+    "description": "Ce documentaire revient sur la controverse entourant l'équipe de France de football lors de la Coupe du monde 2010 et sur la grève qui a fait la une et indigné tout un pays.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1678844"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1678844-le-bus-les-bleus-en-greve/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1678844",
+      "hasScheduledVideos": false
+    }
+  }
+}

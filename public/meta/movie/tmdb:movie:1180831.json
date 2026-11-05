@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1180831",
+    "type": "movie",
+    "name": "Troll 2",
+    "poster": "https://image.tmdb.org/t/p/w500/5s33v65FEzVtt9X6G5EuHP9dbwx.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
+    "description": "Lorsqu'un nouveau troll sème la dévastation dans le pays, Nora, Andreas et le major Kris se lancent dans la plus périlleuse des missions.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1180831"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1180831-troll-2/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1180831",
+      "hasScheduledVideos": false
+    }
+  }
+}

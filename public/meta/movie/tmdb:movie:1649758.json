@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1649758",
+    "type": "movie",
+    "name": "Meal Ticket",
+    "poster": "https://image.tmdb.org/t/p/w500/4E4WA3bfbq4mgDGrFJMNit9U1gz.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/zpOUQ7rpNfV4Tny8GDwEGKCLdmw.jpg",
+    "description": "Découvrez l'histoire inédite des 47 ans d'histoire du McDonald's All American Game et des stars d'hier, d'aujourd'hui et de demain qui l'ont façonné.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1649758"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1649758-meal-ticket/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1649758",
+      "hasScheduledVideos": false
+    }
+  }
+}

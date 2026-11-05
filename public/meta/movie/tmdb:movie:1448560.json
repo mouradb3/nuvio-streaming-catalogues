@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1448560",
+    "type": "movie",
+    "name": "Wildcat",
+    "poster": "https://image.tmdb.org/t/p/w500/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/pAyImoslSnpMgjRwhaS5ZEdl8UI.jpg",
+    "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1448560"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1448560-wildcat/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1448560",
+      "hasScheduledVideos": false
+    }
+  }
+}

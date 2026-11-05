@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:315610",
+    "type": "series",
+    "name": "Proud",
+    "poster": "https://image.tmdb.org/t/p/w500/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/xVdm4eAmypUH7gwGYqPARLKSaSb.jpg",
+    "description": "Filip est un jeune homme gay, effronté et irresponsable, convaincu que le monde lui appartient. Lorsqu’une tragédie familiale éclate, son égocentrisme se mue en un sentiment de culpabilité persistant. Alors qu’il prend en charge sa jeune nièce, Filip aspire à sa liberté, mais l’idée de confier le bébé à des inconnus réveille en lui ses propres traumatismes d’enfance. Pour s’occuper d’elle, il doit affronter ses faiblesses, ses échecs et les préjugés de la société.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/315610"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/315610-proud/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:315610",
+      "hasScheduledVideos": true
+    }
+  }
+}

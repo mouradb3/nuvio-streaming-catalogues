@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:206828",
+    "type": "series",
+    "name": "DTF St. Louis",
+    "poster": "https://image.tmdb.org/t/p/w500/zYuNNfX1knlqapzNgOrpG6BkVea.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/7aWCYXHvnc9m71iTDmLF4DW4cr4.jpg",
+    "description": "Dans cette série à l'humour noir, un triangle amoureux entre trois adultes en proie au mal-être de la quarantaine conduit à la mort de l'un d'eux.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/206828"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/206828-dtf-st-louis/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:206828",
+      "hasScheduledVideos": true
+    }
+  }
+}

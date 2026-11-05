@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1481955",
+    "type": "movie",
+    "name": "陽光女子合唱團",
+    "poster": "https://image.tmdb.org/t/p/w500/ryCanTADyAo7bqRr1aca2ThuTeE.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/5K8zQhHIr6GiOIpM18DWsgy2COv.jpg",
+    "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1481955"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1481955/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1481955",
+      "hasScheduledVideos": false
+    }
+  }
+}

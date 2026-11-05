@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:281233",
+    "type": "series",
+    "name": "光阴之外",
+    "poster": "https://image.tmdb.org/t/p/w500/o9jPX7cQOeNIMqu4GBZyc9qLnel.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/enuFwlXhABZP83TW86kV6th6q8d.jpg",
+    "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "9.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/281233"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/281233/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:281233",
+      "hasScheduledVideos": true
+    }
+  }
+}

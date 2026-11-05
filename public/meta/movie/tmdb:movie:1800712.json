@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1800712",
+    "type": "movie",
+    "name": "Wingman",
+    "poster": "https://image.tmdb.org/t/p/w500/6zUeUGmHXf4HNwRkxs2CDkVpYFi.jpg",
+    "description": "Disponibilité Canada : ALLWAYSBLK Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1800712"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1800712-wingman/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1800712",
+      "hasScheduledVideos": false
+    }
+  }
+}

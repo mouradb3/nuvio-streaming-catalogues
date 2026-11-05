@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1193501",
+    "type": "movie",
+    "name": "Sifflet maudit",
+    "poster": "https://image.tmdb.org/t/p/w500/ugpxgnlcfQ2gXoZ6IPo2hKTpdlI.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/finq0JnC6tIMkKczzyxLJjgWFfT.jpg",
+    "description": "Un groupe d'élèves inadaptés découvre par hasard un objet maudit, un ancien Sifflet de la Mort aztèque. Ils découvrent qu'en soufflant dans le sifflet, le son terrifiant qu'il émet fera venir leurs morts futures pour les traquer.\n\nDisponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1193501"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1193501-whistle/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1193501",
+      "hasScheduledVideos": false
+    }
+  }
+}

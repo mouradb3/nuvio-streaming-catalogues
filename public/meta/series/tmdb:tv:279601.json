@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:279601",
+    "type": "series",
+    "name": "Seul face au bébé",
+    "poster": "https://image.tmdb.org/t/p/w500/8kaXSFcKDatRdJSXgXFMufH051.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/lSffVt0etoSLyl2hsTREdJ1CnQ1.jpg",
+    "description": "À l'approche de Noël, un père gaffeur jongle entre son job de gardien d'un appartement de luxe et une tâche inattendue : s'occuper d'un bébé perdu.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/279601"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/279601-man-vs-baby/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:279601",
+      "hasScheduledVideos": true
+    }
+  }
+}

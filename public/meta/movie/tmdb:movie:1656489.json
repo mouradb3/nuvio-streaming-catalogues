@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1656489",
+    "type": "movie",
+    "name": "Sultana",
+    "poster": "https://image.tmdb.org/t/p/w500/kz8c0LVbhinCLGTwuRIPvyCax1V.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/xCcm54VbJYlIYoobNXurPaDRQB4.jpg",
+    "description": "Sultana est une histoire saisissante qui se déroule dans une boîte de nuit d'Istanbul, entre rivalité, solidarité et lutte pour le pouvoir. Meral, reine du célèbre club Sultana, prend sous son aile Anna, une danseuse talentueuse. Mais elle comprend vite qu'elle vient de se créer une redoutable rivale. Une lutte sans merci s'engage alors entre les deux femmes.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1656489"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1656489-sultana/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1656489",
+      "hasScheduledVideos": false
+    }
+  }
+}

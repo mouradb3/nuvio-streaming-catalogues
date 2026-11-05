@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:829487",
+    "type": "movie",
+    "name": "Je m'appelle Agneta",
+    "poster": "https://image.tmdb.org/t/p/w500/whs0yWkofu9OYk7XGVKYuudZ8Sg.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/A3XP3vGg4DGDhEH75GnyyjsDDm1.jpg",
+    "description": "En quête d'un nouveau départ et sans emploi, Agneta accepte un poste de jeune fille au pair en Provence. Une parenthèse enchantée qui va bouleverser sa vie.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/829487"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/829487-je-m-appelle-agneta/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:829487",
+      "hasScheduledVideos": false
+    }
+  }
+}

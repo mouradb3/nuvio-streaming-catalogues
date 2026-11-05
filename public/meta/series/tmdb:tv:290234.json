@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:290234",
+    "type": "series",
+    "name": "Mal d'amour",
+    "poster": "https://image.tmdb.org/t/p/w500/cyWPzxNgxZIybMWEpvpqiqtKKoK.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/avfnPYtyKXjgnhqtKAt1PZO2h5I.jpg",
+    "description": "Dans le contexte tumultueux de la Révolution mexicaine, le récit suit le parcours d'Emilia Sauri. Déchirée entre deux amours passionnés, la jeune femme cherche à s'épanouir et à tracer sa propre voie au sein d'un monde marqué par la violence et les bouleversements politiques.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/290234"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/290234-mal-de-amores/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:290234",
+      "hasScheduledVideos": true
+    }
+  }
+}

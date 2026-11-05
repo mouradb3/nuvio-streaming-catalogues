@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1290417",
+    "type": "movie",
+    "name": "Nature prédatrice",
+    "poster": "https://image.tmdb.org/t/p/w500/528AmsLDzY0M9w2xvu52OuxvK7z.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/jlkvoHXKQHsgf15wp1AV1CTk4e7.jpg",
+    "description": "Lorsqu'un ouragan dévastateur frappe une ville côtière, les habitants piégés doivent survivre à la montée rapide des eaux... qui sont infestées de requins affamés.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1290417"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1290417-thrash/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1290417",
+      "hasScheduledVideos": false
+    }
+  }
+}

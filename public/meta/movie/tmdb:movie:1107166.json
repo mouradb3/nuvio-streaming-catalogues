@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1107166",
+    "type": "movie",
+    "name": "Psycho Killer",
+    "poster": "https://image.tmdb.org/t/p/w500/5xgxxmLivJXL8aF0HdZfpx8aAIo.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/gOcgmSwbCFW7h1rmEqMvYPzvjh7.jpg",
+    "description": "A la suite du meurtre de son époux, la policière, Jane Thorne, souhaite mettre la main sur un tueur en série surnommé le \" Satanic Slasher \".\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1107166"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1107166-psycho-killer/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1107166",
+      "hasScheduledVideos": false
+    }
+  }
+}

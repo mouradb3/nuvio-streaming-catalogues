@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:281401",
+    "type": "series",
+    "name": "Rêve de glace",
+    "poster": "https://image.tmdb.org/t/p/w500/sqHXC6fCS3snwk9kV8qPIbmVpw.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/3aeYYriPQN7886in9bIGKnbC5eQ.jpg",
+    "description": "Une ancienne danseuse sur glace retrouve les pistes avec un nouveau patineur séduisant, mais garde des sentiments pour son ex-partenaire, qui était aussi son premier amour.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/281401"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/281401-finding-her-edge/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:281401",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1555160",
+    "type": "movie",
+    "name": "Jeff Ross: Take a Banana for the Ride",
+    "poster": "https://image.tmdb.org/t/p/w500/LWFJ6K3FF9G04z1Ntq9SigLMjt.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/n4BGfw8qiQCUVSLV9Grx0U1VP5e.jpg",
+    "description": "Pour ses débuts à Broadway, le légendaire humoriste Jeff Ross braque les projecteurs sur sa propre personne dans un one-man-show aussi sincère qu'hilarant.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1555160"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1555160-jeff-ross-take-a-banana-for-the-ride/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1555160",
+      "hasScheduledVideos": false
+    }
+  }
+}

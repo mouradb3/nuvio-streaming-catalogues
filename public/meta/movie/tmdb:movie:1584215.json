@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1584215",
+    "type": "movie",
+    "name": "L'Internat",
+    "poster": "https://image.tmdb.org/t/p/w500/1KExDYJ0r4qo0UaboPw484vi8YL.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg",
+    "description": "Une tueuse surentrainée et sans pitié, élevée depuis son enfance dans un programme top-secret de la CIA uniquement connu sous le nom L’Internat, est prête à démanteler l’institution qui lui a volé sa jeunesse. Elle rassemble les autres internes et mène une insurrection sanglante, poussant la CIA à déployer des forces toutes aussi mortelles pour les arrêter.\n\nDisponibilité France : Paramount Plus, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1584215"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1584215-the-internship/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1584215",
+      "hasScheduledVideos": false
+    }
+  }
+}

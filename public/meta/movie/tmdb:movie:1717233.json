@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1717233",
+    "type": "movie",
+    "name": "Married Alive",
+    "poster": "https://image.tmdb.org/t/p/w500/tAXKZ64CJs3NaMu2juFN3hGVDHn.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/kYhrVS8fFYRLrlBISNc6PxBbYXa.jpg",
+    "description": "Disponibilité France : Bloodstream.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1717233"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1717233-married-alive/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1717233",
+      "hasScheduledVideos": false
+    }
+  }
+}

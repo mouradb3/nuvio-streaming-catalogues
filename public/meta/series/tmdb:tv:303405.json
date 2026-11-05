@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:303405",
+    "type": "series",
+    "name": "Kujo l'implacable",
+    "poster": "https://image.tmdb.org/t/p/w500/1eHY0eqE6ricIouCyxMfAFm6D6i.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/m2px7CZWxArlG8Lyld1XKIkD5aA.jpg",
+    "description": "Des délinquants aux yakuzas, Taiza Kujo manie la loi pour défendre les pires clients. Son confrère Karasuma, bien que doutant de son éthique, se joint à lui pour faire face aux côtés les plus sombres de la société.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/303405"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/303405/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:303405",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:301886",
+    "type": "series",
+    "name": "은애하는 도적님아",
+    "poster": "https://image.tmdb.org/t/p/w500/ggpOBHqEiAmkwoFQfVYhB2ToBE9.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/enTNCPGiu3dhul8XTBZEJCLZWbI.jpg",
+    "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/301886"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/301886/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:301886",
+      "hasScheduledVideos": true
+    }
+  }
+}

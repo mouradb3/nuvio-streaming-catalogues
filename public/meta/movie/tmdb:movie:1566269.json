@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1566269",
+    "type": "movie",
+    "name": "La première neige de Fraggle Rock",
+    "poster": "https://image.tmdb.org/t/p/w500/xBbw7RIQhohmMxt9GKZdYm09TSD.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/h5hCdU9KvcCbBihSNfn3vtML7tV.jpg",
+    "description": "Alors que les fêtes réservent leurs surprises et aventures inattendus, les Fraggles apprennent à apprécier chaque jour pour son caractère unique et magique, tel un flocon de neige.\n\nDisponibilité France : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1566269"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1566269-the-first-snow-of-fraggle-rock/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1566269",
+      "hasScheduledVideos": false
+    }
+  }
+}

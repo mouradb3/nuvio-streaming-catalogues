@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:296232",
+    "type": "series",
+    "name": "Snowball Earth",
+    "poster": "https://image.tmdb.org/t/p/w500/61E9aXjYUGPfrO5CW2cTutu0jX3.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/5Jhaxj3sBDGB5oLj9snBz2bdqBG.jpg",
+    "description": "Tetsuo, garçon timide, n’avait qu’un seul ami : le gigantesque robot Yukio. Ensemble, ils représentaient le dernier espoir de l’humanité et combattaient des kaiju galactiques. Dix ans après leur ultime affrontement, Tetsuo rentre chez lui et découvre une planète figée dans une glace éternelle : la 'SNOWBALL EARTH'.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel, Disney Plus, Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/296232"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/296232/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:296232",
+      "hasScheduledVideos": true
+    }
+  }
+}

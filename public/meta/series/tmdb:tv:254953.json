@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:254953",
+    "type": "series",
+    "name": "Rooster",
+    "poster": "https://image.tmdb.org/t/p/w500/ri4wQeq2mLDZZTGSOou3B780ema.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/mhZAT8ktiNi7YwuL50kmumsau69.jpg",
+    "description": "Sur un campus universitaire, un auteur gère une relation complexe avec sa fille.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/254953"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/254953-rooster/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:254953",
+      "hasScheduledVideos": true
+    }
+  }
+}

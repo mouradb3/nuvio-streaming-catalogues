@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1291335",
+    "type": "movie",
+    "name": "Solo Mio",
+    "poster": "https://image.tmdb.org/t/p/w500/efSsZJaddeq0LOABZqpCXdMxv9P.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/eVXBp5BBskAj0RJ6pDSNPcBs1uI.jpg",
+    "description": "La fiancée de Matt rêve d'un mariage en Italie. Il économise et fait venir toute sa famille pour le mariage. Devant l'autel, elle lui dit non et il est contraint de partir seul en lune de miel.\n\nDisponibilité Canada : Paramount Plus, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1291335"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1291335-solo-mio/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1291335",
+      "hasScheduledVideos": false
+    }
+  }
+}

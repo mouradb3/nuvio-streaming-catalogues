@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:312523",
+    "type": "series",
+    "name": "S&X",
+    "poster": "https://image.tmdb.org/t/p/w500/vHp5N6Tq2fzEVp7eZ7vK04SRmzM.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/iTmOvi8vZeFntt3q7BuWsPugmal.jpg",
+    "description": "Dans son cabinet, le sexothérapeute Ichito Shimotori aborde avec sincérité des problématiques sexuelles aussi diverses qu'intimes. Mais il livre lui-même un combat en secret.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/312523"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/312523-s-x/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:312523",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1742441",
+    "type": "movie",
+    "name": "V/H/S/MIXTAPE",
+    "poster": "https://image.tmdb.org/t/p/w500/uS8yoiA6NfsuYeOTbVfpem8Ib9.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/yIDZiYea2Bah1yLYz14jlC89WJ5.jpg",
+    "description": "Disponibilité Canada : AMC Plus Apple TV channel, AMC+ Amazon Channel, Shudder, Shudder Amazon Channel, Shudder Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "4.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1742441"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1742441-v-h-s-mixtape/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1742441",
+      "hasScheduledVideos": false
+    }
+  }
+}

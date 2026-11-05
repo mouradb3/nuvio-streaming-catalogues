@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:262848",
+    "type": "series",
+    "name": "Unchosen",
+    "poster": "https://image.tmdb.org/t/p/w500/2ICU4ekDXOEi1vIsnsahq5SYHg7.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/vmQOnDaNuzRznzRAUg8GcwIsXV1.jpg",
+    "description": "Lorsqu'une jeune mère membre d'une secte croise le chemin d'un mystérieux inconnu, elle se lance dans une liaison risquée qui réveille des désirs et de sombres secrets.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/262848"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/262848-unchosen/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:262848",
+      "hasScheduledVideos": true
+    }
+  }
+}

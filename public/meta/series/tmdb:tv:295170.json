@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:295170",
+    "type": "series",
+    "name": "A Woman of Substance",
+    "poster": "https://image.tmdb.org/t/p/w500/AmpzKp3sdkRIqScoemaEMT5Wzon.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/gkCVCNe3A3ZbEMhyGsMU3Jy8nqz.jpg",
+    "description": "Disponibilité Canada : BritBox, BritBox Amazon Channel, Britbox Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/295170"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/295170-a-woman-of-substance/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:295170",
+      "hasScheduledVideos": true
+    }
+  }
+}

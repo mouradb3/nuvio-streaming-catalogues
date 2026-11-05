@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1234731",
+    "type": "movie",
+    "name": "Anaconda",
+    "poster": "https://image.tmdb.org/t/p/w500/5EbKjIowNw5yExzrhvu231GFVCf.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
+    "description": "Doug et Griff sont amis d'enfance et partagent depuis toujours un objectif un peu fou : réaliser leur propre remake d’Anaconda en plein cœur de l'Amazonie. Mais le rêve vire rapidement au cauchemar lorsqu'un véritable serpent géant fait son apparition et transforme leur plateau déjà chaotique en un piège mortel. Le film qu'ils mourraient d'envie de faire… va vraiment devenir mortel !\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "5.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1234731"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1234731-anaconda/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1234731",
+      "hasScheduledVideos": false
+    }
+  }
+}

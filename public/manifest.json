@@ -1,0 +1,200 @@
+{
+  "id": "org.nuvio.streaming.catalogues.hybrid",
+  "version": "2.0.0",
+  "name": "Nuvio — Streaming France & Canada",
+  "description": "Catalogues rétroactifs sur 12 mois et changements de disponibilités détectés à partir du premier scan. Disponibilités fournies par JustWatch via TMDB.",
+  "resources": [
+    "catalog",
+    "meta"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "nuvio-releases-fr-movies",
+      "name": "Sorties des 12 derniers mois — actuellement disponibles — Films (France)",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "nuvio-additions-fr-movies",
+      "name": "Ajouts détectés depuis le lancement — Films (France)",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "nuvio-removals-fr-movies",
+      "name": "Disponibilités retirées — Films (France)",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "nuvio-trending-fr-movies",
+      "name": "Tendances — Films (France)",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "nuvio-releases-fr-series",
+      "name": "Sorties des 12 derniers mois — actuellement disponibles — Séries (France)",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "nuvio-additions-fr-series",
+      "name": "Ajouts détectés depuis le lancement — Séries (France)",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "nuvio-removals-fr-series",
+      "name": "Disponibilités retirées — Séries (France)",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "nuvio-trending-fr-series",
+      "name": "Tendances — Séries (France)",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "nuvio-releases-ca-movies",
+      "name": "Sorties des 12 derniers mois — actuellement disponibles — Films (Canada)",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "nuvio-additions-ca-movies",
+      "name": "Ajouts détectés depuis le lancement — Films (Canada)",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "nuvio-removals-ca-movies",
+      "name": "Disponibilités retirées — Films (Canada)",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "movie",
+      "id": "nuvio-trending-ca-movies",
+      "name": "Tendances — Films (Canada)",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "nuvio-releases-ca-series",
+      "name": "Sorties des 12 derniers mois — actuellement disponibles — Séries (Canada)",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "nuvio-additions-ca-series",
+      "name": "Ajouts détectés depuis le lancement — Séries (Canada)",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "nuvio-removals-ca-series",
+      "name": "Disponibilités retirées — Séries (Canada)",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "nuvio-trending-ca-series",
+      "name": "Tendances — Séries (Canada)",
+      "extra": [
+        {
+          "name": "search",
+          "isRequired": false
+        }
+      ]
+    }
+  ],
+  "idPrefixes": [
+    "tmdb:movie:",
+    "tmdb:tv:"
+  ],
+  "behaviorHints": {
+    "adult": false,
+    "p2p": false
+  }
+}

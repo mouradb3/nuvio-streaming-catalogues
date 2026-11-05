@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:282810",
+    "type": "series",
+    "name": "판사 이한영",
+    "poster": "https://image.tmdb.org/t/p/w500/AnfCTqCrcrKqRO1HNJEFpt6oiIx.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/l3qDk8o59jgLfO5HBAJKpCwMAld.jpg",
+    "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/282810"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/282810/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:282810",
+      "hasScheduledVideos": true
+    }
+  }
+}

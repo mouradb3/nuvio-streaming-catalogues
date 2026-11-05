@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:273977",
+    "type": "series",
+    "name": "The Art of Sarah",
+    "poster": "https://image.tmdb.org/t/p/w500/3bYSwRqLy2qfx5gqVJdOhibxeML.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/uLYp6qxGNzDlDtBOAlDbfcf4QgO.jpg",
+    "description": "Un corps retrouvé au beau milieu de la ville. Une marque de luxe en pleine ascension. Un détective examine chaque détail du récit confus d'une femme. Que s'est-il vraiment passé  ?\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/273977"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/273977/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:273977",
+      "hasScheduledVideos": true
+    }
+  }
+}

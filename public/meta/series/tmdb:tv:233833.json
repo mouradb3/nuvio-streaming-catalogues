@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:233833",
+    "type": "series",
+    "name": "찬란한 너의 계절에",
+    "poster": "https://image.tmdb.org/t/p/w500/3WUjyogsPQTusZtgNW86oFj9Njd.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/pHhGVPOi9qI6CVYIrgZ2VWflg0u.jpg",
+    "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/233833"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/233833/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:233833",
+      "hasScheduledVideos": true
+    }
+  }
+}

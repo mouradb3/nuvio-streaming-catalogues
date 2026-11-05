@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1684226",
+    "type": "movie",
+    "name": "La Mariée de l'année",
+    "poster": "https://image.tmdb.org/t/p/w500/geFc71rCYM8fErbROLY6n1LfAS6.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/es6wAAA72qIKGecMggiRZNQK0fa.jpg",
+    "description": "Quand le rêve de Lienkie de fonder une famille s'effondre, elle concocte un plan machiavélique pour rafler le titre de \"Mariée de l'année\" et se venger de son ex.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1684226"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1684226-bruid-van-die-jaar/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1684226",
+      "hasScheduledVideos": false
+    }
+  }
+}

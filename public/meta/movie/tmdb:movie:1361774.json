@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1361774",
+    "type": "movie",
+    "name": "Les Fous du pickleball",
+    "poster": "https://image.tmdb.org/t/p/w500/1tmQlYIvc8XGstEM45pyBqYRSnt.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/z1Z1vW3bu27UUXD70vyqAcCeXU1.jpg",
+    "description": "Dusty Boyd, alias \"Le Marteau\", un joueur de tennis pro en déroute, a besoin de gagner. Pour sauver un country club en difficulté et gagner le respect de son père, il rompt un serment sacré et commet l’impensable : il joue au pickleball.\n\nDisponibilité France : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1361774"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1361774-the-dink/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1361774",
+      "hasScheduledVideos": false
+    }
+  }
+}

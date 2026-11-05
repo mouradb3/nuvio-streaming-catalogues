@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:274979",
+    "type": "series",
+    "name": "Le Coucou de cristal",
+    "poster": "https://image.tmdb.org/t/p/w500/5vAEbJ1ORHphmIZF8D4AqhQRm7c.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/kuvIwh28N9iGsJak8Q8fx3ABKer.jpg",
+    "description": "Espérant en savoir plus sur son donneur après une greffe du cœur, une jeune médecin arrive dans une petite ville de montagne accablée par des décennies de mystérieuses tragédies.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/274979"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/274979-el-cuco-de-cristal/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:274979",
+      "hasScheduledVideos": true
+    }
+  }
+}

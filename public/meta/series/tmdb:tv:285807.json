@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:285807",
+    "type": "series",
+    "name": "Nemesis",
+    "poster": "https://image.tmdb.org/t/p/w500/zP8t9uqNhK7ovr5JCZZRKkzWKeo.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/pxnJeLSBdUikUOrWdNgrK1HQy2u.jpg",
+    "description": "Deux hommes situés de part et d'autre de la loi, et illustre la réaction provoquée par la rencontre entre une force incontrôlable (un criminel averti) et un objet inamovible (un brillant inspecteur de police). Cette série, qui ambitionne au départ de renverser le genre du braquage, avec ses enjeux risqués, sa dynamique familiale complexe et son action explosive, incite en réalité à explorer ce qui anime, maintient en vie et ce qui conduit l'espèce humaine… à sa perte.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/285807"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/285807-nemesis/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:285807",
+      "hasScheduledVideos": true
+    }
+  }
+}

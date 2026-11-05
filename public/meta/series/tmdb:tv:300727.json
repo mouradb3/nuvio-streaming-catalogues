@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:300727",
+    "type": "series",
+    "name": "Syndic de choc",
+    "poster": "https://image.tmdb.org/t/p/w500/wR7y2h0ccbaTnU5KpUjKIesflng.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
+    "description": "Un ancien gangster se présente à la présidence de l'association des résidents d'un immeuble afin de mettre la main sur l'argent caché de la copropriété. Cependant, il découvre involontairement la corruption qui règne au sein du complexe. Au fil de ses investigations, il devient peu à peu un héros local.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/300727"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/300727/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:300727",
+      "hasScheduledVideos": true
+    }
+  }
+}

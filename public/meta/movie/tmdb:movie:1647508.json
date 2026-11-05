@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1647508",
+    "type": "movie",
+    "name": "Winter: Battleground",
+    "poster": "https://image.tmdb.org/t/p/w500/3IKLg61qUiSsA1tx7SS50XJWa01.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/oPKDTCKUdiKumIH6o6WFbim6y1B.jpg",
+    "description": "Poursuivi par un régime dirigé par l'intelligence artificielle, un soldat renégat réfugié dans la forêt doit venir à bout d'assassins d'élite, de soldats cybernétiques et de machines corrompues pour empêcher une intelligence artificielle de prendre le contrôle total des États-Unis.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1647508"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1647508-winter-battleground/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1647508",
+      "hasScheduledVideos": false
+    }
+  }
+}

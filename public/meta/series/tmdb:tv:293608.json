@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:293608",
+    "type": "series",
+    "name": "La mission de Miss Hong",
+    "poster": "https://image.tmdb.org/t/p/w500/nJ0gSaXfoiPFngy1ulCCuxsKt0q.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/6yyKOxjQgb0C3I43T6qyXbieHni.jpg",
+    "description": "Une inspectrice d'élite au sein du Service de supervision financière infiltre une société de courtage en se faisant passer pour une jeune employée de 20 ans, suite à la détection de fonds suspects. Elle découvre le quotidien d'une employée débutante.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/293608"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/293608/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:293608",
+      "hasScheduledVideos": true
+    }
+  }
+}

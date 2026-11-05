@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1287141",
+    "type": "movie",
+    "name": "Pillion",
+    "poster": "https://image.tmdb.org/t/p/w500/y92sV0uJiBp7RR02R7yfi6jIyvP.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/vM6UBr6rNZkU5pihzMZfcHAbWsf.jpg",
+    "description": "Colin, un jeune homme sans histoire, rencontre Ray, le leader charismatique d'un club de motards. Il l'introduit dans sa communauté queer et fait de Colin son soumis.\n\nDisponibilité France : Cine+ OCS Amazon Channel , Molotov TV, SFR Play.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1287141"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1287141-pillion/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1287141",
+      "hasScheduledVideos": false
+    }
+  }
+}

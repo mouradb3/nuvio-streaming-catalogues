@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:262932",
+    "type": "series",
+    "name": "江湖夜雨十年灯",
+    "poster": "https://image.tmdb.org/t/p/w500/fExFPnVTUMmRdSxon9ASsWQGkNr.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/6640A10Z0aysTCroNQQPK8ZB4FH.jpg",
+    "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/262932"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/262932/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:262932",
+      "hasScheduledVideos": true
+    }
+  }
+}

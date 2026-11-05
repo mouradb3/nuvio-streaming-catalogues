@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:240740",
+    "type": "series",
+    "name": "Scarpetta",
+    "poster": "https://image.tmdb.org/t/p/w500/7LLh9awJAkVQ6D5wHw4Y7OXqvrX.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/oHnlulBoE3XbI3HIYWY0dZfh5RH.jpg",
+    "description": "Kay Scarpetta, médecin légiste de renom, reprend son ancien poste à la tête de l'institut médico-légal de Virginie, où elle enquête sur un meurtre troublant qui lui rappelle étrangement sa première grande affaire, il y a de ça plusieurs décennies. En 1998, Scarpetta enquête aux côtés du Sergent Pete Marino et de l'agent du FBI Benton Wesley sur une série de meurtres par strangulation.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/240740"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/240740-scarpetta/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:240740",
+      "hasScheduledVideos": true
+    }
+  }
+}

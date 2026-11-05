@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1206008",
+    "type": "movie",
+    "name": "Ella McCay",
+    "poster": "https://image.tmdb.org/t/p/w500/l7Ywl6GKDNfjym63TLHKsxr3ffo.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/9cd1zsxcOAcBW01WDOWz8EODTS0.jpg",
+    "description": "États-Unis, 2008. Ella McCay s'apprête à succéder à son mentor au poste de gouverneure de l'État. Mais des défis familiaux et professionnels entravent sa route. Son père médecin, qui trompait sa défunte mère, cherche à se réconcilier avec elle. Son frère cadet, informaticien timide et névrosé, a besoin de ses conseils d'ordre sentimental. Mais la plus grande menace provient de son ambitieux mari Ryan. Celui-ci a en effet coulé aux médias une information de nature sexuelle susceptible de compromettre la carrière de la jeune politicienne idéaliste.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1206008"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1206008-ella-mccay/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1206008",
+      "hasScheduledVideos": false
+    }
+  }
+}

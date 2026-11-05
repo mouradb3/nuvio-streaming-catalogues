@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1662317",
+    "type": "movie",
+    "name": "L'Accident",
+    "poster": "https://image.tmdb.org/t/p/w500/cCJTvf7xZpqoEXF9PFf9t5jttxl.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/2iqLoDsatVBwAvHTEzI71p3qBe9.jpg",
+    "description": "Une ado au volant percute un bâtiment, tuant son petit copain et l'ami de ce dernier. Ce documentaire montre que ce qui semblait un tragique accident est en réalité un meurtre.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1662317"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1662317-the-crash/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1662317",
+      "hasScheduledVideos": false
+    }
+  }
+}

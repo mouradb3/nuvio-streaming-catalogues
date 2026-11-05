@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1383731",
+    "type": "movie",
+    "name": "Protector",
+    "poster": "https://image.tmdb.org/t/p/w500/icOZpnGuH9YrEaW3wrw5GJaXGih.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/vpuPY4UziUCxv7gYYoaZQ3LX7to.jpg",
+    "description": "Nikki, une ex-héroïne de guerre, se réveille dans une usine désaffectée et découvre que sa fille a été kidnappée. Pour la sauver, Nikki infiltre la pègre locale, attirant l'attention de la police et de l'armée. Dans cette course effrénée, Nikki doit trouver la force de redevenir l'héroïne dont sa fille a cruellement besoin.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1383731"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1383731-protector/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1383731",
+      "hasScheduledVideos": false
+    }
+  }
+}

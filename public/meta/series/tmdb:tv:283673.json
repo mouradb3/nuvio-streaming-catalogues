@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:283673",
+    "type": "series",
+    "name": "Esa noche",
+    "poster": "https://image.tmdb.org/t/p/w500/2N0zVirrHWkNPQGEBcXVIqj5BKJ.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/lreax2U5xDNekHdAlfLARPC4Oto.jpg",
+    "description": "En vacances sur une île paradisiaque, une jeune mère célibataire et naïve se retrouve mêlée à un meurtre. Ses sœurs volent alors à son secours... mais ne font qu'empirer les choses.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/283673"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/283673-esa-noche/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:283673",
+      "hasScheduledVideos": true
+    }
+  }
+}

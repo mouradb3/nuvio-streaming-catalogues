@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:258865",
+    "type": "series",
+    "name": "白日提灯​",
+    "poster": "https://image.tmdb.org/t/p/w500/Av5Bpf3nAMPDQFx3iVAy4m6bntY.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ksu5B9WGNi6fE2Vqb4RmIG5KzHH.jpg",
+    "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/258865"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/258865/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:258865",
+      "hasScheduledVideos": true
+    }
+  }
+}

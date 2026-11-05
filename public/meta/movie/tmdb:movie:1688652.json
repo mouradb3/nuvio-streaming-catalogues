@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1688652",
+    "type": "movie",
+    "name": "Gary",
+    "poster": "https://image.tmdb.org/t/p/w500/jtMuKwlOl4IzpB5fWn9RT9uyy6E.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/dzoqvi7eiPGODZO0CsXRLPfmVAE.jpg",
+    "description": "Deux amis partent en voyage d'affaires, mais leur mission est semée d'embûches. En résolvant les problèmes et en tissant des liens avec les habitants, ils vivent une expérience qui les marque à jamais et jette un nouvel éclairage sur leur amitié.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1688652"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1688652-gary/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1688652",
+      "hasScheduledVideos": false
+    }
+  }
+}

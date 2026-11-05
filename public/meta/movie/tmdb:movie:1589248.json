@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1589248",
+    "type": "movie",
+    "name": "Mon Meilleur Ami, sa copine et Moi",
+    "poster": "https://image.tmdb.org/t/p/w500/sWFzFNvqpas8y0BFSx0o7dURG8H.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
+    "description": "Pour Olli, une chose est claire : son meilleur ami Matze a manifestement été manipulé par sa nouvelle petite amie Rebecca. Son influence désastreuse compromet non seulement leur amitié, mais surtout le voyage autour du monde qu'Olli et Matze préparent depuis des années dans les moindres détails. Il n'y a donc qu'une seule solution : il faut arrêter Rebecca ! Avec son copain Schmitti, Olli passe à l'offensive. Mais contre toute attente, Rebecca a elle aussi plus d'un tour dans son sac. La bataille commence.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1589248"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1589248-mein-bester-freund-seine-freundin-und-ich/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1589248",
+      "hasScheduledVideos": false
+    }
+  }
+}

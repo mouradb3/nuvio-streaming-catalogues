@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:300480",
+    "type": "series",
+    "name": "Ricky Gervais Alley Cats",
+    "poster": "https://image.tmdb.org/t/p/w500/1oLW17ZzkZTeGN8apmtS5MGtVPw.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/auLT0EPtqtt5MwryoC2MoAG595F.jpg",
+    "description": "Dans cette comédie d'animation impertinente de Ricky Gervais, des chats sauvages sèment le chaos dans les rues et enchaînent les mésaventures rocambolesques.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/300480"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/300480-ricky-gervais-alley-cats/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:300480",
+      "hasScheduledVideos": true
+    }
+  }
+}

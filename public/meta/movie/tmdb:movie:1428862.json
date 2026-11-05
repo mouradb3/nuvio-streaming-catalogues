@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1428862",
+    "type": "movie",
+    "name": "Coupe-feu",
+    "poster": "https://image.tmdb.org/t/p/w500/oR4dsvz6edpDXFGBUo6VTvi2IRu.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/thgemkoLauZxcqe6KX8wxqEc70z.jpg",
+    "description": "Tandis que sa famille fait le vide dans sa maison d'été, la petite Lide disparaît dans la forêt. Quand un incendie se déclare, sa mère se précipite pour la sauver des flammes.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1428862"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1428862-cortafuego/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1428862",
+      "hasScheduledVideos": false
+    }
+  }
+}

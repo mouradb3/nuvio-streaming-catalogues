@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:250504",
+    "type": "series",
+    "name": "The Beast in Me",
+    "poster": "https://image.tmdb.org/t/p/w500/jaLlIyOGu10pBte3ZKguiOUWFMF.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ylW0m5UztyyL4YFu8EC6usUHLF.jpg",
+    "description": "Une célèbre autrice se laisse piéger dans un jeu psychologique pervers par son nouveau voisin, un homme riche et puissant... et peut-être aussi un meurtrier.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/250504"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/250504-the-beast-in-me/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:250504",
+      "hasScheduledVideos": true
+    }
+  }
+}

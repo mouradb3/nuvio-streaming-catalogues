@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:292742",
+    "type": "series",
+    "name": "S.W.A.T. Exiles",
+    "poster": "https://image.tmdb.org/t/p/w500/42CXrSRsjd6BATuVMIVJiw5NS4D.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/mNIc5QqjBuXHeeyj6P4WSqTCBu9.jpg",
+    "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/292742"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/292742-s-w-a-t-exiles/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:292742",
+      "hasScheduledVideos": true
+    }
+  }
+}

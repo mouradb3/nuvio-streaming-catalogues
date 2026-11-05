@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1318335",
+    "type": "movie",
+    "name": "Les Rayons et les Ombres",
+    "poster": "https://image.tmdb.org/t/p/w500/TPo1gsNCswrgyxrqdGN44OmPuH.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/lRi60HBL9fDd3MlouxJU0OUgR2j.jpg",
+    "description": "Jean et Otto, un homme de presse français et un jeune francophile allemand, se battent pour la paix en Europe. La fille de Jean, Corinne, démarre une brillante carrière d'actrice de cinéma. Mais la guerre éclate et la France est occupée. Les deux amis ont un rôle majeur dans cette nouvelle France. Jean trouve la stature d'un grand patron de presse, ardent promoteur de la Collaboration avec l'occupant, Otto devient l'ambassadeur du Reich à Paris. Corinne, se trouve jetée dans la fosse aux lions…\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1318335"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1318335-les-rayons-et-les-ombres/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1318335",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:285838",
+    "type": "series",
+    "name": "If Wishes Could Kill",
+    "poster": "https://image.tmdb.org/t/p/w500/7BS6PLBt2DXkdd8xzReCHU0tMYD.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/5BzfcAW5ZI2m7QypeJBbYNjBuR0.jpg",
+    "description": "Une mystérieuse application promet d'exaucer des vœux — avant de déclencher un compte à rebours vers la mort. Un groupe d'ados pris au piège doit briser l'engrenage pour survivre.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/285838"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/285838/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:285838",
+      "hasScheduledVideos": true
+    }
+  }
+}

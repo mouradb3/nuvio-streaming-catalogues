@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:261780",
+    "type": "series",
+    "name": "リィンカーネーションの花弁",
+    "poster": "https://image.tmdb.org/t/p/w500/ur7wRcNIO7ELC4YjZcvKRvxGCZc.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/8H2USYTxhAmsKxzwhNkciDGecSN.jpg",
+    "description": "Disponibilité Canada : HiDive, Hidive Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/261780"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/261780/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:261780",
+      "hasScheduledVideos": true
+    }
+  }
+}

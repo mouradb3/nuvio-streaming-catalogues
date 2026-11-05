@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:284444",
+    "type": "series",
+    "name": "Champignon Witch",
+    "poster": "https://image.tmdb.org/t/p/w500/fnMlh7jvoPvqoIqz5bYnw8MkQwO.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/jlIvjqSqJXDcwTGG5nzKNeH1K9t.jpg",
+    "description": "Luna la sorcière habite au fond d'une sombre forêt et fait pousser des champignons vénéneux sur son passage.\n\nLes villageois la craignent et la fuient, car ils ignorent qu'elle œuvre uniquement dans le but de les aider. Luna cache sa tristesse et tente de se satisfaire de sa condition. Mais un jour, l'amour vient lui jouer des tours...\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/284444"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/284444/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:284444",
+      "hasScheduledVideos": true
+    }
+  }
+}

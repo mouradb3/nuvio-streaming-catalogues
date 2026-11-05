@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1292695",
+    "type": "movie",
+    "name": "Ils te tueront",
+    "poster": "https://image.tmdb.org/t/p/w500/2Zf3hsmRXzpcsWf40oUYIlbQAiq.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/7IwBgIwoHtkQ0lYGbBbqKintSWx.jpg",
+    "description": "Une jeune femme doit survivre toute une nuit, enfermée dans le mystérieux et sordide repaire d'une secte démoniaque, et tout faire pour ne pas devenir leur prochain sacrifice. Une lutte acharnée, des combats saisissants et un humour profondément noir vous attendent.\n\nDisponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1292695"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1292695-they-will-kill-you/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1292695",
+      "hasScheduledVideos": false
+    }
+  }
+}

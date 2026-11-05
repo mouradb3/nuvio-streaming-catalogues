@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1284465",
+    "type": "movie",
+    "name": "La Mort de Robin des Bois",
+    "poster": "https://image.tmdb.org/t/p/w500/adeAWyyjU7HYAfksIPh7nupamyB.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+    "description": "Hanté par son passé après une vie de crimes et de violence, Robin des Bois est laissé pour mort à l’issue d’un combat qu’il pensait être le dernier. Recueilli par une femme mystérieuse, il se voit offrir une ultime chance de rédemption…\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1284465"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1284465-the-death-of-robin-hood/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1284465",
+      "hasScheduledVideos": false
+    }
+  }
+}

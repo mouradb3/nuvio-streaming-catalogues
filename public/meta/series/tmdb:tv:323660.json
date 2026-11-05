@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:tv:323660",
+    "type": "series",
+    "name": "The Rest Is Football",
+    "poster": "https://image.tmdb.org/t/p/w500/tA1idPInPr4unBx03xu5gjubzPi.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/2JECUzaIiv8EIm2kKSLdkFk1tf9.jpg",
+    "description": "Tous les jours, les légendes du foot Gary Lineker, Alan Shearer et Micah Richards livrent analyses, commentaires et plaisanteries à chaud depuis New York pendant le Mondial 2026.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/323660"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/323660-the-rest-is-football/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:323660",
+      "hasScheduledVideos": true
+    }
+  }
+}

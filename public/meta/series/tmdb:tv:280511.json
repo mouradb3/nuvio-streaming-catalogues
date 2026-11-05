@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:280511",
+    "type": "series",
+    "name": "Sous ses yeux",
+    "poster": "https://image.tmdb.org/t/p/w500/gxI4LwqtuuJUEZiV4sZEjuGfYgO.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/fvcTpx2JFHzPTv5gf6ytlXhZXFQ.jpg",
+    "description": "Au fil d'une enquête publique bâclée, un père se bat pour protéger son fils, unique témoin du meurtre de sa mère alors qu'il n'avait que deux ans. Inspiré de faits réels.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/280511"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/280511-the-witness/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:280511",
+      "hasScheduledVideos": true
+    }
+  }
+}

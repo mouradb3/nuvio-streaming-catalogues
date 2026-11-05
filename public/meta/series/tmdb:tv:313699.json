@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:313699",
+    "type": "series",
+    "name": "Balaraw : Blood Island",
+    "poster": "https://image.tmdb.org/t/p/w500/s1A6UOu8IOmw0kJXohlitMRiwQb.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/dLFyQRJqL2zyP5wmRztUKVQV6Hw.jpg",
+    "description": "À la recherche de sa mère disparue, une femme se retrouve sur l'île sinistre de Balaraw et doit lutter pour sa survie et sa propre identité sur fond de secrets inavouables.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/313699"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/313699-balaraw/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:313699",
+      "hasScheduledVideos": true
+    }
+  }
+}

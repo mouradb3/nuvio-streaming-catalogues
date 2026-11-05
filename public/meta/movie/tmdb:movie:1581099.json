@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1581099",
+    "type": "movie",
+    "name": "Kevin Hart: Acting My Age",
+    "poster": "https://image.tmdb.org/t/p/w500/89HPieER8jX9sGKKzhagGIGkMxi.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/24UcTCeD1zjZgk5uLF72i5p1kl7.jpg",
+    "description": "Plus âgé, plus sage, toujours aussi drôle. Kevin Hart se confie sur les tribulations de la quarantaine, des pilules revigorantes aux dangers des blessures inattendues.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1581099"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1581099-kevin-hart-acting-my-age/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1581099",
+      "hasScheduledVideos": false
+    }
+  }
+}

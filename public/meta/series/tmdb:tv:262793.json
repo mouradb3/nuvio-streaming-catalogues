@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:262793",
+    "type": "series",
+    "name": "PONIES",
+    "poster": "https://image.tmdb.org/t/p/w500/5SFjDV42IMWpZDAcu3fT9LUpFHY.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/Ak7AdQpvmZpSe9WYBd5KrgjSsSX.jpg",
+    "description": "En 1977, à Moscou, deux « PONIES » (« personnes sans intérêt ») deviennent agents de la CIA et découvrent une conspiration de la guerre froide pour laquelle leurs maris ont été tués.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/262793"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/262793-ponies/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:262793",
+      "hasScheduledVideos": true
+    }
+  }
+}

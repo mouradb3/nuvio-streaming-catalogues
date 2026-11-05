@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1790935",
+    "type": "movie",
+    "name": "Instadocs: L'IA s'emballe",
+    "poster": "https://image.tmdb.org/t/p/w500/g2emP9oTYXzpNyxgti8GKhjOveB.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/9EfbnudTOAoiPVOEWL0vwhdbdBq.jpg",
+    "description": "L'IA a-t-elle commis un crime grave? La série enquête sur le piratage de Hugging Face et explique en quoi cette cyberattaque pourrait être un signal d'alarme pour l'humanité.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1790935"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1790935-instadocs-ai-gone-wild/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1790935",
+      "hasScheduledVideos": false
+    }
+  }
+}

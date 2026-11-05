@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:262486",
+    "type": "series",
+    "name": "High Value Target",
+    "poster": "https://image.tmdb.org/t/p/w500/aItPJsNvH6xaHAWVWbYifPljVri.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/1rFdsNlP7kuftVNSbQs6r0H2ufH.jpg",
+    "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/262486"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/262486-high-value-target/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:262486",
+      "hasScheduledVideos": true
+    }
+  }
+}

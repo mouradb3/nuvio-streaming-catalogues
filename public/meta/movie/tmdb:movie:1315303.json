@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1315303",
+    "type": "movie",
+    "name": "Primate",
+    "poster": "https://image.tmdb.org/t/p/w500/HtXHAH4PQjpw2RLsIrHGbeng1n.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/d5C5Wsx4fnMRA0tj9BK1kTPcgQe.jpg",
+    "description": "Au lieu de rimer avec plages et retrouvailles, le retour de Lucy sur son île tropicale natale tourne au cauchemar lorsque le chimpanzé de la famille, d’une intelligence exceptionnelle, sombre dans une frénésie enragée. La nuit se mue alors en un chaos terrifiant. En l’absence de son père et sans aucun secours possible, ce paradis devient une prison et Lucy et ses amis doivent affronter un prédateur mortel en qui ils avaient autrefois toute confiance.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1315303"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1315303-primate/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1315303",
+      "hasScheduledVideos": false
+    }
+  }
+}

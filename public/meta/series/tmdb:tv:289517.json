@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:289517",
+    "type": "series",
+    "name": "Un job mortel",
+    "poster": "https://image.tmdb.org/t/p/w500/fEOsnx6TAiHOno5Ez5k8cxMVrtF.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
+    "description": "Croulant sous les dettes, un jeune homme enchaîne les petits boulots très lucratifs que lui propose une mystérieuse agence, mais sa course à l'argent tourne au cauchemar.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/289517"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/289517/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:289517",
+      "hasScheduledVideos": true
+    }
+  }
+}

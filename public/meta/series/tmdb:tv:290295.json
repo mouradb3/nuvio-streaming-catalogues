@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:290295",
+    "type": "series",
+    "name": "Mating Season",
+    "poster": "https://image.tmdb.org/t/p/w500/5Pn7R2TtLka8OjsgtxAq4H2apjJ.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/zaDTnGcq3F5LocdmHJLP3Mf0kII.jpg",
+    "description": "Cette délirante série d'animation comique pour adultes, sortie de l'esprit tordu des créateurs de \"Big Mouth\", parle de cœur, de sexe et de relations amoureuses… chez les animaux.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/290295"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/290295-mating-season/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:290295",
+      "hasScheduledVideos": true
+    }
+  }
+}

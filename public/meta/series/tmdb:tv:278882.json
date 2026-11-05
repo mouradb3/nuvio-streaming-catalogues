@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:278882",
+    "type": "series",
+    "name": "年少有为",
+    "poster": "https://image.tmdb.org/t/p/w500/2VEotKlPxS7Fezhzu8mMWwIptuY.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/s78UEFOxRRFlM7B0cP0JVkJKW7s.jpg",
+    "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/278882"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/278882/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:278882",
+      "hasScheduledVideos": true
+    }
+  }
+}

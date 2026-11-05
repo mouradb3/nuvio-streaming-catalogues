@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:325755",
+    "type": "series",
+    "name": "Petits meurtres entre voisins",
+    "poster": "https://image.tmdb.org/t/p/w500/pL1RbntfTGTeuv0lbb8uOx5plpE.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/vYO9OkYHSNfYuqz6VMS4aCCfRb8.jpg",
+    "description": "Une distribution prestigieuse porte cette série à suspense sur quatre couples fortunés qui organisent régulièrement des dîners privés, où sont servis mensonges et décadence.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/325755"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/325755-de-eetclub/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:325755",
+      "hasScheduledVideos": true
+    }
+  }
+}

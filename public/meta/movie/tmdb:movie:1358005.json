@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1358005",
+    "type": "movie",
+    "name": "Office Romance",
+    "poster": "https://image.tmdb.org/t/p/w500/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/1N5yz1IDw6Ci8le1YgeM6xtBijA.jpg",
+    "description": "Jackie, présidente-directrice générale d'Air Cruz, dirige son entreprise d'une main de fer, notamment en appliquant une politique stricte interdisant toute relation entre collègues. Lorsqu'une nouvelle avocate séduisante vient travailler pour elle, cette politique est mise à rude épreuve.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1358005"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1358005-office-romance/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1358005",
+      "hasScheduledVideos": false
+    }
+  }
+}

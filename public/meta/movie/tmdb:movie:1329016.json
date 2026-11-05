@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1329016",
+    "type": "movie",
+    "name": "Tony",
+    "poster": "https://image.tmdb.org/t/p/w500/zsisvReIrSIUPS3JXawt1ib9JDS.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
+    "description": "Le jeune Anthony Bourdain débarque un jour par hasard dans l'univers chaotique de la cuisine d'un restaurant, au cours d'un été qui marquera le début de sa légende.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1329016"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1329016-tony/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1329016",
+      "hasScheduledVideos": false
+    }
+  }
+}

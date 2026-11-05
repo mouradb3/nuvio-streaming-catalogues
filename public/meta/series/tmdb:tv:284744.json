@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:284744",
+    "type": "series",
+    "name": "Pro Bono",
+    "poster": "https://image.tmdb.org/t/p/w500/sNGKN7Nvdi85gj75pnSvqzMF3MC.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/dxLxJVZQQ77S8K52myee4sJskxc.jpg",
+    "description": "Lorsque le monde d'un juge respecté s'écroule du jour au lendemain, il rejoint l'équipe bénévole d'un cabinet d'avocats prestigieux, où l'espoir et un nouveau but dans la vie l'attendent dans des endroits modestes et inattendus.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "8.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/284744"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/284744/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:284744",
+      "hasScheduledVideos": true
+    }
+  }
+}

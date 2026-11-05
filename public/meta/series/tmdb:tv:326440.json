@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:326440",
+    "type": "series",
+    "name": "JAŸ-Z in 8",
+    "poster": "https://image.tmdb.org/t/p/w500/ncwa0H2NxO64sHnY3Xda0pWtdcl.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/trSG5vNAzqhcrTMEnXKSODCMoxy.jpg",
+    "description": "Disponibilité France : MUBI, MUBI Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "4.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/326440"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/326440-jay-z-in-8/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:326440",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1715492",
+    "type": "movie",
+    "name": "La dérive : Cauchemar en mer",
+    "poster": "https://image.tmdb.org/t/p/w500/1TzK8R7T4BGBLs871qoNX8VnqgZ.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/n6TYhOl8NYSoIl8q6dI16IZiodB.jpg",
+    "description": "Des images inédites et des témoignages de survivants retracent le naufrage en 2012 d'un paquebot de croisière de luxe et le désastre qui s'ensuivit, dans ce documentaire immersif.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1715492"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1715492-shipwrecked-nightmare-at-sea/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1715492",
+      "hasScheduledVideos": false
+    }
+  }
+}

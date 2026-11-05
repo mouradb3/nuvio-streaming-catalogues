@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1641966",
+    "type": "movie",
+    "name": "L'Envers du sport : Coups de feu à Hawthorne Hill",
+    "poster": "https://image.tmdb.org/t/p/w500/kUhNOJZgOkOUiLO4qwt43Z6d5fv.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/6KMv3pPMkPlHoDdy461x3qep6GX.jpg",
+    "description": "Une dispute houleuse entre un entraîneur équestre et son élève dégénère en terrible acte de violence dans ce documentaire à rebondissements sur un crime réel.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1641966"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1641966-untold-the-shooting-at-hawthorne-hill/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1641966",
+      "hasScheduledVideos": false
+    }
+  }
+}

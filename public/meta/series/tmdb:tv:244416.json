@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:244416",
+    "type": "series",
+    "name": "Malice",
+    "poster": "https://image.tmdb.org/t/p/w500/fKhHzRk1VIJY1nz1cRhAfAaYfnA.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/AsWevUaVrwK1kiJFAoo9YKMgYty.jpg",
+    "description": "Un mystérieux jeune homme est engagé par une famille riche. Découvriront-ils sa véritable identité avant qu'il mette à exécution son plan sinistre ?\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/244416"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/244416-malice/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:244416",
+      "hasScheduledVideos": true
+    }
+  }
+}

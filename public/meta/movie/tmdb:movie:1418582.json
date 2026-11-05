@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1418582",
+    "type": "movie",
+    "name": "Quinze Jours",
+    "poster": "https://image.tmdb.org/t/p/w500/3F1SkTYPzPBwcv33V3ryeNK8ZlE.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/bwsGEeiEnKqsZ9vm3G82as8xUu7.jpg",
+    "description": "Les projets de vacances d'un adolescent peu sûr de lui sont chamboulés par un visiteur inattendu : son voisin et amour secret d'école, qui va passer deux semaines à dormir chez lui. Les journées qui promettaient calme, tranquillité et marathons de séries épiques finissent par apporter un tourbillon d'émotions et de problèmes non résolus.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1418582"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1418582-quinze-dias/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1418582",
+      "hasScheduledVideos": false
+    }
+  }
+}

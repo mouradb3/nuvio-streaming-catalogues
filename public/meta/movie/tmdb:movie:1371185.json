@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1371185",
+    "type": "movie",
+    "name": "Sur un air de blues",
+    "poster": "https://image.tmdb.org/t/p/w500/a37MBzhCanExpBxq1wzGRilRt49.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/8dlna8rRcf5gDCRzEsjtHizpj1X.jpg",
+    "description": "Deux musiciens à la dérive forment un joyeux groupe de reprises des chansons de Neil Diamond, prouvant qu’il n’est jamais trop tard pour trouver l’amour et réaliser ses rêves.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1371185"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1371185-song-sung-blue/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1371185",
+      "hasScheduledVideos": false
+    }
+  }
+}

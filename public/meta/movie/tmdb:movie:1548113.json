@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1548113",
+    "type": "movie",
+    "name": "The Muppet Show",
+    "poster": "https://image.tmdb.org/t/p/w500/h8SxbXRZPukAcwASmHOl5CFUslA.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/qz7B5uDspnkoz068wLbLnleotwV.jpg",
+    "description": "C'est le Muppet Show ! Kermit, Miss Piggy et la troupe adorée des Muppets sont de retour pour un événement spécial inédit. Musique, comédie et une bonne dose de chaos sont au rendez-vous quand ils remontent sur la scène du théâtre original des Muppets avec leur invitée très spéciale, Sabrina Carpenter\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1548113"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1548113-the-muppet-show/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1548113",
+      "hasScheduledVideos": false
+    }
+  }
+}

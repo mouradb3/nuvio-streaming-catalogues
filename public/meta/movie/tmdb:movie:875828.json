@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:875828",
+    "type": "movie",
+    "name": "Peaky Blinders : L'Immortel",
+    "poster": "https://image.tmdb.org/t/p/w500/xARW7zvWb3I7erpbm1Q3oyUgy79.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
+    "description": "Lorsque son fils, avec qui il est brouillé, se retrouve impliqué dans un complot nazi, Tommy Shelby, en exil, doit retourner à Birmingham pour sauver sa famille et son pays.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/875828"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/875828-peaky-blinders-the-immortal-man/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:875828",
+      "hasScheduledVideos": false
+    }
+  }
+}

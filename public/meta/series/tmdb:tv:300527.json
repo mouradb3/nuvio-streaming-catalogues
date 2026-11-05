@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:300527",
+    "type": "series",
+    "name": "On a parlé de moi ?",
+    "poster": "https://image.tmdb.org/t/p/w500/cqqfz3t8xsuPLwl5Obo7f9KwFDE.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/7ctEWkqGMkvo5GMtOejZndTL5Ta.jpg",
+    "description": "Jadis l'acteur le plus célèbre du Japon, Gen tombe soudain dans l’oubli. Poussé par un besoin de reconnaissance, il se bat pour remonter la pente dans cette comédie.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/300527"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/300527/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:300527",
+      "hasScheduledVideos": true
+    }
+  }
+}

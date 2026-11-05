@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:308014",
+    "type": "series",
+    "name": "Berlin et La Dame à l'hermine",
+    "poster": "https://image.tmdb.org/t/p/w500/yWdVvPeIKM08eYGGAU7G2FHlEL5.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ntPgSYKwPg9xKO4VvLJYfInSyZa.jpg",
+    "description": "Avide d'un nouveau coup, Berlin réunit son équipe à Séville et fait d'un ambitieux duc la victime de son propre plan : voler un chef-d'œuvre de Léonard de Vinci.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/308014"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/308014-berlin-y-la-dama-del-armino/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:308014",
+      "hasScheduledVideos": true
+    }
+  }
+}

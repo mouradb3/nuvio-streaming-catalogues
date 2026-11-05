@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1613798",
+    "type": "movie",
+    "name": "Vengeance",
+    "poster": "https://image.tmdb.org/t/p/w500/cSNgGUf6k2k7WJJVlda6ZUPYgGo.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/xyW8rJO3rwG2EGcTO6eaUEa8b9d.jpg",
+    "description": "Quand sa femme est brutalement assassinée, Carlos Estrada, héros décoré des forces spéciales, n'a plus qu'un seul but : la vengeance. Après qu'un coup du sort inattendu le rend millionnaire, Carlos transforme sa fortune en arsenal et, entouré de ses soldats les plus fidèles, lance une traque impitoyable contre les responsables.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1613798"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1613798-venganza/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1613798",
+      "hasScheduledVideos": false
+    }
+  }
+}

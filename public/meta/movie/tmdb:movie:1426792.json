@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1426792",
+    "type": "movie",
+    "name": "Mango",
+    "poster": "https://image.tmdb.org/t/p/w500/s9lDFwMqxIlJHD7ovZ9wUw0twwK.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/5IHYBbVG1qWv9oNjyh6ZRnn9ZFh.jpg",
+    "description": "Une directrice d'hôtel ambitieuse et sa fille distante partent pour Malaga et y trouvent ce qui leur manquait, au cœur d'un magnifique verger de manguiers.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1426792"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1426792-mango/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1426792",
+      "hasScheduledVideos": false
+    }
+  }
+}

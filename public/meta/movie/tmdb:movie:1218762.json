@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1218762",
+    "type": "movie",
+    "name": "Vive le vol d'hiver",
+    "poster": "https://image.tmdb.org/t/p/w500/uNn5SWzgeBSVjNDYiRJYH6dRI2G.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/x8gV0MUZVWkikNZElaBk13vW5f4.jpg",
+    "description": "Deux travailleurs en galère font équipe pour braquer un grand magasin des beaux quartiers de Londres la veille de Noël. Se feront-ils voler leur cœur en chemin ?\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1218762"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1218762-jingle-bell-heist/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1218762",
+      "hasScheduledVideos": false
+    }
+  }
+}

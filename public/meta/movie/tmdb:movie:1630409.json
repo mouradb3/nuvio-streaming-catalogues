@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1630409",
+    "type": "movie",
+    "name": "The Debt Collector",
+    "poster": "https://image.tmdb.org/t/p/w500/cVdkTHD9GPfwIUqfjRsATdqlfVR.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/dk68ykaNd3HdrDJyPJqEGsgvag7.jpg",
+    "description": "Rongé par la culpabilité avoir purgé sa peine derrière les barreaux, un ancien agent de recouvrement condamné par la maladie replonge dans son passé violent, en quête de justice pour les victimes d'usuriers et de rédemption pour lui-même.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1630409"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1630409/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1630409",
+      "hasScheduledVideos": false
+    }
+  }
+}

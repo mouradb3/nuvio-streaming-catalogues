@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:223386",
+    "type": "series",
+    "name": "Man on Fire",
+    "poster": "https://image.tmdb.org/t/p/w500/lHDs3T91HmlR28JhTh5R14Vxaap.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/dMCfHJRnAZfKoPTjYyZk2QCL8au.jpg",
+    "description": "Hanté par son passé et traqué par ses ennemis, un vétéran des forces spéciales se bat pour garder une adolescente en vie dans les rues dangereuses de Rio de Janeiro.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/223386"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/223386-man-on-fire/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:223386",
+      "hasScheduledVideos": true
+    }
+  }
+}

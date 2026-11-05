@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:320760",
+    "type": "series",
+    "name": "Je te Connais",
+    "poster": "https://image.tmdb.org/t/p/w500/tgBRNtynz81e0DE4bWo8XwTbCw9.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/RUkgsqD4YbEKKq77eFgJjeH89n.jpg",
+    "description": "Tiraillée entre son rôle de mère et sa carrière artistique, Funda est soulagée d'obtenir de l'aide. Mais sa mystérieuse nouvelle nounou pourrait bien cacher quelque chose.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/320760"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/320760-seni-taniyorum/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:320760",
+      "hasScheduledVideos": true
+    }
+  }
+}

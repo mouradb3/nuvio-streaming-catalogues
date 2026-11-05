@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1400780",
+    "type": "movie",
+    "name": "Come See Me in the Good Light",
+    "poster": "https://image.tmdb.org/t/p/w500/oJBlHOx3WT6k57TVhNvjQ0JyQjz.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/x0FZZWBE7Sp5Vz5ncn4wb8JyG5c.jpg",
+    "description": "Dans une histoire intime et joyeuse sur l’amour face à la perte, les célèbres poétesses Andrea Gibson et Megan Falley trouvent la force et une hilarité inattendue dans ce qui pourrait être leur dernière année ensemble.\n\nDisponibilité France : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1400780"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1400780-come-see-me-in-the-good-light/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1400780",
+      "hasScheduledVideos": false
+    }
+  }
+}

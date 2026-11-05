@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:263048",
+    "type": "series",
+    "name": "狙击蝴蝶",
+    "poster": "https://image.tmdb.org/t/p/w500/jebww4SrWIzwqNRchGW5AlR2KNX.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/cAJDWfx0V82FzDwQl6y3QlGOuQY.jpg",
+    "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/263048"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/263048/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:263048",
+      "hasScheduledVideos": true
+    }
+  }
+}

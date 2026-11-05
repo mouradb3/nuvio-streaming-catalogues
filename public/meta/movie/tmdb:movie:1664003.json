@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1664003",
+    "type": "movie",
+    "name": "Stavros Halkias: Uncle Stav",
+    "poster": "https://image.tmdb.org/t/p/w500/lVdlQbkpnETCZXN76UwQzMiJH6m.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/aZY17mncsi7zM8IcvucdxgnbM1C.jpg",
+    "description": "Dans ce recueil débridé, Stavros Halkias imagine devenir un oncle « crasseux », critique le système de santé et met en garde contre les risques de vivre pleinement sa vie.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1664003"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1664003-stavros-halkias-uncle-stav/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1664003",
+      "hasScheduledVideos": false
+    }
+  }
+}

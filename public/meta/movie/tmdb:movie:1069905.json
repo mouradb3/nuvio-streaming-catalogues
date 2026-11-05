@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1069905",
+    "type": "movie",
+    "name": "Jay Kelly",
+    "poster": "https://image.tmdb.org/t/p/w500/jZpWRGiT2z2a4PehLpaW5I5BLpz.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/wR9D9hQvCVBux16NauY4b7letdU.jpg",
+    "description": "Suit le célèbre acteur de cinéma Jay Kelly qui, flanqué de son dévoué manager Ron, se voit contraint de regarder sa vie en face au long d'un voyage introspectif. Poignant et plein d'humour, épique et intime, \"Jay Kelly\" se situe au croisement des regrets et des moments glorieux de l'existence.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1069905"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1069905-jay-kelly/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1069905",
+      "hasScheduledVideos": false
+    }
+  }
+}

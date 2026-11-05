@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:310239",
+    "type": "series",
+    "name": "Le Musée de l'innocence",
+    "poster": "https://image.tmdb.org/t/p/w500/xxLlwWA0Gzy6K0hs4xbY8bNtAI1.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/kpEjZVusnBo9JcSTnfZtQlgbxu3.jpg",
+    "description": "Kemal, un homme issu de l'une des familles les plus riches d'Istanbul, et de Füsun, sa cousine éloignée et pauvre, à partir des années 70. Kemal, prêt à affronter le monde pour laisser libre cours à ses sentiments, commence à collectionner les boucles d'oreille, les barrettes et même les mégots de cigarettes de sa bien-aimée… Qu'est-ce que l'amour ? Une obsession, une souffrance, un accident qui bouleverse le cours de la vie, ou bien un bonheur immense empreint d'innocence ?\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/310239"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/310239-masumiyet-muzesi/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:310239",
+      "hasScheduledVideos": true
+    }
+  }
+}

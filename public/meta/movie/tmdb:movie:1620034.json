@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1620034",
+    "type": "movie",
+    "name": "Martin Short : Une vie XXL",
+    "poster": "https://image.tmdb.org/t/p/w500/5u8r3iMUVeVejv8G2PrRvlTbogC.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/vate7k6MyLQDeFYkHqCrLhRes6m.jpg",
+    "description": "Dans ce documentaire, Martin Short évoque une vie nourrie par la joie à travers des séquences cultes, des interviews et des vidéos inédites où apparaissent de nombreuses stars.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1620034"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1620034-marty-life-is-short/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1620034",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1704506",
+    "type": "movie",
+    "name": "Recorded 2",
+    "poster": "https://image.tmdb.org/t/p/w500/4g4BfGXHVz0IiMQfTCsYw82PO7A.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/rA18n0Qd40dCXdogZD6LcJl36H9.jpg",
+    "description": "Disponibilité France : Bloodstream.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1704506"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1704506-recorded-2/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1704506",
+      "hasScheduledVideos": false
+    }
+  }
+}

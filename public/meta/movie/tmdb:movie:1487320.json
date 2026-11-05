@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1487320",
+    "type": "movie",
+    "name": "Le Dernier Géant",
+    "poster": "https://image.tmdb.org/t/p/w500/4mn3ymaelmSALoOOR6ISvbAUOl0.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/2VMkpRFGCupBmAJlZiDzlAjxYL1.jpg",
+    "description": "Au bout de 28 ans, un père et son fils, qui ne se connaissent quasiment pas, empruntent l'ultime chemin du pardon dans ce drame intimiste avec Matías Mayer et Óscar Martínez.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1487320"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1487320-el-ultimo-gigante/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1487320",
+      "hasScheduledVideos": false
+    }
+  }
+}

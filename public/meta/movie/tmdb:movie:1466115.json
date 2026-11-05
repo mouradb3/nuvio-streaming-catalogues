@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1466115",
+    "type": "movie",
+    "name": "Even If This Love Disappears Tonight",
+    "poster": "https://image.tmdb.org/t/p/w500/bMA6E5cu1QUMehjBZOjWjqQjhey.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/iL5eGI9ctHdUOV4yG6dyGKctSEX.jpg",
+    "description": "Une lycéenne se réveille chaque matin sans aucun souvenir du jour précédent. Elle sort avec un camarade timide, mais l'amour peut-il s'épanouir dans cet éternel recommencement ?\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1466115"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1466115/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1466115",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1610413",
+    "type": "movie",
+    "name": "La Dernière Aventure : Le making-of de Stranger Things 5",
+    "poster": "https://image.tmdb.org/t/p/w500/i2jDYfBmEl7ww2yhmJwz35atfvj.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/edGuDPKY6qHBg9hYvmnvLjcFoy4.jpg",
+    "description": "Découvrez les années d'efforts et de créativité qui se cachent derrière le dernier volet de la série phénomène des frères Duffer qui a marqué toute une génération.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1610413"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1610413-one-last-adventure-the-making-of-stranger-things-5/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1610413",
+      "hasScheduledVideos": false
+    }
+  }
+}

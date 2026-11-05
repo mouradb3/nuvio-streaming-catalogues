@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1758536",
+    "type": "movie",
+    "name": "Le Veuf : Jusqu'à ce que la mort...",
+    "poster": "https://image.tmdb.org/t/p/w500/1Yv7Kg5DEW1k6PCV4PEoDuv87sH.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/kejOti7YfpTr88Y4fWnd3UVDr8e.jpg",
+    "description": "Dans ce documentaire, un journaliste et un enquêteur dévoilent la vérité sur un tueur dont le charme masquait une série de mariages ratés et de décès suspects.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1758536"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1758536-the-widower-til-death-do-us-part/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1758536",
+      "hasScheduledVideos": false
+    }
+  }
+}

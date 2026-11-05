@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:246473",
+    "type": "series",
+    "name": "Made in Korea",
+    "poster": "https://image.tmdb.org/t/p/w500/lhZCpYVMKZanGTMabOYHTZLD1WY.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/fRR6jHutlHuYxMeZp4cZfjgafzd.jpg",
+    "description": "Dans la Corée du Sud des années 1970, suivez deux hommes aux antipodes du pouvoir : l'un animé par l'ambition, l'autre par la justice. Alors que leurs mondes s'entrechoquent, la cupidité, la loyauté et la survie s'entremêlent dans une bataille qui façonnera une nation.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "8.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/246473"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/246473/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:246473",
+      "hasScheduledVideos": true
+    }
+  }
+}

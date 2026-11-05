@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1515791",
+    "type": "movie",
+    "name": "Violeta Rauch",
+    "poster": "https://image.tmdb.org/t/p/w500/jTJ1lr36JUeLEHGuq6HqwMUZpuB.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/qNNGvQDaEdcnC88GHzYOpm1KEu7.jpg",
+    "description": "Disponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1515791"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1515791-violeta-rauch/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1515791",
+      "hasScheduledVideos": false
+    }
+  }
+}

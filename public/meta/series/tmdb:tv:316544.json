@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:316544",
+    "type": "series",
+    "name": "Ronaldinho : Le seul et l'unique",
+    "poster": "https://image.tmdb.org/t/p/w500/zYdSaQLM8w3NMuBnjRPjqpiUnyp.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/eBna9nTSwL89wsR3fmA5AVDxzxR.jpg",
+    "description": "Cette série retrace la vie et la carrière de la star brésilienne du football Ronaldinho, de jeune prodige à icône mondiale du sport.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/316544"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/316544-ronaldinho-gaucho/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:316544",
+      "hasScheduledVideos": true
+    }
+  }
+}

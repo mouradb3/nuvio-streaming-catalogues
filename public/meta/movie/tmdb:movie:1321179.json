@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1321179",
+    "type": "movie",
+    "name": "왕과 사는 남자",
+    "poster": "https://image.tmdb.org/t/p/w500/kkJB3SeUJp7Y0IXXLkv5QZHJGkH.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/1s1r4OOdnU8VX2inALVTA2q94uY.jpg",
+    "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1321179"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1321179/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1321179",
+      "hasScheduledVideos": false
+    }
+  }
+}

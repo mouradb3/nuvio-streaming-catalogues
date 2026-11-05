@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1444249",
+    "type": "movie",
+    "name": "Quitte ou double",
+    "poster": "https://image.tmdb.org/t/p/w500/lrC0BxeDHpJn6MnYM5y71Ofunz5.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/r6pDlw34R6gm66f4EP7CUPlB9nd.jpg",
+    "description": "Cinq individus sont invités à une partie de poker à la mise élevée, mais au fur et à mesure, ils découvrent que le but du jeu n'est pas de gagner, mais de survivre.\n\nDisponibilité France : Paramount Plus, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1444249"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1444249-the-highest-stakes/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1444249",
+      "hasScheduledVideos": false
+    }
+  }
+}

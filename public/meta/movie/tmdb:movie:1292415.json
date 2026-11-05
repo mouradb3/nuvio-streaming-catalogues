@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1292415",
+    "type": "movie",
+    "name": "Beast",
+    "poster": "https://image.tmdb.org/t/p/w500/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/vmdt6nUXYX4mM0Ahcvh4bgHOjUt.jpg",
+    "description": "Patton James abandonne son rêve de pratiquer les arts martiaux mixtes pour subvenir aux besoins de sa femme, Luciana et de leur fils. Lorsque son frère, Malon, subit une grave blessure et doit faire face à des pressions financières, Patton décide de le venger lors d'un combat avec l'aide de l'entraîneur vétéran Sammy.\n\nDisponibilité Canada : Crave, Crave Amazon Channel, Starz Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1292415"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1292415-beast/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1292415",
+      "hasScheduledVideos": false
+    }
+  }
+}

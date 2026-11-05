@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1376415",
+    "type": "movie",
+    "name": "L'Affaire Bojarski",
+    "poster": "https://image.tmdb.org/t/p/w500/r60UQDxVX3ayqlvUDdjPWUfD3x4.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/hKC8k08rgIyXFVQXrp1izEAWwL1.jpg",
+    "description": "Jan Bojarski, jeune ingénieur polonais, se réfugie en France pendant la guerre. Il y utilise ses dons pour fabriquer des faux papiers pendant l’occupation allemande. Après la guerre, son absence d’état civil l’empêche de déposer les brevets de ses nombreuses inventions et il est limité à des petits boulots mal rémunérés… jusqu’au jour où un gangster lui propose d’utiliser ses talents exceptionnels pour fabriquer des faux billets. Démarre alors pour lui une double vie à l’insu de sa famille. Très vite, il se retrouve dans le viseur de l’inspecteur Mattei, meilleur flic de France.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1376415"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1376415-l-affaire-bojarski/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1376415",
+      "hasScheduledVideos": false
+    }
+  }
+}

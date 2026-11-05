@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:308963",
+    "type": "series",
+    "name": "Habeas Corpus",
+    "poster": "https://image.tmdb.org/t/p/w500/pMkQ9LyDJIkMjyfnJ7TNJbKSEEv.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ssglI1XmPx5ks84jq1uGDwVZqD5.jpg",
+    "description": "Dans cette série judiciaire pleine de suspense, une prof de droit et ses étudiants sont prêts à tout pour disculper un homme condamné et mettre au jour les incohérences du dossier.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/308963"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/308963-habeas-corpus/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:308963",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:306603",
+    "type": "series",
+    "name": "Gone",
+    "poster": "https://image.tmdb.org/t/p/w500/qnxKB5HlkAZZcyIiITIV7dAUX7u.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/c43frTJmf5SkVT7AZ2RTnxNqDRF.jpg",
+    "description": "Disponibilité Canada : BritBox, BritBox Amazon Channel, Britbox Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/306603"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/306603-gone/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:306603",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1677574",
+    "type": "movie",
+    "name": "AFI Life Achievement Award: A Tribute to Eddie Murphy",
+    "poster": "https://image.tmdb.org/t/p/w500/pxWhmE1NDCXsxDbLV1UYALVMlMk.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/tYGuI1GH0c2vEA15EgCN7LFw2eX.jpg",
+    "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1677574"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1677574-afi-life-achievement-award-a-tribute-to-eddie-murphy/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1677574",
+      "hasScheduledVideos": false
+    }
+  }
+}

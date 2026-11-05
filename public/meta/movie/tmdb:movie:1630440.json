@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1630440",
+    "type": "movie",
+    "name": "Bad Voodoo",
+    "poster": "https://image.tmdb.org/t/p/w500/8z9CkHQaPy4eaoVwFubQF0iqgBt.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/6rLaRBNSwnrt9JG7himGqYpPnkz.jpg",
+    "description": "Disponibilité France : Bloodstream.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "3.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1630440"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1630440-bad-voodoo/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1630440",
+      "hasScheduledVideos": false
+    }
+  }
+}

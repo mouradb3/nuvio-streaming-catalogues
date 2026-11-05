@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:336654",
+    "type": "series",
+    "name": "My Girlfriend's Friend",
+    "poster": "https://image.tmdb.org/t/p/w500/saOqlHkybF06dYdFycUTROZI75o.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/7CSqPaizCugNAznzmUUVQKbj6KO.jpg",
+    "description": "Un jeune homme vit sa première relation amoureuse, mais son bonheur est perturbé par l'amie de sa petite amie. Cette dernière tente de le séduire de manière insistante par des approches provocantes. Il se retrouve tiraillé entre sa loyauté et un désir interdit.\n\nDisponibilité France : Animation Digital Network, Anime Digital Network Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/336654"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/336654/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:336654",
+      "hasScheduledVideos": true
+    }
+  }
+}

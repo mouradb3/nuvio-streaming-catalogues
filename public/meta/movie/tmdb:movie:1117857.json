@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1117857",
+    "type": "movie",
+    "name": "Dans tes rêves",
+    "poster": "https://image.tmdb.org/t/p/w500/7L4EiY10cRJ4Eekom9H4pruaa5Z.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/cTuFz80FozP54Aob9TYl4mF1wKk.jpg",
+    "description": "Stevie et son petit frère Elliot s'aventurent dans le monde follement absurde de leurs rêves pour demander au marchand de sable de leur donner la famille parfaite.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1117857"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1117857-in-your-dreams/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1117857",
+      "hasScheduledVideos": false
+    }
+  }
+}

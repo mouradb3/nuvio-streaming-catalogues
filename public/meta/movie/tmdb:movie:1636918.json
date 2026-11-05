@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1636918",
+    "type": "movie",
+    "name": "The Plastic Detox",
+    "poster": "https://image.tmdb.org/t/p/w500/1FuExEaXy9ejGGm6VHCdirvk6zg.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/q3VkiqQi7syrVANAK8PjgIry0Vx.jpg",
+    "description": "Dans ce documentaire édifiant, six couples confrontés à une infertilité inexpliquée tentent de réduire leur exposition aux plastiques dans l'espoir d'avoir un enfant.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1636918"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1636918-the-plastic-detox/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1636918",
+      "hasScheduledVideos": false
+    }
+  }
+}

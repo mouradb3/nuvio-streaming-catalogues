@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1487861",
+    "type": "movie",
+    "name": "Elize Surgie de l'Ombre",
+    "poster": "https://image.tmdb.org/t/p/w500/ryuWPWA3sZ1eoKHaZLxAvNoxCnV.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/z8mTDyKdAWjKsD0vwa7e9LTSY1j.jpg",
+    "description": "Inspirée de l'affaire réelle d'Elize Matsunaga, qui a choqué le Brésil après avoir assassiné et démembré son mari, \"Elize : Surgie de l'ombre\" est une fiction qui revisite son histoire, révélant les mécanismes d'une relation tumultueuse et les choix qui ont conduit à un crime atroce.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1487861"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1487861-elize-sombras-de-uma-mulher/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1487861",
+      "hasScheduledVideos": false
+    }
+  }
+}

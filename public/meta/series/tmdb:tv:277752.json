@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:277752",
+    "type": "series",
+    "name": "Cité des ombres",
+    "poster": "https://image.tmdb.org/t/p/w500/bTLY9eKy09HTGanuE9fTgNNeikg.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/jKyYbESbbsDuEF0G2a9Kg5zuttG.jpg",
+    "description": "Quand Barcelone se réveille avec un corps en flammes pendu à l'un des édifices les plus emblématiques de Gaudí, un inspecteur en disgrâce reprend du service pour arrêter le tueur.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/277752"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/277752-ciudad-de-sombras/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:277752",
+      "hasScheduledVideos": true
+    }
+  }
+}

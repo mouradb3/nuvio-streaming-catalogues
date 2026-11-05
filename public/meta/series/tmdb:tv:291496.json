@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:291496",
+    "type": "series",
+    "name": "Our Sticky Love",
+    "poster": "https://image.tmdb.org/t/p/w500/ny8zYj40mWGTgKJi1a8hjNFUj9n.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/mp2AFsWsuyxCzenJh3DTKw7z4jG.jpg",
+    "description": "Une ambitieuse procureure perd la mémoire et emménage avec un entraîneur de boxe qui prétend être son petit ami... Cette étrange situation laissera-t-elle place à l'amour ?\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/291496"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/291496/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:291496",
+      "hasScheduledVideos": true
+    }
+  }
+}

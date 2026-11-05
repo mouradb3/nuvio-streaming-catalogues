@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1731694",
+    "type": "movie",
+    "name": "LEGO Star Wars : The Mandalorian",
+    "poster": "https://image.tmdb.org/t/p/w500/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/upecGaCuQOIbSpdz85mrJ395UMg.jpg",
+    "description": "Le Mandalorien et Grogu retrouvent leurs alliés improbables lors d’une fête épique pour célébrer leur héroïsme. Alors que leurs amis racontent leurs aventures à un public enthousiaste, une attaque de pirates menace.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1731694"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1731694-lego-star-wars-the-mandalorian/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1731694",
+      "hasScheduledVideos": false
+    }
+  }
+}

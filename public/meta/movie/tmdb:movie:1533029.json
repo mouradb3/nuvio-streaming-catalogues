@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1533029",
+    "type": "movie",
+    "name": "The Loved One",
+    "poster": "https://image.tmdb.org/t/p/w500/rVZQcphJRWVJgQZtWztrauB6Fwe.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/3pY5oAJXvnMQJrUxOJzR8HvFtk5.jpg",
+    "description": "Un ancien couple se retrouve après de longues années de séparation et replonge dans les souvenirs, les sentiments et les déchirements d'une relation qui a duré dix ans.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1533029"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1533029-the-loved-one/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1533029",
+      "hasScheduledVideos": false
+    }
+  }
+}

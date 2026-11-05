@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:938150",
+    "type": "movie",
+    "name": "À haut risque",
+    "poster": "https://image.tmdb.org/t/p/w500/gsdtaJXIo86W8bAvEU2AISRcg8q.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/cVhvKbZS8H0oqKDGzoKvgG9dS1B.jpg",
+    "description": "Un pirate informatique qui vole les banques risque la mort après avoir été repéré.\n\nDisponibilité Canada : Crave, Crave Amazon Channel, Paramount Plus, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/938150"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/938150-wardriver/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:938150",
+      "hasScheduledVideos": false
+    }
+  }
+}

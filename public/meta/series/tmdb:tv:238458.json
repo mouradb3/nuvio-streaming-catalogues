@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:238458",
+    "type": "series",
+    "name": "Cashero",
+    "poster": "https://image.tmdb.org/t/p/w500/SB3HbQAqQGWJTV1J5U10aXNXdU.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/lr0h0OBj7QOEvkaX5g3JWoaKZsI.jpg",
+    "description": "Un homme ordinaire hérite d'un pouvoir surhumain et découvre qu'un ennemi maléfique tente de le lui voler. Le problème, c'est qu'il perd de l'argent dès qu'il utilise sa force...\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/238458"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/238458/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:238458",
+      "hasScheduledVideos": true
+    }
+  }
+}

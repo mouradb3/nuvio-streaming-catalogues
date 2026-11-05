@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1198984",
+    "type": "movie",
+    "name": "We Bury the Dead",
+    "poster": "https://image.tmdb.org/t/p/w500/8XaHp5boC9n3idSYOXexwzMG98t.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/vbkW4KerpshPZnP84w9qwSfYrhu.jpg",
+    "description": "Ava Newman est désespérée après la mort de son mari lors d'une expérience militaire. Espérant retrouver sa dépouille, la jeune femme rejoint une « unité de récupération des corps ». Ses recherches vont cependant prendre une tournure effrayante lorsqu'elle découvre que les cadavres qu'elle enterre semblent revenir à la vie.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1198984"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1198984-we-bury-the-dead/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1198984",
+      "hasScheduledVideos": false
+    }
+  }
+}

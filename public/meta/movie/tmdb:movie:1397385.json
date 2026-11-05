@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1397385",
+    "type": "movie",
+    "name": "Little Brother",
+    "poster": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
+    "description": "La vie parfaite d'un agent immobilier rigide est totalement chamboulée lorsque son \"petit frère\", aussi attachant qu'imprévisible, refait soudainement surface.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1397385"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1397385-little-brother/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1397385",
+      "hasScheduledVideos": false
+    }
+  }
+}

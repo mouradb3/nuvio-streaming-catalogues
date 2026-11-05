@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:259702",
+    "type": "series",
+    "name": "La Maison aux esprits",
+    "poster": "https://image.tmdb.org/t/p/w500/cmcyjStlNANdFzqb6pXEo4wNlHs.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/u2nBtDrTOIi9u78c02bL0A3lo7Y.jpg",
+    "description": "La Maison aux Esprits est une magnifique saga familiale qui raconte l’histoire épique d’une famille fière et passionnée, d’amours secrets et de révolution sanglante. Les passions, les luttes et les secrets de la famille Trueba s’étendent sur un siècle de bouleversements sociaux violents, culminant en une crise qui projette le patriarche fier et tyrannique et sa petite-fille bien-aimée dans des camps opposés.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/259702"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/259702-the-house-of-the-spirits/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:259702",
+      "hasScheduledVideos": true
+    }
+  }
+}

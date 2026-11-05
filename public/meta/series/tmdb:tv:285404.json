@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:285404",
+    "type": "series",
+    "name": "Plaisir maximum garanti",
+    "poster": "https://image.tmdb.org/t/p/w500/hFKOglPtEpknH7HZPwadBboDPci.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/9mZlvYlGA4jblCvAvOpinrgn6hr.jpg",
+    "description": "Un maman récemment divorcée tombe dans une dangereuse spirale de chantage, meurtre et football pour les jeunes.\n\nDisponibilité France : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/285404"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/285404-maximum-pleasure-guaranteed/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:285404",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:283304",
+    "type": "series",
+    "name": "La Petite Maison dans la prairie",
+    "poster": "https://image.tmdb.org/t/p/w500/y8sgnrz9xXIIAfOcXasjtPTXNw8.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/fBieUo3SdItUrXZE16YxbpjwXIe.jpg",
+    "description": "La famille Ingalls se construit une nouvelle vie dans l'Ouest américain, où les joies de la nature se mêlent à la lutte pour survivre.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/283304"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/283304-little-house-on-the-prairie/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:283304",
+      "hasScheduledVideos": true
+    }
+  }
+}

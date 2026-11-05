@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1323475",
+    "type": "movie",
+    "name": "Champagne Problems",
+    "poster": "https://image.tmdb.org/t/p/w500/a66w2eVNFHMgevJlw0d6f4TTrrD.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/idRDmfGxrLD0SNBq5I2J6HC0dt5.jpg",
+    "description": "Venue à Paris pour racheter une grande maison de champagne avant Noël, une cadre américaine ambitieuse tombe sous le charme de l'héritier de la marque.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1323475"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1323475-champagne-problems/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1323475",
+      "hasScheduledVideos": false
+    }
+  }
+}

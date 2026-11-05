@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1698575",
+    "type": "movie",
+    "name": "Snoopy présente : Rien ne vaut son chez-soi",
+    "poster": "https://image.tmdb.org/t/p/w500/1a24XPNCpOpGMvOlfUaqaF56m1n.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/kpq5o3WbnTos5fQwtyfyOHwSMdm.jpg",
+    "description": "La niche adorée de Snoopy disparaît. En essayant de la retrouver, il découvre ce qui constitue vraiment un foyer.\n\nDisponibilité France : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1698575"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1698575-snoopy-presents-there-s-no-place-like-home-snoopy/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1698575",
+      "hasScheduledVideos": false
+    }
+  }
+}

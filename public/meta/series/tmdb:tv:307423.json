@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:307423",
+    "type": "series",
+    "name": "Doménica Montero",
+    "poster": "https://image.tmdb.org/t/p/w500/A02M5F5DcQ3glHrvBUSGnzTlvW1.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/xYQUz6rqeKkiPeLeOCZxxApFWBM.jpg",
+    "description": "Disponibilité France : SFR Play.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "8.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/307423"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/307423-domenica-montero/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:307423",
+      "hasScheduledVideos": true
+    }
+  }
+}

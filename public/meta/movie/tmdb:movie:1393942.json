@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1393942",
+    "type": "movie",
+    "name": "Jitters",
+    "poster": "https://image.tmdb.org/t/p/w500/fccvkZkZ9yL6BIxojXdqFxPC8fR.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ezMP8W9CbyQQRyYRFw91mm2IEpX.jpg",
+    "description": "Disponibilité Canada : AMC+ Amazon Channel, Shudder, Shudder Amazon Channel, Shudder Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "4.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1393942"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1393942-jitters/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1393942",
+      "hasScheduledVideos": false
+    }
+  }
+}

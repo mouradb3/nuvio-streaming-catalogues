@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1275779",
+    "type": "movie",
+    "name": "La Révélation",
+    "poster": "https://image.tmdb.org/t/p/w500/1L1EOypNKHCFmYiibUXdotID8tH.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/1e0KDRYKRPHiVNj8yQKYuU2jVyQ.jpg",
+    "description": "Si vous découvriez que nous ne sommes pas seuls, si quelqu’un vous le montrait, vous le prouvait, auriez-vous peur ?\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1275779"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1275779-disclosure-day/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1275779",
+      "hasScheduledVideos": false
+    }
+  }
+}

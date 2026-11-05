@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1596335",
+    "type": "movie",
+    "name": "The AI Doc: Or How I Became an Apocaloptimist",
+    "poster": "https://image.tmdb.org/t/p/w500/A610QT1gWjhJ1dJrXP9qMm4JMLr.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/lIvkPPTAHBpKhifdczZH0s8eozB.jpg",
+    "description": "Un futur papa tente de comprendre ce qui se passe dans cette folie autour de l'IA et explore la technologie la plus puissante que l'humanité ait jamais créée… ainsi que les enjeux si nous nous trompons.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1596335"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1596335-the-ai-doc-or-how-i-became-an-apocaloptimist/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1596335",
+      "hasScheduledVideos": false
+    }
+  }
+}

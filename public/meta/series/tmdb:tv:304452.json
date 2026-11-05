@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:304452",
+    "type": "series",
+    "name": "玉簟秋",
+    "poster": "https://image.tmdb.org/t/p/w500/r5N8g3WEes9x1z76Sil614Do9Bv.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/vD84yLJVVd7cC2lKF8sEukQG2A3.jpg",
+    "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/304452"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/304452/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:304452",
+      "hasScheduledVideos": true
+    }
+  }
+}

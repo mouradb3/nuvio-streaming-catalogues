@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1710008",
+    "type": "movie",
+    "name": "Jusqu'au bout",
+    "poster": "https://image.tmdb.org/t/p/w500/aBPP2BQUT2mE5mmlbIRZx3ggdp0.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/5cEmmIMunNk3JRij4nTitFtikIg.jpg",
+    "description": "Jada a longtemps lutté pour avoir un enfant avec son compagnon. Après une naissance par don d'embryon, des années plus tard, Jada, désormais mère célibataire, découvre que son fils est atteint d'une leucémie qui s’aggrave de jour en jour, sa vie est menacée. Pour obtenir une greffe, il lui faut un donneur urgemment. Jusqu'où sera-t-elle prête à aller pour sauver son fils ?\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1710008"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1710008-jusqu-au-bout/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1710008",
+      "hasScheduledVideos": false
+    }
+  }
+}

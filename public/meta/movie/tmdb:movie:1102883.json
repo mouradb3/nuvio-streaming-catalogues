@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1102883",
+    "type": "movie",
+    "name": "Obsession",
+    "poster": "https://image.tmdb.org/t/p/w500/ocZUogaqUIiITbPGsg2bUSpuQlf.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/9eynUDRhChIsgSYLK82aC4zIQ2M.jpg",
+    "description": "De vieilles blessures refont surface lorsque l'icône de la pop, Mother Mary, retrouve son meilleur ami et ancien costumier, Sam Anselm, à la veille de son grand retour sur scène.\n\nDisponibilité Canada : Crave, Paramount Plus, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1102883"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1102883-mother-mary/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1102883",
+      "hasScheduledVideos": false
+    }
+  }
+}

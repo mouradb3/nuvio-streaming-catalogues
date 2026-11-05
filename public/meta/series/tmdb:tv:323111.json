@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:323111",
+    "type": "series",
+    "name": "Michael Jackson : Le Verdict",
+    "poster": "https://image.tmdb.org/t/p/w500/gMa7MzuSaQ7vgfWQAbLrSeeB4fC.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/jaT8cc5VhOXO1JCbuNt8cgeu3ah.jpg",
+    "description": "Raconté par ceux qui y étaient, ce documentaire minutieux chronique le procès de Michael Jackson et examine l'héritage complexe de la star.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "4.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/323111"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/323111-michael-jackson-the-verdict/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:323111",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:325022",
+    "type": "series",
+    "name": "GTO",
+    "poster": "https://image.tmdb.org/t/p/w500/n4Tyoz66G6ik35gHhGmHpr8X3tv.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/qzwsyoOID2Z5qnpV4eGoeGm41rT.jpg",
+    "description": "Le professeur non-conformiste Eikichi Onizuka assume un nouveau rôle à l'Académie d'élite Seishin, où il a du mal à se connecter avec les étudiants enfermés sur leurs écrans.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/325022"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/325022-gto/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:325022",
+      "hasScheduledVideos": true
+    }
+  }
+}

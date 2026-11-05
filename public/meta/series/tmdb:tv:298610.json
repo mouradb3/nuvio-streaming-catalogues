@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:298610",
+    "type": "series",
+    "name": "Spooky in Love",
+    "poster": "https://image.tmdb.org/t/p/w500/sFFVXWLH2zmNFuk8NPLt0YBsJ3K.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/p9tpGftvG18M5y5wsBmPrQpVBsd.jpg",
+    "description": "Découvrant qu'un simple contact fait d'eux un duo étrangement efficace, une héritière capable de voir les fantômes et un procureur coopèrent pour élucider des meurtres non résolus.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/298610"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/298610/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:298610",
+      "hasScheduledVideos": true
+    }
+  }
+}

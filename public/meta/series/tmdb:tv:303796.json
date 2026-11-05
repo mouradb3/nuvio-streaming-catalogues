@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:303796",
+    "type": "series",
+    "name": "GHOST CONCERT : missing Songs",
+    "poster": "https://image.tmdb.org/t/p/w500/yMt59KZr0OewyRs31Vd3zWuneeW.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/heV7FqcSbz9zWerL0Uj8dAoyIXP.jpg",
+    "description": "En 2045, alors que chanter est désormais interdit, une lycéenne entend une voix qui la possède et lui confère un grand pouvoir.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/303796"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/303796-missing-songs/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:303796",
+      "hasScheduledVideos": true
+    }
+  }
+}

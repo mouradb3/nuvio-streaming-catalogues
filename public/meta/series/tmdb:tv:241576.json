@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:241576",
+    "type": "series",
+    "name": "Si je n'avais vu le soleil",
+    "poster": "https://image.tmdb.org/t/p/w500/7jiEztUgifCkSiXzlp7IZN8DbL5.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/b9nrdh1VaspBckmaDwftW4mcOyC.jpg",
+    "description": "Lorsqu'un tueur en série notoire est interviewé par une jeune femme pour un film, son passé révèle un écheveau complexe de traumatismes et de chagrins liés à un premier amour.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "8.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/241576"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/241576/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:241576",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1084187",
+    "type": "movie",
+    "name": "Pirouette fatale",
+    "poster": "https://image.tmdb.org/t/p/w500/xnh0rBBPKB6DyLiqek8dX1X7F7t.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/z3bzhmC0CPikWeerUkLO73YvGrC.jpg",
+    "description": "Un thriller effréné où cinq ballerines, bloquées dans une forêt isolée en chemin vers un concours de danse, se réfugient dans une sinistre auberge routière tenue par Devora Kasimer et doivent transformer leur formation d'élite pour survivre.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1084187"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1084187-pretty-lethal/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1084187",
+      "hasScheduledVideos": false
+    }
+  }
+}

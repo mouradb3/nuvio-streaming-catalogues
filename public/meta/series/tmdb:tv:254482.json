@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:254482",
+    "type": "series",
+    "name": "长安二十四计",
+    "poster": "https://image.tmdb.org/t/p/w500/9DKEd80jWJjiME27nJmTzdVtOLr.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/khHpr9W9cZ7mlQGvabC2IeG69pg.jpg",
+    "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/254482"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/254482/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:254482",
+      "hasScheduledVideos": true
+    }
+  }
+}

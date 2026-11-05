@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1623256",
+    "type": "movie",
+    "name": "The Storm",
+    "poster": "https://image.tmdb.org/t/p/w500/kjAsuaDcNsemYTQ8tUorpVE1FJb.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
+    "description": "Pour ses 45 ans, Filip convie ses proches à dîner dans la somptueuse ferme qu'il vient d'acheter avec sa femme dans le nord de la Suède. Ce qu'ils ignorent, c'est qu'une violente tempête approche, et que tous vont se retrouver pris au piège. Peu à peu, les masques tombent et la tension monte. Alors que la panique s'installe et que la gravité de la situation devient évidente, les murs se resserrent, les secrets se dévoilent… et des sentiments inattendus émergent.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1623256"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1623256-stormen/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1623256",
+      "hasScheduledVideos": false
+    }
+  }
+}

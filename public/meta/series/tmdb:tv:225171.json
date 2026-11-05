@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:225171",
+    "type": "series",
+    "name": "Pluribus",
+    "poster": "https://image.tmdb.org/t/p/w500/8502I2bOEMQpJGB0h489YButCYp.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ulm1ex4JFYJByyaPyqTr47MFyEQ.jpg",
+    "description": "Alors que le bonheur menace la Terre, tous les espoirs reposent sur le plus malheureux des humains.\n\nDisponibilité France : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/225171"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/225171-pluribus/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:225171",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1196207",
+    "type": "movie",
+    "name": "Noël entre ses mains 2",
+    "poster": "https://image.tmdb.org/t/p/w500/3i1L5KbGouDGw9fMMjGk0uZgcN0.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/X5N8GliuEHrKBydQnKcztqT7AV.jpg",
+    "description": "Quand la directrice sans scrupules d'une société de jouets enlève le père Noël, un homme et son fils se donnent pour mission de sauver les fêtes.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "5.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1196207"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1196207-la-navidad-en-sus-manos-2/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1196207",
+      "hasScheduledVideos": false
+    }
+  }
+}

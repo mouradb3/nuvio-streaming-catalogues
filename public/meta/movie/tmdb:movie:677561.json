@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:677561",
+    "type": "movie",
+    "name": "Les Légendaires",
+    "poster": "https://image.tmdb.org/t/p/w500/AlfndBQucnWC7igEIG2L0sk6tiF.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/vLEr8t7m5JXCZzmhjq9ZROq7dtr.jpg",
+    "description": "Les Légendaires, intrépides aventuriers, étaient les plus grands héros de leur temps. Mais suite à une terrible malédiction, les voilà redevenus... des enfants de 10 ans ! Danaël, Jadina, Gryf, Shimy et Razzia vont unir leurs pouvoirs pour vaincre le sorcier Darkhell et libérer leur planète de l’enfance éternelle…\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/677561"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/677561-les-legendaires/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:677561",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:225891",
+    "type": "series",
+    "name": "The Madison",
+    "poster": "https://image.tmdb.org/t/p/w500/6P6As5HNzlvbbAmp6cXunl9aH5C.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg",
+    "description": "Après une tragédie familiale, Stacy Clyburn prend une décision radicale et décide de s'installer avec toute sa famille dans la vallée de la rivière Madison.\n\nDisponibilité France : Canal+, Canal+ Séries.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/225891"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/225891-the-madison/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:225891",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1633264",
+    "type": "movie",
+    "name": "Louis Theroux : Plongée dans la manosphère",
+    "poster": "https://image.tmdb.org/t/p/w500/ouOvRvsgF37yEx3D6ZLWyuxZFjE.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/cmpiLnDIdxQNFZLZZFRj1rSo7fW.jpg",
+    "description": "Disposant d'un accès privilégié, le documentariste plébiscité enquête sans filtre sur un réseau ultra-masculiniste en pleine expansion et ses influenceurs controversés.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1633264"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1633264-louis-theroux-inside-the-manosphere/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1633264",
+      "hasScheduledVideos": false
+    }
+  }
+}

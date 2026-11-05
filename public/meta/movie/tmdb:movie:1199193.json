@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1199193",
+    "type": "movie",
+    "name": "Pose",
+    "poster": "https://image.tmdb.org/t/p/w500/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/bAFnjhweXxHUWjmFzMTuX12Ud3b.jpg",
+    "description": "Disponibilité Canada : Paramount Plus, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1199193"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1199193-pose/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1199193",
+      "hasScheduledVideos": false
+    }
+  }
+}

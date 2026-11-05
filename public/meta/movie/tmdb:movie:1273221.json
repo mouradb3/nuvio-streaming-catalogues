@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1273221",
+    "type": "movie",
+    "name": "Film de peur",
+    "poster": "https://image.tmdb.org/t/p/w500/aAZdZIwbMgSqCeybsooOa5stPwG.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+    "description": "Vingt-six ans après avoir semé un tueur masqué étrangement familier, les quatre amis de toujours sont de retour dans son collimateur et aucune franchise de film d'horreur n'est à l'abri.\n\nDisponibilité Canada : Paramount Plus, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1273221"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1273221-scary-movie/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1273221",
+      "hasScheduledVideos": false
+    }
+  }
+}

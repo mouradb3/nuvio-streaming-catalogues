@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:259265",
+    "type": "series",
+    "name": "Un très mauvais pressentiment",
+    "poster": "https://image.tmdb.org/t/p/w500/8UbrsXdkYtJOnHrrqVesQVxFZXW.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/tsatObfXdVBtYmHkjdBEKzKzyNB.jpg",
+    "description": "Une jeune femme a le pressentiment qu'un terrible événement va se produire lors de son mariage. Et plus la cérémonie approche, plus son malaise grandit.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/259265"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/259265-something-very-bad-is-going-to-happen/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:259265",
+      "hasScheduledVideos": true
+    }
+  }
+}

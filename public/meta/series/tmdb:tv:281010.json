@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:281010",
+    "type": "series",
+    "name": "Phantom Lawyer",
+    "poster": "https://image.tmdb.org/t/p/w500/vT83P15zYZ9ugoWh70b4NoPf6kt.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/p98XiePTvNrXegxyKc6n46UJD85.jpg",
+    "description": "Un avocat timide qui se met soudainement à voir les fantômes fait équipe avec un avocat d'élite au caractère froid, et ensemble, ils prennent en charge des clients surnaturels dont les affaires inachevées révèlent des vérités enfouies.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/281010"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/281010/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:281010",
+      "hasScheduledVideos": true
+    }
+  }
+}

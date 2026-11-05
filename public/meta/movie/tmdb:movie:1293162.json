@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1293162",
+    "type": "movie",
+    "name": "Thieves Highway",
+    "poster": "https://image.tmdb.org/t/p/w500/78B66xBCgmnh88d10B85uFjC88V.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/vxOUVzvezd6BsLHPgK9c1T2kR2W.jpg",
+    "description": "Disponibilité Canada : Paramount Plus, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1293162"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1293162-thieves-highway/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1293162",
+      "hasScheduledVideos": false
+    }
+  }
+}

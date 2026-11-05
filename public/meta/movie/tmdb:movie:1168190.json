@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1168190",
+    "type": "movie",
+    "name": "Team Démolition",
+    "poster": "https://image.tmdb.org/t/p/w500/ec0bwYUEYBhcHutx4nIShLzX7Dl.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+    "description": "Deux demi-frères brouillés, Jonny et James, se réunissent après la mort mystérieuse de leur père. Durant leur quête de la vérité, des secrets enfouis révèlent un complot qui menace de détruire leur famille.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1168190"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1168190-the-wrecking-crew/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1168190",
+      "hasScheduledVideos": false
+    }
+  }
+}

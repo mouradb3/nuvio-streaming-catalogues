@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:323839",
+    "type": "series",
+    "name": "东大高武学院",
+    "poster": "https://image.tmdb.org/t/p/w500/uwaCB4XqEFEnFGUc1Vh45Fnm8rF.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/yRppVL3fuooqvimAr5q5lr8sdxZ.jpg",
+    "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/323839"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/323839/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:323839",
+      "hasScheduledVideos": true
+    }
+  }
+}

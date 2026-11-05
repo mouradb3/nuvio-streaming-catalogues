@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:300054",
+    "type": "series",
+    "name": "BAKI-DOU : Le samouraï invincible",
+    "poster": "https://image.tmdb.org/t/p/w500/wViuuy27uauEs3A8Vn69Q43MFAQ.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/1M8uW8o6fdDaa3zqmBD2UUKu0VZ.jpg",
+    "description": "Baki et les maîtres de l'arène souterraine se retrouvent face à une menace d'envergure historique : le plus grand samouraï du Japon, Musashi Miyamoto, a été ramené à la vie.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "9.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/300054"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/300054/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:300054",
+      "hasScheduledVideos": true
+    }
+  }
+}

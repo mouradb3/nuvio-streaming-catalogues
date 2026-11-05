@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1390300",
+    "type": "movie",
+    "name": "Over Your Dead Body",
+    "poster": "https://image.tmdb.org/t/p/w500/NL8RZFTEvKfoaayZDJGG85Te5i.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/sb76azrAXr9U13uEQxNP5e3fujY.jpg",
+    "description": "Over Your Dead Body est un thriller d'humour noir réalisé par Jorma Taccone, mettant en scène un couple marié dysfonctionnel, Dan et Lisa, qui se retirent dans un chalet isolé, chacun ayant secrètement l'intention d'assassiner l'autre. Leurs plans minutieux pour s'entre-tuer sont contrariés lorsque des détenus évadés et une gardienne de prison hors-la-loi interrompent leur séjour.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1390300"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1390300-over-your-dead-body/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1390300",
+      "hasScheduledVideos": false
+    }
+  }
+}

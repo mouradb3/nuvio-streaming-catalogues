@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1575337",
+    "type": "movie",
+    "name": "Kaguya, princesse cosmique",
+    "poster": "https://image.tmdb.org/t/p/w500/9tkMo2GNrtuzggwNF4MzixXw3B1.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/1jdPUUSy37Wzw3xuc8otI86X2gv.jpg",
+    "description": "La vie d'Iroha bascule lorsque Kaguya, une chanteuse insouciante qui a fui la Lune, emménage chez elle et la convainc de se produire ensemble dans un monde virtuel.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1575337"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1575337/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1575337",
+      "hasScheduledVideos": false
+    }
+  }
+}

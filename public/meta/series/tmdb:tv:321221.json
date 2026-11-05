@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:321221",
+    "type": "series",
+    "name": "Minimum Wage",
+    "poster": "https://image.tmdb.org/t/p/w500/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/tJSM9kwCWHXgoYbrfmJ2vwiizWq.jpg",
+    "description": "Des ados tentent de gérer une petite pizzeria en jonglant entre le lycée, une boss survoltée et un salaire minimum. Une série inspirée de vidéos populaires sur les réseaux sociaux.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/321221"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/321221-minimum-wage/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:321221",
+      "hasScheduledVideos": true
+    }
+  }
+}

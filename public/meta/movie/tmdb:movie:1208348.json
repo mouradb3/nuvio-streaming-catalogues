@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1208348",
+    "type": "movie",
+    "name": "Famille à louer",
+    "poster": "https://image.tmdb.org/t/p/w500/4IkrOFfSrVBkL8IbpS437umm2i1.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/euoXeFAOt9o7yAWA9zGZk7DdZWZ.jpg",
+    "description": "En quête d'un sens à sa vie, un acteur décroche un contrat auprès d'une agence japonaise pour jouer le rôle de doublure pour des étrangers. Il commence à tisser des liens authentiques qui brouillent les frontières entre fiction et réalité.\n\nDisponibilité Canada : Crave, Crave Amazon Channel, Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1208348"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1208348-rental-family/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1208348",
+      "hasScheduledVideos": false
+    }
+  }
+}

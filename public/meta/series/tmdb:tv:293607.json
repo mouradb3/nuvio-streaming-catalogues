@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:293607",
+    "type": "series",
+    "name": "100 jours en espionne",
+    "poster": "https://image.tmdb.org/t/p/w500/ox52xrCfPq9iHWX1YX8DC03vBqz.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
+    "description": "En quête de liberté, la meilleure pickpocket de Séoul infiltre le gouvernement colonial japonais pour lui dérober des secrets, mais tombe amoureuse du fils de sa cible.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/293607"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/293607-100/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:293607",
+      "hasScheduledVideos": true
+    }
+  }
+}

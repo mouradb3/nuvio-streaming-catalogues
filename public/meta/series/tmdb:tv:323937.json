@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:323937",
+    "type": "series",
+    "name": "Dandivine",
+    "poster": "https://image.tmdb.org/t/p/w500/hQQ3kZQxPC7Y2m6jEfDYhoIOgVY.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/v4HLZ8FsBeYPjMBQZ1JFgrhkhG8.jpg",
+    "description": "Vingt ans se sont écoulés depuis que le robot Dandivine a vaincu de mystérieux envahisseurs, les Aposdoll. Dandivine est devenu si populaire qu'il fait l'objet de jouets, mais les ventes baissent au grand damne de son fabricant. Jusqu'au jour où un Aposdoll réapparaît à Tokyo, semant la panique. Pourquoi est-il ici ? Les ventes de jouets vont-elles repartir ? Une nouvelle bataille commence !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "10",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/323937"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/323937/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:323937",
+      "hasScheduledVideos": true
+    }
+  }
+}

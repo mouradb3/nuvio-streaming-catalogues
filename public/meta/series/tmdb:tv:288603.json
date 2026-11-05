@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:288603",
+    "type": "series",
+    "name": "炽夏",
+    "poster": "https://image.tmdb.org/t/p/w500/k3BdjZWuw2TFOsYzFeb46M7FgNh.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/h1bGO8w5hyn22DGNv0MOZKTog1X.jpg",
+    "description": "Disponibilité Canada : iQIYI.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/288603"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/288603/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:288603",
+      "hasScheduledVideos": true
+    }
+  }
+}

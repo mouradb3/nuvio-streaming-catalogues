@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1631917",
+    "type": "movie",
+    "name": "La 18e Rose",
+    "poster": "https://image.tmdb.org/t/p/w500/GC44Gvdyg9Wa01AZ3d1XzJqfbg.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/21YKck5bSRcvRIXlVg6ZaV0k0sj.jpg",
+    "description": "Une belle robe de bal. Un cavalier parfait. Une danse gracieuse. Tout semble parfait pour l'anniversaire de Rose… mais l'arrivée d'un jeune homme tourmenté pourrait tout changer.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1631917"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1631917-18th-rose/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1631917",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1512493",
+    "type": "movie",
+    "name": "LEGO Friends: Heartlake the Musical",
+    "poster": "https://image.tmdb.org/t/p/w500/6PMMEU8eHSN0TlPG6koC8EEvavx.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/AabTg6wBsygQYoyOqpbe6miWovJ.jpg",
+    "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1512493"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1512493-lego-friends-heartlake-the-musical/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1512493",
+      "hasScheduledVideos": false
+    }
+  }
+}

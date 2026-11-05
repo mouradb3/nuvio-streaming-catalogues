@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1447971",
+    "type": "movie",
+    "name": "惊蛰无声",
+    "poster": "https://image.tmdb.org/t/p/w500/pKvogvxeYK0OhseQyLCmjcRRcWG.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/nN3RRsmNcxXIH10gcKuBjQXeyo9.jpg",
+    "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1447971"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1447971/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1447971",
+      "hasScheduledVideos": false
+    }
+  }
+}

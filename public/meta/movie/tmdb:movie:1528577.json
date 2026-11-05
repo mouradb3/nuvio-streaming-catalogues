@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1528577",
+    "type": "movie",
+    "name": "Thỏ Ơi!!",
+    "poster": "https://image.tmdb.org/t/p/w500/rWXJZWweOoDjZXLQuKSsHw14GaO.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/wDUrTRRXh7DzhZtTI1YkAkTc89S.jpg",
+    "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1528577"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1528577-th-i/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1528577",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1130948",
+    "type": "movie",
+    "name": "Rosebush Pruning",
+    "poster": "https://image.tmdb.org/t/p/w500/rsHEVjzxU8cxz1sm3vboj99daNv.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/vcZ3UUVmFNk90DBSrTBlTKCdbbE.jpg",
+    "description": "Sous le soleil catalan, une riche famille américaine blanche vit dans un isolement hédoniste, cherchant amour et reconnaissance les uns auprès des autres à travers leurs habits de créateurs et la musique pop. Mais l’arrivée d’une étrangère au sein de la famille fait ressurgir des tensions enfouies.  .....  Une version contemporaine des Poings dans les poches de Marco Bellocchio.\n\nDisponibilité France : MUBI, MUBI Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1130948"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1130948-rosebush-pruning/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1130948",
+      "hasScheduledVideos": false
+    }
+  }
+}

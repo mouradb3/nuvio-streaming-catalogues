@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1159206",
+    "type": "movie",
+    "name": "Father Mother Sister Brother",
+    "poster": "https://image.tmdb.org/t/p/w500/fwjXTNPPsp5pcrFrYyR5karoXcV.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/n36zycrAqHn2uzx65IeAdnsZcMj.jpg",
+    "description": "Trois histoires distinctes, campées dans trois pays (les États-Unis, l’Irlande, la France), explorent les relations familiales et leurs silences, leurs ressentiments et leurs gestes tendres. Dans la première (\"Father\"), un frère et une sœur rendent visite à leur père excentrique et reclus; dans la deuxième (\"Mother\"), deux filles se retrouvent face à leur mère écrivaine, distante et exigeante; dans la troisième (\"Sister Brother\"), des jumeaux composent avec les séquelles émotionnelles liées au décès récent de leurs parents.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1159206"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1159206-father-mother-sister-brother/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1159206",
+      "hasScheduledVideos": false
+    }
+  }
+}

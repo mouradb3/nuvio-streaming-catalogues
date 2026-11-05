@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1318413",
+    "type": "movie",
+    "name": "Pression",
+    "poster": "https://image.tmdb.org/t/p/w500/czMJ6rsqJZFt01eGUT5n0DXoCEd.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+    "description": "Un météorologue écossais s'efforce de convaincre le général Eisenhower de reporter d'une journée le débarquement de Normandie.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1318413"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1318413-pressure/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1318413",
+      "hasScheduledVideos": false
+    }
+  }
+}

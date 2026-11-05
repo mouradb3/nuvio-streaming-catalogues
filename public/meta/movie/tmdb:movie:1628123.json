@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1628123",
+    "type": "movie",
+    "name": "BTS the Comeback Live - Arirang",
+    "poster": "https://image.tmdb.org/t/p/w500/u3IsNHuTykczbnLPYSzEMJ2p32G.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/rI9VPEw13XlVZzhOcLXt3Tiweyx.jpg",
+    "description": "BTS est de retour ! Le groupe mythique remonte sur scène pour un concert de retrouvailles exceptionnel, interprétant ses tubes légendaires et des morceaux inédits.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1628123"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1628123-bts-arirang/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1628123",
+      "hasScheduledVideos": false
+    }
+  }
+}

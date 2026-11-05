@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:254498",
+    "type": "series",
+    "name": "黑夜告白",
+    "poster": "https://image.tmdb.org/t/p/w500/qUhPr2XpczJpnQnXIqJjYaCxOli.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/x31KOFBrL65fnVfohGrKJCbPynk.jpg",
+    "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/254498"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/254498/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:254498",
+      "hasScheduledVideos": true
+    }
+  }
+}

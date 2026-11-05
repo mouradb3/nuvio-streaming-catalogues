@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:898704",
+    "type": "movie",
+    "name": "Desert Warrior",
+    "poster": "https://image.tmdb.org/t/p/w500/waxnw1NpzTPY5JkqWvu0muSopRJ.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ohlNSR8MsHk5e6fcAxqAJmcz4Sm.jpg",
+    "description": "Quand une jeune princesse refuse d'être soumise au redoutable empereur Kisra, une bataille éclate de telle sorte qu'elle change la région de l'ancienne Arabie Saoudite à jamais.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/898704"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/898704-desert-warrior/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:898704",
+      "hasScheduledVideos": false
+    }
+  }
+}

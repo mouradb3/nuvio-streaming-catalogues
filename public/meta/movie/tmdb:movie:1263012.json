@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1263012",
+    "type": "movie",
+    "name": "Dead Man's Wire",
+    "poster": "https://image.tmdb.org/t/p/w500/g7Y94KrUd0pDGRVVZQMh4n9FnYp.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ulw8SrKbDeDrsSVNKPb5211AseI.jpg",
+    "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1263012"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1263012-dead-man-s-wire/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1263012",
+      "hasScheduledVideos": false
+    }
+  }
+}

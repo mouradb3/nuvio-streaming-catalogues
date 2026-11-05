@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1585476",
+    "type": "movie",
+    "name": "Le premier Noël présenté par Kevin Costner",
+    "poster": "https://image.tmdb.org/t/p/w500/lEd8T8BGQEBhuh6bk6DFS7UC81d.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/zfN93jpbjqh08IUYKwQfDwJl5pE.jpg",
+    "description": "Kevin Costner présente le voyage extraordinaire de Marie et Joseph. Revivez leur périple semé d'embûches et de triomphes jusqu'à la naissance de Jésus-Christ. Une manière inspirante de découvrir le véritable sens de Noël.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1585476"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1585476-kevin-costner-presents-the-first-christmas/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1585476",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1413097",
+    "type": "movie",
+    "name": "Melania",
+    "poster": "https://image.tmdb.org/t/p/w500/ba6Silct0Y4pyvrSv0Tj0Urmx9f.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/85BqDpCZSA5lzsRbANkchg0RFIf.jpg",
+    "description": "MELANIA offre un accès inédit aux 20 jours menant à l'investiture présidentielle de 2025 à travers les yeux de la Première dame. Grâce à des images exclusives de réunions, de conversations privées et autres évènements, découvrez l'univers de Melania Trump alors qu'elle orchestre les préparatifs de l'investiture, les défis de la transition présidentielle et le retour des Trump dans la capitale.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "3.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1413097"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1413097-melania/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1413097",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:319990",
+    "type": "series",
+    "name": "Les cauchemars de Junji Ito",
+    "poster": "https://image.tmdb.org/t/p/w500/fXZtAKordt7RtCD6k0kWIqLirMW.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/6Ofj5BNqmYgI3g2rbriv9gZoRLy.jpg",
+    "description": "Les cauchemars de Junji Ito prennent vie dans ce film où des vies ordinaires basculent dans l’étrange, le grotesque et l’inéluctable.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/319990"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/319990/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:319990",
+      "hasScheduledVideos": true
+    }
+  }
+}

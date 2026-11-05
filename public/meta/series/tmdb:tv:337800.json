@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:337800",
+    "type": "series",
+    "name": "Le massacre de Flores",
+    "poster": "https://image.tmdb.org/t/p/w500/859hxUCwgo4V9a6Fjx0QSe4tb88.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/oc6OMFUQooMKg74qtvOWUjufUsU.jpg",
+    "description": "L'histoire de Matías Bagnato, seul survivant du massacre de Flores, l'une des affaires criminelles les plus choquantes de l'histoire argentine.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/337800"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/337800-la-masacre-de-flores/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:337800",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1545997",
+    "type": "movie",
+    "name": "Noël in the city",
+    "poster": "https://image.tmdb.org/t/p/w500/5tYw1fstvTdpH6wInqY23oTIiiI.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ow0fjNLTQeI8trA3oH3d1szqdl.jpg",
+    "description": "Toute en joie de recevoir sa famille chez elle à Chicago pour Noël, Nell a concocté un séjour sur mesure et préparé un programme d'activités dont elle rêvait depuis des années. Ses parents et sa soeur ont malheureusement des contraintes de dernières minutes et ne pourront pas venir... Elle se résout à annuler ses projets. Mais, encouragée par Cooper, son voisin, Nell décide de tout mettre en oeuvre pour vivre le Noël dont elle a toujours rêvé.\n\nDisponibilité France : Netflix, Netflix Standard with Ads, TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1545997"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1545997-single-on-the-25th/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1545997",
+      "hasScheduledVideos": false
+    }
+  }
+}

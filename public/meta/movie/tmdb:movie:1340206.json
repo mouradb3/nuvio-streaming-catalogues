@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1340206",
+    "type": "movie",
+    "name": "Tuner",
+    "poster": "https://image.tmdb.org/t/p/w500/t1P4WhoeuiXoP3Zgq2rkRChdibu.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/y04gpYp8rJoUud6vf8okqHIdP4V.jpg",
+    "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1340206"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1340206-tuner/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1340206",
+      "hasScheduledVideos": false
+    }
+  }
+}

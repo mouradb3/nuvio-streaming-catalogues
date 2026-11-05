@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1373198",
+    "type": "movie",
+    "name": "Twisted",
+    "poster": "https://image.tmdb.org/t/p/w500/AkRiuvV7R46xfMqUJWKyJ1fuSXh.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/b13AuahXeffKtRYij0QYb9pBuEy.jpg",
+    "description": "Deux milléniaux gagnent rapidement de l'argent en louant d'incroyables appartements new-yorkais qui ne leur appartiennent pas à des personnes qui ne se doutent pas qu'elles se font escroquer. L'arnaque fonctionne à merveille jusqu'à ce qu'ils tombent sur un propriétaire d'appartement qui cache un sombre secret et qui retourne la situation à leur détriment.\n\nDisponibilité France : Paramount Plus, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "4.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1373198"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1373198-twisted/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1373198",
+      "hasScheduledVideos": false
+    }
+  }
+}

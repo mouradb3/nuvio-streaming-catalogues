@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:278927",
+    "type": "series",
+    "name": "逍遥",
+    "poster": "https://image.tmdb.org/t/p/w500/nOndRgTrDDj4a582suRULBalBN8.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/1SvJs910EQol6mlndJ8tsqZzSMj.jpg",
+    "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/278927"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/278927/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:278927",
+      "hasScheduledVideos": true
+    }
+  }
+}

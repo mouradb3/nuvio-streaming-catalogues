@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1440050",
+    "type": "movie",
+    "name": "Le soutien de famille",
+    "poster": "https://image.tmdb.org/t/p/w500/3okouWdwZBQsScdNtMvp1kZHw6r.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/dgqBcgTzaUiSLvKJPDF9AbdFEMO.jpg",
+    "description": "L’humoriste Nate Bargatze joue Nate Wilcox, vendeur de voitures, aux côtés de Mandy Moore dans le rôle de sa femme Katie. Pour Nate et leurs trois enfants, Katie est la mère parfaite. Mais quand son invention décroche une chance unique à Shark Tank et l’envoie en voyage d’affaires, Nate doit empêcher la maison de tomber en ruines… au sens propre.\n\nDisponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1440050"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1440050-the-breadwinner/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1440050",
+      "hasScheduledVideos": false
+    }
+  }
+}

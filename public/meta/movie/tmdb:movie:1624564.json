@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1624564",
+    "type": "movie",
+    "name": "Libang Libu",
+    "poster": "https://image.tmdb.org/t/p/w500/l0BJfhS4CH5FCbL2WUQqaOWmRWi.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/68hiIlYXQlqCbkJ6X2xHC6ImLS2.jpg",
+    "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1624564"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1624564-libang-libu/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1624564",
+      "hasScheduledVideos": false
+    }
+  }
+}

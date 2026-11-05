@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:300507",
+    "type": "series",
+    "name": "Mal barrée",
+    "poster": "https://image.tmdb.org/t/p/w500/za0iB5FeqXdGWFxaVYlZ2DU2Pvu.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/lmtTtOjsIBxwKD7LsAD5eeyhq1g.jpg",
+    "description": "Après un scandale familial, Teagan Tao s'installe dans une petite ville et rejoint l'équipe d'aviron masculine d'une école d'élite, où rivalités et attirances s'entremêlent.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/300507"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/300507-crew-girl/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:300507",
+      "hasScheduledVideos": true
+    }
+  }
+}

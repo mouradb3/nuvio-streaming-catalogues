@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:209110",
+    "type": "series",
+    "name": "Le Prix des aveux",
+    "poster": "https://image.tmdb.org/t/p/w500/iSu9YNe17GqwwzZuIjYMn92ESkr.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/kgqzwaOzgkaAj12XLYxgK5wB7XA.jpg",
+    "description": "Accusée d'avoir tué son mari, une femme se voit proposer un marché par une mystérieuse inconnue qui accepte d'avouer le crime à sa place en échange d'un autre meurtre.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/209110"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/209110/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:209110",
+      "hasScheduledVideos": true
+    }
+  }
+}

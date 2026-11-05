@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:303351",
+    "type": "series",
+    "name": "Blood Sacrifice",
+    "poster": "https://image.tmdb.org/t/p/w500/uRQ9QaoeIYeVpigSR6pCQR45Alw.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/z6mnJhvFbAgM1UTL87NWjJLhK26.jpg",
+    "description": "C'est l'été à Stockholm, lorsque la nuit ne tombe jamais vraiment. Un appel d'urgence signale une violation de domicile dans l'archipel. Les deux policiers dépêchés sur place fouillent les lieux, une maison de vacances, mais ne trouvent personne. Victimes d'un crime sanglant, leurs corps sans vie sont découverts le lendemain. C'est le début d'une série de meurtres terrifiants, tous semblant cibler des agents des forces de l'ordre. L'inspecteur principal doit alors demander de l'aide à son père, un policier à la retraite, pour élucider l'affaire.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/303351"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/303351-blodsoffer/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:303351",
+      "hasScheduledVideos": true
+    }
+  }
+}

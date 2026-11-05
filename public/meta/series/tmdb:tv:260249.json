@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:260249",
+    "type": "series",
+    "name": "El juicio",
+    "poster": "https://image.tmdb.org/t/p/w500/8tim2R1DnlLz5piMosrTc3JWuGo.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/bLcF9mcinphgFlXEfk7RkCSfqCv.jpg",
+    "description": "Disponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/260249"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/260249-el-juicio/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:260249",
+      "hasScheduledVideos": true
+    }
+  }
+}

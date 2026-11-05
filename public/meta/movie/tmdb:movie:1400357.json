@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1400357",
+    "type": "movie",
+    "name": "The Christophers",
+    "poster": "https://image.tmdb.org/t/p/w500/bZvRuU5OaDd7toBVMuPrsYVl2dN.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/saEkWul1fGNixEug2w6RtOmTws2.jpg",
+    "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1400357"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1400357-the-christophers/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1400357",
+      "hasScheduledVideos": false
+    }
+  }
+}

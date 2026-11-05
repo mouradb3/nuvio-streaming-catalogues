@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:244244",
+    "type": "series",
+    "name": "Ne t'enfuis plus",
+    "poster": "https://image.tmdb.org/t/p/w500/csNEsCQQNYWkuhLxf0sX5hdNpcF.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/1jBYTcOuiPNJsTcfYk66bbVLSBz.jpg",
+    "description": "Un père qui recherche désespérément sa fille se retrouve impliqué dans une affaire de meurtre et découvre des secrets qui pourraient détruire sa famille à jamais.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/244244"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/244244-run-away/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:244244",
+      "hasScheduledVideos": true
+    }
+  }
+}

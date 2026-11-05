@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1401778",
+    "type": "movie",
+    "name": "Turbulence",
+    "poster": "https://image.tmdb.org/t/p/w500/ggCueswyZYkHqQcbJuKgteshY2F.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/vOV4Qy3g791OTzEndiSGoJwuI2M.jpg",
+    "description": "Zach et Emmy, un jeune couple marié, embarquent pour un voyage en montgolfière au-dessus des Dolomites italiennes afin de redonner un souffle à leur relation. Accompagnés du pilote Harry, ils accueillent une troisième passagère, Julia, et tout bascule de façon inattendue à cinq mille mètres d'altitude. Ce qui promettait d'être une expérience inoubliable tourne au cauchemar quand les secrets troublants des passagers éclatent au grand jour et que la nature déchaîne sa fureur.\n\nDisponibilité France : Netflix.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1401778"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1401778-turbulence/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1401778",
+      "hasScheduledVideos": false
+    }
+  }
+}

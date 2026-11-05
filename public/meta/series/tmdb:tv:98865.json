@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:98865",
+    "type": "series",
+    "name": "Mebius Dust",
+    "poster": "https://image.tmdb.org/t/p/w500/2wvrWWiOzLstupoRkSgNdvShPGn.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/zWXRjJFEfwQnMqqeyvjTLWkRenH.jpg",
+    "description": "Araki, Stella et Olga sont lycéennes et vivent dans une ville marquée par la mystérieuse « poussière de Mebius ». Entre jeux vidéo, sorties aux bains et promenades pour rentrer chez elles, leurs journées s'écoulent paisiblement. Mais une étrange technologie va bouleverser discrètement leur quotidien.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/98865"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/98865/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:98865",
+      "hasScheduledVideos": true
+    }
+  }
+}

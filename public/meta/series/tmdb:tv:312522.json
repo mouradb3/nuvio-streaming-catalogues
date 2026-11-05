@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:312522",
+    "type": "series",
+    "name": "My Ribdiculous Reincarnation",
+    "poster": "https://image.tmdb.org/t/p/w500/zXGD7HbBtqdTpfSbi5Dq2Qo6tCN.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/zheGPQDo6pOM4Dg1sE6GB246Usp.jpg",
+    "description": "Dans un monde où il est possible de se réincarner et d'avoir le choix, certains rôles populaires sont pris d'assaut, laissant une liste d'attente d'un millier d'années. Mais un postulant refuse d'attendre aussi longtemps et décide de se réincarner sous d'autres formes, toutes plus saugrenues les unes que les autres.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/312522"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/312522/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:312522",
+      "hasScheduledVideos": true
+    }
+  }
+}

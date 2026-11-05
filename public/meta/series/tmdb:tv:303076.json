@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:303076",
+    "type": "series",
+    "name": "첫 번째 남자",
+    "poster": "https://image.tmdb.org/t/p/w500/gWDDN4CurXWepCfrO6YvxBFESec.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/mHp8UKRPwZNjBmt9rncemEzIa6O.jpg",
+    "description": "Disponibilité France : Kocowa.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "3.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/303076"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/303076/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:303076",
+      "hasScheduledVideos": true
+    }
+  }
+}

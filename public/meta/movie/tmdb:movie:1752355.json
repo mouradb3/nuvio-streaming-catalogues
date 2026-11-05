@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1752355",
+    "type": "movie",
+    "name": "Schumacher '94 – La naissance d'une légende",
+    "poster": "https://image.tmdb.org/t/p/w500/o09Z2TPQLkLg2zE6U9PUF17RmGf.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/8ADvnUHcEyt2247A1EL9WK4IdMI.jpg",
+    "description": "La première victoire de Michael Schumacher au Championnat du monde reprend vie grâce à des interviews personnelles et des images d'archives de la légendaire saison 1994 de Formule 1.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1752355"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1752355-schumacher-94-die-geburt-einer-legende/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1752355",
+      "hasScheduledVideos": false
+    }
+  }
+}

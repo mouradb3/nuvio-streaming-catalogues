@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:321338",
+    "type": "series",
+    "name": "Entre pére et fils",
+    "poster": "https://image.tmdb.org/t/p/w500/pnm3TLOD4t8gxFAn5bV4RRsTjfE.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/7K4Ywif166vgdB8LK16Vq9CoyMW.jpg",
+    "description": "Dans le domaine de sa future belle-famille, une avocate accomplie se rapproche dangereusement du fils tourmenté de son fiancé, sur fond de tensions enfouies et de secrets pesants.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/321338"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/321338-entre-padre-e-hijo/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:321338",
+      "hasScheduledVideos": true
+    }
+  }
+}

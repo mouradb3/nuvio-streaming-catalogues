@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1241983",
+    "type": "movie",
+    "name": "Train Dreams",
+    "poster": "https://image.tmdb.org/t/p/w500/aQfob5TRbPCIwThSSyUlwXLwoXy.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/u5NWHVhZ6HWc1fXnqn82cMar5St.jpg",
+    "description": "Entre histoire d'amour et deuil, un bûcheron vit un paisible état de grâce dans le monde en pleine mutation du début du 20e siècle en Amérique.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1241983"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1241983-train-dreams/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1241983",
+      "hasScheduledVideos": false
+    }
+  }
+}

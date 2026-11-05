@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1560681",
+    "type": "movie",
+    "name": "Les Couleurs du mal : Noir",
+    "poster": "https://image.tmdb.org/t/p/w500/emxCN9eLQHa5f26AVTfeEV8R0Pn.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/2D3W3Jp0VYsLhXTEfnvhbMvQEzk.jpg",
+    "description": "Lorsqu'un jeune garçon disparaît dans une petite ville paisible, un procureur fraîchement muté commence à découvrir des liens inattendus avec une ancienne affaire.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1560681"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1560681-kolory-zla-czern/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1560681",
+      "hasScheduledVideos": false
+    }
+  }
+}

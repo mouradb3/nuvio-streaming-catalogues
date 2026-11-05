@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1401318",
+    "type": "movie",
+    "name": "Un ex pour Noël",
+    "poster": "https://image.tmdb.org/t/p/w500/qa6E9wldSaTZKVjxQ6MV3NPrYht.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/2GHJGnF2jgnzeqT3XTHjHXgk5Fx.jpg",
+    "description": "Kate et Everett espèrent divorcer à l'amiable et passer un dernier Noël en famille, mais de nouvelles conquêtes et de vieux sentiments viennent compromettre leurs plans.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1401318"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1401318-a-merry-little-ex-mas/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1401318",
+      "hasScheduledVideos": false
+    }
+  }
+}

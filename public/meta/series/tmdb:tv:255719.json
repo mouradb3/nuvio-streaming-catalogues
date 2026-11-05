@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:255719",
+    "type": "series",
+    "name": "Merteuil",
+    "poster": "https://image.tmdb.org/t/p/w500/awOWWPDLDc3Q5s5MuC3KXnhbpEj.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/iyPxER0i2XPPhK92kHmd7BAF7v0.jpg",
+    "description": "Pour être l'héroïne de sa propre vie, elle va briser celle des autres. La jeune Isabelle de Merteuil, humiliée par Valmont, perd son honneur et son rang. Ivre de colère, elle se lance dans une vertigineuse ascension, défiant toute morale et tout pouvoir, des bas-fonds libertins jusqu'à la cour de Louis XV. Au bout de sa lutte pour la liberté, un choix l'attend, déchirant, entre l'amour et la vengeance.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/255719"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/255719-merteuil/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:255719",
+      "hasScheduledVideos": true
+    }
+  }
+}

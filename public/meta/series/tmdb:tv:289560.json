@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:289560",
+    "type": "series",
+    "name": "CIA",
+    "poster": "https://image.tmdb.org/t/p/w500/fEXauqIabKrMPQ2lVTHKdrkrR4Z.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/faxI8ewOUkQRy4z4vwP6kci8Ilk.jpg",
+    "description": "Disponibilité Canada : Paramount Plus, Paramount Plus Apple TV channel, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel, StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/289560"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/289560-cia/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:289560",
+      "hasScheduledVideos": true
+    }
+  }
+}

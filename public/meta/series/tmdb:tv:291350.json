@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:291350",
+    "type": "series",
+    "name": "Anna Pigeon",
+    "poster": "https://image.tmdb.org/t/p/w500/iLhi3wqsLOdHB61vySJRm7y09XS.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/w6F8pr3bYBlr9LRCM4sIgfto5g3.jpg",
+    "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/291350"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/291350-anna-pigeon/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:291350",
+      "hasScheduledVideos": true
+    }
+  }
+}

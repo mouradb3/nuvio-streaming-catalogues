@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1425122",
+    "type": "movie",
+    "name": "Un Noël chez les Jonas Brothers",
+    "poster": "https://image.tmdb.org/t/p/w500/xogqelBdvmQP3VdE1MDNKvVjdzo.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ajYw16ISz3qsdYTg4zy5rob1iAQ.jpg",
+    "description": "Les Jonas Brothers peinent à rentrer chez eux à temps pour fêter Noël avec leurs familles.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1425122"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1425122-a-very-jonas-christmas-movie/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1425122",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:230311",
+    "type": "series",
+    "name": "爱情有烟火",
+    "poster": "https://image.tmdb.org/t/p/w500/vjRI8Vnxoetq4Rkl0aJYUYZ95iN.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/xEUcPKH4Nfm6XSuyzgkox6mh775.jpg",
+    "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/230311"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/230311/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:230311",
+      "hasScheduledVideos": true
+    }
+  }
+}

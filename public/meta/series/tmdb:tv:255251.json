@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:255251",
+    "type": "series",
+    "name": "Sean Combs : L'heure des comptes",
+    "poster": "https://image.tmdb.org/t/p/w500/py50U7d1XaWcr7tCsXC2LoM68dM.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/cxVywdc4vqU1dCG19FSg4t9nQgL.jpg",
+    "description": "Cette série documentaire décrypte les accusations choquantes qui visent Sean « Diddy » Combs et son empire Bad Boy, couvrant plusieurs années de sa vie et de sa carrière.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/255251"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/255251-sean-combs-the-reckoning/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:255251",
+      "hasScheduledVideos": true
+    }
+  }
+}

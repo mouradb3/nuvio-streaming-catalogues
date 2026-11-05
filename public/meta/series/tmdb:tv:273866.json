@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:273866",
+    "type": "series",
+    "name": "The Other Bennet Sister",
+    "poster": "https://image.tmdb.org/t/p/w500/esU4D2XSA7hNHC8G2bmMkvX5g5H.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ff6y85mMOnsLPcgUS0q3zX1N7WO.jpg",
+    "description": "Disponibilité Canada : BritBox, BritBox Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/273866"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/273866-the-other-bennet-sister/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:273866",
+      "hasScheduledVideos": true
+    }
+  }
+}

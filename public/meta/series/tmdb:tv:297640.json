@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:297640",
+    "type": "series",
+    "name": "은밀한 감사",
+    "poster": "https://image.tmdb.org/t/p/w500/vPGOqul3AvA7J2tAL59blyprUkz.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/xrzle63zw2MduVGmTFeKNXKqUla.jpg",
+    "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/297640"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/297640/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:297640",
+      "hasScheduledVideos": true
+    }
+  }
+}

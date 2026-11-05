@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1167307",
+    "type": "movie",
+    "name": "David",
+    "poster": "https://image.tmdb.org/t/p/w500/xAGzSQBN1tTGjuaB1njwnkN9Etf.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/mZ6J2g6HCV2gj3iuCdSxcyBXq9c.jpg",
+    "description": "Des chants du cœur de sa mère aux murmures d'un Dieu fidèle, l'histoire de David commence dans une dévotion silencieuse. Lorsque le géant Goliath se lève pour terroriser une nation, un jeune berger armé uniquement d'une fronde, de quelques pierres et d'une foi inébranlable s'avance. Poursuivi par le pouvoir et animé par un but précis, son parcours met à l'épreuve les limites de la loyauté, de l'amour et du courage, et culmine dans une bataille qui ne vise pas seulement la couronne, mais aussi l'âme d'un royaume.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1167307"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1167307-david/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1167307",
+      "hasScheduledVideos": false
+    }
+  }
+}

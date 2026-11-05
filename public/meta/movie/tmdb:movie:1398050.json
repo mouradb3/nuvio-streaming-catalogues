@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1398050",
+    "type": "movie",
+    "name": "Permis de Conduire",
+    "poster": "https://image.tmdb.org/t/p/w500/qAqL9cYKvUbMAVCqdTcLQuXE5mn.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/3fs6Encf71ChabAKV6VrnpQRrjV.jpg",
+    "description": "Jeremy, un lycéen en terminale, décide de rester avec sa copine Samantha après son départ à la fac. Après un coup de fil alcoolisé laissant croire qu'elle le quitte, Jeremy vole la voiture de son cours de conduite avec trois camarades et part pour Chapel Hill afin de la reconquérir. Durant 24 h chaotiques, ils sont poursuivis par la sécurité, des criminels et leurs propres mauvaises décisions.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1398050"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1398050-driver-s-ed/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1398050",
+      "hasScheduledVideos": false
+    }
+  }
+}

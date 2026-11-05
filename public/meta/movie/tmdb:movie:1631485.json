@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1631485",
+    "type": "movie",
+    "name": "Les Inconnus du parc",
+    "poster": "https://image.tmdb.org/t/p/w500/ckBRproYQsXAJGtyejKjDr5ZcBU.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/gDyTWJIeoZcFJgV4DZ8fIJXxp5Y.jpg",
+    "description": "Un ancien militant communiste et un libre penseur nouent une amitié improbable sur un banc et partagent leurs histoires avec humour et émotion.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1631485"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1631485-parque-lezama/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1631485",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1259983",
+    "type": "movie",
+    "name": "Gourou",
+    "poster": "https://image.tmdb.org/t/p/w500/ufdcPu8CdcsC0c73pATNjYXEmMR.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/t77v17Y74eIQDSITsBHtiySOGPr.jpg",
+    "description": "Matt est le coach en développement personnel le plus suivi de France. Dans une société en quête de sens où la réussite individuelle est devenue sacrée, il propose à ses adeptes une catharsis qui électrise les foules autant qu'elle inquiète les autorités. Sous le feu des critiques, Matt va s'engager dans une fuite en avant qui le mènera aux frontières de la folie et peut-être de la gloire...\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1259983"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1259983-gourou/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1259983",
+      "hasScheduledVideos": false
+    }
+  }
+}
