@@ -227,8 +227,18 @@ export async function updateCatalogs() {
       }));
       const added = eventMetas.filter((_, i) => regionEvents.filter(e => e.type === mediaType(type))[i]?.kind === "added");
       const removed = eventMetas.filter((_, i) => regionEvents.filter(e => e.type === mediaType(type))[i]?.kind === "removed");
-      const trend = [...active].sort((a, b) => (b._source.popularity || 0) - (a._source.popularity || 0));
-      outputs.push([catalogFileName(region, "releases", type), createCatalog(active.map(toPublicMeta))]);
+      const recentReleases = [...active].sort((a, b) => {
+  const dateA = a._source.releaseDate || "";
+  const dateB = b._source.releaseDate || "";
+  return dateB.localeCompare(dateA);
+});
+      const recentReleases = [...active].sort((a, b) => {
+  const dateA = a._source.releaseDate || "";
+  const dateB = b._source.releaseDate || "";
+  return dateB.localeCompare(dateA);
+});
+const trend = [...active].sort((a, b) => (b._source.popularity || 0) - (a._source.popularity || 0));
+outputs.push([catalogFileName(region, "releases", type), createCatalog(recentReleases.map(toPublicMeta))]);
       outputs.push([catalogFileName(region, "additions", type), createCatalog(added)]);
       outputs.push([catalogFileName(region, "removals", type), createCatalog(removed)]);
       outputs.push([catalogFileName(region, "trending", type), createCatalog(trend.map(toPublicMeta))]);
