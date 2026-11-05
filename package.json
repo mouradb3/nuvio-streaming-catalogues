@@ -1,0 +1,13 @@
+{
+  "name": "nuvio-streaming-catalogues",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Catalogues Nuvio/Stremio France et Canada avec rétroactivité 12 mois et détection des changements depuis le premier scan",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "update": "node src/update.js",
+    "export": "node src/export-static.js",
+    "check": "node --check src/tmdb.js && node --check src/update.js && node --check src/export-static.js"
+  }
+}
