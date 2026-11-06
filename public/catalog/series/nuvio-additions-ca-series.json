@@ -1,5 +1,580 @@
 {
-  "metas": [],
+  "metas": [
+    {
+      "id": "tmdb:tv:288589",
+      "type": "series",
+      "name": "お気楽領主の楽しい領地防衛 ～生産系魔術で名もなき村を最強の城塞都市に～",
+      "poster": "https://image.tmdb.org/t/p/w500/27sQp8T5zwGICIKmxOn6XkK5UtD.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zwdmHsZIbFu9Bia6EvXMbG1lBBt.jpg",
+      "description": "Disponibilité détectée chez Crunchyroll — Canada.\nDate de détection : 2026-11-06T19:53:49.258Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/288589"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:288589",
+      "type": "series",
+      "name": "お気楽領主の楽しい領地防衛 ～生産系魔術で名もなき村を最強の城塞都市に～",
+      "poster": "https://image.tmdb.org/t/p/w500/27sQp8T5zwGICIKmxOn6XkK5UtD.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zwdmHsZIbFu9Bia6EvXMbG1lBBt.jpg",
+      "description": "Disponibilité détectée chez Crunchyroll Amazon Channel — Canada.\nDate de détection : 2026-11-06T19:53:49.258Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/288589"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:257992",
+      "type": "series",
+      "name": "Traqués",
+      "poster": "https://image.tmdb.org/t/p/w500/joypYnl91D4H75Y265PbHZuYdbu.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/oitb5QFxxhjYzb0KK4zoooO0LSX.jpg",
+      "description": "Disponibilité détectée chez Apple TV — Canada.\nDate de détection : 2026-11-06T19:53:49.238Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/257992"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:338973",
+      "type": "series",
+      "name": "Alas Roban: The Series",
+      "poster": "https://image.tmdb.org/t/p/w500/wi5ydBPkfjI7p0fFRqaRLwMG1Wo.jpg",
+      "description": "Disponibilité détectée chez Netflix — Canada.\nDate de détection : 2026-11-06T19:53:49.158Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/338973"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:338973",
+      "type": "series",
+      "name": "Alas Roban: The Series",
+      "poster": "https://image.tmdb.org/t/p/w500/wi5ydBPkfjI7p0fFRqaRLwMG1Wo.jpg",
+      "description": "Disponibilité détectée chez Netflix Standard with Ads — Canada.\nDate de détection : 2026-11-06T19:53:49.158Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/338973"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:258036",
+      "type": "series",
+      "name": "The Audacity",
+      "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4X86dOxMsrZudL0PdsMv30NGBWZ.jpg",
+      "description": "Disponibilité détectée chez AMC Plus Apple TV channel — Canada.\nDate de détection : 2026-11-06T19:53:49.092Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/258036"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:258036",
+      "type": "series",
+      "name": "The Audacity",
+      "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4X86dOxMsrZudL0PdsMv30NGBWZ.jpg",
+      "description": "Disponibilité détectée chez AMC+ — Canada.\nDate de détection : 2026-11-06T19:53:49.092Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/258036"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:258036",
+      "type": "series",
+      "name": "The Audacity",
+      "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4X86dOxMsrZudL0PdsMv30NGBWZ.jpg",
+      "description": "Disponibilité détectée chez AMC+ Amazon Channel — Canada.\nDate de détection : 2026-11-06T19:53:49.092Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/258036"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:336418",
+      "type": "series",
+      "name": "The Pet Cemetery Murders: A Ghost Story",
+      "poster": "https://image.tmdb.org/t/p/w500/aSD3YkLuTBnoYgyTCXtZRAxezNP.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/Ag8tSoa5uLQ6W9m3YR1qS0FAUyh.jpg",
+      "description": "Disponibilité détectée chez Crave — Canada.\nDate de détection : 2026-11-06T19:53:49.060Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/336418"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:336418",
+      "type": "series",
+      "name": "The Pet Cemetery Murders: A Ghost Story",
+      "poster": "https://image.tmdb.org/t/p/w500/aSD3YkLuTBnoYgyTCXtZRAxezNP.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/Ag8tSoa5uLQ6W9m3YR1qS0FAUyh.jpg",
+      "description": "Disponibilité détectée chez Crave Amazon Channel — Canada.\nDate de détection : 2026-11-06T19:53:49.060Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/336418"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:285933",
+      "type": "series",
+      "name": "真夜中ハートチューン",
+      "poster": "https://image.tmdb.org/t/p/w500/otKyL6FiAoNAAB90N0cO3RhRhCj.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ynU47aomjOY3bHw4liU1NTkaROW.jpg",
+      "description": "Disponibilité détectée chez Crunchyroll — Canada.\nDate de détection : 2026-11-06T19:53:48.945Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/285933"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:285933",
+      "type": "series",
+      "name": "真夜中ハートチューン",
+      "poster": "https://image.tmdb.org/t/p/w500/otKyL6FiAoNAAB90N0cO3RhRhCj.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ynU47aomjOY3bHw4liU1NTkaROW.jpg",
+      "description": "Disponibilité détectée chez Crunchyroll Amazon Channel — Canada.\nDate de détection : 2026-11-06T19:53:48.945Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/285933"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:284581",
+      "type": "series",
+      "name": "最強出涸らし皇子の暗躍帝位争い",
+      "poster": "https://image.tmdb.org/t/p/w500/etpSosywRvOO8mds61uv3aSjhDF.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rbxKqzKkw9zrO9lKgqvXHOo4sZo.jpg",
+      "description": "Disponibilité détectée chez Crunchyroll — Canada.\nDate de détection : 2026-11-06T19:53:48.921Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/284581"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:284581",
+      "type": "series",
+      "name": "最強出涸らし皇子の暗躍帝位争い",
+      "poster": "https://image.tmdb.org/t/p/w500/etpSosywRvOO8mds61uv3aSjhDF.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rbxKqzKkw9zrO9lKgqvXHOo4sZo.jpg",
+      "description": "Disponibilité détectée chez Crunchyroll Amazon Channel — Canada.\nDate de détection : 2026-11-06T19:53:48.921Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/284581"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:280511",
+      "type": "series",
+      "name": "Sous ses yeux",
+      "poster": "https://image.tmdb.org/t/p/w500/gxI4LwqtuuJUEZiV4sZEjuGfYgO.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fvcTpx2JFHzPTv5gf6ytlXhZXFQ.jpg",
+      "description": "Disponibilité détectée chez Netflix — Canada.\nDate de détection : 2026-11-06T19:53:48.899Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/280511"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:280511",
+      "type": "series",
+      "name": "Sous ses yeux",
+      "poster": "https://image.tmdb.org/t/p/w500/gxI4LwqtuuJUEZiV4sZEjuGfYgO.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fvcTpx2JFHzPTv5gf6ytlXhZXFQ.jpg",
+      "description": "Disponibilité détectée chez Netflix Standard with Ads — Canada.\nDate de détection : 2026-11-06T19:53:48.899Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/280511"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:323660",
+      "type": "series",
+      "name": "The Rest Is Football",
+      "poster": "https://image.tmdb.org/t/p/w500/tA1idPInPr4unBx03xu5gjubzPi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2JECUzaIiv8EIm2kKSLdkFk1tf9.jpg",
+      "description": "Disponibilité détectée chez Netflix — Canada.\nDate de détection : 2026-11-06T19:53:48.848Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/323660"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:323660",
+      "type": "series",
+      "name": "The Rest Is Football",
+      "poster": "https://image.tmdb.org/t/p/w500/tA1idPInPr4unBx03xu5gjubzPi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2JECUzaIiv8EIm2kKSLdkFk1tf9.jpg",
+      "description": "Disponibilité détectée chez Netflix Standard with Ads — Canada.\nDate de détection : 2026-11-06T19:53:48.848Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/323660"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:329096",
+      "type": "series",
+      "name": "彼方から",
+      "poster": "https://image.tmdb.org/t/p/w500/rHI61poyqC6GF0HRurV6Hq12K81.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/inwM4LXqXYYauU1eJkfJ6uDkV11.jpg",
+      "description": "Disponibilité détectée chez Crunchyroll — Canada.\nDate de détection : 2026-11-06T19:53:48.830Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/329096"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:329096",
+      "type": "series",
+      "name": "彼方から",
+      "poster": "https://image.tmdb.org/t/p/w500/rHI61poyqC6GF0HRurV6Hq12K81.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/inwM4LXqXYYauU1eJkfJ6uDkV11.jpg",
+      "description": "Disponibilité détectée chez Crunchyroll Amazon Channel — Canada.\nDate de détection : 2026-11-06T19:53:48.830Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/329096"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:288670",
+      "type": "series",
+      "name": "Saturday Night Live UK",
+      "poster": "https://image.tmdb.org/t/p/w500/48j16bIyIkeUIRFYfwZ6nWovQE2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mooCqZv9h5rF3vvBt5vKGbYahUH.jpg",
+      "description": "Disponibilité détectée chez Crave — Canada.\nDate de détection : 2026-11-06T19:53:48.786Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/288670"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:329394",
+      "type": "series",
+      "name": "Le père de ma fille",
+      "poster": "https://image.tmdb.org/t/p/w500/tzMTmzIslvpnXG2ifAl9ZAnlIdx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aQFeADnhJimn635owevcpwyaUAG.jpg",
+      "description": "Disponibilité détectée chez Netflix — Canada.\nDate de détection : 2026-11-06T19:53:48.781Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/329394"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:329394",
+      "type": "series",
+      "name": "Le père de ma fille",
+      "poster": "https://image.tmdb.org/t/p/w500/tzMTmzIslvpnXG2ifAl9ZAnlIdx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aQFeADnhJimn635owevcpwyaUAG.jpg",
+      "description": "Disponibilité détectée chez Netflix Standard with Ads — Canada.\nDate de détection : 2026-11-06T19:53:48.781Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/329394"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:288671",
+      "type": "series",
+      "name": "El mapa de los anhelos",
+      "poster": "https://image.tmdb.org/t/p/w500/eP2Q12kd7VZOe0nU8PcpQoIldvk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lDhs7EFH1DaOoRXEaTiNhuYaAbC.jpg",
+      "description": "Disponibilité détectée chez Netflix — Canada.\nDate de détection : 2026-11-06T19:53:48.674Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/288671"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:288671",
+      "type": "series",
+      "name": "El mapa de los anhelos",
+      "poster": "https://image.tmdb.org/t/p/w500/eP2Q12kd7VZOe0nU8PcpQoIldvk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lDhs7EFH1DaOoRXEaTiNhuYaAbC.jpg",
+      "description": "Disponibilité détectée chez Netflix Standard with Ads — Canada.\nDate de détection : 2026-11-06T19:53:48.674Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/288671"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:327765",
+      "type": "series",
+      "name": "超巡！超条先輩",
+      "poster": "https://image.tmdb.org/t/p/w500/nyKhYyqk9f5ttGV0qMTPYLeFkyP.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ru9Nc9HBAUjTVjngbgNUCdKRNa0.jpg",
+      "description": "Disponibilité détectée chez Crunchyroll — Canada.\nDate de détection : 2026-11-06T19:53:48.669Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/327765"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:327765",
+      "type": "series",
+      "name": "超巡！超条先輩",
+      "poster": "https://image.tmdb.org/t/p/w500/nyKhYyqk9f5ttGV0qMTPYLeFkyP.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ru9Nc9HBAUjTVjngbgNUCdKRNa0.jpg",
+      "description": "Disponibilité détectée chez Crunchyroll Amazon Channel — Canada.\nDate de détection : 2026-11-06T19:53:48.669Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/327765"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:338684",
+      "type": "series",
+      "name": "Taken: Natalee Holloway",
+      "poster": "https://image.tmdb.org/t/p/w500/muAl6E2U6TFA0sFftyxy9FoJf6H.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
+      "description": "Disponibilité détectée chez Netflix — Canada.\nDate de détection : 2026-11-06T19:53:47.383Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/338684"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:338684",
+      "type": "series",
+      "name": "Taken: Natalee Holloway",
+      "poster": "https://image.tmdb.org/t/p/w500/muAl6E2U6TFA0sFftyxy9FoJf6H.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
+      "description": "Disponibilité détectée chez Netflix Standard with Ads — Canada.\nDate de détection : 2026-11-06T19:53:47.383Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/338684"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:303044",
+      "type": "series",
+      "name": "Campus Drivers",
+      "poster": "https://image.tmdb.org/t/p/w500/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+      "description": "Disponibilité détectée chez Amazon Prime Video — Canada.\nDate de détection : 2026-11-06T19:53:46.113Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/303044"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:303044",
+      "type": "series",
+      "name": "Campus Drivers",
+      "poster": "https://image.tmdb.org/t/p/w500/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+      "description": "Disponibilité détectée chez Amazon Prime Video with Ads — Canada.\nDate de détection : 2026-11-06T19:53:46.113Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/303044"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:312006",
+      "type": "series",
+      "name": "Znieczulenie",
+      "poster": "https://image.tmdb.org/t/p/w500/h11NvlBzbTF6P2boA65ITdFSSo4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
+      "description": "Disponibilité détectée chez Netflix — Canada.\nDate de détection : 2026-11-06T19:53:45.926Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/312006"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:312006",
+      "type": "series",
+      "name": "Znieczulenie",
+      "poster": "https://image.tmdb.org/t/p/w500/h11NvlBzbTF6P2boA65ITdFSSo4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
+      "description": "Disponibilité détectée chez Netflix Standard with Ads — Canada.\nDate de détection : 2026-11-06T19:53:45.926Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/312006"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:291084",
+      "type": "series",
+      "name": "Best Medicine",
+      "poster": "https://image.tmdb.org/t/p/w500/gRf2g2iR8j2uMlClrNTaiHbrZ6c.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
+      "description": "Disponibilité détectée chez Crave Amazon Channel — Canada.\nDate de détection : 2026-11-06T19:53:45.870Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/291084"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:258989",
+      "type": "series",
+      "name": "Le plus grand",
+      "poster": "https://image.tmdb.org/t/p/w500/unuy4VgPhpKX3CRrGLUIs23W7Ns.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+      "description": "Disponibilité détectée chez Amazon Prime Video — Canada.\nDate de détection : 2026-11-06T19:53:45.606Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/258989"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:258989",
+      "type": "series",
+      "name": "Le plus grand",
+      "poster": "https://image.tmdb.org/t/p/w500/unuy4VgPhpKX3CRrGLUIs23W7Ns.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
+      "description": "Disponibilité détectée chez Amazon Prime Video with Ads — Canada.\nDate de détection : 2026-11-06T19:53:45.606Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/258989"
+        }
+      ]
+    }
+  ],
   "cacheMaxAge": 10800,
   "staleRevalidate": 3600,
   "staleError": 86400

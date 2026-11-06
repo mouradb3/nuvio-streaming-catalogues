@@ -1,5 +1,22 @@
 {
-  "metas": [],
+  "metas": [
+    {
+      "id": "tmdb:movie:1365378",
+      "type": "movie",
+      "name": "Le rêve américain",
+      "poster": "https://image.tmdb.org/t/p/w500/bURZdEMPoaxOCPstwfZ2gYfhqGx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bQPWY2u154jJ5koDp9KcM67Wioi.jpg",
+      "description": "Disponibilité retirée chez SFR Play — France.\nDate de détection : 2026-11-06T19:52:59.661Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1365378"
+        }
+      ]
+    }
+  ],
   "cacheMaxAge": 10800,
   "staleRevalidate": 3600,
   "staleError": 86400

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1530121",
+    "type": "movie",
+    "name": "The Girl in the River",
+    "poster": "https://image.tmdb.org/t/p/w500/zk2saSFclmoJDxBovrOTp8W6NSz.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/8eGdhSaOiGYpybNsGHuJXqNK5JY.jpg",
+    "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1530121"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1530121-the-girl-in-the-river/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1530121",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,5 +1,806 @@
 {
-  "metas": [],
+  "metas": [
+    {
+      "id": "tmdb:movie:1591516",
+      "type": "movie",
+      "name": "Evil Influencer: The Jodi Hildebrandt Story",
+      "poster": "https://image.tmdb.org/t/p/w500/xCawp08whOaJS434IDlBytX7sSm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5lZXIkRpOJICbWYJgImdbZ1vWx6.jpg",
+      "description": "Disponibilité détectée chez Netflix — Canada.\nDate de détection : 2026-11-06T19:53:39.216Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1591516"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1591516",
+      "type": "movie",
+      "name": "Evil Influencer: The Jodi Hildebrandt Story",
+      "poster": "https://image.tmdb.org/t/p/w500/xCawp08whOaJS434IDlBytX7sSm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5lZXIkRpOJICbWYJgImdbZ1vWx6.jpg",
+      "description": "Disponibilité détectée chez Netflix Standard with Ads — Canada.\nDate de détection : 2026-11-06T19:53:39.216Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1591516"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1752159",
+      "type": "movie",
+      "name": "Tournant: Génération 11-septembre",
+      "poster": "https://image.tmdb.org/t/p/w500/4LbwNKDDRysSYvMlqTsy0uph8zq.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg",
+      "description": "Disponibilité détectée chez Netflix — Canada.\nDate de détection : 2026-11-06T19:53:39.138Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1752159"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1752159",
+      "type": "movie",
+      "name": "Tournant: Génération 11-septembre",
+      "poster": "https://image.tmdb.org/t/p/w500/4LbwNKDDRysSYvMlqTsy0uph8zq.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/z2Uf0yntMjY0XG87YfoqeHjIUGD.jpg",
+      "description": "Disponibilité détectée chez Netflix Standard with Ads — Canada.\nDate de détection : 2026-11-06T19:53:39.138Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1752159"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1425122",
+      "type": "movie",
+      "name": "Un Noël chez les Jonas Brothers",
+      "poster": "https://image.tmdb.org/t/p/w500/xogqelBdvmQP3VdE1MDNKvVjdzo.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ajYw16ISz3qsdYTg4zy5rob1iAQ.jpg",
+      "description": "Disponibilité détectée chez Disney Plus — Canada.\nDate de détection : 2026-11-06T19:53:39.062Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1425122"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1418657",
+      "type": "movie",
+      "name": "The Yeti",
+      "poster": "https://image.tmdb.org/t/p/w500/zaqEfoKcWkVni2eONhJ7DRhMO8Q.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1ytf7rzkZ7RLlMnBdGggQ0ENe6z.jpg",
+      "description": "Disponibilité détectée chez AMC+ — Canada.\nDate de détection : 2026-11-06T19:53:38.993Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1418657"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1418657",
+      "type": "movie",
+      "name": "The Yeti",
+      "poster": "https://image.tmdb.org/t/p/w500/zaqEfoKcWkVni2eONhJ7DRhMO8Q.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1ytf7rzkZ7RLlMnBdGggQ0ENe6z.jpg",
+      "description": "Disponibilité détectée chez AMC+ Amazon Channel — Canada.\nDate de détection : 2026-11-06T19:53:38.993Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1418657"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1418657",
+      "type": "movie",
+      "name": "The Yeti",
+      "poster": "https://image.tmdb.org/t/p/w500/zaqEfoKcWkVni2eONhJ7DRhMO8Q.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1ytf7rzkZ7RLlMnBdGggQ0ENe6z.jpg",
+      "description": "Disponibilité détectée chez Shudder — Canada.\nDate de détection : 2026-11-06T19:53:38.993Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1418657"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1418657",
+      "type": "movie",
+      "name": "The Yeti",
+      "poster": "https://image.tmdb.org/t/p/w500/zaqEfoKcWkVni2eONhJ7DRhMO8Q.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1ytf7rzkZ7RLlMnBdGggQ0ENe6z.jpg",
+      "description": "Disponibilité détectée chez Shudder Amazon Channel — Canada.\nDate de détection : 2026-11-06T19:53:38.993Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1418657"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1418657",
+      "type": "movie",
+      "name": "The Yeti",
+      "poster": "https://image.tmdb.org/t/p/w500/zaqEfoKcWkVni2eONhJ7DRhMO8Q.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1ytf7rzkZ7RLlMnBdGggQ0ENe6z.jpg",
+      "description": "Disponibilité détectée chez Shudder Apple TV channel — Canada.\nDate de détection : 2026-11-06T19:53:38.993Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1418657"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1716513",
+      "type": "movie",
+      "name": "Extreme Makeover: Homer Edition",
+      "poster": "https://image.tmdb.org/t/p/w500/vim76mMXig00YRxN2iGYJASoGkP.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4bW2662ZiJhJmK4IseCReVzgZ3C.jpg",
+      "description": "Disponibilité détectée chez Disney Plus — Canada.\nDate de détection : 2026-11-06T19:53:38.871Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1716513"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1178620",
+      "type": "movie",
+      "name": "Montréal, ma belle",
+      "poster": "https://image.tmdb.org/t/p/w500/xgJqnAfbI7IlSre1zEdMFxrkRD5.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tyPl9khvcjJl5RNT7EEuYkuwiu.jpg",
+      "description": "Disponibilité détectée chez Crave — Canada.\nDate de détection : 2026-11-06T19:53:38.817Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1178620"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1178620",
+      "type": "movie",
+      "name": "Montréal, ma belle",
+      "poster": "https://image.tmdb.org/t/p/w500/xgJqnAfbI7IlSre1zEdMFxrkRD5.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tyPl9khvcjJl5RNT7EEuYkuwiu.jpg",
+      "description": "Disponibilité détectée chez Crave Amazon Channel — Canada.\nDate de détection : 2026-11-06T19:53:38.817Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1178620"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1600338",
+      "type": "movie",
+      "name": "Almost Us",
+      "poster": "https://image.tmdb.org/t/p/w500/gQurSKUKrCFHa90ydVJRtSMyjLB.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hvRkyD3qMS982jSP5GhfGzHPFKa.jpg",
+      "description": "Disponibilité détectée chez Netflix — Canada.\nDate de détection : 2026-11-06T19:53:38.802Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1600338"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1600338",
+      "type": "movie",
+      "name": "Almost Us",
+      "poster": "https://image.tmdb.org/t/p/w500/gQurSKUKrCFHa90ydVJRtSMyjLB.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hvRkyD3qMS982jSP5GhfGzHPFKa.jpg",
+      "description": "Disponibilité détectée chez Netflix Standard with Ads — Canada.\nDate de détection : 2026-11-06T19:53:38.802Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1600338"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1401281",
+      "type": "movie",
+      "name": "The Testament of Ann Lee",
+      "poster": "https://image.tmdb.org/t/p/w500/kVa32BHWeXU52ov8obUUTbt7Ltm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jZNR5onRZijwyGr5iWbs3J9QcYr.jpg",
+      "description": "Disponibilité détectée chez Disney Plus — Canada.\nDate de détection : 2026-11-06T19:53:38.576Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1401281"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1307373",
+      "type": "movie",
+      "name": "Wasteman",
+      "poster": "https://image.tmdb.org/t/p/w500/AeU2EsYPJgXW9pQyjK5mE3lCZe8.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qLp9td9ZfOe7G6wHhrepKtIH5Qe.jpg",
+      "description": "Disponibilité détectée chez MUBI — Canada.\nDate de détection : 2026-11-06T19:53:38.430Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1307373"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1307373",
+      "type": "movie",
+      "name": "Wasteman",
+      "poster": "https://image.tmdb.org/t/p/w500/AeU2EsYPJgXW9pQyjK5mE3lCZe8.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qLp9td9ZfOe7G6wHhrepKtIH5Qe.jpg",
+      "description": "Disponibilité détectée chez MUBI Amazon Channel — Canada.\nDate de détection : 2026-11-06T19:53:38.430Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1307373"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1364953",
+      "type": "movie",
+      "name": "Mārama",
+      "poster": "https://image.tmdb.org/t/p/w500/7T7a2ybdD7l7YSlofgDvgJKPduO.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fAVvEWnBCmJMouBvtXR35fg62xN.jpg",
+      "description": "Disponibilité détectée chez AMC+ Amazon Channel — Canada.\nDate de détection : 2026-11-06T19:53:37.669Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1364953"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1364953",
+      "type": "movie",
+      "name": "Mārama",
+      "poster": "https://image.tmdb.org/t/p/w500/7T7a2ybdD7l7YSlofgDvgJKPduO.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fAVvEWnBCmJMouBvtXR35fg62xN.jpg",
+      "description": "Disponibilité détectée chez Shudder — Canada.\nDate de détection : 2026-11-06T19:53:37.669Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1364953"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1364953",
+      "type": "movie",
+      "name": "Mārama",
+      "poster": "https://image.tmdb.org/t/p/w500/7T7a2ybdD7l7YSlofgDvgJKPduO.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fAVvEWnBCmJMouBvtXR35fg62xN.jpg",
+      "description": "Disponibilité détectée chez Shudder Amazon Channel — Canada.\nDate de détection : 2026-11-06T19:53:37.669Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1364953"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1364953",
+      "type": "movie",
+      "name": "Mārama",
+      "poster": "https://image.tmdb.org/t/p/w500/7T7a2ybdD7l7YSlofgDvgJKPduO.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fAVvEWnBCmJMouBvtXR35fg62xN.jpg",
+      "description": "Disponibilité détectée chez Shudder Apple TV channel — Canada.\nDate de détection : 2026-11-06T19:53:37.669Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1364953"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1340076",
+      "type": "movie",
+      "name": "Plan cambriolage romantique",
+      "poster": "https://image.tmdb.org/t/p/w500/7DfQIGF4d2nxQOnhV0YnZa3tAjV.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xbYOxEQ69uQd5WRd4piqgW5besb.jpg",
+      "description": "Disponibilité détectée chez Paramount Plus — Canada.\nDate de détection : 2026-11-06T19:53:37.518Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1340076"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1340076",
+      "type": "movie",
+      "name": "Plan cambriolage romantique",
+      "poster": "https://image.tmdb.org/t/p/w500/7DfQIGF4d2nxQOnhV0YnZa3tAjV.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xbYOxEQ69uQd5WRd4piqgW5besb.jpg",
+      "description": "Disponibilité détectée chez Paramount Plus Basic with Ads — Canada.\nDate de détection : 2026-11-06T19:53:37.518Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1340076"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1340076",
+      "type": "movie",
+      "name": "Plan cambriolage romantique",
+      "poster": "https://image.tmdb.org/t/p/w500/7DfQIGF4d2nxQOnhV0YnZa3tAjV.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xbYOxEQ69uQd5WRd4piqgW5besb.jpg",
+      "description": "Disponibilité détectée chez Paramount Plus Premium — Canada.\nDate de détection : 2026-11-06T19:53:37.518Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1340076"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1340076",
+      "type": "movie",
+      "name": "Plan cambriolage romantique",
+      "poster": "https://image.tmdb.org/t/p/w500/7DfQIGF4d2nxQOnhV0YnZa3tAjV.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xbYOxEQ69uQd5WRd4piqgW5besb.jpg",
+      "description": "Disponibilité détectée chez Paramount+ Amazon Channel — Canada.\nDate de détection : 2026-11-06T19:53:37.518Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1340076"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1031084",
+      "type": "movie",
+      "name": "Las corrientes",
+      "poster": "https://image.tmdb.org/t/p/w500/vDyNWGQa0iAhA9EzpFFvaaglZBl.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fNbAvZdaDqMTG6Q8wQdC44TE5zj.jpg",
+      "description": "Disponibilité détectée chez Kino Film Collection — Canada.\nDate de détection : 2026-11-06T19:53:36.881Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1031084"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1031084",
+      "type": "movie",
+      "name": "Las corrientes",
+      "poster": "https://image.tmdb.org/t/p/w500/vDyNWGQa0iAhA9EzpFFvaaglZBl.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fNbAvZdaDqMTG6Q8wQdC44TE5zj.jpg",
+      "description": "Disponibilité détectée chez Kino Film Collection Amazon Channel — Canada.\nDate de détection : 2026-11-06T19:53:36.881Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1031084"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1458215",
+      "type": "movie",
+      "name": "The Gentleman Thief",
+      "poster": "https://image.tmdb.org/t/p/w500/fk2xhYUoieqRvQYRXS7YCNFZZQi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iar5GAkSX1LswFFxMTbHHR3zxMf.jpg",
+      "description": "Disponibilité détectée chez Paramount Plus — Canada.\nDate de détection : 2026-11-06T19:53:36.838Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1458215"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1458215",
+      "type": "movie",
+      "name": "The Gentleman Thief",
+      "poster": "https://image.tmdb.org/t/p/w500/fk2xhYUoieqRvQYRXS7YCNFZZQi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iar5GAkSX1LswFFxMTbHHR3zxMf.jpg",
+      "description": "Disponibilité détectée chez Paramount Plus Basic with Ads — Canada.\nDate de détection : 2026-11-06T19:53:36.838Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1458215"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1458215",
+      "type": "movie",
+      "name": "The Gentleman Thief",
+      "poster": "https://image.tmdb.org/t/p/w500/fk2xhYUoieqRvQYRXS7YCNFZZQi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iar5GAkSX1LswFFxMTbHHR3zxMf.jpg",
+      "description": "Disponibilité détectée chez Paramount Plus Premium — Canada.\nDate de détection : 2026-11-06T19:53:36.838Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1458215"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1458215",
+      "type": "movie",
+      "name": "The Gentleman Thief",
+      "poster": "https://image.tmdb.org/t/p/w500/fk2xhYUoieqRvQYRXS7YCNFZZQi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iar5GAkSX1LswFFxMTbHHR3zxMf.jpg",
+      "description": "Disponibilité détectée chez Paramount+ Amazon Channel — Canada.\nDate de détection : 2026-11-06T19:53:36.838Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1458215"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1530121",
+      "type": "movie",
+      "name": "The Girl in the River",
+      "poster": "https://image.tmdb.org/t/p/w500/zk2saSFclmoJDxBovrOTp8W6NSz.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8eGdhSaOiGYpybNsGHuJXqNK5JY.jpg",
+      "description": "Disponibilité détectée chez Amazon Prime Video — Canada.\nDate de détection : 2026-11-06T19:53:35.935Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1530121"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1530121",
+      "type": "movie",
+      "name": "The Girl in the River",
+      "poster": "https://image.tmdb.org/t/p/w500/zk2saSFclmoJDxBovrOTp8W6NSz.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8eGdhSaOiGYpybNsGHuJXqNK5JY.jpg",
+      "description": "Disponibilité détectée chez Amazon Prime Video with Ads — Canada.\nDate de détection : 2026-11-06T19:53:35.935Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1530121"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:878608",
+      "type": "movie",
+      "name": "狂野时代",
+      "poster": "https://image.tmdb.org/t/p/w500/yZxEsi2s7NyO1QGjizXA9GLh49O.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gry8VX2ssomFFv0ogcmlv3ZGUWd.jpg",
+      "description": "Disponibilité détectée chez Criterion Channel — Canada.\nDate de détection : 2026-11-06T19:53:35.643Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/878608"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1291659",
+      "type": "movie",
+      "name": "Le Mage du Kremlin",
+      "poster": "https://image.tmdb.org/t/p/w500/efxlwMqMiZzDF2DABswC5VWptRC.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bDBVzSp24aesVWJBBmWxDcoOSRw.jpg",
+      "description": "Disponibilité détectée chez Disney Plus — Canada.\nDate de détection : 2026-11-06T19:53:33.777Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1291659"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1428990",
+      "type": "movie",
+      "name": "This Is Not a Test",
+      "poster": "https://image.tmdb.org/t/p/w500/vOh6v3BaysP5Ipd89S1XAR3ZtJj.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dydvEc82Z6ptEx3aAubzJawesiQ.jpg",
+      "description": "Disponibilité détectée chez Crave — Canada.\nDate de détection : 2026-11-06T19:53:33.176Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1428990"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1428990",
+      "type": "movie",
+      "name": "This Is Not a Test",
+      "poster": "https://image.tmdb.org/t/p/w500/vOh6v3BaysP5Ipd89S1XAR3ZtJj.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dydvEc82Z6ptEx3aAubzJawesiQ.jpg",
+      "description": "Disponibilité détectée chez Crave Amazon Channel — Canada.\nDate de détection : 2026-11-06T19:53:33.176Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1428990"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:675871",
+      "type": "movie",
+      "name": "Super Troopers 3",
+      "poster": "https://image.tmdb.org/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/riezFXKrSq1XNnRLJi3AKIwEV8d.jpg",
+      "description": "Disponibilité détectée chez Disney Plus — Canada.\nDate de détection : 2026-11-06T19:53:32.336Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/675871"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1242332",
+      "type": "movie",
+      "name": "Normal",
+      "poster": "https://image.tmdb.org/t/p/w500/bIwQxcZl2CdyhVRNDtQl36YCZVr.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
+      "description": "Disponibilité détectée chez Amazon Prime Video — Canada.\nDate de détection : 2026-11-06T19:53:31.472Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1242332"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1242332",
+      "type": "movie",
+      "name": "Normal",
+      "poster": "https://image.tmdb.org/t/p/w500/bIwQxcZl2CdyhVRNDtQl36YCZVr.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
+      "description": "Disponibilité détectée chez Amazon Prime Video with Ads — Canada.\nDate de détection : 2026-11-06T19:53:31.472Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1242332"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1214931",
+      "type": "movie",
+      "name": "Nuremberg",
+      "poster": "https://image.tmdb.org/t/p/w500/6iYLH0TjqCyEkCYadpLUMHr9S8J.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mxKVTRDApGP2vtsruji4cNGXioD.jpg",
+      "description": "Disponibilité détectée chez Paramount Plus — Canada.\nDate de détection : 2026-11-06T19:53:30.883Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1214931"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1214931",
+      "type": "movie",
+      "name": "Nuremberg",
+      "poster": "https://image.tmdb.org/t/p/w500/6iYLH0TjqCyEkCYadpLUMHr9S8J.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mxKVTRDApGP2vtsruji4cNGXioD.jpg",
+      "description": "Disponibilité détectée chez Paramount Plus Basic with Ads — Canada.\nDate de détection : 2026-11-06T19:53:30.883Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1214931"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1214931",
+      "type": "movie",
+      "name": "Nuremberg",
+      "poster": "https://image.tmdb.org/t/p/w500/6iYLH0TjqCyEkCYadpLUMHr9S8J.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mxKVTRDApGP2vtsruji4cNGXioD.jpg",
+      "description": "Disponibilité détectée chez Paramount Plus Premium — Canada.\nDate de détection : 2026-11-06T19:53:30.883Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1214931"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1214931",
+      "type": "movie",
+      "name": "Nuremberg",
+      "poster": "https://image.tmdb.org/t/p/w500/6iYLH0TjqCyEkCYadpLUMHr9S8J.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mxKVTRDApGP2vtsruji4cNGXioD.jpg",
+      "description": "Disponibilité détectée chez Paramount+ Amazon Channel — Canada.\nDate de détection : 2026-11-06T19:53:30.883Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1214931"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1630420",
+      "type": "movie",
+      "name": "แก๊งโอเวอร์",
+      "poster": "https://image.tmdb.org/t/p/w500/bA9gZIKZURHgOnQnE3UNVgv8JkR.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5pMZA0EdgE66jcSCkfDCAtWiizk.jpg",
+      "description": "Disponibilité détectée chez Netflix — Canada.\nDate de détection : 2026-11-06T19:53:29.291Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1630420"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1630420",
+      "type": "movie",
+      "name": "แก๊งโอเวอร์",
+      "poster": "https://image.tmdb.org/t/p/w500/bA9gZIKZURHgOnQnE3UNVgv8JkR.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5pMZA0EdgE66jcSCkfDCAtWiizk.jpg",
+      "description": "Disponibilité détectée chez Netflix Standard with Ads — Canada.\nDate de détection : 2026-11-06T19:53:29.291Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1630420"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1654940",
+      "type": "movie",
+      "name": "余命一年、男をかう",
+      "poster": "https://image.tmdb.org/t/p/w500/sioCMNEoeZsrcig6aMtJ4FleStg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
+      "description": "Disponibilité détectée chez Netflix — Canada.\nDate de détection : 2026-11-06T19:53:28.306Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1654940"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1654940",
+      "type": "movie",
+      "name": "余命一年、男をかう",
+      "poster": "https://image.tmdb.org/t/p/w500/sioCMNEoeZsrcig6aMtJ4FleStg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
+      "description": "Disponibilité détectée chez Netflix Standard with Ads — Canada.\nDate de détection : 2026-11-06T19:53:28.306Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1654940"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:movie:1368166",
+      "type": "movie",
+      "name": "La femme de ménage",
+      "poster": "https://image.tmdb.org/t/p/w500/vgBY2S4g2c5wcmhfWyJ0239FUfY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
+      "description": "Disponibilité détectée chez Starz Amazon Channel — Canada.\nDate de détection : 2026-11-06T19:53:27.750Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1368166"
+        }
+      ]
+    }
+  ],
   "cacheMaxAge": 10800,
   "staleRevalidate": 3600,
   "staleError": 86400

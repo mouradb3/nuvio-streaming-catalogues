@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1407862",
+    "type": "movie",
+    "name": "Lost in the Spotlight",
+    "poster": "https://image.tmdb.org/t/p/w500/gVufCABbj6NqBYyLaw6eptem28e.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/kMGZK18hxu8y2HeNRvF94pkdefq.jpg",
+    "description": "Après avoir décroché un rôle prestigieux, un acteur célèbre perd mystérieusement sa capacité à jouer et entame un périple à la découverte de lui-même – sous la pression du public.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1407862"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1407862-lupa-daratan/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1407862",
+      "hasScheduledVideos": false
+    }
+  }
+}

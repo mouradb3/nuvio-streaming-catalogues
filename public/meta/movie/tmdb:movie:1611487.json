@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1611487",
+    "type": "movie",
+    "name": "Kill Tony: Once Upon a Time in Texas",
+    "poster": "https://image.tmdb.org/t/p/w500/kepiMVDrjSvNM9afWewWxlWXXK6.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/iKFZFt8Z3RIwQHrIkmzULdKlYIi.jpg",
+    "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1611487"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1611487-kill-tony-once-upon-a-time-in-texas/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1611487",
+      "hasScheduledVideos": false
+    }
+  }
+}

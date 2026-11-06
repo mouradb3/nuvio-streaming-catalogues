@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:287231",
+    "type": "series",
+    "name": "Vanished",
+    "poster": "https://image.tmdb.org/t/p/w500/oNzAKrHDMyTKbneMbULo4fwfNNX.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/qI2pX6IWQojvh2kaLv6M233Iwqb.jpg",
+    "description": "Une escapade romantique à Paris prend une fâcheuse tournure, lorsque la disparition soudaine de son petit ami Tom, à bord d'un train en direction du sud de la France, embarque Alice dans une folle aventure ponctuée de multiples dangers. Au fil de ses péripéties, la jeune femme découvre des secrets choquants sur l'homme qu'elle pensait connaître...\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/287231"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/287231-vanished/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:287231",
+      "hasScheduledVideos": true
+    }
+  }
+}

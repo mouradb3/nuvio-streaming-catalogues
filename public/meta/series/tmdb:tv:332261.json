@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:332261",
+    "type": "series",
+    "name": "ポリティカルパン",
+    "poster": "https://image.tmdb.org/t/p/w500/hZtrOm4lgEcGtzidBThjhVxoaTx.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/7xTvFsxac5k3xIH0cTOkNsEDcm1.jpg",
+    "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/332261"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/332261/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:332261",
+      "hasScheduledVideos": true
+    }
+  }
+}

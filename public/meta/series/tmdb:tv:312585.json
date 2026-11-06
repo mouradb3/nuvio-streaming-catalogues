@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:312585",
+    "type": "series",
+    "name": "อีกาสมาคม",
+    "poster": "https://image.tmdb.org/t/p/w500/rpHklRp61rh4pextyflANtYy35r.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/wPJYkh76gSEECGsN4KTKKLFBkPj.jpg",
+    "description": "Disponibilité France : Netflix.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "9.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/312585"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/312585/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:312585",
+      "hasScheduledVideos": true
+    }
+  }
+}

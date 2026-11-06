@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:675871",
+    "type": "movie",
+    "name": "Super Troopers 3",
+    "poster": "https://image.tmdb.org/t/p/w500/VVU42nqsEmUtFpH1d9MHj5BIpF.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/riezFXKrSq1XNnRLJi3AKIwEV8d.jpg",
+    "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/675871"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/675871-super-troopers-3/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:675871",
+      "hasScheduledVideos": false
+    }
+  }
+}

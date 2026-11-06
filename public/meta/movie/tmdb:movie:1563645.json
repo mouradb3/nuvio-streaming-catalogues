@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1563645",
+    "type": "movie",
+    "name": "Parçalı Yıllar",
+    "poster": "https://image.tmdb.org/t/p/w500/uA6WXb0QVeNdnEbWLb4ZVvNyk1.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/krCM8QAHO3gm9thX7IZWS8JM6af.jpg",
+    "description": "Disponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1563645"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1563645-parcali-yillar/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1563645",
+      "hasScheduledVideos": false
+    }
+  }
+}

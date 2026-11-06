@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:305379",
+    "type": "series",
+    "name": "Badly in Love",
+    "poster": "https://image.tmdb.org/t/p/w500/fMMh1QUDbgHePRXiEBBAjHKtz5C.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/fdszgz2M8FLECQ0rECa5Y2V1t07.jpg",
+    "description": "Dans la première émission japonaise de rencontres pour jeunes rebelles, 11 célibataires en quête d'amour rivalisent, s'apprivoisent et vivent ensemble pendant 14 jours.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/305379"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/305379/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:305379",
+      "hasScheduledVideos": true
+    }
+  }
+}

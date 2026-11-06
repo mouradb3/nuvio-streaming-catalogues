@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:336418",
+    "type": "series",
+    "name": "Meurtre au cimetière",
+    "poster": "https://image.tmdb.org/t/p/w500/aSD3YkLuTBnoYgyTCXtZRAxezNP.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/Ag8tSoa5uLQ6W9m3YR1qS0FAUyh.jpg",
+    "description": "Lorsqu'un policier de la Nouvelle-Orléans tente d'élucider le meurtre du propriétaire d'un cimetière pour animaux, il découvre un sombre passé.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/336418"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/336418-the-pet-cemetery-murders-a-ghost-story/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:336418",
+      "hasScheduledVideos": true
+    }
+  }
+}

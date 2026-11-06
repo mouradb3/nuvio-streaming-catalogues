@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1510055",
+    "type": "movie",
+    "name": "The Furious: Pertaruhan Maruah",
+    "poster": "https://image.tmdb.org/t/p/w500/vbWGR2d7tojUgXyTRExB8UXDV2u.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/foTRCprA3whj8yWY4mCpmRPAqfr.jpg",
+    "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1510055"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1510055-the-furious-pertaruhan-maruah/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1510055",
+      "hasScheduledVideos": false
+    }
+  }
+}

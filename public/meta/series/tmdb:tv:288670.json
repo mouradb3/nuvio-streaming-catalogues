@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:288670",
+    "type": "series",
+    "name": "Saturday Night Live UK",
+    "poster": "https://image.tmdb.org/t/p/w500/48j16bIyIkeUIRFYfwZ6nWovQE2.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/mooCqZv9h5rF3vvBt5vKGbYahUH.jpg",
+    "description": "Disponibilité Canada : Crave.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "4.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/288670"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/288670-saturday-night-live-uk/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:288670",
+      "hasScheduledVideos": true
+    }
+  }
+}
