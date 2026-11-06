@@ -10625,32 +10625,6 @@
         "defaultVideoId": "tmdb:tv:245219",
         "hasScheduledVideos": true
       }
-    },
-    {
-      "id": "tmdb:tv:239385",
-      "type": "series",
-      "name": "The Manipulated",
-      "poster": "https://image.tmdb.org/t/p/w500/pwin3qnVXs9tD3nU5hkl70wO1dx.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ngP3rIU1KY7ek0r6hSJFnVsrh9g.jpg",
-      "description": "La vie ordinaire de Taejoong vole en éclats quand il est accusé d'un crime horrible et jeté en prison. Il découvre que tout a été orchestré par Yohan et se lance dans une quête de vengeance passionnante.\n\nDisponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "8.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/239385"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/239385/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:239385",
-        "hasScheduledVideos": true
-      }
     }
   ],
   "cacheMaxAge": 10800,
