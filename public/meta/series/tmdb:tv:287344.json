@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:287344",
+    "type": "series",
+    "name": "미혼남녀의 효율적 만남",
+    "poster": "https://image.tmdb.org/t/p/w500/sjtNrrBWiWVdJeZKQMSTAgtX6oa.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/zqrqsShNcOJAExYrpnTSrCSK6RG.jpg",
+    "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/287344"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/287344/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:287344",
+      "hasScheduledVideos": true
+    }
+  }
+}

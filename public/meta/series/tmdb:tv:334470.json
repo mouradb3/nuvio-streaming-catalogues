@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:334470",
+    "type": "series",
+    "name": "It Gets Worse",
+    "poster": "https://image.tmdb.org/t/p/w500/djBAV1XgcAMgj8fkFwIUdHtnpVD.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/c5nYh3atmgiUCpvVnS28lYxDopL.jpg",
+    "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "4.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/334470"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/334470-it-gets-worse/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:334470",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:255760",
+    "type": "series",
+    "name": "Kevin",
+    "poster": "https://image.tmdb.org/t/p/w500/ryvkioE754XooFO16s9SZyHZulu.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/uTjjlqLdhRppddN4eCjMZlp387z.jpg",
+    "description": "Co-créé par Aubrey Plaza, KEVIN est une histoire comique et touchante sur la recherche de sa place dans le monde. Après la rupture de ses humains propriétaires, Kevin, un chat domestique attachant et névrosé interprété par Jason Schwartzman, arrive dans un refuge pour animaux à Astoria, dans le Queens, et se lie à une troupe déjantée d'animaux abandonnés qui l'aident dans sa quête de sens.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/255760"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/255760-kevin/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:255760",
+      "hasScheduledVideos": true
+    }
+  }
+}

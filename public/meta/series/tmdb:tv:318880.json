@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:318880",
+    "type": "series",
+    "name": "Hulk Hogan: Real American",
+    "poster": "https://image.tmdb.org/t/p/w500/pdEEOQystKjHtC71RV6yRobY8bk.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/v5DsZ3fnWSGfcIzt8twiFWz2JbL.jpg",
+    "description": "Avant de devenir Hulk Hogan, il s'appelait Terry Bollea. Découvrez l'homme derrière la légende du catch professionnel dans ce documentaire sans concession, tourné au cours des derniers mois de sa vie et incluant son ultime interview.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/318880"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/318880-hulk-hogan-real-american/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:318880",
+      "hasScheduledVideos": true
+    }
+  }
+}

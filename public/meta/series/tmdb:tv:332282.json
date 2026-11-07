@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:332282",
+    "type": "series",
+    "name": "100 % physique : Mexique",
+    "poster": "https://image.tmdb.org/t/p/w500/1XlmHy8pD2XQg0cttKA5xHt5sYh.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/hBBEXsg8odkVGUAJpxUTm2DiCcm.jpg",
+    "description": "Dans une arène de style mésoaméricain, 100 concurrents surmontent des défis monumentaux qui mettent à l'épreuve leur force, leur endurance et leur détermination.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/332282"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/332282-habilidad-fisica-100-mexico/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:332282",
+      "hasScheduledVideos": true
+    }
+  }
+}

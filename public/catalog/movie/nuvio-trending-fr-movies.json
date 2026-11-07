@@ -391,6 +391,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1483525",
+      "type": "movie",
+      "name": "Possible Love",
+      "poster": "https://image.tmdb.org/t/p/w500/lNa8If7MoJPUDRo3uOIPq3mdbuV.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
+      "description": "Un employé licencié et son épouse, qui croisent la route d'une documentariste et de son conjoint, affrontent leurs désirs cachés.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1483525"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1483525/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1483525",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1393326",
       "type": "movie",
       "name": "Ghost in the Cell",
@@ -554,7 +580,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
       "description": "Face au syndrome du nid vide, deux amies inséparables suivent leurs filles ados au Portugal et y trouvent l'amour, la fête et un tout nouveau sens à leur amitié.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8",
+      "imdbRating": "7.8",
       "links": [
         {
           "name": "TMDB",
@@ -1149,7 +1175,7 @@
       "type": "movie",
       "name": "Les Moutons détectives",
       "poster": "https://image.tmdb.org/t/p/w500/5GjWHaN6XW9RbeUqqYbzfKSThqX.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/g6uEVedSBXsZ3QuXKP4WDCeSsOy.jpg",
       "description": "Lorsque son fermier bien-aimé est retrouvé mort dans des circonstances mystérieuses, un troupeau de moutons conclut qu'il devra résoudre le meurtre lui-même. Cette quête l'oblige à quitter son pâturage pour la première fois et à se confronter à une réalité brutale : le monde des humains est bien plus complexe qu'il y paraît dans les livres.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "7.9",
@@ -2365,32 +2391,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1214931",
-      "type": "movie",
-      "name": "Nuremberg",
-      "poster": "https://image.tmdb.org/t/p/w500/6iYLH0TjqCyEkCYadpLUMHr9S8J.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/mxKVTRDApGP2vtsruji4cNGXioD.jpg",
-      "description": "Washington, 1945. Hitler s'est suicidé, l'Allemagne a capitulé et les Alliés détiennent 22 officiers nazis, dont Hermann Göring, plus haut gradé du Troisième Reich. Contrairement à ses collègues, qui préconisent leur exécution, Robert H. Jackson, juge à la Cour suprême des États-Unis, obtient que ceux-ci soient traduits devant une cour internationale. Un an avant l'ouverture du procès à Nuremberg, Jackson confie à un psychiatre de l'armée américaine, Douglas Kelley, le mandat d'évaluer les accusés. Secondé par son traducteur, Kelley se met à la tâche, en privilégiant le cas du Reichsmarschall Göring, un pervers narcissique, qui s'engage avec lui dans un jeu du chat et de la souris.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1214931"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1214931-nuremberg/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1214931",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1477317",
       "type": "movie",
       "name": "À contre-sens 2 : Londres",
@@ -2554,7 +2554,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/oBter8Y5p2ZFUwWgQ1T9pulGFTJ.jpg",
       "description": "Lucero, une brillante avocate qui mène une vie en apparence parfaite, se laisse emporter par une relation intense avec le jeune entraîneur de natation de sa fille. Ce qui commence comme un désir interdit menace bientôt l'équilibre fragile de son mariage et de sa carrière. Alors que son monde s'effondre avec des conséquences tragiques et que son amour pour sa famille est mis à l'épreuve, Lucero découvre jusqu'où elle est prête à aller pour protéger les siens.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.6",
+      "imdbRating": "6.7",
       "links": [
         {
           "name": "TMDB",
@@ -4738,7 +4738,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/q5L3aXchoCgwbZbwWl5FjhGmuYs.jpg",
       "description": "Un groupe de jeunes met le cap sur la Méditerranée pour aider des réfugiés... une mission qui met leurs convictions en matière de loi et de justice à l'épreuve.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.1",
+      "imdbRating": "6.2",
       "links": [
         {
           "name": "TMDB",
@@ -5613,32 +5613,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1325678",
-      "type": "movie",
-      "name": "La Terre de Sarah",
-      "poster": "https://image.tmdb.org/t/p/w500/lXndZLBWcvAG2fzO6kK7a5GcmHF.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/43vbVQDJlY7VoY3VPo8MipicxXk.jpg",
-      "description": "Au début du XXe siècle, une jeune Afro-Américaine est convaincue que sa terre renferme du pétrole et sa foi finit par payer. Alors que des spéculateurs sans scrupules tentent de l'évincer, elle doit s'allier à sa famille et à des foreurs indépendants pour protéger son héritage et garder le contrôle de son domaine.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.9",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1325678"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1325678-sarah-s-oil/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1325678",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1444249",
       "type": "movie",
       "name": "Quitte ou double",
@@ -6051,32 +6025,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1662414",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1426792",
-      "type": "movie",
-      "name": "Mango",
-      "poster": "https://image.tmdb.org/t/p/w500/s9lDFwMqxIlJHD7ovZ9wUw0twwK.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/5IHYBbVG1qWv9oNjyh6ZRnn9ZFh.jpg",
-      "description": "Une directrice d'hôtel ambitieuse et sa fille distante partent pour Malaga et y trouvent ce qui leur manquait, au cœur d'un magnifique verger de manguiers.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "6.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1426792"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1426792-mango/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1426792",
         "hasScheduledVideos": false
       }
     },
@@ -7147,32 +7095,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1378756",
-      "type": "movie",
-      "name": "Pangku",
-      "poster": "https://image.tmdb.org/t/p/w500/szipx4jA3hHxqMSIinDxeRqil0e.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/i5J2sqOKvLS3lLVXoQv8xlpUEeQ.jpg",
-      "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1378756"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1378756-pangku/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1378756",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1598785",
       "type": "movie",
       "name": "Milky☆Subway : L'Express galactique – Le film",
@@ -7844,32 +7766,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1725116",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1576287",
-      "type": "movie",
-      "name": "Frankenstein : La leçon d'anatomie",
-      "poster": "https://image.tmdb.org/t/p/w500/l1F9EIwShcQX7kmnqucIBsXUG5S.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/16pzCxNJ6pV6kI9hvM1eLn0KtuO.jpg",
-      "description": "Faufilez-vous dans les coulisses avec le cinéaste visionnaire Guillermo del Toro, les acteurs et les techniciens de \"Frankenstein\" qui réinventent ce grand classique sous vos yeux.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1576287"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1576287-frankenstein-the-anatomy-lesson/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1576287",
         "hasScheduledVideos": false
       }
     },
@@ -8938,32 +8834,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1624564",
-      "type": "movie",
-      "name": "Libang Libu",
-      "poster": "https://image.tmdb.org/t/p/w500/l0BJfhS4CH5FCbL2WUQqaOWmRWi.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/68hiIlYXQlqCbkJ6X2xHC6ImLS2.jpg",
-      "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1624564"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1624564-libang-libu/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1624564",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1376457",
       "type": "movie",
       "name": "Soumsoum, la nuit des astres",
@@ -9068,32 +8938,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1633264",
-      "type": "movie",
-      "name": "Louis Theroux : Plongée dans la manosphère",
-      "poster": "https://image.tmdb.org/t/p/w500/ouOvRvsgF37yEx3D6ZLWyuxZFjE.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/cmpiLnDIdxQNFZLZZFRj1rSo7fW.jpg",
-      "description": "Disposant d'un accès privilégié, le documentariste plébiscité enquête sans filtre sur un réseau ultra-masculiniste en pleine expansion et ses influenceurs controversés.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1633264"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1633264-louis-theroux-inside-the-manosphere/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1633264",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1596291",
       "type": "movie",
       "name": "La Reine des échecs",
@@ -9116,6 +8960,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1596291",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1545997",
+      "type": "movie",
+      "name": "Noël in the city",
+      "poster": "https://image.tmdb.org/t/p/w500/5tYw1fstvTdpH6wInqY23oTIiiI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ow0fjNLTQeI8trA3oH3d1szqdl.jpg",
+      "description": "Toute en joie de recevoir sa famille chez elle à Chicago pour Noël, Nell a concocté un séjour sur mesure et préparé un programme d'activités dont elle rêvait depuis des années. Ses parents et sa soeur ont malheureusement des contraintes de dernières minutes et ne pourront pas venir... Elle se résout à annuler ses projets. Mais, encouragée par Cooper, son voisin, Nell décide de tout mettre en oeuvre pour vivre le Noël dont elle a toujours rêvé.\n\nDisponibilité France : Netflix, Netflix Standard with Ads, TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1545997"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1545997-single-on-the-25th/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1545997",
         "hasScheduledVideos": false
       }
     },
@@ -9220,32 +9090,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1563645",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1545997",
-      "type": "movie",
-      "name": "Noël in the city",
-      "poster": "https://image.tmdb.org/t/p/w500/5tYw1fstvTdpH6wInqY23oTIiiI.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ow0fjNLTQeI8trA3oH3d1szqdl.jpg",
-      "description": "Toute en joie de recevoir sa famille chez elle à Chicago pour Noël, Nell a concocté un séjour sur mesure et préparé un programme d'activités dont elle rêvait depuis des années. Ses parents et sa soeur ont malheureusement des contraintes de dernières minutes et ne pourront pas venir... Elle se résout à annuler ses projets. Mais, encouragée par Cooper, son voisin, Nell décide de tout mettre en oeuvre pour vivre le Noël dont elle a toujours rêvé.\n\nDisponibilité France : Netflix, Netflix Standard with Ads, TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1545997"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1545997-single-on-the-25th/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1545997",
         "hasScheduledVideos": false
       }
     },
@@ -9432,32 +9276,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1555160",
-      "type": "movie",
-      "name": "Jeff Ross: Take a Banana for the Ride",
-      "poster": "https://image.tmdb.org/t/p/w500/LWFJ6K3FF9G04z1Ntq9SigLMjt.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/n4BGfw8qiQCUVSLV9Grx0U1VP5e.jpg",
-      "description": "Pour ses débuts à Broadway, le légendaire humoriste Jeff Ross braque les projecteurs sur sa propre personne dans un one-man-show aussi sincère qu'hilarant.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.9",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1555160"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1555160-jeff-ross-take-a-banana-for-the-ride/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1555160",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1622677",
       "type": "movie",
       "name": "Marguerite à l'Hyper Weekend Festival 2026",
@@ -9558,6 +9376,58 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1585476",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1633264",
+      "type": "movie",
+      "name": "Louis Theroux : Plongée dans la manosphère",
+      "poster": "https://image.tmdb.org/t/p/w500/ouOvRvsgF37yEx3D6ZLWyuxZFjE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cmpiLnDIdxQNFZLZZFRj1rSo7fW.jpg",
+      "description": "Disposant d'un accès privilégié, le documentariste plébiscité enquête sans filtre sur un réseau ultra-masculiniste en pleine expansion et ses influenceurs controversés.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1633264"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1633264-louis-theroux-inside-the-manosphere/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1633264",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1624564",
+      "type": "movie",
+      "name": "Libang Libu",
+      "poster": "https://image.tmdb.org/t/p/w500/l0BJfhS4CH5FCbL2WUQqaOWmRWi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/68hiIlYXQlqCbkJ6X2xHC6ImLS2.jpg",
+      "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1624564"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1624564-libang-libu/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1624564",
         "hasScheduledVideos": false
       }
     },
@@ -9916,6 +9786,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1636918",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1555160",
+      "type": "movie",
+      "name": "Jeff Ross: Take a Banana for the Ride",
+      "poster": "https://image.tmdb.org/t/p/w500/LWFJ6K3FF9G04z1Ntq9SigLMjt.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/n4BGfw8qiQCUVSLV9Grx0U1VP5e.jpg",
+      "description": "Pour ses débuts à Broadway, le légendaire humoriste Jeff Ross braque les projecteurs sur sa propre personne dans un one-man-show aussi sincère qu'hilarant.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.9",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1555160"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1555160-jeff-ross-take-a-banana-for-the-ride/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1555160",
         "hasScheduledVideos": false
       }
     },

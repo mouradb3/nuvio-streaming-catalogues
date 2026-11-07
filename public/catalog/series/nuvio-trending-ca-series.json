@@ -1542,7 +1542,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/voAufY8Jv3AVfG15sxY5H6XWFKr.jpg",
       "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "9",
+      "imdbRating": "9.3",
       "links": [
         {
           "name": "TMDB",
@@ -1843,32 +1843,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:292742",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:225171",
-      "type": "series",
-      "name": "Pluribus",
-      "poster": "https://image.tmdb.org/t/p/w500/j00TDsnEnw94OLsneRHxb0n9DNX.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ulm1ex4JFYJByyaPyqTr47MFyEQ.jpg",
-      "description": "Alors que le bonheur menace la Terre, tous les espoirs reposent sur le plus malheureux des humains.\n\nDisponibilité Canada : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.9",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/225171"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/225171-pluribus/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:225171",
         "hasScheduledVideos": true
       }
     },
@@ -3510,32 +3484,6 @@
       }
     },
     {
-      "id": "tmdb:tv:302540",
-      "type": "series",
-      "name": "Les méchants cassent la baraque",
-      "poster": "https://image.tmdb.org/t/p/w500/wGqA40va0r9OY3GJWPVl45PZPY5.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/pXdkJvhBcPf8oEj831ASMkLPXKT.jpg",
-      "description": "Mais comment les méchants sont-ils devenus de vrais voyous? Découvrez-le dans ces antépisodes hilarants qui se déroulent avant les films à succès.\n\nDisponibilité Canada : Netflix.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/302540"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/302540-the-bad-guys-the-series/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:302540",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:300126",
       "type": "series",
       "name": "LIAR GAME",
@@ -4363,32 +4311,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:260592",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:256226",
-      "type": "series",
-      "name": "친애하는 X",
-      "poster": "https://image.tmdb.org/t/p/w500/9eTQfA8lC4027DrG0PBvEBVRKuM.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/iDnZoZvv220H6pigUWt3BlfPdxQ.jpg",
-      "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "8.7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/256226"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/256226-x/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:256226",
         "hasScheduledVideos": true
       }
     },
@@ -5246,6 +5168,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:316197",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:287344",
+      "type": "series",
+      "name": "미혼남녀의 효율적 만남",
+      "poster": "https://image.tmdb.org/t/p/w500/sjtNrrBWiWVdJeZKQMSTAgtX6oa.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zqrqsShNcOJAExYrpnTSrCSK6RG.jpg",
+      "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/287344"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/287344/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:287344",
         "hasScheduledVideos": true
       }
     },
@@ -8939,32 +8887,6 @@
       }
     },
     {
-      "id": "tmdb:tv:245219",
-      "type": "series",
-      "name": "Le président foudroyé",
-      "poster": "https://image.tmdb.org/t/p/w500/zG1sSSobkw99F8fquJZD8PR37hO.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ksxQyZAU2fX1n9OOcGqgttmJg0O.jpg",
-      "description": "Voici l'histoire de James Garfield, un illustre inconnu devenu le 20e président des États-Unis, et de Charles Guiteau, l'homme qui l'a assassiné.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.3",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/245219"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/245219-death-by-lightning/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:245219",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:290720",
       "type": "series",
       "name": "El problema final",
@@ -8998,7 +8920,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/l43ULOU8DQA0LomqfmSQoDKschy.jpg",
       "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.2",
+      "imdbRating": "6.5",
       "links": [
         {
           "name": "TMDB",
@@ -9065,6 +8987,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:233079",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:334470",
+      "type": "series",
+      "name": "It Gets Worse",
+      "poster": "https://image.tmdb.org/t/p/w500/djBAV1XgcAMgj8fkFwIUdHtnpVD.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/c5nYh3atmgiUCpvVnS28lYxDopL.jpg",
+      "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "4.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/334470"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/334470-it-gets-worse/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:334470",
         "hasScheduledVideos": true
       }
     },
