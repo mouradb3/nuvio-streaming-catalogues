@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:306207",
+    "type": "series",
+    "name": "Le Pacte du cerisier",
+    "poster": "https://image.tmdb.org/t/p/w500/lxo5aQtdmcB662LdWQu4tTZxytA.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/6t0yrpMPfxQWl4kmYCbOU1URqaE.jpg",
+    "description": "Un détective doit enquêter sur son premier amour, suspect dans un meurtre commis avec une arme à feu qu'eux et leurs amis ont secrètement enterrée il y a 23 ans.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/306207"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/306207-silent-truth/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:306207",
+      "hasScheduledVideos": true
+    }
+  }
+}

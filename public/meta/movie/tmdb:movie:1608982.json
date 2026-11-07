@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1608982",
+    "type": "movie",
+    "name": "L'Alarme : Sous les décombres",
+    "poster": "https://image.tmdb.org/t/p/w500/3OBRXbnlhZxMPpfLMLzQwF29IMC.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/uiSaYXR0jLLWma0EPA1tcBhX6wT.jpg",
+    "description": "Coincées sous terre pendant une tempête, trois élèves d'une école pour filles doivent surmonter leurs conflits personnels pour survivre.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "4.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1608982"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1608982/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1608982",
+      "hasScheduledVideos": false
+    }
+  }
+}

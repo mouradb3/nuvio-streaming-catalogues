@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1584619",
+    "type": "movie",
+    "name": "Meurtre à Monaco",
+    "poster": "https://image.tmdb.org/t/p/w500/hW93OYJnnHwGaGa4S2mNxlEhgsF.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/iSrSl6YQZ5Xbqup8vTxHbu88eOb.jpg",
+    "description": "Monaco, 1999. L'un des hommes les plus riches du monde est retrouvé sans vie dans son penthouse. Ce documentaire revient sur la mort mystérieuse du banquier Edmond Safra.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1584619"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1584619-murder-in-monaco/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1584619",
+      "hasScheduledVideos": false
+    }
+  }
+}

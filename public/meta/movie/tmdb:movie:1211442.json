@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1211442",
+    "type": "movie",
+    "name": "Rebuilding",
+    "poster": "https://image.tmdb.org/t/p/w500/ibP60MNhpCju1QEHvoGJpcbycoK.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/zfhAzbZXg24Z9INMcRfkr45mH91.jpg",
+    "description": "Dans l’Ouest américain, dévasté par des incendies ravageurs, Dusty voit son ranch anéanti par les flammes. Il trouve refuge dans un camp de fortune et commence lentement à redonner du sens à sa vie. Entouré de personnes qui, comme lui, ont tout perdu, des liens inattendus se tissent. Porté par l’espoir de renouer avec sa fille et son ex-femme, il retrouve peu à peu la volonté de tout reconstruire.\n\nDisponibilité France : Cine+ OCS Amazon Channel .\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1211442"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1211442-rebuilding/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1211442",
+      "hasScheduledVideos": false
+    }
+  }
+}

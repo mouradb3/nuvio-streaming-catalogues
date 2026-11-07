@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1754364",
+    "type": "movie",
+    "name": "Making Marie Antoinette",
+    "poster": "https://image.tmdb.org/t/p/w500/1vt7dhpq5dYA5H5VDEf7IITMbSg.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/x0jpUyJ5ETwRn5LmAKvDzEVHgb7.jpg",
+    "description": "Disponibilité France : MUBI, MUBI Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1754364"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1754364-making-marie-antoinette/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1754364",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1811741",
+    "type": "movie",
+    "name": "Instadocs : Jane Doe contre Cornell",
+    "poster": "https://image.tmdb.org/t/p/w500/7lSCZqdOhjsCI1BqZMUr8eNOOl5.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/n2TuBRfBo7HzhRMFEsnDqRTQ5Dy.jpg",
+    "description": "Le documentaire plonge au cœur de l'enquête pour viol et du procès civil intenté par \"Jane Doe\", pseudonyme d'une ancienne étudiante de l'Université Cornell, qui accuse plusieurs membres de la fraternité Chi Phi de l'avoir droguée et agressée en 2024. Le film met en lumière le rôle crucial des étudiantes journalistes du journal universitaire The Cornell Daily Sun face à la gestion des agressions sexuelles par l'administration et aux failles des procédures fédérales du Title IX.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1811741"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1811741-instadocs-jane-doe-v-cornell/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1811741",
+      "hasScheduledVideos": false
+    }
+  }
+}

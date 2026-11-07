@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1794569",
+    "type": "movie",
+    "name": "Sans protection : El crimen de Pazos",
+    "poster": "https://image.tmdb.org/t/p/w500/uvwAKeTTf9s0k69xelRXQbs6Hb7.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/5DEE6tP6FOkgfjvoQYvjNjvt3cn.jpg",
+    "description": "Film documentaire qui retrace l’histoire d’Isabel Fuentes. En avril 2015, des individus — soupçonnés d’être des cambrioleurs — l’ont laissée entre la vie et la mort à son domicile, dans le village de Pazos, à Verín. Dès le début, le sergent de la Guardia Civil chargé de l’enquête a soupçonné que le récit des événements ne tenait pas debout et a cherché à protéger Isabel contre toute nouvelle agression.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1794569"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1794569-desprotexida-el-crimen-de-pazos/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1794569",
+      "hasScheduledVideos": false
+    }
+  }
+}

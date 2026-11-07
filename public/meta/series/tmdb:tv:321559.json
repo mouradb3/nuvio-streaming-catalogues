@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:321559",
+    "type": "series",
+    "name": "거짓말이 사는 집",
+    "poster": "https://image.tmdb.org/t/p/w500/8GaDUt2mY7L2fZeawEbhjxO1Vc2.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/xiCfjMXdxVXxizYSgDNH84BZcbt.jpg",
+    "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/321559"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/321559/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:321559",
+      "hasScheduledVideos": true
+    }
+  }
+}
