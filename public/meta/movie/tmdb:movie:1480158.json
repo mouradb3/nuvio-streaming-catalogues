@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1480158",
+    "type": "movie",
+    "name": "Terrell & T.O.",
+    "poster": "https://image.tmdb.org/t/p/w500/tur8rRYXYeWN7Kq2CWEPC5PiJr0.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/kLqLPbbVwNQRESvHdw1bwPopPjq.jpg",
+    "description": "Disponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1480158"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1480158-terrell-t-o/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1480158",
+      "hasScheduledVideos": false
+    }
+  }
+}

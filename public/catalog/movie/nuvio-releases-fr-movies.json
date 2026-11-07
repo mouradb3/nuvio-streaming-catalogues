@@ -1,31 +1,6 @@
 {
   "metas": [
     {
-      "id": "tmdb:movie:1314786",
-      "type": "movie",
-      "name": "Agent Zeta",
-      "poster": "https://image.tmdb.org/t/p/w500/wDVwJj0KMdFgV1nR4CLNU3yhOxH.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/cmP55W8EqqIE41Ck9D7uWRpzLwS.jpg",
-      "description": "Quatre anciens espions espagnols sont assassinés simultanément dans différents pays. Le CNI découvre qu'ils ont tous participé à l'Opération Ciénaga il y a 35 ans en Colombie. Zeta, agent du CNI, doit trouver et protéger le seul survivant au cours de la mission la plus dangereuse de sa carrière. Alfa, un agent colombien, se joint à Zeta. Il semble en savoir bien plus que lui sur \"Ciénaga\"...\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1314786"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1314786-zeta/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1314786",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1654940",
       "type": "movie",
       "name": "Un an à vivre, un homme à acheter",
@@ -33,7 +8,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
       "description": "Yui Katakura,40 ans, est une célibataire qui passe son temps à faire des économies. Elle se constitue patiemment un pécule pour sa retraite, jusqu'au jour où un dépistage gratuit du cancer bouleverse sa vie bien rangée. Il révèle qu'il ne lui resterait qu'un an à vivre. Encore sous le choc, elle voit surgir Yoshitaka Sena, alias Ryuma, un hôte séduisant aux cheveux roses, qui lui demande si elle pourrait lui prêter de l'argent. Puisqu'elle va mourir, à quoi bon continuer d'économiser ? Yui accepte cette demande osée et \"achète\" Sena pour 720 000 yens. Leur étrange relation prend alors une tournure inattendue.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
@@ -52,11 +27,36 @@
       }
     },
     {
+      "id": "tmdb:movie:1480158",
+      "type": "movie",
+      "name": "Terrell & T.O.",
+      "poster": "https://image.tmdb.org/t/p/w500/tur8rRYXYeWN7Kq2CWEPC5PiJr0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kLqLPbbVwNQRESvHdw1bwPopPjq.jpg",
+      "description": "Disponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1480158"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1480158-terrell-t-o/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1480158",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1294189",
       "type": "movie",
       "name": "The Mongoose",
       "poster": "https://image.tmdb.org/t/p/w500/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/byuwrUG1nkGv8a2lGkBmD7pULo6.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
       "description": "Accusé d'un crime qu'il n'a pas commis et n'ayant plus rien à perdre, un héros de guerre aux prises avec un syndrome de stress post-traumatique entraîne les forces de l'ordre dans une course-poursuite effrénée à travers tout le pays, avec l'aide de ses frères d'armes, tandis qu'un public captivé encourage sa fuite.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "5.9",
@@ -85,7 +85,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
       "description": "Winstead est un chien déterminé. Quand une urgence médicale déchire la famille Goss, il est prêt à tout pour rétablir l'harmonie avant le réveillon de Noël.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.2",
+      "imdbRating": "8.1",
       "links": [
         {
           "name": "TMDB",
@@ -163,7 +163,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/rIxB1b3nBfjxP0nHrWyjJArcVwa.jpg",
       "description": "Novembre 1972. Au tribunal de Bobigny, un procès hors norme secoue la France entière. Marie-Claire Chevalier, 16 ans, est accusée d’avoir avorté illégalement. À la barre, sa mère et toutes les femmes qui l’ont aidée. Leur avocate, Gisèle Halimi, fait un pari fou, insensé : elle leur demande de ne pas plaider coupable. Gisèle va faire ce qui n’a jamais été fait auparavant, elle va accuser et attaquer la loi, au risque de tout perdre. Au nom de toutes.\n\nDisponibilité France : SFR Play.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.5",
+      "imdbRating": "9",
       "links": [
         {
           "name": "TMDB",
@@ -344,7 +344,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
       "description": "Depuis l'apparition du virus TSJ, les îles Canaries sont devenues le dernier refuge en Europe. Alors qu'une unité part chercher du ravitaillement à Madrid, Roberto se joint à elle avec des intentions troubles. Cernés par les infectés et partagés entre des loyautés contradictoires, ils doivent survivre tout en affrontant un dilemme : suivre les ordres ou tout risquer pour ce qui reste d'humanité.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.2",
+      "imdbRating": "6.1",
       "links": [
         {
           "name": "TMDB",
@@ -396,7 +396,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
       "description": "Marlene Frischmann, mère célibataire, organise la fête d'anniversaire parfaite pour son fils Theo dans la superbe maison de campagne de son frère : ballons, gâteau sans gluten, piñata et même quelques animaux sauvages devraient rendre cette journée inoubliable. Mais cette célébration préparée avec amour ne tarde pas à virer au cauchemar, entre débats enflammés sur l'éducation, la masculinité et les principes parentaux. Un drôle de désordre en partie engendré par Timo, le frère de Marlene, banquier turbulent, Hans, son père excentrique à la dérive, Jenny, sa collègue idéaliste qui rêve de sauver le monde, et un cadeau très spécial. Entre structures familiales dysfonctionnelles, mères surprotectrices prétentieuses et anarchie enfantine, la fête sombre peu à peu dans le chaos.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
@@ -422,7 +422,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/4EKa1ordKkch7bAYlV4e3fwsVCj.jpg",
       "description": "Les membres légendaires de la distribution de \"SCTV\" se réunissent dans ce documentaire pour une célébration drôle et touchante de la façon dont une émission de sketches canadienne sans fioritures a marqué l'histoire de la comédie.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.5",
+      "imdbRating": "6.9",
       "links": [
         {
           "name": "TMDB",
@@ -837,7 +837,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
       "description": "Maya dont la rencontre fortuite avec Charlie donne naissance à une histoire d'amour passionnée et à la vie dont elle n'osait pas rêver. Lorsque tout bascule, Maya doit déterminer qui elle est, ce qu'elle veut et comment réapprendre à aimer.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.8",
+      "imdbRating": "6.7",
       "links": [
         {
           "name": "TMDB",
@@ -1428,6 +1428,31 @@
       }
     },
     {
+      "id": "tmdb:movie:1611384",
+      "type": "movie",
+      "name": "Pasteur et prédateur",
+      "poster": "https://image.tmdb.org/t/p/w500/nzQQsZBy0H86TTl6OMh9yJH9reL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kFmnD6deQs8ONAwooh7A11RMJGr.jpg",
+      "description": "Venue chercher l'inspiration dans une petite ville paisible, Nicole, une jeune styliste, voit son été virer au cauchemar après la mort mystérieuse de sa cousine. Ses soupçons se tournent rapidement vers le pasteur local, un homme aussi charismatique qu'influent. Nicole en est convaincue : derrière cette façade de citoyen irréprochable, il cache un secret mortel.\n\nDisponibilité France : Netflix, Netflix Standard with Ads, TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1611384"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1611384-the-pastor-who-preys/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1611384",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1641629",
       "type": "movie",
       "name": "Toi+Moi - Seuls contre tous",
@@ -1558,6 +1583,30 @@
       }
     },
     {
+      "id": "tmdb:movie:1810533",
+      "type": "movie",
+      "name": "Jet",
+      "poster": "https://image.tmdb.org/t/p/w500/bxyeXxLpXTECqB823thmRXbwOvi.jpg",
+      "description": "Disponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1810533"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1810533-jet/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1810533",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1558568",
       "type": "movie",
       "name": "L'Esprit d'équipe",
@@ -1591,7 +1640,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/i65y7cMae36K0giN0GRaMjAHUru.jpg",
       "description": "Marfil, fille d'un homme d'affaires espagnol, voit sa vie new-yorkaise basculer lorsqu'elle est enlevée puis mystérieusement relâchée. Son père engage un garde du corps, Sebastian Moore, et, contraints de passer tout leur temps ensemble, une attirance inévitable naît entre eux, dans un monde où les apparences sont trompeuses. Adapté du roman de Mercedes Ron, autrice de la saga À Contre-sens.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "6.9",
       "links": [
         {
           "name": "TMDB",
@@ -2497,8 +2546,8 @@
       "id": "tmdb:movie:1728113",
       "type": "movie",
       "name": "KATSEYE: Wild Hearts",
-      "poster": "https://image.tmdb.org/t/p/w500/2iMiErHxi3prW3J2ZjFiChfhptt.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/q6Iq6wutoM7AqekJ831ycBOqCxp.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ny0ixZtPOnBTjz1nycQOE0czyMy.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/sPU2cDhdlHFtAOQr5NUbzfkOYAf.jpg",
       "description": "Une célébration de la nouvelle ère du groupe et des fans qui l'ont rendue possible. Au programme : des images exclusives des coulisses, des vidéos de fans Eyekons et des interviews intimes des membres.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "7.1",
@@ -2724,6 +2773,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1510795",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1616131",
+      "type": "movie",
+      "name": "Un Enfant a Moi",
+      "poster": "https://image.tmdb.org/t/p/w500/AqFRon8p9ffsxD55tp6gKi24cMc.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jJ3SrQoGsCa6xMfbfgB19OazGwX.jpg",
+      "description": "Désespérée d'avoir un enfant et accablée par les attentes de sa famille et de la société, une femme simule une grossesse et se retrouve mêlée à un crime.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1616131"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1616131-un-hijo-propio/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1616131",
         "hasScheduledVideos": false
       }
     },
@@ -3270,6 +3345,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1659389",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1723068",
+      "type": "movie",
+      "name": "Au plus près des requins-marteaux avec Bertie Gregory",
+      "poster": "https://image.tmdb.org/t/p/w500/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/50rAhx0C6yo3jd4sINDZkcsyNnK.jpg",
+      "description": "Bertie Gregory se rend dans la péninsule de Basse-Californie, au Mexique, à la recherche de l'un des prédateurs les plus emblématiques de l'océan : le requin-marteau. Autrefois très présent dans ces eaux, le requin-marteau a vu ses effectifs chuter drastiquement.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1723068"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1723068-hammerhead-sharks-up-close-with-bertie-gregory/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1723068",
         "hasScheduledVideos": false
       }
     },
@@ -4885,32 +4986,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1325678",
-      "type": "movie",
-      "name": "La Terre de Sarah",
-      "poster": "https://image.tmdb.org/t/p/w500/lXndZLBWcvAG2fzO6kK7a5GcmHF.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/43vbVQDJlY7VoY3VPo8MipicxXk.jpg",
-      "description": "Au début du XXe siècle, une jeune Afro-Américaine est convaincue que sa terre renferme du pétrole et sa foi finit par payer. Alors que des spéculateurs sans scrupules tentent de l'évincer, elle doit s'allier à sa famille et à des foreurs indépendants pour protéger son héritage et garder le contrôle de son domaine.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.9",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1325678"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1325678-sarah-s-oil/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1325678",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1363974",
       "type": "movie",
       "name": "Moi, quand je me réincarne en Slime, le Film - Les larmes de la mer azur",
@@ -5167,6 +5242,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1364953",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1376457",
+      "type": "movie",
+      "name": "Soumsoum, la nuit des astres",
+      "poster": "https://image.tmdb.org/t/p/w500/vHSXd1UZIRoTV3OKMb4XObcgymU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2gwrEpV0YZI73nLjPD6E9urdHz.jpg",
+      "description": "Dans un village isolé du Tchad, Kellou est traversée par des visions qu’elle ne comprend pas. Grâce à sa rencontre avec Aya, une exilée aux secrets douloureux, elle va découvrir une autre façon de regarder son passé, ses rêves et son village. Mais en prenant la défense d’Aya, que le chef du village tente de chasser, elle se heurte à la peur et à la colère des habitants, et devra se battre pour garder sa liberté.\n\nDisponibilité France : Molotov TV.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1376457"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1376457-soumsoum-la-nuit-des-astres/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1376457",
         "hasScheduledVideos": false
       }
     },
@@ -7845,32 +7946,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1214931",
-      "type": "movie",
-      "name": "Nuremberg",
-      "poster": "https://image.tmdb.org/t/p/w500/6iYLH0TjqCyEkCYadpLUMHr9S8J.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/mxKVTRDApGP2vtsruji4cNGXioD.jpg",
-      "description": "Washington, 1945. Hitler s'est suicidé, l'Allemagne a capitulé et les Alliés détiennent 22 officiers nazis, dont Hermann Göring, plus haut gradé du Troisième Reich. Contrairement à ses collègues, qui préconisent leur exécution, Robert H. Jackson, juge à la Cour suprême des États-Unis, obtient que ceux-ci soient traduits devant une cour internationale. Un an avant l'ouverture du procès à Nuremberg, Jackson confie à un psychiatre de l'armée américaine, Douglas Kelley, le mandat d'évaluer les accusés. Secondé par son traducteur, Kelley se met à la tâche, en privilégiant le cas du Reichsmarschall Göring, un pervers narcissique, qui s'engage avec lui dans un jeu du chat et de la souris.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1214931"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1214931-nuremberg/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1214931",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:677561",
       "type": "movie",
       "name": "Les Légendaires",
@@ -7878,7 +7953,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/vLEr8t7m5JXCZzmhjq9ZROq7dtr.jpg",
       "description": "Les Légendaires, intrépides aventuriers, étaient les plus grands héros de leur temps. Mais suite à une terrible malédiction, les voilà redevenus... des enfants de 10 ans ! Danaël, Jadina, Gryf, Shimy et Razzia vont unir leurs pouvoirs pour vaincre le sorcier Darkhell et libérer leur planète de l’enfance éternelle…\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6",
+      "imdbRating": "6.1",
       "links": [
         {
           "name": "TMDB",
@@ -8553,7 +8628,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
       "description": "En quête d’un nouveau départ, Millie accepte un poste de femme de ménage à demeure chez Nina et Andrew Winchester, un couple aussi riche qu’énigmatique. Ce qui s’annonce comme l’emploi idéal se transforme rapidement en un jeu dangereux, mêlant séduction, secrets et manipulations. Derrière les portes closes du manoir Winchester se cache un monde de faux-semblants et de révélations inattendues... Un tourbillon de suspense et de scandales qui vous tiendra en haleine jusqu’à la dernière seconde.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2025",
-      "imdbRating": "7.3",
+      "imdbRating": "7.2",
       "links": [
         {
           "name": "TMDB",
@@ -9767,28 +9842,80 @@
       }
     },
     {
-      "id": "tmdb:movie:1426792",
+      "id": "tmdb:movie:1214931",
       "type": "movie",
-      "name": "Mango",
-      "poster": "https://image.tmdb.org/t/p/w500/s9lDFwMqxIlJHD7ovZ9wUw0twwK.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/5IHYBbVG1qWv9oNjyh6ZRnn9ZFh.jpg",
-      "description": "Une directrice d'hôtel ambitieuse et sa fille distante partent pour Malaga et y trouvent ce qui leur manquait, au cœur d'un magnifique verger de manguiers.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "name": "Nuremberg",
+      "poster": "https://image.tmdb.org/t/p/w500/6iYLH0TjqCyEkCYadpLUMHr9S8J.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mxKVTRDApGP2vtsruji4cNGXioD.jpg",
+      "description": "Washington, 1945. Hitler s'est suicidé, l'Allemagne a capitulé et les Alliés détiennent 22 officiers nazis, dont Hermann Göring, plus haut gradé du Troisième Reich. Contrairement à ses collègues, qui préconisent leur exécution, Robert H. Jackson, juge à la Cour suprême des États-Unis, obtient que ceux-ci soient traduits devant une cour internationale. Un an avant l'ouverture du procès à Nuremberg, Jackson confie à un psychiatre de l'armée américaine, Douglas Kelley, le mandat d'évaluer les accusés. Secondé par son traducteur, Kelley se met à la tâche, en privilégiant le cas du Reichsmarschall Göring, un pervers narcissique, qui s'engage avec lui dans un jeu du chat et de la souris.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2025",
-      "imdbRating": "6.4",
+      "imdbRating": "7.6",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1426792"
+          "url": "https://www.themoviedb.org/movie/1214931"
         },
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1426792-mango/watch?locale=FR"
+          "url": "https://www.themoviedb.org/movie/1214931-nuremberg/watch?locale=FR"
         }
       ],
       "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1426792",
+        "defaultVideoId": "tmdb:movie:1214931",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1325678",
+      "type": "movie",
+      "name": "La Terre de Sarah",
+      "poster": "https://image.tmdb.org/t/p/w500/lXndZLBWcvAG2fzO6kK7a5GcmHF.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/43vbVQDJlY7VoY3VPo8MipicxXk.jpg",
+      "description": "Au début du XXe siècle, une jeune Afro-Américaine est convaincue que sa terre renferme du pétrole et sa foi finit par payer. Alors que des spéculateurs sans scrupules tentent de l'évincer, elle doit s'allier à sa famille et à des foreurs indépendants pour protéger son héritage et garder le contrôle de son domaine.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.9",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1325678"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1325678-sarah-s-oil/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1325678",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1378756",
+      "type": "movie",
+      "name": "Pangku",
+      "poster": "https://image.tmdb.org/t/p/w500/szipx4jA3hHxqMSIinDxeRqil0e.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/i5J2sqOKvLS3lLVXoQv8xlpUEeQ.jpg",
+      "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1378756"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1378756-pangku/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1378756",
         "hasScheduledVideos": false
       }
     },
@@ -9819,28 +9946,28 @@
       }
     },
     {
-      "id": "tmdb:movie:1378756",
+      "id": "tmdb:movie:1426792",
       "type": "movie",
-      "name": "Pangku",
-      "poster": "https://image.tmdb.org/t/p/w500/szipx4jA3hHxqMSIinDxeRqil0e.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/i5J2sqOKvLS3lLVXoQv8xlpUEeQ.jpg",
-      "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "name": "Mango",
+      "poster": "https://image.tmdb.org/t/p/w500/s9lDFwMqxIlJHD7ovZ9wUw0twwK.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5IHYBbVG1qWv9oNjyh6ZRnn9ZFh.jpg",
+      "description": "Une directrice d'hôtel ambitieuse et sa fille distante partent pour Malaga et y trouvent ce qui leur manquait, au cœur d'un magnifique verger de manguiers.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2025",
-      "imdbRating": "8",
+      "imdbRating": "6.4",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1378756"
+          "url": "https://www.themoviedb.org/movie/1426792"
         },
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1378756-pangku/watch?locale=FR"
+          "url": "https://www.themoviedb.org/movie/1426792-mango/watch?locale=FR"
         }
       ],
       "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1378756",
+        "defaultVideoId": "tmdb:movie:1426792",
         "hasScheduledVideos": false
       }
     },

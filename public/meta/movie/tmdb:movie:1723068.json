@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1723068",
+    "type": "movie",
+    "name": "Au plus près des requins-marteaux avec Bertie Gregory",
+    "poster": "https://image.tmdb.org/t/p/w500/9qSoyXh55bRMYByBCMgIddcWJwO.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/50rAhx0C6yo3jd4sINDZkcsyNnK.jpg",
+    "description": "Bertie Gregory se rend dans la péninsule de Basse-Californie, au Mexique, à la recherche de l'un des prédateurs les plus emblématiques de l'océan : le requin-marteau. Autrefois très présent dans ces eaux, le requin-marteau a vu ses effectifs chuter drastiquement.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1723068"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1723068-hammerhead-sharks-up-close-with-bertie-gregory/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1723068",
+      "hasScheduledVideos": false
+    }
+  }
+}

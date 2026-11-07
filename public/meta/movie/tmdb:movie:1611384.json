@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1611384",
+    "type": "movie",
+    "name": "Pasteur et prédateur",
+    "poster": "https://image.tmdb.org/t/p/w500/nzQQsZBy0H86TTl6OMh9yJH9reL.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/kFmnD6deQs8ONAwooh7A11RMJGr.jpg",
+    "description": "Venue chercher l'inspiration dans une petite ville paisible, Nicole, une jeune styliste, voit son été virer au cauchemar après la mort mystérieuse de sa cousine. Ses soupçons se tournent rapidement vers le pasteur local, un homme aussi charismatique qu'influent. Nicole en est convaincue : derrière cette façade de citoyen irréprochable, il cache un secret mortel.\n\nDisponibilité France : Netflix, Netflix Standard with Ads, TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1611384"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1611384-the-pastor-who-preys/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1611384",
+      "hasScheduledVideos": false
+    }
+  }
+}

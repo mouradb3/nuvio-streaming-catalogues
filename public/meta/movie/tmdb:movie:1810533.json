@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1810533",
+    "type": "movie",
+    "name": "Jet",
+    "poster": "https://image.tmdb.org/t/p/w500/bxyeXxLpXTECqB823thmRXbwOvi.jpg",
+    "description": "Disponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1810533"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1810533-jet/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1810533",
+      "hasScheduledVideos": false
+    }
+  }
+}

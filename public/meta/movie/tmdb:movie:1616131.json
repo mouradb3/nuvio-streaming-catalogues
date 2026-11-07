@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1616131",
+    "type": "movie",
+    "name": "Un Enfant a Moi",
+    "poster": "https://image.tmdb.org/t/p/w500/AqFRon8p9ffsxD55tp6gKi24cMc.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/jJ3SrQoGsCa6xMfbfgB19OazGwX.jpg",
+    "description": "Désespérée d'avoir un enfant et accablée par les attentes de sa famille et de la société, une femme simule une grossesse et se retrouve mêlée à un crime.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1616131"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1616131-un-hijo-propio/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1616131",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:306129",
+    "type": "series",
+    "name": "Le Maître Soda",
+    "poster": "https://image.tmdb.org/t/p/w500/6P4mbhpsmHQdDcngIv8N7rw1r0n.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ite3lj4atrXI9d3ZvF39hnbBNrd.jpg",
+    "description": "Après une macabre découverte sur un chantier dans leur ville natale, trois amis décident d'enquêter sur la disparition de leur ancienne conseillère d'éducation.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/306129"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/306129-ramune-monkey/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:306129",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,6 +1,38 @@
 {
   "metas": [
     {
+      "id": "tmdb:tv:306129",
+      "type": "series",
+      "name": "Le Maître Soda",
+      "poster": "https://image.tmdb.org/t/p/w500/6P4mbhpsmHQdDcngIv8N7rw1r0n.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ite3lj4atrXI9d3ZvF39hnbBNrd.jpg",
+      "description": "Disponibilité détectée chez Netflix — France.\nDate de détection : 2026-11-07T05:54:16.533Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/306129"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:306129",
+      "type": "series",
+      "name": "Le Maître Soda",
+      "poster": "https://image.tmdb.org/t/p/w500/6P4mbhpsmHQdDcngIv8N7rw1r0n.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ite3lj4atrXI9d3ZvF39hnbBNrd.jpg",
+      "description": "Disponibilité détectée chez Netflix Standard with Ads — France.\nDate de détection : 2026-11-07T05:54:16.533Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/306129"
+        }
+      ]
+    },
+    {
       "id": "tmdb:tv:204137",
       "type": "series",
       "name": "The Doomies",
