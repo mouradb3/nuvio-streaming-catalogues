@@ -34,7 +34,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
       "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.5",
+      "imdbRating": "8.1",
       "links": [
         {
           "name": "TMDB",
@@ -60,7 +60,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.2",
+      "imdbRating": "8.1",
       "links": [
         {
           "name": "TMDB",
@@ -242,7 +242,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.6",
       "links": [
         {
           "name": "TMDB",
@@ -2165,7 +2165,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/iEISXRsDv8Q2PA6i9cAQd2DH9bN.jpg",
       "description": "Alex a une carrière, une famille et une riche expérience de la vie, mais elle doit aussi faire face aux réalités de la cinquantaine, s'occuper de ses parents vieillissants, élever un fils adolescent en difficulté et essayer de déterminer s'il y a encore de la place pour la romance et l'excitation dans sa propre vie.\n\nDisponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.8",
+      "imdbRating": "6.9",
       "links": [
         {
           "name": "TMDB",
@@ -7023,7 +7023,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/h1INd1oy5YIkH4aSermOk3xwDsA.jpg",
       "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "9.3",
+      "imdbRating": "7.8",
       "links": [
         {
           "name": "TMDB",
@@ -8401,7 +8401,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "7.1",
       "links": [
         {
           "name": "TMDB",
@@ -8858,6 +8858,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:283905",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:308403",
+      "type": "series",
+      "name": "鉄鍋のジャン！",
+      "poster": "https://image.tmdb.org/t/p/w500/du37GaThbc824q4wjfdSRtjEuJA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/egAGdTC9aR8YJG4dU1OTPf950UP.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/308403"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/308403/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:308403",
         "hasScheduledVideos": true
       }
     },
@@ -9901,6 +9927,31 @@
       }
     },
     {
+      "id": "tmdb:tv:302118",
+      "type": "series",
+      "name": "I Kill the Bear",
+      "poster": "https://image.tmdb.org/t/p/w500/kizdafPznRr8DpdBHTNoRIQb0Ss.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/pmHbZ91sQkTga8xnCHZbSuAXtFp.jpg",
+      "description": "Depuis plus de 100 ans, une famille dresse des ours pour le cinéma. Alors que les temps changent et que l’utilisation d’animaux soulève des questions, elle décide que son projet actuel sera le dernier.\n\nDisponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/302118"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/302118-i-kill-the-bear/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:302118",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:300267",
       "type": "series",
       "name": "世界最強の後衛 ～迷宮国の新人探索者～",
@@ -10079,6 +10130,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:284581",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:301139",
+      "type": "series",
+      "name": "#ゾンビさがしてます",
+      "poster": "https://image.tmdb.org/t/p/w500/7yEn75Zku75ZAt2RtxntLf9S5So.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/yeRnq9N1HkZHXRxeyUec5lTLpfp.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/301139"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/301139/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:301139",
         "hasScheduledVideos": true
       }
     },

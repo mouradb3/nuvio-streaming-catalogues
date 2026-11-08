@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:322570",
+    "type": "series",
+    "name": "Tシャツが乾くまで",
+    "poster": "https://image.tmdb.org/t/p/w500/u4FV6Y2JtTaGpVp94V7Vp0JR3R3.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/j9rHrq3mz0hHchk3EJksCco9LJW.jpg",
+    "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/322570"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/322570-t/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:322570",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1905,7 +1905,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/iEISXRsDv8Q2PA6i9cAQd2DH9bN.jpg",
       "description": "Alex a une carrière, une famille et une riche expérience de la vie, mais elle doit aussi faire face aux réalités de la cinquantaine, s'occuper de ses parents vieillissants, élever un fils adolescent en difficulté et essayer de déterminer s'il y a encore de la place pour la romance et l'excitation dans sa propre vie.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.8",
+      "imdbRating": "6.9",
       "links": [
         {
           "name": "TMDB",
@@ -2710,7 +2710,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
       "description": "La vie ordinaire de Paolo bascule lorsqu’il recroise la route de Téophane, un ancien camarade d’école, qui brigue aujourd’hui la mairie de sa ville et qui a semble-t-il tout pour lui. Ce qui commence par une simple admiration et une volonté de soutenir la campagne se transforme en une obsession dévorante…\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.2",
+      "imdbRating": "5.4",
       "links": [
         {
           "name": "TMDB",
@@ -2736,7 +2736,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/yiElAOM1OD09YCuCUbim4QMyvtJ.jpg",
       "description": "Cofondateur du cartel de Sinaloa, partenaire de longue date d’« El Chapo » et fantôme pour les autorités pendant plus de trois décennies. Le documentaire qui raconte sa chute.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.6",
+      "imdbRating": "8.4",
       "links": [
         {
           "name": "TMDB",
@@ -5775,7 +5775,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/6CgpC5cS8jvkXgkI0pRoj31nHf6.jpg",
       "description": "Chu Zhao, la fille du général, refuse d'accepter son destin, celui d'un simple pion destiné à être sacrifié pour permettre l'ascension au pouvoir de Xiao Xun. Prenant les choses en main, elle se fraye un chemin à coups d'épée avec l'aide de Xie Yanlai, protégeant le petit-fils de l'empereur alors qu'il se rend en audience auprès de ce dernier. Au cours d'une confrontation tendue à la cour impériale, elle aide le jeune prince à s'assurer le trône, coupant ainsi la route à Xiao Xun vers le pouvoir. Mais un nouvel empereur s'accompagne de nouvelles crises. Le royaume est déchiré par des conflits internes et des menaces étrangères. Aux côtés de Xie Yanlai, Chu Zhao navigue dans les eaux tumultueuses de la cour, mène les troupes au combat et, finalement, réécrit son propre destin, épargnant au peuple de l’État de Chu les ravages de la guerre.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "6.4",
       "links": [
         {
           "name": "TMDB",
@@ -9466,7 +9466,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/7xTvFsxac5k3xIH0cTOkNsEDcm1.jpg",
       "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.3",
+      "imdbRating": "8.2",
       "links": [
         {
           "name": "TMDB",
@@ -9796,6 +9796,32 @@
       }
     },
     {
+      "id": "tmdb:tv:284568",
+      "type": "series",
+      "name": "Even a Replica Can Fall in Love",
+      "poster": "https://image.tmdb.org/t/p/w500/rt3qJO775blT8zOj0vDknZG1aQt.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hsQqoqeZOofjBlrCah67sIkJi2y.jpg",
+      "description": "Chaque fois qu'elle tombe malade, endure une journée de travail ardue ou doit affronter des examens, je prends le relais. Je suis le double de Sono Aikawa. Bien que notre apparence soit presque identique, nos personnalités présentent quelques différences. Restreinte dans ma liberté, incapable de planifier l'avenir, je suis une réplique dont la mission est de vivre à la place de l'originale.\n\nCependant, contre toute attente, je suis tombée amoureuse. Cet amour m'a poussée à modifier mon apparence, à laisser pousser mes cheveux mi-longs. J'ai séché l'école pour partir en escapade secrète avec lui, nous promettant de nous retrouver demain, après-demain, et bien au-delà. Alors que tout en moi a été emprunté, que je suis censée être dépourvue d'identité, cet amour est authentique, le mien et uniquement le mien.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.9",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/284568"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/284568/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:284568",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:217838",
       "type": "series",
       "name": "Love Upon a Time",
@@ -10082,6 +10108,32 @@
       }
     },
     {
+      "id": "tmdb:tv:322570",
+      "type": "series",
+      "name": "Tシャツが乾くまで",
+      "poster": "https://image.tmdb.org/t/p/w500/u4FV6Y2JtTaGpVp94V7Vp0JR3R3.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/j9rHrq3mz0hHchk3EJksCco9LJW.jpg",
+      "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/322570"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/322570-t/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:322570",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:336418",
       "type": "series",
       "name": "Meurtre au cimetière",
@@ -10104,6 +10156,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:336418",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:275902",
+      "type": "series",
+      "name": "Kaya-chan Isn't Scary",
+      "poster": "https://image.tmdb.org/t/p/w500/jfWdGJ2HcaCMVRdOUBPd6ayYgz2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vcHzF9NHQLM8dCW1OOBhezsFRiO.jpg",
+      "description": "Une petite fille de maternelle peut paraître problématique, mais c'est seulement parce qu'elle chasse les mauvais esprits qui l'entourent !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/275902"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/275902/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:275902",
         "hasScheduledVideos": true
       }
     },

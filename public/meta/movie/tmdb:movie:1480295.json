@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1480295",
+    "type": "movie",
+    "name": "Project: Affinity",
+    "poster": "https://image.tmdb.org/t/p/w500/hnl7CgDFtEUANjOsvVi9TZsEQw2.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ekpdjcuVVU2LIFM3EyePYykYZ4b.jpg",
+    "description": "Un ancien Navy SEAL souffrant de stress post-traumatique sauve une femme puis en tombe amoureux, avant de la perdre aux mains de mystérieux ravisseurs. Il réunit une équipe d’élite pour la retrouver, mais découvre bientôt la triste vérité : elle a été bio-ingéniérée par un scientifique fou endeuillé par la mort de sa femme.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads, Molotov TV.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1480295"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1480295-affinity/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1480295",
+      "hasScheduledVideos": false
+    }
+  }
+}

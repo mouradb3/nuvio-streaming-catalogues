@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1570282",
+    "type": "movie",
+    "name": "C'est vraiment moi",
+    "poster": "https://image.tmdb.org/t/p/w500/tsICvuboVKXKUfDu5m2h3kqXNP0.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/6aa0MMYI0cnrAw2ra3E5CmfHfUV.jpg",
+    "description": "Victime d'intimidation parce qu'il voulait devenir une idole, Kenji trouve sa place dans un cabaret et l'aide d'un médecin pionnier, et fait son apparition sur scène sous sa véritable identité, Ai Haruna.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1570282"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1570282-this-is-i/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1570282",
+      "hasScheduledVideos": false
+    }
+  }
+}

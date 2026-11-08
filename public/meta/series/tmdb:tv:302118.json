@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:tv:302118",
+    "type": "series",
+    "name": "I Kill the Bear",
+    "poster": "https://image.tmdb.org/t/p/w500/kizdafPznRr8DpdBHTNoRIQb0Ss.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/pmHbZ91sQkTga8xnCHZbSuAXtFp.jpg",
+    "description": "Depuis plus de 100 ans, une famille dresse des ours pour le cinéma. Alors que les temps changent et que l’utilisation d’animaux soulève des questions, elle décide que son projet actuel sera le dernier.\n\nDisponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/302118"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/302118-i-kill-the-bear/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:302118",
+      "hasScheduledVideos": true
+    }
+  }
+}

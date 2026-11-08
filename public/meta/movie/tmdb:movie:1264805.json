@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1264805",
+    "type": "movie",
+    "name": "만약에 우리",
+    "poster": "https://image.tmdb.org/t/p/w500/3ajXIRwoTGvnlLWVPgZPrHgXIW.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/2xtajuwR5EGFQm4pXuykWoEu4u0.jpg",
+    "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1264805"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1264805/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1264805",
+      "hasScheduledVideos": false
+    }
+  }
+}

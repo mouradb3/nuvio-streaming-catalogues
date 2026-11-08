@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:275902",
+    "type": "series",
+    "name": "Kaya-chan Isn't Scary",
+    "poster": "https://image.tmdb.org/t/p/w500/jfWdGJ2HcaCMVRdOUBPd6ayYgz2.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/vcHzF9NHQLM8dCW1OOBhezsFRiO.jpg",
+    "description": "Une petite fille de maternelle peut paraître problématique, mais c'est seulement parce qu'elle chasse les mauvais esprits qui l'entourent !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/275902"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/275902/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:275902",
+      "hasScheduledVideos": true
+    }
+  }
+}

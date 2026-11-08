@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1773368",
+    "type": "movie",
+    "name": "A Danish Christmas",
+    "poster": "https://image.tmdb.org/t/p/w500/1fdNNzXLhFW0uXfbK88bJGUi8HP.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/v9Fl90gwiw1OoQlyXpoaAMULyik.jpg",
+    "description": "Disponibilité Canada : StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1773368"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1773368-a-danish-christmas/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1773368",
+      "hasScheduledVideos": false
+    }
+  }
+}
