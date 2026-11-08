@@ -34,7 +34,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.6",
       "links": [
         {
           "name": "TMDB",
@@ -138,7 +138,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/vwGjInWZImDB2AQnnrIt9775q6L.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "7.3",
       "links": [
         {
           "name": "TMDB",
@@ -189,7 +189,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/hw3d1wDXTsEVyViubbTgHsMIvX0.jpg",
       "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.9",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
@@ -293,7 +293,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "6.4",
       "links": [
         {
           "name": "TMDB",
@@ -345,7 +345,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.9",
+      "imdbRating": "5.8",
       "links": [
         {
           "name": "TMDB",
@@ -760,7 +760,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.1",
+      "imdbRating": "6",
       "links": [
         {
           "name": "TMDB",
@@ -1017,7 +1017,7 @@
       "type": "movie",
       "name": "Jusqu’au sommet : le K2 en hiver",
       "poster": "https://image.tmdb.org/t/p/w500/xDNFOzFtWjrTkCvnJvuMx7v3g38.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/wtzSwtnQ4RsRbV5cc114Nb1q3b0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bZDG7ypci7shzYp7jCOW4d1UC8w.jpg",
       "description": "Une course mémorable pour être le premier à atteindre le sommet du K2 en hiver vire au drame, révélant qu'ambition, ego et quête de gloire sont aussi dangereux que la montagne.\n\nDisponibilité Canada : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "6.2",
@@ -1382,7 +1382,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
       "description": "Réalisé par Rachel Morrison, L'AMOUR DE TA VIE suit Maya, dont la rencontre fortuite avec Charlie donne le coup d'envoi d'une histoire d'amour passionnée. Mais Maya se retrouve propulsée vers une nouvelle vie inattendue - une vie qui va la forcer à se demander qui elle est vraiment, ce qu'elle veut et comment aimer à nouveau.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.7",
+      "imdbRating": "6.8",
       "links": [
         {
           "name": "TMDB",
@@ -1453,6 +1453,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1522689",
+      "type": "movie",
+      "name": "Pourquoi je me suis marié, déjà?",
+      "poster": "https://image.tmdb.org/t/p/w500/8mmQWqkvZrvxqr21WhV7Pk0WIHl.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
+      "description": "Les couples se retrouvent pour le mariage de la fille de Marcus et Angela... apportant des tensions qui soulèvent la question suivante : « Pourquoi je me suis marié, déjà? ».\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1522689"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1522689-why-did-i-get-married-again/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1522689",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1447853",
       "type": "movie",
       "name": "Oasis: Don't Look Back in Anger",
@@ -1501,32 +1527,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1762506",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1522689",
-      "type": "movie",
-      "name": "Pourquoi je me suis marié, déjà?",
-      "poster": "https://image.tmdb.org/t/p/w500/8mmQWqkvZrvxqr21WhV7Pk0WIHl.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
-      "description": "Les couples se retrouvent pour le mariage de la fille de Marcus et Angela... apportant des tensions qui soulèvent la question suivante : « Pourquoi je me suis marié, déjà? ».\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1522689"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1522689-why-did-i-get-married-again/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1522689",
         "hasScheduledVideos": false
       }
     },
@@ -2968,7 +2968,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "description": "L’histoire turbulente, absurde et évidemment vraie des Minions et la manière dont ils ont conquis Hollywood, sont devenus de véritables stars de cinéma, ont tout perdu, ont libéré des monstres dans notre monde, puis ont tenté de sauver la planète du chaos qu’ils avaient créé.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
@@ -3061,6 +3061,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1612018",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1397385",
+      "type": "movie",
+      "name": "Petit frère",
+      "poster": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
+      "description": "La vie « parfaite » d'un agent immobilier coincé est totalement bouleversée quand son « petit frère » adorablement chaotique refait soudainement surface.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1397385"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1397385-little-brother/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1397385",
         "hasScheduledVideos": false
       }
     },
@@ -3325,32 +3351,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1397385",
-      "type": "movie",
-      "name": "Petit frère",
-      "poster": "https://image.tmdb.org/t/p/w500/hIJpXb7Xaje2mebN9ylsS7blQzP.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
-      "description": "La vie « parfaite » d'un agent immobilier coincé est totalement bouleversée quand son « petit frère » adorablement chaotique refait soudainement surface.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1397385"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1397385-little-brother/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1397385",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1477317",
       "type": "movie",
       "name": "Your Fault: London",
@@ -3425,6 +3425,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1431804",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1280738",
+      "type": "movie",
+      "name": "The Furious",
+      "poster": "https://image.tmdb.org/t/p/w500/6AOetubScykxJGRxNeNkMt1ra44.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/i0eR9O1FnCgBm1cH8WwqxGbAXMS.jpg",
+      "description": "Après l’enlèvement de sa fille par un réseau criminel et face à l’inaction de la police, Wang Wei se lance dans une traque implacable pour la retrouver. Son seul allié, Navin, est un journaliste tenace dont la femme a mystérieusement disparu. Unis par un même désir de vengeance, ces deux hommes que tout oppose affrontent les ravisseurs dans un face-à-face explosif mêlant arts martiaux et justice sans merci.\n\nDisponibilité Canada : Crave, Crave Amazon Channel, Starz Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1280738"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1280738/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1280738",
         "hasScheduledVideos": false
       }
     },
@@ -3611,32 +3637,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1280738",
-      "type": "movie",
-      "name": "The Furious",
-      "poster": "https://image.tmdb.org/t/p/w500/6AOetubScykxJGRxNeNkMt1ra44.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/i0eR9O1FnCgBm1cH8WwqxGbAXMS.jpg",
-      "description": "Après l’enlèvement de sa fille par un réseau criminel et face à l’inaction de la police, Wang Wei se lance dans une traque implacable pour la retrouver. Son seul allié, Navin, est un journaliste tenace dont la femme a mystérieusement disparu. Unis par un même désir de vengeance, ces deux hommes que tout oppose affrontent les ravisseurs dans un face-à-face explosif mêlant arts martiaux et justice sans merci.\n\nDisponibilité Canada : Crave, Crave Amazon Channel, Starz Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.2",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1280738"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1280738/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1280738",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1556616",
       "type": "movie",
       "name": "Yaz Evi",
@@ -3715,6 +3715,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1358005",
+      "type": "movie",
+      "name": "Amour au bureau",
+      "poster": "https://image.tmdb.org/t/p/w500/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1N5yz1IDw6Ci8le1YgeM6xtBijA.jpg",
+      "description": "Jennifer Lopez et Brett Goldstein jouent dans cette comédie romantique insolente sur une liaison secrète au bureau, qui crée un chaos pour deux bourreaux de travail.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1358005"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1358005-office-romance/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1358005",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1083884",
       "type": "movie",
       "name": "Signal One",
@@ -3763,32 +3789,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1274706",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1358005",
-      "type": "movie",
-      "name": "Amour au bureau",
-      "poster": "https://image.tmdb.org/t/p/w500/lHHZ0EiJZeFcNu1vjSxMdoCCMrU.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/1N5yz1IDw6Ci8le1YgeM6xtBijA.jpg",
-      "description": "Jennifer Lopez et Brett Goldstein jouent dans cette comédie romantique insolente sur une liaison secrète au bureau, qui crée un chaos pour deux bourreaux de travail.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1358005"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1358005-office-romance/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1358005",
         "hasScheduledVideos": false
       }
     },
@@ -3845,32 +3845,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1593380",
-      "type": "movie",
-      "name": "Ninja Wars: BlackFox vs Shogun's Ninja",
-      "poster": "https://image.tmdb.org/t/p/w500/1lkVoZZiZ6LIKCEeCojblCf8eYP.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/6MqW1z9Mna9U66tzyx3dieVqtXL.jpg",
-      "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1593380"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1593380-ninja-wars-blackfox-vs-shogun-s-ninja/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1593380",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1440050",
       "type": "movie",
       "name": "Le soutien de famille",
@@ -3893,6 +3867,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1440050",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1593380",
+      "type": "movie",
+      "name": "Ninja Wars: BlackFox vs Shogun's Ninja",
+      "poster": "https://image.tmdb.org/t/p/w500/1lkVoZZiZ6LIKCEeCojblCf8eYP.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6MqW1z9Mna9U66tzyx3dieVqtXL.jpg",
+      "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1593380"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1593380-ninja-wars-blackfox-vs-shogun-s-ninja/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1593380",
         "hasScheduledVideos": false
       }
     },
@@ -4079,32 +4079,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1227877",
-      "type": "movie",
-      "name": "I Love Boosters",
-      "poster": "https://image.tmdb.org/t/p/w500/uUOBgpLTKPRrhXTfngbmGIkzVgc.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/fBZ9cWUI1yB9Fcs2eoYZ4mmMUmI.jpg",
-      "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.3",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1227877"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1227877-i-love-boosters/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1227877",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1368881",
       "type": "movie",
       "name": "Les dames d'abord",
@@ -4127,6 +4101,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1368881",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1227877",
+      "type": "movie",
+      "name": "I Love Boosters",
+      "poster": "https://image.tmdb.org/t/p/w500/uUOBgpLTKPRrhXTfngbmGIkzVgc.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fBZ9cWUI1yB9Fcs2eoYZ4mmMUmI.jpg",
+      "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1227877"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1227877-i-love-boosters/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1227877",
         "hasScheduledVideos": false
       }
     },
@@ -4209,6 +4209,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1285669",
+      "type": "movie",
+      "name": "LifeHack",
+      "poster": "https://image.tmdb.org/t/p/w500/8HzkvoQ8RC6KO8WHfA2wK8djHBm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/k13za3wUhd8uejKJ2v9XQsRjxaw.jpg",
+      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1285669"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1285669-lifehack/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1285669",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1380316",
       "type": "movie",
       "name": "Is God Is",
@@ -4257,32 +4283,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1662317",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1285669",
-      "type": "movie",
-      "name": "LifeHack",
-      "poster": "https://image.tmdb.org/t/p/w500/8HzkvoQ8RC6KO8WHfA2wK8djHBm.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/k13za3wUhd8uejKJ2v9XQsRjxaw.jpg",
-      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.1",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1285669"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1285669-lifehack/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1285669",
         "hasScheduledVideos": false
       }
     },
@@ -4469,6 +4469,32 @@
       }
     },
     {
+      "id": "tmdb:movie:931285",
+      "type": "movie",
+      "name": "Mortal Kombat II",
+      "poster": "https://image.tmdb.org/t/p/w500/2ylGKeyxjmcUAkqC8uFarwhL1Pu.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+      "description": "Les champions préférés de tous – faisant équipe avec Johnny Cage en personne –s’affrontent les uns les autres dans la bataille sanglante par excellence où tous les coups sont permis pour vaincre le règne cruel de Shao Kahn qui menace l’existence même du Royaume de la Terre et ses protecteurs.\n\nDisponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/931285"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/931285-mortal-kombat-ii/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:931285",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1301421",
       "type": "movie",
       "name": "Les Moutons Détectives",
@@ -4621,32 +4647,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1630423",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:931285",
-      "type": "movie",
-      "name": "Mortal Kombat II",
-      "poster": "https://image.tmdb.org/t/p/w500/2ylGKeyxjmcUAkqC8uFarwhL1Pu.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
-      "description": "Les champions préférés de tous – faisant équipe avec Johnny Cage en personne –s’affrontent les uns les autres dans la bataille sanglante par excellence où tous les coups sont permis pour vaincre le règne cruel de Shao Kahn qui menace l’existence même du Royaume de la Terre et ses protecteurs.\n\nDisponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/931285"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/931285-mortal-kombat-ii/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:931285",
         "hasScheduledVideos": false
       }
     },
@@ -5093,6 +5093,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1511057",
+      "type": "movie",
+      "name": "Colocs",
+      "poster": "https://image.tmdb.org/t/p/w500/jKozJKsIuoqHlLE6BOGvElbCan3.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uYVxuLVZsxnJfXK03YgZSzqiWiQ.jpg",
+      "description": "Fraîchement arrivée à l'université, l'étudiante Devon demande à Celeste de devenir sa colocataire, mais leur amitié naissante s'enlise rapidement dans une guerre passive-agressive.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1511057"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1511057-roommates/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1511057",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1084577",
       "type": "movie",
       "name": "Boulets de canon",
@@ -5193,32 +5219,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1492341",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1511057",
-      "type": "movie",
-      "name": "Colocs",
-      "poster": "https://image.tmdb.org/t/p/w500/jKozJKsIuoqHlLE6BOGvElbCan3.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/uYVxuLVZsxnJfXK03YgZSzqiWiQ.jpg",
-      "description": "Fraîchement arrivée à l'université, l'étudiante Devon demande à Celeste de devenir sa colocataire, mais leur amitié naissante s'enlise rapidement dans une guerre passive-agressive.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1511057"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1511057-roommates/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1511057",
         "hasScheduledVideos": false
       }
     },
@@ -5639,6 +5639,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1450527",
+      "type": "movie",
+      "name": "Forbidden Fruits",
+      "poster": "https://image.tmdb.org/t/p/w500/nSlKzxvXWOeDC9qZiwkhGuTAKkq.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jAOpZDgy4eMY6o6oGdUiXk4SqvE.jpg",
+      "description": "Disponibilité Canada : AMC Plus Apple TV channel, AMC+, AMC+ Amazon Channel, Shudder, Shudder Amazon Channel, Shudder Apple TV channel, Sundance Now, Sundance Now Amazon Channel, Sundance Now Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1450527"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1450527-forbidden-fruits/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1450527",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1276704",
       "type": "movie",
       "name": "53 dimanches",
@@ -5713,32 +5739,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1292695",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1450527",
-      "type": "movie",
-      "name": "Forbidden Fruits",
-      "poster": "https://image.tmdb.org/t/p/w500/nSlKzxvXWOeDC9qZiwkhGuTAKkq.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/jAOpZDgy4eMY6o6oGdUiXk4SqvE.jpg",
-      "description": "Disponibilité Canada : AMC Plus Apple TV channel, AMC+, AMC+ Amazon Channel, Shudder, Shudder Amazon Channel, Shudder Apple TV channel, Sundance Now, Sundance Now Amazon Channel, Sundance Now Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1450527"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1450527-forbidden-fruits/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1450527",
         "hasScheduledVideos": false
       }
     },
@@ -6010,7 +6010,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/ezMP8W9CbyQQRyYRFw91mm2IEpX.jpg",
       "description": "Disponibilité Canada : AMC+ Amazon Channel, Shudder, Shudder Amazon Channel, Shudder Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "4.5",
+      "imdbRating": "4.2",
       "links": [
         {
           "name": "TMDB",
@@ -6443,6 +6443,32 @@
       }
     },
     {
+      "id": "tmdb:movie:662707",
+      "type": "movie",
+      "name": "Starbright",
+      "poster": "https://image.tmdb.org/t/p/w500/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tZiRd4IpoNiaoLXr2o2YfhTMjE2.jpg",
+      "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/662707"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/662707-starbright/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:662707",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1032892",
       "type": "movie",
       "name": "Destins croisés",
@@ -6495,28 +6521,28 @@
       }
     },
     {
-      "id": "tmdb:movie:662707",
+      "id": "tmdb:movie:1451867",
       "type": "movie",
-      "name": "Starbright",
-      "poster": "https://image.tmdb.org/t/p/w500/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/tZiRd4IpoNiaoLXr2o2YfhTMjE2.jpg",
-      "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "name": "Ghost Elephants",
+      "poster": "https://image.tmdb.org/t/p/w500/jaxGFuZBFe8VLmsWf0cyDwAy78m.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qEqvcwXH5skWfed1rgZq45FL36G.jpg",
+      "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.7",
+      "imdbRating": "7.6",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/662707"
+          "url": "https://www.themoviedb.org/movie/1451867"
         },
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/movie/662707-starbright/watch?locale=CA"
+          "url": "https://www.themoviedb.org/movie/1451867-ghost-elephants/watch?locale=CA"
         }
       ],
       "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:662707",
+        "defaultVideoId": "tmdb:movie:1451867",
         "hasScheduledVideos": false
       }
     },
@@ -6807,32 +6833,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1447971",
-      "type": "movie",
-      "name": "惊蛰无声",
-      "poster": "https://image.tmdb.org/t/p/w500/pKvogvxeYK0OhseQyLCmjcRRcWG.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/nN3RRsmNcxXIH10gcKuBjQXeyo9.jpg",
-      "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.1",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1447971"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1447971/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1447971",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:799882",
       "type": "movie",
       "name": "La falaise",
@@ -6855,6 +6855,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:799882",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1447971",
+      "type": "movie",
+      "name": "惊蛰无声",
+      "poster": "https://image.tmdb.org/t/p/w500/pKvogvxeYK0OhseQyLCmjcRRcWG.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/nN3RRsmNcxXIH10gcKuBjQXeyo9.jpg",
+      "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1447971"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1447971/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1447971",
         "hasScheduledVideos": false
       }
     },
@@ -7353,6 +7379,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1618945",
+      "type": "movie",
+      "name": "Yoh! Bestie",
+      "poster": "https://image.tmdb.org/t/p/w500/9wBzRaeWfELNOPmcvOVTmB3kDEl.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1EVHnzF3gescyQZSqwbx5LfQ1EN.jpg",
+      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1618945"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1618945-yoh-bestie/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1618945",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1422562",
       "type": "movie",
       "name": "The Moment",
@@ -7427,32 +7479,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1373198",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1618945",
-      "type": "movie",
-      "name": "Yoh! Bestie",
-      "poster": "https://image.tmdb.org/t/p/w500/9wBzRaeWfELNOPmcvOVTmB3kDEl.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/1EVHnzF3gescyQZSqwbx5LfQ1EN.jpg",
-      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.2",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1618945"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1618945-yoh-bestie/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1618945",
         "hasScheduledVideos": false
       }
     },
@@ -7820,6 +7846,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1272837",
+      "type": "movie",
+      "name": "28 ans plus tard : Le temple des morts",
+      "poster": "https://image.tmdb.org/t/p/w500/1SQVgXrkBVbwUWugj3ZZ6T26So2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
+      "description": "Le docteur Kelson noue une relation aussi troublante qu'inattendue dont les répercussions sont susceptibles de bouleverser le monde. De l'autre côté, la rencontre entre Spike et Jimmy Crystal tourne au cauchemar.\n\nDisponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1272837"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1272837-28-years-later-the-bone-temple/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1272837",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1306368",
       "type": "movie",
       "name": "Coup d'argent",
@@ -7868,32 +7920,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1263012",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1272837",
-      "type": "movie",
-      "name": "28 ans plus tard : Le temple des morts",
-      "poster": "https://image.tmdb.org/t/p/w500/1SQVgXrkBVbwUWugj3ZZ6T26So2.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
-      "description": "Le docteur Kelson noue une relation aussi troublante qu'inattendue dont les répercussions sont susceptibles de bouleverser le monde. De l'autre côté, la rencontre entre Spike et Jimmy Crystal tourne au cauchemar.\n\nDisponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.1",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1272837"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1272837-28-years-later-the-bone-temple/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1272837",
         "hasScheduledVideos": false
       }
     },
@@ -7976,32 +8002,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1159206",
-      "type": "movie",
-      "name": "Father Mother Sister Brother",
-      "poster": "https://image.tmdb.org/t/p/w500/7xfdX6TQ0Nbv5jWB6QFeysbWHBg.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/n36zycrAqHn2uzx65IeAdnsZcMj.jpg",
-      "description": "Disponibilité Canada : MUBI, MUBI Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1159206"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1159206-father-mother-sister-brother/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1159206",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1601243",
       "type": "movie",
       "name": "Oscar Shaw",
@@ -8024,6 +8024,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1601243",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1159206",
+      "type": "movie",
+      "name": "Father Mother Sister Brother",
+      "poster": "https://image.tmdb.org/t/p/w500/7xfdX6TQ0Nbv5jWB6QFeysbWHBg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/n36zycrAqHn2uzx65IeAdnsZcMj.jpg",
+      "description": "Disponibilité Canada : MUBI, MUBI Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1159206"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1159206-father-mother-sister-brother/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1159206",
         "hasScheduledVideos": false
       }
     },
@@ -8113,7 +8139,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/6qQQhhF87Rm1z2TYhXAmoPiEHME.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.5",
+      "imdbRating": "5.4",
       "links": [
         {
           "name": "TMDB",
@@ -8154,6 +8180,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1591516",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1317288",
+      "type": "movie",
+      "name": "Marty suprême",
+      "poster": "https://image.tmdb.org/t/p/w500/bT5Y8w67r7tj3wFiFGvy72V5znJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
+      "description": "Marty Mauser, 23 ans, aspire à devenir le meilleur athlète sur la scène mondiale du tennis de table. Le sport est sous-représenté aux États-Unis, ce qui rend difficile le financement de ses compétitions à l'étranger. Il est toutefois prêt à tout pour arriver à ses fins, y compris nouer des liens avec une ancienne actrice et son riche mari entrepreneur. Son entêtement pose un problème pour les personnes de son entourage, qui font souvent les frais de ses choix cavaliers.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1317288"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1317288-marty-supreme/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1317288",
         "hasScheduledVideos": false
       }
     },
@@ -8288,32 +8340,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1317288",
-      "type": "movie",
-      "name": "Marty suprême",
-      "poster": "https://image.tmdb.org/t/p/w500/bT5Y8w67r7tj3wFiFGvy72V5znJ.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
-      "description": "Marty Mauser, 23 ans, aspire à devenir le meilleur athlète sur la scène mondiale du tennis de table. Le sport est sous-représenté aux États-Unis, ce qui rend difficile le financement de ses compétitions à l'étranger. Il est toutefois prêt à tout pour arriver à ses fins, y compris nouer des liens avec une ancienne actrice et son riche mari entrepreneur. Son entêtement pose un problème pour les personnes de son entourage, qui font souvent les frais de ses choix cavaliers.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1317288"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1317288-marty-supreme/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1317288",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1368166",
       "type": "movie",
       "name": "La femme de ménage",
@@ -8444,6 +8470,32 @@
       }
     },
     {
+      "id": "tmdb:movie:801937",
+      "type": "movie",
+      "name": "Douce nuit, sanglante nuit",
+      "poster": "https://image.tmdb.org/t/p/w500/7CuiHu9PFOWIJee9s7Jv0KPNfzE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bOHF8j3A5FadUl1eDaVpWW1w3xY.jpg",
+      "description": "Après avoir été témoin du meurtre brutal de ses parents par un individu déguisé en père Noël la veille de Noël, Billy Chapman reste profondément traumatisé. Devenu adulte, il finit par revêtir lui-même le costume rouge pour se venger, punissant ceux qu'il juge méchants dans une quête de justice sombre et sanglante. Guidé par une voix intérieure sinistre, Billy suit un rituel macabre en éliminant 24 victimes selon les jours d'un calendrier de l'Avent.\n\nDisponibilité Canada : Crave, Crave Amazon Channel, Paramount Plus, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/801937"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/801937-silent-night-deadly-night/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:801937",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1043197",
       "type": "movie",
       "name": "Mouton de poussière",
@@ -8492,32 +8544,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1379963",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:801937",
-      "type": "movie",
-      "name": "Douce nuit, sanglante nuit",
-      "poster": "https://image.tmdb.org/t/p/w500/7CuiHu9PFOWIJee9s7Jv0KPNfzE.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/bOHF8j3A5FadUl1eDaVpWW1w3xY.jpg",
-      "description": "Après avoir été témoin du meurtre brutal de ses parents par un individu déguisé en père Noël la veille de Noël, Billy Chapman reste profondément traumatisé. Devenu adulte, il finit par revêtir lui-même le costume rouge pour se venger, punissant ceux qu'il juge méchants dans une quête de justice sombre et sanglante. Guidé par une voix intérieure sinistre, Billy suit un rituel macabre en éliminant 24 victimes selon les jours d'un calendrier de l'Avent.\n\nDisponibilité Canada : Crave, Crave Amazon Channel, Paramount Plus, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "6.3",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/801937"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/801937-silent-night-deadly-night/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:801937",
         "hasScheduledVideos": false
       }
     },
@@ -8808,6 +8834,32 @@
       }
     },
     {
+      "id": "tmdb:movie:812583",
+      "type": "movie",
+      "name": "Wake Up Dead Man : Une histoire à couteaux tirés",
+      "poster": "https://image.tmdb.org/t/p/w500/qlUqHz8M1x3a2gZSggXY2t1qhNo.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fiRDzpcJe7qz3yIR43hdXIE3NHv.jpg",
+      "description": "Le détective Benoit Blanc fait équipe avec un jeune père afin d'enquêter sur le parfait exemple du crime impossible à résoudre dans l'église d'une petite ville au sombre passé.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/812583"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/812583-wake-up-dead-man-a-knives-out-mystery/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:812583",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:858024",
       "type": "movie",
       "name": "Hamnet",
@@ -8860,28 +8912,28 @@
       }
     },
     {
-      "id": "tmdb:movie:812583",
+      "id": "tmdb:movie:1218762",
       "type": "movie",
-      "name": "Wake Up Dead Man : Une histoire à couteaux tirés",
-      "poster": "https://image.tmdb.org/t/p/w500/qlUqHz8M1x3a2gZSggXY2t1qhNo.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/fiRDzpcJe7qz3yIR43hdXIE3NHv.jpg",
-      "description": "Le détective Benoit Blanc fait équipe avec un jeune père afin d'enquêter sur le parfait exemple du crime impossible à résoudre dans l'église d'une petite ville au sombre passé.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "name": "Vive le vol d'hiver",
+      "poster": "https://image.tmdb.org/t/p/w500/uNn5SWzgeBSVjNDYiRJYH6dRI2G.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/x8gV0MUZVWkikNZElaBk13vW5f4.jpg",
+      "description": "Sophia et Nick, deux salariés malchanceux, font équipe pour cambrioler un grand magasin de Londres la veille de Noël. Leur cœur fera-t-il partie du butin?\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2025",
-      "imdbRating": "7.2",
+      "imdbRating": "6",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/812583"
+          "url": "https://www.themoviedb.org/movie/1218762"
         },
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/movie/812583-wake-up-dead-man-a-knives-out-mystery/watch?locale=CA"
+          "url": "https://www.themoviedb.org/movie/1218762-jingle-bell-heist/watch?locale=CA"
         }
       ],
       "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:812583",
+        "defaultVideoId": "tmdb:movie:1218762",
         "hasScheduledVideos": false
       }
     },
@@ -9042,32 +9094,6 @@
       }
     },
     {
-      "id": "tmdb:movie:425274",
-      "type": "movie",
-      "name": "Insaisissable 3",
-      "poster": "https://image.tmdb.org/t/p/w500/ie5Xe7ptwL1X108NEwECgXqhbAM.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
-      "description": "Les Cavaliers sont de retour pour le braquage le plus impressionnant jamais imaginé ! Accompagnés d’un groupe de jeunes magiciens qui espèrent suivre leur trace, ils vont devoir repousser les limites de l’illusion pour orchestrer leur tour le plus spectaculaire : dérober le joyau le plus précieux du monde des mains d’une redoutable organisation criminelle...\n\nDisponibilité Canada : Crave, Crave Amazon Channel, Starz Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "6.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/425274"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/425274-now-you-see-me-now-you-don-t/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:425274",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:798645",
       "type": "movie",
       "name": "Le Jeu du défi",
@@ -9094,6 +9120,58 @@
       }
     },
     {
+      "id": "tmdb:movie:425274",
+      "type": "movie",
+      "name": "Insaisissable 3",
+      "poster": "https://image.tmdb.org/t/p/w500/ie5Xe7ptwL1X108NEwECgXqhbAM.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
+      "description": "Les Cavaliers sont de retour pour le braquage le plus impressionnant jamais imaginé ! Accompagnés d’un groupe de jeunes magiciens qui espèrent suivre leur trace, ils vont devoir repousser les limites de l’illusion pour orchestrer leur tour le plus spectaculaire : dérober le joyau le plus précieux du monde des mains d’une redoutable organisation criminelle...\n\nDisponibilité Canada : Crave, Crave Amazon Channel, Starz Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/425274"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/425274-now-you-see-me-now-you-don-t/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:425274",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1288072",
+      "type": "movie",
+      "name": "Keeper",
+      "poster": "https://image.tmdb.org/t/p/w500/A8K6H6CO4hXAKLHm9xn01u6hY4W.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8GjH1BU5PtoqAlhMeXQ46eq9z1D.jpg",
+      "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "5.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1288072"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1288072-keeper/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1288072",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:628847",
       "type": "movie",
       "name": "Trap House",
@@ -9116,32 +9194,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:628847",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1117857",
-      "type": "movie",
-      "name": "Dans tes rêves",
-      "poster": "https://image.tmdb.org/t/p/w500/7L4EiY10cRJ4Eekom9H4pruaa5Z.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/cTuFz80FozP54Aob9TYl4mF1wKk.jpg",
-      "description": "Stevie et son petit frère Elliot s'aventurent dans le pays absurde de leurs propres rêves pour demander au marchand de sable de leur donner une famille parfaite.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "6.9",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1117857"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1117857-in-your-dreams/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1117857",
         "hasScheduledVideos": false
       }
     },
@@ -9250,32 +9302,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1288072",
-      "type": "movie",
-      "name": "Keeper",
-      "poster": "https://image.tmdb.org/t/p/w500/A8K6H6CO4hXAKLHm9xn01u6hY4W.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/8GjH1BU5PtoqAlhMeXQ46eq9z1D.jpg",
-      "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "5.7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1288072"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1288072-keeper/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1288072",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1559760",
       "type": "movie",
       "name": "Thoughts & Prayers",
@@ -9354,6 +9380,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1117857",
+      "type": "movie",
+      "name": "Dans tes rêves",
+      "poster": "https://image.tmdb.org/t/p/w500/7L4EiY10cRJ4Eekom9H4pruaa5Z.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cTuFz80FozP54Aob9TYl4mF1wKk.jpg",
+      "description": "Stevie et son petit frère Elliot s'aventurent dans le pays absurde de leurs propres rêves pour demander au marchand de sable de leur donner une famille parfaite.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.9",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1117857"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1117857-in-your-dreams/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1117857",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1293167",
       "type": "movie",
       "name": "Protocole d'évacuation",
@@ -9428,6 +9480,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1428990",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:878608",
+      "type": "movie",
+      "name": "狂野时代",
+      "poster": "https://image.tmdb.org/t/p/w500/yZxEsi2s7NyO1QGjizXA9GLh49O.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gry8VX2ssomFFv0ogcmlv3ZGUWd.jpg",
+      "description": "Disponibilité Canada : Criterion Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/878608"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/878608/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:878608",
         "hasScheduledVideos": false
       }
     },
