@@ -710,7 +710,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.8",
       "links": [
         {
           "name": "TMDB",
@@ -736,7 +736,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
       "description": "Réalisé par Rachel Morrison, L'AMOUR DE TA VIE suit Maya, dont la rencontre fortuite avec Charlie donne le coup d'envoi d'une histoire d'amour passionnée. Mais Maya se retrouve propulsée vers une nouvelle vie inattendue - une vie qui va la forcer à se demander qui elle est vraiment, ce qu'elle veut et comment aimer à nouveau.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.8",
+      "imdbRating": "6.7",
       "links": [
         {
           "name": "TMDB",
@@ -866,7 +866,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/5pMZA0EdgE66jcSCkfDCAtWiizk.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6",
+      "imdbRating": "6.3",
       "links": [
         {
           "name": "TMDB",
@@ -1126,7 +1126,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.6",
+      "imdbRating": "6.8",
       "links": [
         {
           "name": "TMDB",
@@ -1542,7 +1542,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/9uU3523A14KJ90Jr8pQx0NGGIgb.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.8",
+      "imdbRating": "5.7",
       "links": [
         {
           "name": "TMDB",
@@ -3509,10 +3509,36 @@
       }
     },
     {
+      "id": "tmdb:movie:1242332",
+      "type": "movie",
+      "name": "Normal",
+      "poster": "https://image.tmdb.org/t/p/w500/bIwQxcZl2CdyhVRNDtQl36YCZVr.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
+      "description": "Le shérif intérimaire Ulysses, appelé dans la ville enneigée de Normal, dans le Minnesota, découvre un complot criminel international au cœur de ce petit village en apparence pittoresque lorsqu'il vient en aide à un couple de braqueurs de banque pris dans un engrenage mortel.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1242332"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1242332-normal/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1242332",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1816668",
       "type": "movie",
       "name": "Ninho : Le prix à payer",
-      "poster": "https://image.tmdb.org/t/p/w500/rTNm7uEquCaN6VK8XvavjqL9mCf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/zstBJatewUcaNVPICaIvLIel10X.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/vwGjInWZImDB2AQnnrIt9775q6L.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
@@ -3646,7 +3672,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/6qQQhhF87Rm1z2TYhXAmoPiEHME.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.4",
+      "imdbRating": "5.8",
       "links": [
         {
           "name": "TMDB",
@@ -6350,7 +6376,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/vdGafAruKcmtR8jNjk5OpVDXUpX.jpg",
       "description": "De retour sur l'île isolée où elle a grandi, une jeune scientifique découvre un trafic de drogue qui implique directement l'un de ses proches.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1",
+      "imdbRating": "7.2",
       "links": [
         {
           "name": "TMDB",

@@ -3048,7 +3048,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/yiElAOM1OD09YCuCUbim4QMyvtJ.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.6",
+      "imdbRating": "8.4",
       "links": [
         {
           "name": "TMDB",
@@ -3906,7 +3906,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/uekZzyLReK777QKO9xKwiPOelCQ.jpg",
       "description": "Vingt ans plus tard, Malcolm et sa famille n'ont toujours rien appris.\n\nDisponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8",
+      "imdbRating": "7.9",
       "links": [
         {
           "name": "TMDB",
@@ -4295,7 +4295,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.2",
       "links": [
         {
           "name": "TMDB",
@@ -4477,7 +4477,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/zyAFGC97834c2Ld4xPY02uacdQk.jpg",
       "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.2",
       "links": [
         {
           "name": "TMDB",
@@ -5127,7 +5127,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/gxkcHgZJfyGZOtVPdfGOtFnmwHT.jpg",
       "description": "Disponibilité Canada : Rakuten Viki, Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.7",
+      "imdbRating": "7.6",
       "links": [
         {
           "name": "TMDB",
@@ -6608,7 +6608,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/6CgpC5cS8jvkXgkI0pRoj31nHf6.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "6.4",
       "links": [
         {
           "name": "TMDB",
@@ -7777,7 +7777,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/w7p0SUuixmEyf5a5wVKAgHNkh8e.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6",
+      "imdbRating": "6.8",
       "links": [
         {
           "name": "TMDB",
@@ -8999,7 +8999,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/8oPvHyKO9wjs8ZDyDlq270r3OKu.jpg",
       "description": "Disponibilité Canada : Crave, Starz Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "7.1",
       "links": [
         {
           "name": "TMDB",
@@ -9382,6 +9382,32 @@
       }
     },
     {
+      "id": "tmdb:tv:293697",
+      "type": "series",
+      "name": "愛してるゲームを終わらせたい",
+      "poster": "https://image.tmdb.org/t/p/w500/vNXVxjzHrUFnhZkZlQgvdUmzG4Q.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rep8uV9N7jSYpxpxH7glSP6qOmp.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/293697"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/293697/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:293697",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:327765",
       "type": "series",
       "name": "超巡！超条先輩",
@@ -9482,6 +9508,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:250505",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:297712",
+      "type": "series",
+      "name": "오십프로",
+      "poster": "https://image.tmdb.org/t/p/w500/eu8AhC5qzPgbKclpPWMF6qkCDL8.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gfBw8ZoGtRHSmSD5jo0McgwDzYd.jpg",
+      "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/297712"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/297712/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:297712",
         "hasScheduledVideos": true
       }
     },

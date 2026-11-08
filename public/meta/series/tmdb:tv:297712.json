@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:297712",
+    "type": "series",
+    "name": "오십프로",
+    "poster": "https://image.tmdb.org/t/p/w500/eu8AhC5qzPgbKclpPWMF6qkCDL8.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/gfBw8ZoGtRHSmSD5jo0McgwDzYd.jpg",
+    "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/297712"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/297712/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:297712",
+      "hasScheduledVideos": true
+    }
+  }
+}

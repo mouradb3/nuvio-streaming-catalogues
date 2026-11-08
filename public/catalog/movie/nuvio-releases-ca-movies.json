@@ -138,7 +138,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/5pMZA0EdgE66jcSCkfDCAtWiizk.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6",
+      "imdbRating": "6.3",
       "links": [
         {
           "name": "TMDB",
@@ -160,7 +160,7 @@
       "id": "tmdb:movie:1816668",
       "type": "movie",
       "name": "Ninho : Le prix à payer",
-      "poster": "https://image.tmdb.org/t/p/w500/rTNm7uEquCaN6VK8XvavjqL9mCf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/zstBJatewUcaNVPICaIvLIel10X.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/vwGjInWZImDB2AQnnrIt9775q6L.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
@@ -345,7 +345,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.6",
+      "imdbRating": "6.8",
       "links": [
         {
           "name": "TMDB",
@@ -423,7 +423,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/9uU3523A14KJ90Jr8pQx0NGGIgb.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.8",
+      "imdbRating": "5.7",
       "links": [
         {
           "name": "TMDB",
@@ -1434,7 +1434,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/4hneB0UFKOZAGJHqJ3VhDcG72uH.jpg",
       "description": "Réalisé par Rachel Morrison, L'AMOUR DE TA VIE suit Maya, dont la rencontre fortuite avec Charlie donne le coup d'envoi d'une histoire d'amour passionnée. Mais Maya se retrouve propulsée vers une nouvelle vie inattendue - une vie qui va la forcer à se demander qui elle est vraiment, ce qu'elle veut et comment aimer à nouveau.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.8",
+      "imdbRating": "6.7",
       "links": [
         {
           "name": "TMDB",
@@ -1668,7 +1668,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.8",
       "links": [
         {
           "name": "TMDB",
@@ -1869,32 +1869,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1471168",
-      "type": "movie",
-      "name": "Barreda",
-      "poster": "https://image.tmdb.org/t/p/w500/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/4pXBWLKMew7Xmtq3OgMQxTHp060.jpg",
-      "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1471168"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1471168",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1631807",
       "type": "movie",
       "name": "Den hemmelige kvinde",
@@ -1917,6 +1891,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1631807",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1471168",
+      "type": "movie",
+      "name": "Barreda",
+      "poster": "https://image.tmdb.org/t/p/w500/a25CyXmPJx6SrVFA9yirJTL9iAH.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4pXBWLKMew7Xmtq3OgMQxTHp060.jpg",
+      "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1471168"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1471168-barreda/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1471168",
         "hasScheduledVideos": false
       }
     },
@@ -2493,32 +2493,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1659155",
-      "type": "movie",
-      "name": "Los creyentes",
-      "poster": "https://image.tmdb.org/t/p/w500/dqg8Ovu8ASVMh3QRlf54T9x3JtT.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
-      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1659155"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1659155-los-creyentes/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1659155",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:980431",
       "type": "movie",
       "name": "Avatar Aang: The Last Airbender",
@@ -2541,6 +2515,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:980431",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1659155",
+      "type": "movie",
+      "name": "Los creyentes",
+      "poster": "https://image.tmdb.org/t/p/w500/dqg8Ovu8ASVMh3QRlf54T9x3JtT.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2kQ71k6dq7DVNYuYY9ylNvRFKTv.jpg",
+      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1659155"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1659155-los-creyentes/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1659155",
         "hasScheduledVideos": false
       }
     },
@@ -4450,7 +4450,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/vdGafAruKcmtR8jNjk5OpVDXUpX.jpg",
       "description": "De retour sur l'île isolée où elle a grandi, une jeune scientifique découvre un trafic de drogue qui implique directement l'un de ses proches.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1",
+      "imdbRating": "7.2",
       "links": [
         {
           "name": "TMDB",
@@ -6471,6 +6471,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1327819",
+      "type": "movie",
+      "name": "Sauteurs",
+      "poster": "https://image.tmdb.org/t/p/w500/t3ji27ELTYLhhCw1SytO4sFZ4Lr.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+      "description": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.\n\nDisponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1327819"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1327819",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1159831",
       "type": "movie",
       "name": "La fiancée !",
@@ -6519,32 +6545,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:938150",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1327819",
-      "type": "movie",
-      "name": "Sauteurs",
-      "poster": "https://image.tmdb.org/t/p/w500/t3ji27ELTYLhhCw1SytO4sFZ4Lr.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-      "description": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.\n\nDisponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.1",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1327819"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1327819-hoppers/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1327819",
         "hasScheduledVideos": false
       }
     },
@@ -7431,32 +7431,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1429605",
-      "type": "movie",
-      "name": "F- la Saint-Valentin",
-      "poster": "https://image.tmdb.org/t/p/w500/56v1Ipm54DdEEuo9SIxaIpdcLEP.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/rQXIm9oICpHCBpuHSJ3SwthBQYc.jpg",
-      "description": "Gina déteste son anniversaire qui tombe le jour de la Saint-Valentin et part en Grèce pour éviter la demande en mariage de son petit ami. Avec l'aide de Johnny et de sa sœur Mickey, deux vacanciers, elle élabore un plan pour retarder la demande en mariage, tout en remettant en question sa relation.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.1",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1429605"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1429605-f-valentine-s-day/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1429605",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1317672",
       "type": "movie",
       "name": "Love Me Love Me",
@@ -7479,6 +7453,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1317672",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1429605",
+      "type": "movie",
+      "name": "F- la Saint-Valentin",
+      "poster": "https://image.tmdb.org/t/p/w500/56v1Ipm54DdEEuo9SIxaIpdcLEP.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rQXIm9oICpHCBpuHSJ3SwthBQYc.jpg",
+      "description": "Gina déteste son anniversaire qui tombe le jour de la Saint-Valentin et part en Grèce pour éviter la demande en mariage de son petit ami. Avec l'aide de Johnny et de sa sœur Mickey, deux vacanciers, elle élabore un plan pour retarder la demande en mariage, tout en remettant en question sa relation.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1429605"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1429605-f-valentine-s-day/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1429605",
         "hasScheduledVideos": false
       }
     },
@@ -8373,7 +8373,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/6qQQhhF87Rm1z2TYhXAmoPiEHME.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.4",
+      "imdbRating": "5.8",
       "links": [
         {
           "name": "TMDB",
@@ -9328,6 +9328,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1363123",
+      "type": "movie",
+      "name": "Escapade en famille 2",
+      "poster": "https://image.tmdb.org/t/p/w500/pE44eqVdcpymDzxMinJMWrAxuev.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hXc9jZuIfJ3lCrKJsZVwJM4anRf.jpg",
+      "description": "Maintenant que sa vie de tueur à gages appartient au passé, Dan rêve de fêter Noël avec ses enfants. Mais lorsqu'il apprend que sa fille a d'autres projets, il décide d'emmener sa famille en voyage à Londres, où ils seront confrontés à un ennemi inattendu.\n\nDisponibilité Canada : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1363123"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1363123-the-family-plan-2/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1363123",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1448560",
       "type": "movie",
       "name": "Wildcat",
@@ -9614,32 +9640,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1363123",
-      "type": "movie",
-      "name": "Escapade en famille 2",
-      "poster": "https://image.tmdb.org/t/p/w500/pE44eqVdcpymDzxMinJMWrAxuev.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/hXc9jZuIfJ3lCrKJsZVwJM4anRf.jpg",
-      "description": "Maintenant que sa vie de tueur à gages appartient au passé, Dan rêve de fêter Noël avec ses enfants. Mais lorsqu'il apprend que sa fille a d'autres projets, il décide d'emmener sa famille en voyage à Londres, où ils seront confrontés à un ennemi inattendu.\n\nDisponibilité Canada : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "6.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1363123"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1363123-the-family-plan-2/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1363123",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1426518",
       "type": "movie",
       "name": "Moi, c'est Eddie",
@@ -9818,6 +9818,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1401281",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1242332",
+      "type": "movie",
+      "name": "Normal",
+      "poster": "https://image.tmdb.org/t/p/w500/bIwQxcZl2CdyhVRNDtQl36YCZVr.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
+      "description": "Le shérif intérimaire Ulysses, appelé dans la ville enneigée de Normal, dans le Minnesota, découvre un complot criminel international au cœur de ce petit village en apparence pittoresque lorsqu'il vient en aide à un couple de braqueurs de banque pris dans un engrenage mortel.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1242332"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1242332-normal/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1242332",
         "hasScheduledVideos": false
       }
     },

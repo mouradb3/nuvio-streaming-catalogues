@@ -1,6 +1,54 @@
 {
   "metas": [
     {
+      "id": "tmdb:tv:297712",
+      "type": "series",
+      "name": "오십프로",
+      "poster": "https://image.tmdb.org/t/p/w500/eu8AhC5qzPgbKclpPWMF6qkCDL8.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gfBw8ZoGtRHSmSD5jo0McgwDzYd.jpg",
+      "description": "Disponibilité détectée chez Rakuten Viki — Canada.\nDate de détection : 2026-11-08T22:01:20.537Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/297712"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:293697",
+      "type": "series",
+      "name": "愛してるゲームを終わらせたい",
+      "poster": "https://image.tmdb.org/t/p/w500/vNXVxjzHrUFnhZkZlQgvdUmzG4Q.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rep8uV9N7jSYpxpxH7glSP6qOmp.jpg",
+      "description": "Disponibilité détectée chez Crunchyroll — Canada.\nDate de détection : 2026-11-08T22:01:20.443Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/293697"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:293697",
+      "type": "series",
+      "name": "愛してるゲームを終わらせたい",
+      "poster": "https://image.tmdb.org/t/p/w500/vNXVxjzHrUFnhZkZlQgvdUmzG4Q.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rep8uV9N7jSYpxpxH7glSP6qOmp.jpg",
+      "description": "Disponibilité détectée chez Crunchyroll Amazon Channel — Canada.\nDate de détection : 2026-11-08T22:01:20.443Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/293697"
+        }
+      ]
+    },
+    {
       "id": "tmdb:tv:302118",
       "type": "series",
       "name": "I Kill the Bear",
