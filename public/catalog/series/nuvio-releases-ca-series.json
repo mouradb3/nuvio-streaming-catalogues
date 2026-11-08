@@ -8,7 +8,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.1",
+      "imdbRating": "8.2",
       "links": [
         {
           "name": "TMDB",
@@ -34,6 +34,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
+      "imdbRating": "6",
       "links": [
         {
           "name": "TMDB",
@@ -185,10 +186,10 @@
       "type": "series",
       "name": "재혼 황후",
       "poster": "https://image.tmdb.org/t/p/w500/1TKAhnnicIIV5k2L8bquwnU1B0s.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/1ptukf8gx19U1HcBv3aRzzlXuyJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
       "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.4",
+      "imdbRating": "8.5",
       "links": [
         {
           "name": "TMDB",
@@ -292,7 +293,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/wzbO83x1CJqhoKYciDNa3aC37qT.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "4.5",
+      "imdbRating": "4.7",
       "links": [
         {
           "name": "TMDB",
@@ -811,7 +812,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/q6VPQREsEGFccpWVF7wFvy9oc25.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
@@ -915,7 +916,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/voAufY8Jv3AVfG15sxY5H6XWFKr.jpg",
       "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "9.3",
+      "imdbRating": "8.6",
       "links": [
         {
           "name": "TMDB",
@@ -1302,7 +1303,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/rCFZ9cQQVSa9sAvco2Czcct6aKB.jpg",
       "description": "Disponibilité Canada : Netflix.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "9",
+      "imdbRating": "9.1",
       "links": [
         {
           "name": "TMDB",
@@ -1892,32 +1893,6 @@
       }
     },
     {
-      "id": "tmdb:tv:313068",
-      "type": "series",
-      "name": "どうも、好きな人に惚れ薬を依頼された魔女です。",
-      "poster": "https://image.tmdb.org/t/p/w500/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/hEE9n9tZAjoT3eE5lL4MhZZ2DbB.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.2",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/313068"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/313068/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:313068",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:297903",
       "type": "series",
       "name": "PSYREN -サイレン-",
@@ -1966,6 +1941,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:316694",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:313068",
+      "type": "series",
+      "name": "どうも、好きな人に惚れ薬を依頼された魔女です。",
+      "poster": "https://image.tmdb.org/t/p/w500/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hEE9n9tZAjoT3eE5lL4MhZZ2DbB.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/313068"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/313068/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:313068",
         "hasScheduledVideos": true
       }
     },
@@ -2048,32 +2049,6 @@
       }
     },
     {
-      "id": "tmdb:tv:283692",
-      "type": "series",
-      "name": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
-      "poster": "https://image.tmdb.org/t/p/w500/l2bXeBO6f2ZXgKh0ipYKyeMT98v.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/k5G4ALskmO8GcSOO3fN8fePa9Ny.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/283692"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/283692/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:283692",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:335194",
       "type": "series",
       "name": "マジカル★エクスプローラー",
@@ -2096,6 +2071,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:335194",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:283692",
+      "type": "series",
+      "name": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
+      "poster": "https://image.tmdb.org/t/p/w500/l2bXeBO6f2ZXgKh0ipYKyeMT98v.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/k5G4ALskmO8GcSOO3fN8fePa9Ny.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/283692"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/283692/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:283692",
         "hasScheduledVideos": true
       }
     },
@@ -2809,7 +2810,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/zOcEo3oQf9KDPPxZueNhReN6TBr.jpg",
       "description": "Disponibilité Canada : Paramount Plus, Paramount Plus Apple TV channel, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
+      "imdbRating": "7.8",
       "links": [
         {
           "name": "TMDB",
@@ -7169,6 +7170,32 @@
       }
     },
     {
+      "id": "tmdb:tv:309163",
+      "type": "series",
+      "name": "オタクに優しいギャルはいない!?",
+      "poster": "https://image.tmdb.org/t/p/w500/mpbX1OQTNoWbqY0ixz280GLrURy.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7837uc8fhaREbOVnqIwXrFu335o.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/309163"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/309163/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:309163",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:300126",
       "type": "series",
       "name": "LIAR GAME",
@@ -10002,32 +10029,6 @@
       }
     },
     {
-      "id": "tmdb:tv:285166",
-      "type": "series",
-      "name": "勇者パーティを追い出された器用貧乏",
-      "poster": "https://image.tmdb.org/t/p/w500/7eVq3cC9V5ZUl7FOXJ5U3OA5YNh.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/1nt43fq7CKbqAJAospEo63vYXBV.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/285166"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/285166/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:285166",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:276393",
       "type": "series",
       "name": "多聞くん今どっち！？",
@@ -10050,6 +10051,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:276393",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:285166",
+      "type": "series",
+      "name": "勇者パーティを追い出された器用貧乏",
+      "poster": "https://image.tmdb.org/t/p/w500/7eVq3cC9V5ZUl7FOXJ5U3OA5YNh.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1nt43fq7CKbqAJAospEo63vYXBV.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/285166"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/285166/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:285166",
         "hasScheduledVideos": true
       }
     },
@@ -10087,7 +10114,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/k8uBEraJWZf9o7oJbaVHrECwvjC.jpg",
       "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.3",
+      "imdbRating": "8.2",
       "links": [
         {
           "name": "TMDB",
@@ -10856,32 +10883,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:299778",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:246386",
-      "type": "series",
-      "name": "All Her Fault",
-      "poster": "https://image.tmdb.org/t/p/w500/5WKrkZinzDwjZ6ZgFpd4OsMKl4L.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/uv0LVwNM8mZcwhCa5pd6FJxvKDz.jpg",
-      "description": "Disponibilité Canada : Crave, Crave Amazon Channel, fuboTV, StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/246386"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/246386-all-her-fault/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:246386",
         "hasScheduledVideos": true
       }
     }
