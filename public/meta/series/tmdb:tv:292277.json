@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:292277",
+    "type": "series",
+    "name": "奇迹",
+    "poster": "https://image.tmdb.org/t/p/w500/pHzI9uwEUNjheL2kZIysmqiIAvf.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/uDmDOp2yU63asHFrwwMCwAsoFFQ.jpg",
+    "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/292277"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/292277/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:292277",
+      "hasScheduledVideos": true
+    }
+  }
+}

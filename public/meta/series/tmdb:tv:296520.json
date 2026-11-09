@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:296520",
+    "type": "series",
+    "name": "Cooper & Fry",
+    "poster": "https://image.tmdb.org/t/p/w500/frDntanA2DMcNppQYBY5NfHmMM2.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/kgWPwLlDW6Ay8f4jvwybZKA0L9A.jpg",
+    "description": "Disponibilité Canada : BritBox, BritBox Amazon Channel, Britbox Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/296520"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/296520-cooper-fry/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:296520",
+      "hasScheduledVideos": true
+    }
+  }
+}

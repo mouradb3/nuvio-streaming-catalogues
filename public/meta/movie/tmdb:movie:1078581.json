@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1078581",
+    "type": "movie",
+    "name": "Giant",
+    "poster": "https://image.tmdb.org/t/p/w500/RHgGB3VweOIWOvoheOl5OZykQO.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/53Ey8CIdc9jeS7fB4TCyxQTCjm6.jpg",
+    "description": "Disponibilité Canada : Paramount Plus, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1078581"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1078581-giant/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1078581",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:322267",
+    "type": "series",
+    "name": "Newlyweds",
+    "poster": "https://image.tmdb.org/t/p/w500/9ZAPU2IRSdI9xdVb42z2F1momJc.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/n0RJ41WxoROYkKOdJP0NU1hEktJ.jpg",
+    "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/322267"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/322267-newlyweds/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:322267",
+      "hasScheduledVideos": true
+    }
+  }
+}

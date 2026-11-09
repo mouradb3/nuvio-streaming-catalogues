@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:287641",
+    "type": "series",
+    "name": "耀眼",
+    "poster": "https://image.tmdb.org/t/p/w500/e7osuQuioysDT7j0XnnHwvI87aY.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/tUa9PJj8Rtre15W9XAaryFoctJZ.jpg",
+    "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/287641"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/287641/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:287641",
+      "hasScheduledVideos": true
+    }
+  }
+}

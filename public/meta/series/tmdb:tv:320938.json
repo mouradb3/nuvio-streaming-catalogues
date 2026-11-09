@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:320938",
+    "type": "series",
+    "name": "Shut Up Evan",
+    "poster": "https://image.tmdb.org/t/p/w500/o4TmOuT1EKypmn2OyJ5028A4CNi.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/uqhMSmrYZpCZMy4yiQPKqcsEg6b.jpg",
+    "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/320938"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/320938-shut-up-evan/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:320938",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:213703",
+    "type": "series",
+    "name": "Agent from Above",
+    "poster": "https://image.tmdb.org/t/p/w500/9U2RDUFx2WA4bIC2gGkVbrb9E0c.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/w1DjULItqmTGKnavi5hAtOGMogA.jpg",
+    "description": "Lié par un pacte divin, Han Chieh combat les démons sur Terre. Quand il découvre le plan d'un vieil ennemi prêt à envahir le monde, le sort de l'humanité repose entre ses mains.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/213703"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/213703/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:213703",
+      "hasScheduledVideos": true
+    }
+  }
+}

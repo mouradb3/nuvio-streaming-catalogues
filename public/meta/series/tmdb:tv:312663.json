@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:312663",
+    "type": "series",
+    "name": "The Fixers",
+    "poster": "https://image.tmdb.org/t/p/w500/mZ0rPTMe9XfrWRUAeoJzr62cyIa.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg",
+    "description": "Un gangster en perdition s'associe au fils retors d'un politicien. Ensemble, ils font disparaître les vilains secrets de leurs clients, du côté de la pègre comme de la loi.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/312663"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/312663/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:312663",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1807995",
+    "type": "movie",
+    "name": "Postcards for Christmas",
+    "poster": "https://image.tmdb.org/t/p/w500/aC3i0Dnm3hEDKuqVnMVPbP76rRg.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/sAdFWmFSKDs5fzXRLpIW9QG4nct.jpg",
+    "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1807995"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1807995-postcards-for-christmas/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1807995",
+      "hasScheduledVideos": false
+    }
+  }
+}
