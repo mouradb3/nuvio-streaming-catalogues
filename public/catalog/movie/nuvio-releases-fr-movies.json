@@ -137,7 +137,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
       "description": "Winstead est un chien déterminé. Quand une urgence médicale déchire la famille Goss, il est prêt à tout pour rétablir l'harmonie avant le réveillon de Noël.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.8",
+      "imdbRating": "7.9",
       "links": [
         {
           "name": "TMDB",
@@ -264,6 +264,7 @@
       "type": "movie",
       "name": "Mike Tyson: Return of the Mike",
       "poster": "https://image.tmdb.org/t/p/w500/uaeL5BLgmGhIZXfViBsLSnvYB4i.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/um7sdTFaPlvbWdefAHsio4PmQ3L.jpg",
       "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "5",
@@ -525,7 +526,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
       "description": "Marlene Frischmann, mère célibataire, organise la fête d'anniversaire parfaite pour son fils Theo dans la superbe maison de campagne de son frère : ballons, gâteau sans gluten, piñata et même quelques animaux sauvages devraient rendre cette journée inoubliable. Mais cette célébration préparée avec amour ne tarde pas à virer au cauchemar, entre débats enflammés sur l'éducation, la masculinité et les principes parentaux. Un drôle de désordre en partie engendré par Timo, le frère de Marlene, banquier turbulent, Hans, son père excentrique à la dérive, Jenny, sa collègue idéaliste qui rêve de sauver le monde, et un cadeau très spécial. Entre structures familiales dysfonctionnelles, mères surprotectrices prétentieuses et anarchie enfantine, la fête sombre peu à peu dans le chaos.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.8",
+      "imdbRating": "6.5",
       "links": [
         {
           "name": "TMDB",
@@ -577,7 +578,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/9uU3523A14KJ90Jr8pQx0NGGIgb.jpg",
       "description": "Simone, un homme organisé et profondément attaché aux valeurs familiales, partage sa vie avec Lucia, une femme indépendante qui a toujours rejeté l'idée de devenir mère. Malgré leurs différences, leur couple repose sur un amour solide et de perpétuelles négociations. Mais lorsqu'ils décident d'adopter un enfant, leurs convictions et leurs désirs contradictoires refont surface, mettant leur relation à l'épreuve.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.8",
+      "imdbRating": "5.7",
       "links": [
         {
           "name": "TMDB",
@@ -759,7 +760,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/q90G7OV76xR7NOHu8m19iaudHO1.jpg",
       "description": "Un mardi matin d'août 2023, un groupe d'enfants partit pour l'école, empruntant un téléphérique de fortune pour traverser un col de montagne du nord-ouest du Pakistan. Ce qui suivit allait faire la une des journaux du monde entier. Soudain, à 275 mètres au-dessus du sol, deux câbles cédèrent, mettant les adolescents en danger de mort.\n\nDisponibilité France : Paramount Plus, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
@@ -1089,6 +1090,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1783629",
+      "type": "movie",
+      "name": "Michael Che: Shot in Minnesota",
+      "poster": "https://image.tmdb.org/t/p/w500/1DbNbV9zWT29yAUr45qSbCGCtFz.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ax5fGBSTqYEeYkgPmvYK47xdKHj.jpg",
+      "description": "Disponibilité France : Netflix.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1783629"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1783629-michael-che-shot-in-minnesota/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1783629",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1776531",
       "type": "movie",
       "name": "Le phénomène des clowns effrayants",
@@ -1137,32 +1164,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1790935",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1516208",
-      "type": "movie",
-      "name": "Sur la liste du père Noël",
-      "poster": "https://image.tmdb.org/t/p/w500/rpqNhO6PtTrBsuEh10O3rAVWDg1.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/9GnoKfvrLBmuAchlDzxAQmz1kzF.jpg",
-      "description": "Isabel est inspectrice pour la liste du Père Noël : elle observe les enfants pour déterminer s'ils méritent des cadeaux ou du charbon. Deux semaines avant le réveillon, on lui confie le dossier de Charlie, une jeune adolescente de 11 ans qui lui donne du fil à retordre. Isabel rencontre le père de Charlie, ce qui la bouleverse profondément.\n\nDisponibilité France : Netflix, Netflix Standard with Ads, TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1516208"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1516208-she-s-making-a-list/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1516208",
         "hasScheduledVideos": false
       }
     },
@@ -2471,7 +2472,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/4pXBWLKMew7Xmtq3OgMQxTHp060.jpg",
       "description": "Disponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "7.1",
       "links": [
         {
           "name": "TMDB",
@@ -2783,7 +2784,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/dYOH6BTxKmf1LTnQPZR3XxRvLrc.jpg",
       "description": "Après le décès très médiatisé du lanceur d'alerte de Boeing, John Barnett, l'enquête se poursuit sur le géant de l'aviation autrefois emblématique, révélant de nouvelles révélations surprenantes et des témoignages d'initiés dans le sillage d'une crise d'entreprise qui s'aggrave.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
@@ -3017,7 +3018,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/riezFXKrSq1XNnRLJi3AKIwEV8d.jpg",
       "description": "Dans le Vermont, près de la frontière canadienne, cinq officiers de police, Thorny, Farva, Mac, Foster et Rabbit, tentent tant bien que mal de faire respecter l'ordre.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.3",
+      "imdbRating": "6.2",
       "links": [
         {
           "name": "TMDB",
@@ -3251,7 +3252,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/hL5EIk48251OXlbIbRJq3yaBHk8.jpg",
       "description": "Un quadragénaire en perte de vitesse espère sauver sa carrière dans la publicité en rejoignant un groupe de vingtenaires pour un enterrement de vie de garçon déjanté de trois jours, après avoir été ajouté par erreur à leur conversation par SMS.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.8",
+      "imdbRating": "6.7",
       "links": [
         {
           "name": "TMDB",
@@ -3823,7 +3824,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/2vl4nyxi1zVtiqYqJkbP8yTMOQV.jpg",
       "description": "Lorsque Marge Bouvier, une escroc sans le sou, est envoyée en Italie pour convaincre le riche et naïf Seymour Skinner de rentrer au pays, elle est tentée par les signes extérieurs de richesse. Mais un grain de sable vient enrayer la machine : Homer Simpsley, l'invité collant et idiot de Skinner. Mensonges, luxure et lires italiennes sont au rendez-vous.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.1",
+      "imdbRating": "8.2",
       "links": [
         {
           "name": "TMDB",
@@ -4368,7 +4369,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/5fA3ko0ZHkysz1aNO78jRsey4k4.jpg",
       "description": "Selin, 21 ans, remonte à l'été 96 et devient la meilleure amie de sa mère adolescente. Tandis qu'elle l'aide à choisir son père dans un triangle amoureux, elle découvre que le fait que sa mère ait renoncé à ses rêves a façonné ses relations dans le présent. Selin assiste à un amour de vacances passionné et pousse sa mère à poursuivre ses aspirations. Nostalgique, romantique et irrésistible.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.8",
+      "imdbRating": "6.7",
       "links": [
         {
           "name": "TMDB",
@@ -4758,7 +4759,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/z1hekwU7a7FUP6XvqDwJjxAbrXJ.jpg",
       "description": "Un dragueur arrogant et charismatique qui enchaîne les liaisons voit sa vie d'homme riche et puissant chamboulée quand il se réveille dans un monde parallèle dominé par les femmes.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6",
+      "imdbRating": "5.9",
       "links": [
         {
           "name": "TMDB",
@@ -4992,7 +4993,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/vdGafAruKcmtR8jNjk5OpVDXUpX.jpg",
       "description": "Disponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1",
+      "imdbRating": "7.2",
       "links": [
         {
           "name": "TMDB",
@@ -5044,7 +5045,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
       "description": "Alors que Frank Castle cherche un sens à sa vie au-delà de la vengeance, il replonge contre toute attente au cœur du combat.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.3",
+      "imdbRating": "8.2",
       "links": [
         {
           "name": "TMDB",
@@ -9017,7 +9018,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/qa3oDSDZSJKSdIdBgQgEAxO0N88.jpg",
       "description": "Poppy, l'esprit libre. Alex, le casanier. Compagnons de voyage depuis longtemps, ces deux amis improbables se demandent s'ils ne formeraient pas le couple parfait.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.9",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
@@ -9733,6 +9734,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1585476",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1516208",
+      "type": "movie",
+      "name": "Sur la liste du père Noël",
+      "poster": "https://image.tmdb.org/t/p/w500/rpqNhO6PtTrBsuEh10O3rAVWDg1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9GnoKfvrLBmuAchlDzxAQmz1kzF.jpg",
+      "description": "Isabel est inspectrice pour la liste du Père Noël : elle observe les enfants pour déterminer s'ils méritent des cadeaux ou du charbon. Deux semaines avant le réveillon, on lui confie le dossier de Charlie, une jeune adolescente de 11 ans qui lui donne du fil à retordre. Isabel rencontre le père de Charlie, ce qui la bouleverse profondément.\n\nDisponibilité France : Netflix, Netflix Standard with Ads, TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1516208"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1516208-she-s-making-a-list/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1516208",
         "hasScheduledVideos": false
       }
     },
