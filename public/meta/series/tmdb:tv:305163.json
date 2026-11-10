@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:305163",
+    "type": "series",
+    "name": "The Daily Life of a Part-time Torturer",
+    "poster": "https://image.tmdb.org/t/p/w500/bDQVbF2zrLOrbbx3FQgI5MZb8IU.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/gAwem2a2dFEpH8tKopWkqc9FwG9.jpg",
+    "description": "Sero traite la torture comme un boulot à mi-temps, mélangeant humour léger et violence sinistre.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/305163"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/305163/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:305163",
+      "hasScheduledVideos": true
+    }
+  }
+}

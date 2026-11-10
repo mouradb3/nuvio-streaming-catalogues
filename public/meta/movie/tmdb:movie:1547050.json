@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1547050",
+    "type": "movie",
+    "name": "Lali : Le temps du renouveau",
+    "poster": "https://image.tmdb.org/t/p/w500/sSrVfDxyClfBHDgqTmeLuHYSkah.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/v4cXkoBCUTk1IVdbUVqx9ZgWtju.jpg",
+    "description": "La star de la pop Lali se dévoile dans ce documentaire intimiste, évoquant sa quête de soi et son parcours artistique lors de sa première tournée des stades.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "5.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1547050"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1547050-lali-la-que-le-gana-al-tiempo/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1547050",
+      "hasScheduledVideos": false
+    }
+  }
+}

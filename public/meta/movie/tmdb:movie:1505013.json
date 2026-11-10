@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1505013",
+    "type": "movie",
+    "name": "Masaka Kids, A Rhythm Within",
+    "poster": "https://image.tmdb.org/t/p/w500/n4wndI9q3GTWprBaQXlYCqaDI9k.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/zgKNlcPC3pfTikPOMQC1saywQ85.jpg",
+    "description": "Le film présente un portrait documentaire centré sur la force collective d’un groupe d’enfants utilisant la danse comme moyen d’expression et de reconstruction.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1505013"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1505013-masaka-kids-a-rhythm-within/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1505013",
+      "hasScheduledVideos": false
+    }
+  }
+}

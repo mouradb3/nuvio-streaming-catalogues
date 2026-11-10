@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:293391",
+    "type": "series",
+    "name": "吾岸",
+    "poster": "https://image.tmdb.org/t/p/w500/1zJGcswwb9YTDNcNBNLEc0R0xtz.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/AtclgGgnqR7SipnTpd0CvzzK3PH.jpg",
+    "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "8.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/293391"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/293391/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:293391",
+      "hasScheduledVideos": true
+    }
+  }
+}

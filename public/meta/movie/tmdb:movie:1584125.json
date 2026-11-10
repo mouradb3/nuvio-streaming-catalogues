@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1584125",
+    "type": "movie",
+    "name": "Point de rupture : 1975",
+    "poster": "https://image.tmdb.org/t/p/w500/6LirpQnBmBpAOa5Me1lBCBBy90e.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/lHSLTzz1rW3XcfJYTyCSdaPmosr.jpg",
+    "description": "Scandales politiques, inflation, criminalité : en 1975, les États-Unis sont au bord de la rupture. Hollywood répond à la crise avec des films révolutionnaires.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1584125"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1584125-breakdown-1975/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1584125",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1583500",
+    "type": "movie",
+    "name": "Elway",
+    "poster": "https://image.tmdb.org/t/p/w500/bPOEtWhI7lGpW0OxZZGjt545OXy.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/dM6EbI3T5O2PruUS5K7cbVAexON.jpg",
+    "description": "Voici la véritable histoire de John Elway, quarterback des Denver Broncos, qui se confie sur son rêve de jouer en NFL, ses déceptions et sa rédemption au Super Bowl.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1583500"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1583500-elway/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1583500",
+      "hasScheduledVideos": false
+    }
+  }
+}

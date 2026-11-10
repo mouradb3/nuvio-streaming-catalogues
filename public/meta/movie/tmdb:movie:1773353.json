@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1773353",
+    "type": "movie",
+    "name": "A Season of Promises",
+    "poster": "https://image.tmdb.org/t/p/w500/yiazMVDZ5Y5OTC1ouO6bbSRhNLn.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/f3AvCv0AioQmDVWynZfVT3Sc2Ln.jpg",
+    "description": "Disponibilité Canada : StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1773353"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1773353-a-season-of-promises/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1773353",
+      "hasScheduledVideos": false
+    }
+  }
+}

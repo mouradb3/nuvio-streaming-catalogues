@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:tv:336478",
+    "type": "series",
+    "name": "Doozie's Doghouse",
+    "poster": "https://image.tmdb.org/t/p/w500/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/s0QcyTh2EPq53MhunhnsP91uKQl.jpg",
+    "description": "Doozie, qui adore les chiens, fait appel à sa créativité et à son imagination lorsqu'elle joue avec ses copains canins dans cette série magique pour enfants.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/336478"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/336478-doozie-s-doghouse/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:336478",
+      "hasScheduledVideos": true
+    }
+  }
+}

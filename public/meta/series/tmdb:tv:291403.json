@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:291403",
+    "type": "series",
+    "name": "A Hundred Scenes of AWAJIMA",
+    "poster": "https://image.tmdb.org/t/p/w500/WAbrf6kONFAdXtG5N1s7no4zEw.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/4u7uvGbu1RCZDX8IIFMljG8U9Zb.jpg",
+    "description": "Rêves et jalousie s'affrontent à l'école d'opéra d'Awajima, où les rivales se disputent une place sous la lumière des projecteurs !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/291403"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/291403/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:291403",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:302162",
+    "type": "series",
+    "name": "Song of the Samurai",
+    "poster": "https://image.tmdb.org/t/p/w500/nggt2VQ3QXegDdKJZReSs3Dgcl8.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/pdenjEfBr6m3mlbWofJS0pAEQkf.jpg",
+    "description": "Suivez les parcours des samouraïs les plus emblématiques à travers leurs amitiés, les trahisons et leurs combats à l'aube d'une nouvelle ère.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "9.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/302162"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/302162/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:302162",
+      "hasScheduledVideos": true
+    }
+  }
+}
