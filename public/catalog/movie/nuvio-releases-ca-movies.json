@@ -135,7 +135,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.6",
       "links": [
         {
           "name": "TMDB",
@@ -342,7 +342,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/8vky6e0D4dSZMlxHWXBIRRFP1Pb.jpg",
       "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.8",
+      "imdbRating": "6.9",
       "links": [
         {
           "name": "TMDB",
@@ -368,7 +368,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/aDc3Kd0nvII9feQjV0464jIO0ra.jpg",
       "description": "Barbie « Brooklyn » Roberts incarne la Princesse Fée Dragée, tandis que Barbie « Malibu » Roberts tient le rôle de Clara ; ensemble, elles traversent un monde onirique pour récupérer un médaillon dérobé. Elles sont rejointes par Chelsea, la petite sœur de Barbie.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "1",
+      "imdbRating": "1.5",
       "links": [
         {
           "name": "TMDB",
@@ -420,7 +420,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.4",
+      "imdbRating": "6.3",
       "links": [
         {
           "name": "TMDB",
@@ -446,7 +446,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.3",
+      "imdbRating": "6.2",
       "links": [
         {
           "name": "TMDB",
@@ -498,7 +498,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.7",
+      "imdbRating": "5.8",
       "links": [
         {
           "name": "TMDB",
@@ -628,7 +628,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.6",
       "links": [
         {
           "name": "TMDB",
@@ -1013,7 +1013,7 @@
       "id": "tmdb:movie:1148365",
       "type": "movie",
       "name": "Matchbox : le film",
-      "poster": "https://image.tmdb.org/t/p/w500/5MRpLuZ1lnHNABHMhMowezKQnO9.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/qcgDXdfMH8JrTJv1wwJ2Z8cggzk.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
       "description": "Des amis d'enfance reprennent contact et les retrouvailles prennent une tournure inattendue quand ils découvrent un dangereux complot international et doivent sauver le monde.\n\nDisponibilité Canada : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
@@ -1606,6 +1606,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1616419",
+      "type": "movie",
+      "name": "Un bon avocat",
+      "poster": "https://image.tmdb.org/t/p/w500/iy7Ersw8H4I1U5cA9bFyJpMrTTM.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
+      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1616419"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1616419-un-bon-avocat/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1616419",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1558568",
       "type": "movie",
       "name": "Gracias, equipo",
@@ -2107,7 +2133,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.8",
+      "imdbRating": "8.7",
       "links": [
         {
           "name": "TMDB",
@@ -3511,7 +3537,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/hSdK33Mjsdfb8TpoUTI3A3OE3RO.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
@@ -3875,7 +3901,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/2D3W3Jp0VYsLhXTEfnvhbMvQEzk.jpg",
       "description": "Quand un jeune garçon disparaît dans une petite ville endormie, un procureur récemment réassigné découvre des liens inattendus avec une vieille affaire de personne disparue.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.8",
+      "imdbRating": "6.7",
       "links": [
         {
           "name": "TMDB",
@@ -9150,7 +9176,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/3kps0wiGFMRVkSXxbebbAUeWrN3.jpg",
       "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2025",
-      "imdbRating": "8.5",
+      "imdbRating": "8.4",
       "links": [
         {
           "name": "TMDB",
