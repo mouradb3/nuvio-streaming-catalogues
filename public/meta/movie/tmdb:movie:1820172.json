@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1820172",
+    "type": "movie",
+    "name": "Janelle James: How Romantic",
+    "poster": "https://image.tmdb.org/t/p/w500/zjASMxUqsye6BKLbW78FA9d64Yy.jpg",
+    "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1820172"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1820172-janelle-james-how-romantic/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1820172",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1046699",
+    "type": "movie",
+    "name": "Derrière les palmiers",
+    "poster": "https://image.tmdb.org/t/p/w500/47k5xBtbReL4lZKBNDUbT0hHWJa.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/arA4ecprfdAYslXIBheiAOPm8ha.jpg",
+    "description": "À Tanger, Mehdi voit sa relation avec Selma bouleversée lorsqu’il rencontre Marie, une riche française dont les parents ont acheté une luxueuse villa dans la kasbah. Attiré par sa vie mondaine, il délaisse Selma, feignant d’ignorer que ses choix le rattraperont.\n\nDisponibilité France : Molotov TV.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1046699"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1046699-derriere-les-palmiers/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1046699",
+      "hasScheduledVideos": false
+    }
+  }
+}

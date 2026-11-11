@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1174334",
+    "type": "movie",
+    "name": "A Foggy Tale",
+    "poster": "https://image.tmdb.org/t/p/w500/5nXkeQHSHPccTMllRZMURs790fR.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/gMDGov7yzowLP92yf8AzMkOrcfD.jpg",
+    "description": "Une jeune fille entreprend un périlleux voyage pour récupérer la dépouille de son frère, exécuté par le gouvernement, et réunir l'argent nécessaire pour l’enterrer dignement.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1174334"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1174334/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1174334",
+      "hasScheduledVideos": false
+    }
+  }
+}

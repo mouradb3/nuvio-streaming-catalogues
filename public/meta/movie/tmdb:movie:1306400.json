@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1306400",
+    "type": "movie",
+    "name": "Merrily We Roll Along",
+    "poster": "https://image.tmdb.org/t/p/w500/8h3uNPMdQKr7ffwAjU0aURFqIK.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/tD9gHDBMUQaw07LKppyNnAWaK1y.jpg",
+    "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1306400"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1306400-merrily-we-roll-along/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1306400",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:292533",
+    "type": "series",
+    "name": "Fúria",
+    "poster": "https://image.tmdb.org/t/p/w500/up9kAhzfN3wtnFi1D8AloWeHGDo.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/kZ77s94jLBliHXDXXPegi6ZbbtN.jpg",
+    "description": "Un homme amnésique trouve refuge auprès d'un coach de MMA et monte sur le ring, tiraillé entre l'espoir d'un nouvel avenir et un passé dangereux qui ne cesse de le rattraper.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/292533"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/292533-furia/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:292533",
+      "hasScheduledVideos": true
+    }
+  }
+}

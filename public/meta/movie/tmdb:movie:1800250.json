@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1800250",
+    "type": "movie",
+    "name": "Un chocolatier à croquer pour Noël",
+    "poster": "https://image.tmdb.org/t/p/w500/pnO8USzjsQLcyJiZuBAu1UYYYqE.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/jQsvmKFWQcWkgPqtY5bzzuMzpic.jpg",
+    "description": "Charlotte, chiropractrice dévouée à son travail, reçoit un mystérieux chocolat dans son cabinet. Encouragée par sa meilleure amie Gemma et sa secrétaire Chloe, elle remonte la piste jusqu'à une chocolaterie où elle rencontre Cody, le patron. Celui-ci accepte de l'aider à identifier l'expéditeur anonyme, sans révéler qu'il est lui-même à l'origine de cette attention délicate.\n\nDisponibilité France : TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1800250"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1800250-the-sweetest-christmas-date/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1800250",
+      "hasScheduledVideos": false
+    }
+  }
+}

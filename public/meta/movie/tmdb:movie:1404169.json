@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1404169",
+    "type": "movie",
+    "name": "L'odyssée de Céleste",
+    "poster": "https://image.tmdb.org/t/p/w500/vU6ePtZzloMT5kxN3U6twCdkBZz.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/xprL040VY3rZYxuanOpJB0gNVx1.jpg",
+    "description": "Depuis son enfance, Céleste vit avec son meilleur ami, un robot, qui l’aide à accomplir son rêve : devenir astronaute ! Mais lorsqu’elle embarque pour sa première mission interstellaire, son robot se retrouve seul sur Terre et doit faire face à sa solitude pendant que Céleste affronte des dangers imprévus. Leurs souvenirs communs leur donneront le courage et la force de lutter pour pouvoir se retrouver.\n\nDisponibilité France : Cine+ OCS Amazon Channel , Molotov TV, SFR Play.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1404169"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1404169-space-cadet/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1404169",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1539113",
+    "type": "movie",
+    "name": "Ignition",
+    "poster": "https://image.tmdb.org/t/p/w500/qFpUA65ll19wkfJPKZN2NwxakP.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/5QljQqDQLRw0y19zMI6Mkn0CEX2.jpg",
+    "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "4.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1539113"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1539113-ignition/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1539113",
+      "hasScheduledVideos": false
+    }
+  }
+}

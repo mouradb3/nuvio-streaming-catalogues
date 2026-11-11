@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1376439",
+    "type": "movie",
+    "name": "Jean Valjean",
+    "poster": "https://image.tmdb.org/t/p/w500/emZT249SgRN92eNuWgMWqaWqSTX.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/jqCSpQyQfv7kR49noL4Hc8uHl7Q.jpg",
+    "description": "1815. Jean Valjean sort du bagne, brisé, rejeté de tous. Errant sans but, il trouve refuge chez un homme d’Église, sa sœur et leur servante. Face à cette main tendue, Jean Valjean vacille et, dans cette nuit suspendue, devra choisir qui il veut devenir.\n\nDisponibilité France : Cine+ OCS Amazon Channel , Molotov TV, SFR Play.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1376439"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1376439-jean-valjean/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1376439",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1645579",
+    "type": "movie",
+    "name": "I'll Be Seeing You",
+    "poster": "https://image.tmdb.org/t/p/w500/bJ9BfopBu8ozKqmQeW7wAOc2fCF.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ivU0ImepSAnRIVPop9REhYKX2S.jpg",
+    "description": "Disponibilité Canada : Crave, StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1645579"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1645579-i-ll-be-seeing-you/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1645579",
+      "hasScheduledVideos": false
+    }
+  }
+}

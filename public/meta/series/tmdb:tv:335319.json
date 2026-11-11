@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:335319",
+    "type": "series",
+    "name": "The Prison Experiment : La nouvelle expérience de Stanford",
+    "poster": "https://image.tmdb.org/t/p/w500/heoESrHAdmPeYECs2B7R8RIqLyN.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/H8VA7K15NWVKLbUbp8ZQ17zvU2.jpg",
+    "description": "Trente personnes passent deux semaines en prison et révèlent ce dont elles sont capables à travers des jeux de pouvoir, dans cette célèbre étude de psychologie sociale revisitée.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/335319"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/335319-the-new-stanford-prison-experiment/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:335319",
+      "hasScheduledVideos": true
+    }
+  }
+}
