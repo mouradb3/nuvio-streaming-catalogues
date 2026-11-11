@@ -4,7 +4,7 @@
       "id": "tmdb:tv:336478",
       "type": "series",
       "name": "Doozie's Doghouse",
-      "poster": "https://image.tmdb.org/t/p/w500/bhFbiSXg7KrwfXkpZfiLDq4QFCt.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/hqYW1Gd5DXJZQ7UDTf0JrF2Gy1L.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/s0QcyTh2EPq53MhunhnsP91uKQl.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Kids, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
@@ -33,7 +33,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.3",
+      "imdbRating": "8.4",
       "links": [
         {
           "name": "TMDB",
@@ -59,7 +59,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6",
+      "imdbRating": "8",
       "links": [
         {
           "name": "TMDB",
@@ -264,7 +264,7 @@
       "type": "series",
       "name": "Bass X Machina",
       "poster": "https://image.tmdb.org/t/p/w500/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ygjcwHWhhCaNPaPP965Du7eR2gO.jpg",
       "description": "Dans un Far West rétrofuturiste envahi par des hors-la-loi, des machines et des forces surnaturelles, un père devient juge, juré et bourreau afin de protéger sa famille.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "7.9",
@@ -423,7 +423,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/yiElAOM1OD09YCuCUbim4QMyvtJ.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.4",
+      "imdbRating": "7.9",
       "links": [
         {
           "name": "TMDB",
@@ -1122,7 +1122,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
       "description": "La série suit les aventures de White Vision, un synthézoïde doté d'une intelligence artificielle avancée créé à partir du corps de Vision par le SWORD, qui tente de comprendre son existence et sa place dans le monde après les événements de WandaVision, à travers différentes versions d'intelligence artificielle dans son esprit, dont un reliquat d'Ultron.\n\nDisponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.6",
+      "imdbRating": "8.5",
       "links": [
         {
           "name": "TMDB",
@@ -1538,7 +1538,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/6Iha7gx0lTdrv6x7dECtjB8YnLA.jpg",
       "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.2",
+      "imdbRating": "5.3",
       "links": [
         {
           "name": "TMDB",
@@ -1687,32 +1687,6 @@
       }
     },
     {
-      "id": "tmdb:tv:305551",
-      "type": "series",
-      "name": "メリーベリーラブ",
-      "poster": "https://image.tmdb.org/t/p/w500/qzH80C1YNzucLsVJfW23RxvX9vS.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
-      "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.3",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/305551"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/305551/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:305551",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:313346",
       "type": "series",
       "name": "追放されたチート付与魔術師は気ままなセカンドライフを謳歌する。 ～俺は武器だけじゃなく、あらゆるものに『強化ポイント』を付与できるし、俺の意思でいつでも効果を解除できるけど、残った人たち大丈夫？～",
@@ -1735,6 +1709,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:313346",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:305551",
+      "type": "series",
+      "name": "メリーベリーラブ",
+      "poster": "https://image.tmdb.org/t/p/w500/qzH80C1YNzucLsVJfW23RxvX9vS.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
+      "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/305551"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/305551/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:305551",
         "hasScheduledVideos": true
       }
     },
@@ -1979,7 +1979,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/wwSoLQrLyiXXUbRnZq1eWBbHaRR.jpg",
       "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "9",
+      "imdbRating": "9.1",
       "links": [
         {
           "name": "TMDB",
@@ -5800,7 +5800,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/xiCfjMXdxVXxizYSgDNH84BZcbt.jpg",
       "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8",
+      "imdbRating": "7.9",
       "links": [
         {
           "name": "TMDB",
@@ -9462,7 +9462,7 @@
       "type": "series",
       "name": "The Pendragon Cycle: Rise of the Merlin",
       "poster": "https://image.tmdb.org/t/p/w500/wXfTsO7pqAqo94f0AHaas9rjBNh.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/lDmFwAaHL1kXnAfZeUTieAdUTko.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/eebiQ5JEaZeVyyxZK1kS9wCoBpb.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "7.8",
@@ -11129,7 +11129,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/AtclgGgnqR7SipnTpd0CvzzK3PH.jpg",
       "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2025",
-      "imdbRating": "8.5",
+      "imdbRating": "8.4",
       "links": [
         {
           "name": "TMDB",
@@ -11300,32 +11300,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:281013",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:225361",
-      "type": "series",
-      "name": "BAT-FAM",
-      "poster": "https://image.tmdb.org/t/p/w500/8C34YTylNBt4DWM1a9oAAXqmTSr.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/yZJ6ecQCRsXg3rx7hJbwYPHuzD3.jpg",
-      "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "4.2",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/225361"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/225361-bat-fam/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:225361",
         "hasScheduledVideos": true
       }
     }
