@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1684240",
+    "type": "movie",
+    "name": "L'Envers du sport, Royaume-Uni : Jamie Vardy",
+    "poster": "https://image.tmdb.org/t/p/w500/aMX9btLTzyodWtwMAeDfCXKwPqV.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/weFG1yMIwVsjGr5YfdpltxpBh09.jpg",
+    "description": "De footballeur amateur à légende de la Premier League, suivez le parcours extraordinaire de Jamie Vardy et son ascension au sommet – contre toute attente.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1684240"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1684240-jamie-vardy/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1684240",
+      "hasScheduledVideos": false
+    }
+  }
+}

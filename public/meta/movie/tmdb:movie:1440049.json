@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1440049",
+    "type": "movie",
+    "name": "Mission : Maternelle",
+    "poster": "https://image.tmdb.org/t/p/w500/h1AnSexl74n0QSJ4crCfKgLP81E.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/vXnfEEJey9hKcB6FPaTnmrv4dp9.jpg",
+    "description": "Disponibilité Canada : Paramount Plus, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1440049"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1440049-preschool/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1440049",
+      "hasScheduledVideos": false
+    }
+  }
+}
