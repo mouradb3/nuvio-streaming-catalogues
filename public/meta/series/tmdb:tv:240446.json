@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:240446",
+    "type": "series",
+    "name": "玫瑰丛生",
+    "poster": "https://image.tmdb.org/t/p/w500/zhMzxTvm86guny5vGzaOUAhF0zu.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/d54CAgm1GvYAoYSmf3x4nNoTVn5.jpg",
+    "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/240446"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/240446/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:240446",
+      "hasScheduledVideos": true
+    }
+  }
+}

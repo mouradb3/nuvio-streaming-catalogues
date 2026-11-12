@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1477170",
+    "type": "movie",
+    "name": "LOL 2.0",
+    "poster": "https://image.tmdb.org/t/p/w500/dNjZ6lQCVZMWAxKlqMVAlzGC5FQ.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/jn3TWz4bq2UeEQSWFraoPagmc1f.jpg",
+    "description": "Anne profite enfin de sa liberté après le départ de ses enfants. Mais tout bascule quand sa fille Louise revient vivre chez elle après un échec professionnel et sentimental. Et comme une surprise n’arrive jamais seule, son fils Théo lui annonce qu’elle va devenir grand-mère ! Entre chocs générationnels, rêves en mutation et nouveaux élans amoureux … Anne comprend que la vie ne suit jamais tout à fait le plan prévu, et qu’à tout âge, on continue toujours d’apprendre à grandir.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1477170"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1477170-lol-2-0/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1477170",
+      "hasScheduledVideos": false
+    }
+  }
+}

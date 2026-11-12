@@ -209,6 +209,32 @@
       }
     },
     {
+      "id": "tmdb:tv:291507",
+      "type": "series",
+      "name": "Le corps",
+      "poster": "https://image.tmdb.org/t/p/w500/swEOVOmkYtTg3UBStrvt1yZJm26.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
+      "description": "Le soir de l'Halloween, une jeune troupe de danseuses sombre dans la culpabilité catholique, les désirs impurs et les visions spectrales quand une initiation tourne au cauchemar.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/291507"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/291507-the-body/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:291507",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:300146",
       "type": "series",
       "name": "嫁金钗",
@@ -1670,7 +1696,7 @@
       "name": "The Terror: Devil in Silver",
       "poster": "https://image.tmdb.org/t/p/w500/bdblQNZ4rP8AVJPqvGi82woxZkg.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/dIOCCTC3hd2zhTh0qeEDE4Gf3oO.jpg",
-      "description": "Disponibilité Canada : AMC+, AMC+ Amazon Channel, Shudder, Shudder Amazon Channel, Shudder Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "description": "Disponibilité Canada : AMC Plus Apple TV channel, AMC+, AMC+ Amazon Channel, Shudder, Shudder Amazon Channel, Shudder Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "6.7",
       "links": [
@@ -2192,7 +2218,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/xVN8rq2VM9cvFmM0grv1AFnhO6d.jpg",
       "description": "Disponibilité Canada : fuboTV, StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.3",
+      "imdbRating": "8.4",
       "links": [
         {
           "name": "TMDB",
@@ -2686,7 +2712,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/Ag6VnSAb1g02YWHYxYFKRUiBtnc.jpg",
       "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.3",
       "links": [
         {
           "name": "TMDB",
@@ -2701,6 +2727,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:300126",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:336243",
+      "type": "series",
+      "name": "ChiaroScuro",
+      "poster": "https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg",
+      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/336243"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/336243-chiaroscuro/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:336243",
         "hasScheduledVideos": true
       }
     },
@@ -2738,7 +2790,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
       "description": "Stuart Bloom, le propriétaire d’une boutique de bandes dessinées, provoque la fin de l’univers. Avec sa copine Denise, le géologue Bert et le physicien quantique Barry Kripke, il doit rétablir la réalité avant qu’il ne soit trop tard.\n\nDisponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.3",
+      "imdbRating": "8.2",
       "links": [
         {
           "name": "TMDB",
@@ -3978,32 +4030,6 @@
       }
     },
     {
-      "id": "tmdb:tv:223530",
-      "type": "series",
-      "name": "Star Trek: Starfleet Academy",
-      "poster": "https://image.tmdb.org/t/p/w500/veHDOZCCKLEKKv7C7Z0FLbI9WpT.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/rXtSdCGmG07zjAg5h7GR1v52ogX.jpg",
-      "description": "Disponibilité Canada : Paramount Plus, Paramount Plus Apple TV channel, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/223530"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/223530-star-trek-starfleet-academy/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:223530",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:282946",
       "type": "series",
       "name": "魔術師クノンは見えている",
@@ -4052,6 +4078,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:273160",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:223530",
+      "type": "series",
+      "name": "Star Trek: Starfleet Academy",
+      "poster": "https://image.tmdb.org/t/p/w500/veHDOZCCKLEKKv7C7Z0FLbI9WpT.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rXtSdCGmG07zjAg5h7GR1v52ogX.jpg",
+      "description": "Disponibilité Canada : Paramount Plus, Paramount Plus Apple TV channel, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/223530"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/223530-star-trek-starfleet-academy/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:223530",
         "hasScheduledVideos": true
       }
     },
@@ -4865,7 +4917,7 @@
       "type": "series",
       "name": "主角",
       "poster": "https://image.tmdb.org/t/p/w500/bUrgoPF61ySpHuoccoDnFVhlytL.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/i5pSbVLpRKUPfFckfsX0kpHLdWC.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rqyHkLGxBIDxuBfdvKxbAY2pVhz.jpg",
       "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "9",
@@ -5050,7 +5102,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/oxS6i62MRfIeXFKN2F3uEipKwt7.jpg",
       "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "10",
+      "imdbRating": "9.7",
       "links": [
         {
           "name": "TMDB",
@@ -5102,7 +5154,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
       "description": "Disponibilité Canada : iciTouTV.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.6",
       "links": [
         {
           "name": "TMDB",
@@ -5388,7 +5440,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/ttcHr50V6A4JNKUlkIhhLsX9c04.jpg",
       "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.9",
+      "imdbRating": "6.8",
       "links": [
         {
           "name": "TMDB",
@@ -5518,7 +5570,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/dANKBnapgjG7QmXeRZ6xQg8czX0.jpg",
       "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "10",
+      "imdbRating": "8.7",
       "links": [
         {
           "name": "TMDB",
@@ -6506,7 +6558,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/jOxZVOYxghHw6ofH1QFG6ZQUt2V.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads, Crunchyroll, Crunchyroll Amazon Channel, Netflix, Netflix Standard with Ads, Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
+      "imdbRating": "7.8",
       "links": [
         {
           "name": "TMDB",
@@ -6532,7 +6584,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/ydWwc4NOeDb7t8pcR3tf6n12rLB.jpg",
       "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.6",
+      "imdbRating": "6.5",
       "links": [
         {
           "name": "TMDB",
@@ -6547,6 +6599,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:298994",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:320938",
+      "type": "series",
+      "name": "Shut Up Evan",
+      "poster": "https://image.tmdb.org/t/p/w500/o4TmOuT1EKypmn2OyJ5028A4CNi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uqhMSmrYZpCZMy4yiQPKqcsEg6b.jpg",
+      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/320938"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/320938-shut-up-evan/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:320938",
         "hasScheduledVideos": true
       }
     },
@@ -9305,6 +9383,32 @@
       }
     },
     {
+      "id": "tmdb:tv:240446",
+      "type": "series",
+      "name": "玫瑰丛生",
+      "poster": "https://image.tmdb.org/t/p/w500/zhMzxTvm86guny5vGzaOUAhF0zu.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/d54CAgm1GvYAoYSmf3x4nNoTVn5.jpg",
+      "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/240446"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/240446/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:240446",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:321559",
       "type": "series",
       "name": "거짓말이 사는 집",
@@ -9820,6 +9924,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:284581",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:292121",
+      "type": "series",
+      "name": "허수아비",
+      "poster": "https://image.tmdb.org/t/p/w500/vYJAhjmcVz50uhJwFl5wjTHsdT4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dfLjomSCGwjDe1fQy1QZBHNqgDS.jpg",
+      "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/292121"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/292121/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:292121",
         "hasScheduledVideos": true
       }
     },

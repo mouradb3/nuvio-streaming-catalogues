@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1666787",
+    "type": "movie",
+    "name": "Avedon",
+    "poster": "https://image.tmdb.org/t/p/w500/ziyEHM0P1TgvhVXIqqguoMAD0TJ.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg",
+    "description": "Les photographies de Richard Avedon ne se contentaient pas de refléter la culture, elles l'ont façonnée et continuent de le faire. Le documentaire « AVEDON » retrace la vie et l’héritage d’un artiste qui s’est servi de la mode, du portrait et de la photographie commerciale pour explorer l’identité, le pouvoir, la peur et la beauté. Bénéficiant d’un accès sans précédent aux archives d’Avedon, comprenant des photos inédites, des enregistrements des coulisses et des entretiens avec ceux qui le connaissaient le mieux, « AVEDON » est une exploration visuellement époustouflante de l’esprit d’un artiste qui a façonné notre image collective du XXe siècle.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1666787"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1666787-avedon/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1666787",
+      "hasScheduledVideos": false
+    }
+  }
+}

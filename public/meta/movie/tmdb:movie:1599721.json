@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1599721",
+    "type": "movie",
+    "name": "Project Assault",
+    "poster": "https://image.tmdb.org/t/p/w500/gbQbWLWoMAKWpYfuMgvwL52bI9W.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/kJ9TZUDTcFXGFRV6SHIiDKnZ31M.jpg",
+    "description": "Lors de sa dernière nuit en tant que chef de la police, le commissaire Wale Savage est confronté à un siège meurtrier mené par Shina, le chef d'un gang qui cherche à venger la mort de son frère. Avec des agents blessés, des munitions qui s'épuisent et un chaos grandissant, Wale doit choisir entre faire respecter la loi ou rejoindre les prisonniers pour survivre.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1599721"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1599721-project-assault/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1599721",
+      "hasScheduledVideos": false
+    }
+  }
+}

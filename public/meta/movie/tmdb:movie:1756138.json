@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1756138",
+    "type": "movie",
+    "name": "Who Is Martin Mull?",
+    "poster": "https://image.tmdb.org/t/p/w500/gQjXr8XxVpskubxVACnRLHx5xIS.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/hWqHYFw8cFkKKHzlMAHk0htDvaE.jpg",
+    "description": "Découvrez la réinvention incessante de Martin Mull, des enfumés clubs de folk aux sitcoms de grande écoute, jusqu'aux murs des galeries d'art, racontée dans ses propres mots et par les amis qui l'ont vu se produire, dont Steve Martin, Tom Waits, David Alan Grier et d'autres.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1756138"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1756138-who-is-martin-mull/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1756138",
+      "hasScheduledVideos": false
+    }
+  }
+}
