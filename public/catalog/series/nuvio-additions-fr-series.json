@@ -1,6 +1,38 @@
 {
   "metas": [
     {
+      "id": "tmdb:tv:258063",
+      "type": "series",
+      "name": "Âme sœur",
+      "poster": "https://image.tmdb.org/t/p/w500/8ppPFQJhrc6fD6s2roCL7PTRDzX.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dW8Gpg3XhumcGUOGC2lVepM9rHy.jpg",
+      "description": "Disponibilité détectée chez Netflix — France.\nDate de détection : 2026-11-12T11:00:14.539Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/258063"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:258063",
+      "type": "series",
+      "name": "Âme sœur",
+      "poster": "https://image.tmdb.org/t/p/w500/8ppPFQJhrc6fD6s2roCL7PTRDzX.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dW8Gpg3XhumcGUOGC2lVepM9rHy.jpg",
+      "description": "Disponibilité détectée chez Netflix Standard with Ads — France.\nDate de détection : 2026-11-12T11:00:14.539Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/258063"
+        }
+      ]
+    },
+    {
       "id": "tmdb:tv:335319",
       "type": "series",
       "name": "The Prison Experiment : La nouvelle expérience de Stanford",
