@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:331616",
+    "type": "series",
+    "name": "La Mort de la femme du pasteur",
+    "poster": "https://image.tmdb.org/t/p/w500/HOyi8J3YkslMjpVZzYD0ZOlS1c.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg",
+    "description": "Qu'est-il arrivé à Mica Miller ? Cette série documentaire revient sur sa vie prometteuse, son mariage toxique et les circonstances mystérieuses qui ont entouré sa mort.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/331616"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/331616-death-of-the-pastor-s-wife/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:331616",
+      "hasScheduledVideos": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:278158",
+    "type": "series",
+    "name": "เด็กชายไม่ไปสวรรค์",
+    "poster": "https://image.tmdb.org/t/p/w500/rfHDnKXwuxhxup2n2gVZA4BrvMM.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/AqAGgoAlvWGBVAlEvIXTvcETzVG.jpg",
+    "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "9.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/278158"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/278158/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:278158",
+      "hasScheduledVideos": true
+    }
+  }
+}

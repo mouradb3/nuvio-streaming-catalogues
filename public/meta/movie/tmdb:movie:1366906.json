@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1366906",
+    "type": "movie",
+    "name": "The Gates",
+    "poster": "https://image.tmdb.org/t/p/w500/8y5m72kzYROcI3Swq2B5uMhIxcW.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/1pI2Crm9YjSDbH75NZaW8FrYjs9.jpg",
+    "description": "Disponibilité Canada : Crave, Crave Amazon Channel, Starz Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1366906"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1366906-the-gates/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1366906",
+      "hasScheduledVideos": false
+    }
+  }
+}

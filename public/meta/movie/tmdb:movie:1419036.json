@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1419036",
+    "type": "movie",
+    "name": "กฤษดา พาราไดซ์",
+    "poster": "https://image.tmdb.org/t/p/w500/flWf8cNQrlw1PXXW7uzPZPGRDHx.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/x54Apuuj38C3aPv82BH34TQt8Um.jpg",
+    "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "4.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1419036"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1419036/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1419036",
+      "hasScheduledVideos": false
+    }
+  }
+}

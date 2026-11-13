@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1780407",
+    "type": "movie",
+    "name": "Snoopy présente : les 12 jours de Noël",
+    "poster": "https://image.tmdb.org/t/p/w500/uJ3Eb4zUtF1KFD5zd8CiYaFXWuu.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/a3DzS9AUB6AgYiELaeTn2n8EfNz.jpg",
+    "description": "Afin de ne plus figurer sur la liste noire du père Noël, Snoopy fait de son mieux pour avoir une conduite irréprochable.\n\nDisponibilité France : Apple TV.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1780407"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1780407-snoopy-presents-12-days-of-snoopy/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1780407",
+      "hasScheduledVideos": false
+    }
+  }
+}

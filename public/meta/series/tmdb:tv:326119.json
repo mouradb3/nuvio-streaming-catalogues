@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:326119",
+    "type": "series",
+    "name": "Thunder 3",
+    "poster": "https://image.tmdb.org/t/p/w500/EwgegTmDUuf71tjZCswhJGo79F.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/7HTP5m1BTMMHhBpLqkjfGvHbVZJ.jpg",
+    "description": "Pyontaro, Hiroshi et Tsubame, des collégiens tout à fait ordinaires, s'aventurent dans une extraordinaire aventure lorsque la petite sœur de Pyontaro disparaît.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/326119"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/326119/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:326119",
+      "hasScheduledVideos": true
+    }
+  }
+}

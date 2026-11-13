@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:320507",
+    "type": "series",
+    "name": "The Secret Lives of Mormon Wives: Orange County",
+    "poster": "https://image.tmdb.org/t/p/w500/rEcJkRhfs663zsjWCJhtsbRWv7g.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ztlemjhfgbj6wtYosghkUjBOj8o.jpg",
+    "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/320507"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/320507-the-secret-lives-of-mormon-wives-orange-county/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:320507",
+      "hasScheduledVideos": true
+    }
+  }
+}

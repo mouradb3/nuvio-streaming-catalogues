@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:312661",
+    "type": "series",
+    "name": "急診室的奇蹟",
+    "poster": "https://image.tmdb.org/t/p/w500/aatKnanzNiI0qyRf1yuAyGQ4tKg.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ginRZDiTKS1VmkLPaSFZlmLcVnm.jpg",
+    "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/312661"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/312661/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:312661",
+      "hasScheduledVideos": true
+    }
+  }
+}

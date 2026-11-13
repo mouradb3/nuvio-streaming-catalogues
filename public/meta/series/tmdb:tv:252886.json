@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:tv:252886",
+    "type": "series",
+    "name": "Scarlet Heart Ullavee ปาฏิหาริย์ข้ามกาลเวลา",
+    "poster": "https://image.tmdb.org/t/p/w500/wJb3AfJJRsLqnPVzN8noE39Ci1W.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/jTpIloeNVIVqM0QA80wlRuzTx6l.jpg",
+    "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/252886"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/252886-scarlet-heart-ullavee/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:252886",
+      "hasScheduledVideos": true
+    }
+  }
+}

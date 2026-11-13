@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:295751",
+    "type": "series",
+    "name": "一畳間まんきつ暮らし！",
+    "poster": "https://image.tmdb.org/t/p/w500/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
+    "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads, Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/295751"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/295751-yi-die-jian-mankitsu-mu-rashi/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:295751",
+      "hasScheduledVideos": true
+    }
+  }
+}

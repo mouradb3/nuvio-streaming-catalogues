@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1616687",
+    "type": "movie",
+    "name": "Never Surrender",
+    "poster": "https://image.tmdb.org/t/p/w500/nkE9esa0p8vBmY38jQasmVVRqoc.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+    "description": "Dans un village isolé du centre de Java, un ancien militaire mène une existence solitaire jusqu'au retour inattendu de ses deux petits-enfants, qu'il n'a pas vus depuis longtemps. Mais leurs retrouvailles tournent au cauchemar lorsqu'une bande de criminels impitoyables venus de Jakarta prend d'assaut leur refuge, les piégeant dans une situation de vie ou de mort. Pour survivre, le grand-père et ses petits-enfants n’ont qu’un choix à faire : se rendre, ou se battre.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1616687"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1616687-serangan-balik/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1616687",
+      "hasScheduledVideos": false
+    }
+  }
+}

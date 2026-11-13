@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:310935",
+    "type": "series",
+    "name": "Girl from Nowhere : The Reset",
+    "poster": "https://image.tmdb.org/t/p/w500/wlqM6zg6tI177njuc7f82wx34Nd.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/pJert4hRVNzagvtFr3vTYnpgBMH.jpg",
+    "description": "Dans un nouvel univers, la mystérieuse Nanno se fait passer pour une élève afin de punir la cruauté en retournant le pouvoir, la culpabilité et le désir contre ceux qui en abusent.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/310935"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/310935-the-reset/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:310935",
+      "hasScheduledVideos": true
+    }
+  }
+}

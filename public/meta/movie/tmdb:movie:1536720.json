@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1536720",
+    "type": "movie",
+    "name": "禍禍女",
+    "poster": "https://image.tmdb.org/t/p/w500/7k7ywAbBNrhsLhHkKggzveMhFQg.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/g01fDs0AeLU50yCy92jsxCCkEHN.jpg",
+    "description": "Quand son amant est tué par le fantôme Mag Mag, Sanae cherche justice, mais découvre bientôt la véritable personne à qui elle doit sa vengeance.\n\nDisponibilité France : Shadowz, Shadowz Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1536720"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1536720/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1536720",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:249565",
+    "type": "series",
+    "name": "The Good Daughter",
+    "poster": "https://image.tmdb.org/t/p/w500/nfWGZtrLH6PLcOQFOttZqmhKaVk.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
+    "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "9.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/249565"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/249565-the-good-daughter/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:249565",
+      "hasScheduledVideos": true
+    }
+  }
+}

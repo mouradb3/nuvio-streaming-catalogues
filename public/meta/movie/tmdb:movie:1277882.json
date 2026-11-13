@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1277882",
+    "type": "movie",
+    "name": "Les enfants vont bien",
+    "poster": "https://image.tmdb.org/t/p/w500/lzHohlKAZ8qG0WbkctJq02ZB3lJ.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/amgPQ7hCwd8beF91w379rxgPh77.jpg",
+    "description": "Un soir d’été, Suzanne, accompagnée de ses deux jeunes enfants Gaspard et Margaux, rend une visite impromptue à sa sœur Jeanne. Celle-ci est prise au dépourvu, car elles ne sont pas revues depuis longtemps. Au réveil, Jeanne découvre le mot laissé par sa sœur : “Elle ne reviendra pas”. Après la sidération, vient la colère lorsqu’à la gendarmerie Jeanne comprend qu’aucune procédure de recherche ne pourra être engagée : Suzanne a fait le choix insensé de disparaître…\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1277882"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1277882-les-enfants-vont-bien/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1277882",
+      "hasScheduledVideos": false
+    }
+  }
+}
