@@ -1,6 +1,32 @@
 {
   "metas": [
     {
+      "id": "tmdb:movie:1314786",
+      "type": "movie",
+      "name": "Zeta",
+      "poster": "https://image.tmdb.org/t/p/w500/wDVwJj0KMdFgV1nR4CLNU3yhOxH.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cmP55W8EqqIE41Ck9D7uWRpzLwS.jpg",
+      "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1314786"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1314786-zeta/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1314786",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1559980",
       "type": "movie",
       "name": "The Gospel of Christmas",
@@ -8,7 +34,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/v6HTcvMFbscM0Uz5ab3hoeGWYaY.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6",
+      "imdbRating": "6.8",
       "links": [
         {
           "name": "TMDB",
@@ -239,7 +265,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/hhQT0TySg3LXCE8BEPpfPJ5zJA2.jpg",
       "description": "Quand une urgence médicale sépare la famille Goss, le chien déterminé Winstead fera tout pour réunir ses humains avant le réveillon de Noël.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "7.1",
       "links": [
         {
           "name": "TMDB",
@@ -988,7 +1014,7 @@
       "type": "movie",
       "name": "Animaux",
       "poster": "https://image.tmdb.org/t/p/w500/hRaG2FDFp6riXUqOwCAxmospOV.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5yzM78Tp8nYwSCQtyRcmnHmCn5C.jpg",
       "description": "Lorsque leur fils est kidnappé, un candidat à la mairie de Los Angeles et son épouse trouvent l'argent pour la rançon tout en faisant des choix potentiellement dévastateurs.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "6.9",
@@ -1379,7 +1405,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/XohTvvPXiGhUKhiQSvmoMTnj2z.jpg",
       "description": "Dans ce drame basé sur de vrais événements, le passage de Ted Kaczynski de prodige de Harvard et cobaye au tristement célèbre Unabomber est dévoilé alors que le FBI le traque.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.6",
+      "imdbRating": "6.5",
       "links": [
         {
           "name": "TMDB",
@@ -1639,7 +1665,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/vb8ynrTs7xp7gaEIplf0zcjJZeh.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.8",
+      "imdbRating": "6.9",
       "links": [
         {
           "name": "TMDB",
@@ -1665,7 +1691,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
       "description": "Quand une surdose en plein tribunal l'envoie en désintox, un avocat a une semaine pour sauver sa carrière et se préparer à son propre procès avec l'aide d'une stagiaire tenace.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.8",
+      "imdbRating": "6.7",
       "links": [
         {
           "name": "TMDB",
@@ -1717,7 +1743,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/6dDCdPSp7ULB1zYimKDE9D48795.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8",
+      "imdbRating": "8.7",
       "links": [
         {
           "name": "TMDB",
@@ -2991,7 +3017,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/qlfqDJ9Piv5ufzYA8j2319mwKZU.jpg",
       "description": "Maintenant que la Reine de cœur est devenue gentille et que Cendrillon est en sécurité, tout semble parfait pour Red et Chloe. Mais elles ignorent qu'en changeant le passé, elles ont créé un nouveau méchant : le Chapelier fou. Quand ce dernier capture la Reine de cœur, Red et Chloe doivent faire équipe avec Pink, la nouvelle sœur de Red, Luis, le fils de Luisa Madrigal, et Max, le fils du Chapelier fou, pour la sauver et secourir le Pays des Merveilles.\n\nDisponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
@@ -5090,6 +5116,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1007757",
+      "type": "movie",
+      "name": "Aventures croisées",
+      "poster": "https://image.tmdb.org/t/p/w500/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+      "description": "Une petite créature de la forêt et un oiseau majestueux échangent de corps et doivent faire équipe pour survivre à une folle aventure.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1007757"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1007757-swapped/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1007757",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1314481",
       "type": "movie",
       "name": "Le Diable s'habille en Prada 2",
@@ -5164,32 +5216,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1239198",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1007757",
-      "type": "movie",
-      "name": "Aventures croisées",
-      "poster": "https://image.tmdb.org/t/p/w500/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
-      "description": "Une petite créature de la forêt et un oiseau majestueux échangent de corps et doivent faire équipe pour survivre à une folle aventure.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1007757"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1007757-swapped/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1007757",
         "hasScheduledVideos": false
       }
     },
@@ -8701,6 +8727,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1432306",
+      "type": "movie",
+      "name": "Sleepwalker",
+      "poster": "https://image.tmdb.org/t/p/w500/760SP4VsZagpyB9WLfeZykE3DFg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2dYKSPT1SJZVlKwXHic4Ma53f0X.jpg",
+      "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "4.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1432306"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1432306-sleepwalker/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1432306",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1601243",
       "type": "movie",
       "name": "Oscar Shaw",
@@ -8890,7 +8942,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/6qQQhhF87Rm1z2TYhXAmoPiEHME.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6",
+      "imdbRating": "6.2",
       "links": [
         {
           "name": "TMDB",
@@ -8965,7 +9017,7 @@
       "type": "movie",
       "name": "Marty suprême",
       "poster": "https://image.tmdb.org/t/p/w500/bT5Y8w67r7tj3wFiFGvy72V5znJ.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg",
       "description": "Marty Mauser, 23 ans, aspire à devenir le meilleur athlète sur la scène mondiale du tennis de table. Le sport est sous-représenté aux États-Unis, ce qui rend difficile le financement de ses compétitions à l'étranger. Il est toutefois prêt à tout pour arriver à ses fins, y compris nouer des liens avec une ancienne actrice et son riche mari entrepreneur. Son entêtement pose un problème pour les personnes de son entourage, qui font souvent les frais de ses choix cavaliers.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2025",
       "imdbRating": "7.4",
@@ -10053,32 +10105,6 @@
       }
     },
     {
-      "id": "tmdb:movie:425274",
-      "type": "movie",
-      "name": "Insaisissable 3",
-      "poster": "https://image.tmdb.org/t/p/w500/ie5Xe7ptwL1X108NEwECgXqhbAM.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
-      "description": "Les Cavaliers sont de retour pour le braquage le plus impressionnant jamais imaginé ! Accompagnés d’un groupe de jeunes magiciens qui espèrent suivre leur trace, ils vont devoir repousser les limites de l’illusion pour orchestrer leur tour le plus spectaculaire : dérober le joyau le plus précieux du monde des mains d’une redoutable organisation criminelle...\n\nDisponibilité Canada : Crave, Crave Amazon Channel, Starz Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "6.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/425274"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/425274-now-you-see-me-now-you-don-t/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:425274",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:628847",
       "type": "movie",
       "name": "Trap House",
@@ -10101,32 +10127,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:628847",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1288072",
-      "type": "movie",
-      "name": "Keeper",
-      "poster": "https://image.tmdb.org/t/p/w500/A8K6H6CO4hXAKLHm9xn01u6hY4W.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/8GjH1BU5PtoqAlhMeXQ46eq9z1D.jpg",
-      "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "5.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1288072"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1288072-keeper/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1288072",
         "hasScheduledVideos": false
       }
     },
@@ -10205,6 +10205,58 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1439112",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:425274",
+      "type": "movie",
+      "name": "Insaisissable 3",
+      "poster": "https://image.tmdb.org/t/p/w500/ie5Xe7ptwL1X108NEwECgXqhbAM.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
+      "description": "Les Cavaliers sont de retour pour le braquage le plus impressionnant jamais imaginé ! Accompagnés d’un groupe de jeunes magiciens qui espèrent suivre leur trace, ils vont devoir repousser les limites de l’illusion pour orchestrer leur tour le plus spectaculaire : dérober le joyau le plus précieux du monde des mains d’une redoutable organisation criminelle...\n\nDisponibilité Canada : Crave, Crave Amazon Channel, Starz Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/425274"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/425274-now-you-see-me-now-you-don-t/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:425274",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1288072",
+      "type": "movie",
+      "name": "Keeper",
+      "poster": "https://image.tmdb.org/t/p/w500/A8K6H6CO4hXAKLHm9xn01u6hY4W.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8GjH1BU5PtoqAlhMeXQ46eq9z1D.jpg",
+      "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "5.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1288072"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1288072-keeper/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1288072",
         "hasScheduledVideos": false
       }
     },
