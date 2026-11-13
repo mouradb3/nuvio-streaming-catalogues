@@ -1,6 +1,38 @@
 {
   "metas": [
     {
+      "id": "tmdb:tv:332261",
+      "type": "series",
+      "name": "ポリティカルパン",
+      "poster": "https://image.tmdb.org/t/p/w500/hZtrOm4lgEcGtzidBThjhVxoaTx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7xTvFsxac5k3xIH0cTOkNsEDcm1.jpg",
+      "description": "Disponibilité détectée chez Netflix — Canada.\nDate de détection : 2026-11-13T10:54:44.440Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/332261"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:332261",
+      "type": "series",
+      "name": "ポリティカルパン",
+      "poster": "https://image.tmdb.org/t/p/w500/hZtrOm4lgEcGtzidBThjhVxoaTx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7xTvFsxac5k3xIH0cTOkNsEDcm1.jpg",
+      "description": "Disponibilité détectée chez Netflix Standard with Ads — Canada.\nDate de détection : 2026-11-13T10:54:44.440Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/332261"
+        }
+      ]
+    },
+    {
       "id": "tmdb:tv:292121",
       "type": "series",
       "name": "허수아비",

@@ -4,11 +4,11 @@
       "id": "tmdb:movie:1559980",
       "type": "movie",
       "name": "Le Gospel de Noël",
-      "poster": "https://image.tmdb.org/t/p/w500/k5OOd5sMEqPlKKhgFnkj1jBhNTf.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/v6HTcvMFbscM0Uz5ab3hoeGWYaY.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ihbN6lNDXKe6w9xE6IBFMVF2Rkr.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/p1Ag7etCR5yUvElhwZmWsMo5IFu.jpg",
       "description": "Un pasteur en proie au doute emménage avec sa famille dans un quartier difficile de New York, où ils doivent sauver une église délabrée de la fermeture avant Noël.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.8",
+      "imdbRating": "6.1",
       "links": [
         {
           "name": "TMDB",
@@ -34,7 +34,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/bjdgmMhTKcxqFO7RdXYhTlGzffB.jpg",
       "description": "Des décennies après les crimes qui ont secoué le Brésil, Suzane von Richthofen s'exprime dans des entrevues exclusives sur le meurtre de ses parents et ce qui en a découlé.\n\nDisponibilité France : Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "6.5",
       "links": [
         {
           "name": "TMDB",
@@ -214,7 +214,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/b96GsO1Bnh0XMWHiCKRfguvPNpy.jpg",
       "description": "L'histoire commence à la douane de l'aéroport de Santiago, lorsqu'une valise remplie de montres de luxe de contrebande (Rolex, Patek Philippe, Cartier) et de bijoux précieux est interceptée. Cet événement met en lumière un réseau criminel clandestin et tentaculaire reliant le grand banditisme à la haute société et à l'élite sociale chilienne.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.5",
+      "imdbRating": "7.7",
       "links": [
         {
           "name": "TMDB",
@@ -265,7 +265,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/bySCyjQXNPgsnLTlgJpSMnRazPD.jpg",
       "description": "Accusé d'un crime qu'il n'a pas commis et n'ayant plus rien à perdre, un héros de guerre aux prises avec un syndrome de stress post-traumatique entraîne les forces de l'ordre dans une course-poursuite effrénée à travers tout le pays, avec l'aide de ses frères d'armes, tandis qu'un public captivé encourage sa fuite.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.1",
+      "imdbRating": "6.2",
       "links": [
         {
           "name": "TMDB",
@@ -414,32 +414,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1804941",
-      "type": "movie",
-      "name": "Mike Tyson: Return of the Mike",
-      "poster": "https://image.tmdb.org/t/p/w500/uaeL5BLgmGhIZXfViBsLSnvYB4i.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/um7sdTFaPlvbWdefAHsio4PmQ3L.jpg",
-      "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1804941"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1804941-mike-tyson-return-of-the-mike/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1804941",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1592343",
       "type": "movie",
       "name": "Il faut sauver le marché de Noël",
@@ -462,6 +436,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1592343",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1804941",
+      "type": "movie",
+      "name": "Mike Tyson: Return of the Mike",
+      "poster": "https://image.tmdb.org/t/p/w500/uaeL5BLgmGhIZXfViBsLSnvYB4i.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/um7sdTFaPlvbWdefAHsio4PmQ3L.jpg",
+      "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1804941"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1804941-mike-tyson-return-of-the-mike/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1804941",
         "hasScheduledVideos": false
       }
     },
@@ -654,7 +654,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
       "description": "Marlene Frischmann, mère célibataire, organise la fête d'anniversaire parfaite pour son fils Theo dans la superbe maison de campagne de son frère : ballons, gâteau sans gluten, piñata et même quelques animaux sauvages devraient rendre cette journée inoubliable. Mais cette célébration préparée avec amour ne tarde pas à virer au cauchemar, entre débats enflammés sur l'éducation, la masculinité et les principes parentaux. Un drôle de désordre en partie engendré par Timo, le frère de Marlene, banquier turbulent, Hans, son père excentrique à la dérive, Jenny, sa collègue idéaliste qui rêve de sauver le monde, et un cadeau très spécial. Entre structures familiales dysfonctionnelles, mères surprotectrices prétentieuses et anarchie enfantine, la fête sombre peu à peu dans le chaos.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.1",
+      "imdbRating": "6.2",
       "links": [
         {
           "name": "TMDB",
@@ -888,7 +888,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/q90G7OV76xR7NOHu8m19iaudHO1.jpg",
       "description": "Un mardi matin d'août 2023, un groupe d'enfants partit pour l'école, empruntant un téléphérique de fortune pour traverser un col de montagne du nord-ouest du Pakistan. Ce qui suivit allait faire la une des journaux du monde entier. Soudain, à 275 mètres au-dessus du sol, deux câbles cédèrent, mettant les adolescents en danger de mort.\n\nDisponibilité France : Paramount Plus, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "6.9",
       "links": [
         {
           "name": "TMDB",
@@ -1381,7 +1381,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
       "description": "Des amis d'enfance reprennent contact et les retrouvailles prennent une tournure inattendue quand ils découvrent un dangereux complot international et doivent sauver le monde.\n\nDisponibilité France : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
@@ -6421,7 +6421,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/avwIERZtWiWa34qShf5biDzAVaF.jpg",
       "description": "Reef Hawk, star hollywoodienne depuis l'âge de six ans, ne va pas bien. Quand il apprend qu'on tente de l'extorquer avec une mystérieuse vidéo, il se lance dans une tournée d'excuses pour faire amende honorable, affronter ses démons et éviter de se faire cancel.\n\nDisponibilité France : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.4",
+      "imdbRating": "5.3",
       "links": [
         {
           "name": "TMDB",
@@ -10523,7 +10523,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/v8tpkxm7AhLu69eaZKJLsNaSL5.jpg",
       "description": "La pression monte pour Greg alors qu'il a de plus en plus de mal à satisfaire les attentes démesurées de son père. Après avoir évité plusieurs catastrophes hilarantes, son père pose un ultimatum qui risque de bousculer les habitudes de Greg...\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2025",
-      "imdbRating": "6.8",
+      "imdbRating": "6.6",
       "links": [
         {
           "name": "TMDB",
@@ -11369,110 +11369,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1439112",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:425274",
-      "type": "movie",
-      "name": "Insaisissables 3",
-      "poster": "https://image.tmdb.org/t/p/w500/rfjuf6kNLVnH8qOk6UZJBHQHKlF.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
-      "description": "Les Cavaliers sont de retour pour le braquage le plus impressionnant jamais imaginé ! Accompagnés d'un groupe de jeunes magiciens qui espèrent suivre leur trace, ils vont devoir repousser les limites de l'illusion pour orchestrer leur tour le plus spectaculaire : dérober le joyau le plus précieux du monde des mains d'une redoutable organisation criminelle…\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "6.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/425274"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/425274-now-you-see-me-now-you-don-t/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:425274",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1559760",
-      "type": "movie",
-      "name": "Thoughts & Prayers",
-      "poster": "https://image.tmdb.org/t/p/w500/y9GzO4jCjpurBWvgGp6clqdSK1G.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/sjw0g6dSpKSnLMeLe2VoKG8WLpC.jpg",
-      "description": "Dans une Amérique dystopique, les enfants apprennent à se préparer aux fusillades dans les écoles grâce à des exercices élaborés. Pourtant, ces mécanismes censés servir à l'autodéfense sont eux-mêmes profondément traumatisants pour les élèves, les parents, les éducateurs et les communautés tout entières.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "5.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1559760"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1559760-thoughts-prayers/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1559760",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1401318",
-      "type": "movie",
-      "name": "Un ex pour Noël",
-      "poster": "https://image.tmdb.org/t/p/w500/qa6E9wldSaTZKVjxQ6MV3NPrYht.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/2GHJGnF2jgnzeqT3XTHjHXgk5Fx.jpg",
-      "description": "Kate et Everett espèrent divorcer à l'amiable et passer un dernier Noël en famille, mais de nouvelles conquêtes et de vieux sentiments viennent compromettre leurs plans.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1401318"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1401318-a-merry-little-ex-mas/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1401318",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1564346",
-      "type": "movie",
-      "name": "Eloá, otage en direct",
-      "poster": "https://image.tmdb.org/t/p/w500/4MIHrtLyGCGt9DMVQNwemGoBZBZ.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/190eSIqQgXLg9gbr9EjulBV7rR6.jpg",
-      "description": "Ce documentaire captivant s'intéresse à l'une des prises d'otage les plus choquantes ayant jamais eu lieu au Brésil, lorsqu'une ado a été enlevée par son ex-petit ami.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.3",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1564346"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1564346-caso-eloa-refem-ao-vivo/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1564346",
         "hasScheduledVideos": false
       }
     },
