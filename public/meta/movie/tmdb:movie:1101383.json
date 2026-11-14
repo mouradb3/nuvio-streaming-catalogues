@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1101383",
+    "type": "movie",
+    "name": "Au bout de Oak Street",
+    "poster": "https://image.tmdb.org/t/p/w500/6sKI8i1NvYra5yghRvTDb4Jemch.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/wnR8pwWtoL3TFwP41mLCt91ReCt.jpg",
+    "description": "Lorsqu’un mystérieux événement cosmique arrache Oak Street à sa paisible banlieue et la transporte vers un lieu inconnu, la famille Platt, désorientée dans ce nouvel environnement hostile, comprend vite qu’il leur faudra rester unis pour survivre.\n\nDisponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1101383"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1101383-the-end-of-oak-street/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1101383",
+      "hasScheduledVideos": false
+    }
+  }
+}

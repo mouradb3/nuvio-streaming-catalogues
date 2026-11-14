@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:303182",
+    "type": "series",
+    "name": "El crimen de Pazos",
+    "poster": "https://image.tmdb.org/t/p/w500/pk7ewQL2vAxtit0YmDEURmAInS9.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
+    "description": "Quand une femme est agressée en pleine nuit, un sergent tenace soupçonne le mari de ne pas être aussi innocent qu'il en a l'air dans ce drame inspiré de faits réels.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/303182"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/303182-el-crimen-de-pazos/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:303182",
+      "hasScheduledVideos": true
+    }
+  }
+}

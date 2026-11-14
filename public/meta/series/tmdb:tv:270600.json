@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:270600",
+    "type": "series",
+    "name": "The 'Burbs",
+    "poster": "https://image.tmdb.org/t/p/w500/q1Ere9Lash2d6aOMStkRHfsixZC.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ya1HVt01QYG6KLQr9SHvbI1LT5c.jpg",
+    "description": "Disponibilité Canada : fuboTV, StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/270600"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/270600-the-burbs/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:270600",
+      "hasScheduledVideos": true
+    }
+  }
+}

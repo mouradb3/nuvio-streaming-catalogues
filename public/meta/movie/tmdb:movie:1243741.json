@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1243741",
+    "type": "movie",
+    "name": "Ballistic",
+    "poster": "https://image.tmdb.org/t/p/w500/mTcXNQHnabavseapSfcAKhTnC3V.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/hC11CgiCUdpCwG1I6dSY18nJXrP.jpg",
+    "description": "Disponibilité Canada : Paramount Plus, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "5.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1243741"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1243741-ballistic/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1243741",
+      "hasScheduledVideos": false
+    }
+  }
+}

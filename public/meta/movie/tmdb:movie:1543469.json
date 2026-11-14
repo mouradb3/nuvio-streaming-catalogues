@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1543469",
+    "type": "movie",
+    "name": "Heartland",
+    "poster": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+    "description": "Misty Jones, ancienne légende de la musique country, sort de sa retraite après la disparition de sa nièce, une chanteuse en pleine ascension. Son enquête va la conduire à affronter son propre passé et découvrir les bas-fonds de Nashville, où les apparences sont trompeuses, et où Misty elle-même n'est pas celle qu'elle semble être.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1543469"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1543469-heartland/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1543469",
+      "hasScheduledVideos": false
+    }
+  }
+}

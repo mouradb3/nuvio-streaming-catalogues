@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1559984",
+    "type": "movie",
+    "name": "My Weird School",
+    "poster": "https://image.tmdb.org/t/p/w500/aNQ0ZaF5g2VIq4CXU1VswPFWsx5.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/xXKMcz8m9E3x7fMhKpu9nZYZ1py.jpg",
+    "description": "Un collégien fait équipe avec des professeurs et des amis pour contrecarrer une invasion extraterrestre...\n\nDisponibilité France : Paramount Plus, Paramount Plus Premium, Paramount+ Amazon Channel, SFR Play.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "8.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1559984"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1559984-my-weird-school/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1559984",
+      "hasScheduledVideos": false
+    }
+  }
+}
