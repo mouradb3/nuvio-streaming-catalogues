@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1396749",
+    "type": "movie",
+    "name": "Wild Sing",
+    "poster": "https://image.tmdb.org/t/p/w500/s4IUDzLZJb4CosgEXcmouY32Jfg.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/wuqlB1rgHlGKf33rMu3QpRzb15o.jpg",
+    "description": "Vingt ans après un scandale qui l'a fait imploser, un célèbre trio de K-pop des années 2000 se reforme pour un concert unique… à condition de surmonter les ennuis qui s'accumulent.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1396749"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1396749-waildeu-ssing/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1396749",
+      "hasScheduledVideos": false
+    }
+  }
+}

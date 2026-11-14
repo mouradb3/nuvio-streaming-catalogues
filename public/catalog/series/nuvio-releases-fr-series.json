@@ -362,6 +362,32 @@
       }
     },
     {
+      "id": "tmdb:tv:339697",
+      "type": "series",
+      "name": "Melania Rea",
+      "poster": "https://image.tmdb.org/t/p/w500/ygSSmy0cyhscPppiFmZcZzDl19C.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/r5ecc4Wjejsp6B507GdZXOPTNMo.jpg",
+      "description": "Melania, une jeune mère de vingt-neuf ans, est retrouvée morte poignardée dans une forêt après avoir mystérieusement disparu lors d'une sortie familiale en Italie. L'enquête policière se concentre rapidement sur son mari, Salvatore, un caporal-chef de l'armée dont la double vie sentimentale et les mensonges finissent par être exposés au grand jour.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/339697"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/339697-melania-rea/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:339697",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:306179",
       "type": "series",
       "name": "Awkwafina : la cheffe improbable",
@@ -384,32 +410,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:306179",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:339697",
-      "type": "series",
-      "name": "Melania Rea",
-      "poster": "https://image.tmdb.org/t/p/w500/ygSSmy0cyhscPppiFmZcZzDl19C.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/r5ecc4Wjejsp6B507GdZXOPTNMo.jpg",
-      "description": "Melania, une jeune mère de vingt-neuf ans, est retrouvée morte poignardée dans une forêt après avoir mystérieusement disparu lors d'une sortie familiale en Italie. L'enquête policière se concentre rapidement sur son mari, Salvatore, un caporal-chef de l'armée dont la double vie sentimentale et les mensonges finissent par être exposés au grand jour.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/339697"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/339697-melania-rea/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:339697",
         "hasScheduledVideos": true
       }
     },
@@ -596,32 +596,6 @@
       }
     },
     {
-      "id": "tmdb:tv:311853",
-      "type": "series",
-      "name": "Obsess",
-      "poster": "https://image.tmdb.org/t/p/w500/ThhNhFCIFsYrOtJ2jXkb1ulOd0.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/zs166WTY4CE2Rr35PANP0Od90iu.jpg",
-      "description": "De retour au Koweït pour faire le deuil de son père, Talal se retrouve malgré lui hanté par des souvenirs enfouis et de nouveau pris au piège des griffes maudites d'une ancienne relation obsessionnelle infernale. Entre culpabilité, secrets de famille et ombres sinistres, la frontière entre le désir et l'illusion se brouille.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "3.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/311853"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/311853-lnfs-lmtmi-nh/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:311853",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:336240",
       "type": "series",
       "name": "Trouble échange",
@@ -648,6 +622,32 @@
       }
     },
     {
+      "id": "tmdb:tv:311853",
+      "type": "series",
+      "name": "Obsess",
+      "poster": "https://image.tmdb.org/t/p/w500/ThhNhFCIFsYrOtJ2jXkb1ulOd0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zs166WTY4CE2Rr35PANP0Od90iu.jpg",
+      "description": "De retour au Koweït pour faire le deuil de son père, Talal se retrouve malgré lui hanté par des souvenirs enfouis et de nouveau pris au piège des griffes maudites d'une ancienne relation obsessionnelle infernale. Entre culpabilité, secrets de famille et ombres sinistres, la frontière entre le désir et l'illusion se brouille.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "3.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/311853"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/311853-lnfs-lmtmi-nh/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:311853",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:336241",
       "type": "series",
       "name": "How to Ruin Diwali: Meet the Parents",
@@ -655,7 +655,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/qFiTEcD4jZ8uN90FxOfBo0Um9eL.jpg",
       "description": "Le premier Diwali que Mmabatho et Varshen passent ensemble déclenche un choc des cultures — et des personnalités — aux conséquences explosives.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5",
+      "imdbRating": "5.5",
       "links": [
         {
           "name": "TMDB",
@@ -1485,7 +1485,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/Ag8tSoa5uLQ6W9m3YR1qS0FAUyh.jpg",
       "description": "Lorsqu'un policier de la Nouvelle-Orléans tente d'élucider le meurtre du propriétaire d'un cimetière pour animaux, il découvre un sombre passé.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3",
+      "imdbRating": "7.2",
       "links": [
         {
           "name": "TMDB",
@@ -2775,6 +2775,32 @@
       }
     },
     {
+      "id": "tmdb:tv:310133",
+      "type": "series",
+      "name": "4 Blocks Zero",
+      "poster": "https://image.tmdb.org/t/p/w500/9j0kT5q7BATWbqTph0gqkzyr0KT.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/pE6lTAEaErbLzIZuGP7Ojg8uD0.jpg",
+      "description": "Dans le Berlin des années 1990, les origines de la famille Hamady avant qu’elle ne devienne l’un des clans les plus influents de la ville. Réfugiés du Liban, tolérés en Allemagne, les Hamady luttent pour s’imposer dans leur nouveau pays et se faire une place dans le milieu criminel berlinois.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/310133"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/310133-4-blocks-zero/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:310133",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:288385",
       "type": "series",
       "name": "Paolo",
@@ -2823,32 +2849,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:290720",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:310133",
-      "type": "series",
-      "name": "4 Blocks Zero",
-      "poster": "https://image.tmdb.org/t/p/w500/9j0kT5q7BATWbqTph0gqkzyr0KT.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/pE6lTAEaErbLzIZuGP7Ojg8uD0.jpg",
-      "description": "Dans le Berlin des années 1990, les origines de la famille Hamady avant qu’elle ne devienne l’un des clans les plus influents de la ville. Réfugiés du Liban, tolérés en Allemagne, les Hamady luttent pour s’imposer dans leur nouveau pays et se faire une place dans le milieu criminel berlinois.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/310133"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/310133-4-blocks-zero/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:310133",
         "hasScheduledVideos": true
       }
     },
@@ -7766,6 +7766,32 @@
       }
     },
     {
+      "id": "tmdb:tv:287527",
+      "type": "series",
+      "name": "The Testaments",
+      "poster": "https://image.tmdb.org/t/p/w500/b18QpJ7WiELr1HNxuDaLyv2LH8R.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uCndE341njionskk1pK9SbHqwZh.jpg",
+      "description": "Une nouvelle génération de jeunes femmes à Gilead est aux prises avec l’avenir sombre qui les attend. Pour ces jeunes femmes, grandir à Gilead est tout ce qu’elles ont jamais connu, n’ayant aucun souvenir tangible du monde extérieur avant leur endoctrinement dans cette vie. Confrontés à la perspective d’être mariées et de vivre une vie de servitude, elles seront forcées de chercher des alliés, nouveaux et anciens, pour les aider dans leur lutte pour la liberté et la vie qu’elles méritent.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/287527"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/287527-the-testaments/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:287527",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:309163",
       "type": "series",
       "name": "Gals Can't Be Kind to Otaku!?",
@@ -7814,32 +7840,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:312522",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:287527",
-      "type": "series",
-      "name": "The Testaments",
-      "poster": "https://image.tmdb.org/t/p/w500/b18QpJ7WiELr1HNxuDaLyv2LH8R.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/uCndE341njionskk1pK9SbHqwZh.jpg",
-      "description": "Une nouvelle génération de jeunes femmes à Gilead est aux prises avec l’avenir sombre qui les attend. Pour ces jeunes femmes, grandir à Gilead est tout ce qu’elles ont jamais connu, n’ayant aucun souvenir tangible du monde extérieur avant leur endoctrinement dans cette vie. Confrontés à la perspective d’être mariées et de vivre une vie de servitude, elles seront forcées de chercher des alliés, nouveaux et anciens, pour les aider dans leur lutte pour la liberté et la vie qu’elles méritent.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.2",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/287527"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/287527-the-testaments/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:287527",
         "hasScheduledVideos": true
       }
     },
@@ -9872,32 +9872,6 @@
       }
     },
     {
-      "id": "tmdb:tv:270420",
-      "type": "series",
-      "name": "Juste humaine",
-      "poster": "https://image.tmdb.org/t/p/w500/8OgTnXTsFswMki2IL7ClkxuR2Q0.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
-      "description": "Dotée du pouvoir d'exaucer les vœux, la vie d'une renarde cynique à neuf queues prend un tournant lorsqu'elle rencontre un footballeur, changeant ainsi le destin des deux personnages.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/270420"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/270420-oneulbuteo-inganibnidaman/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:270420",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:229891",
       "type": "series",
       "name": "Comment traduire cet amour ?",
@@ -9920,6 +9894,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:229891",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:270420",
+      "type": "series",
+      "name": "Juste humaine",
+      "poster": "https://image.tmdb.org/t/p/w500/8OgTnXTsFswMki2IL7ClkxuR2Q0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/sa9igU1XIER6bMgtZ2Ejfo1KsD8.jpg",
+      "description": "Dotée du pouvoir d'exaucer les vœux, la vie d'une renarde cynique à neuf queues prend un tournant lorsqu'elle rencontre un footballeur, changeant ainsi le destin des deux personnages.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/270420"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/270420-oneulbuteo-inganibnidaman/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:270420",
         "hasScheduledVideos": true
       }
     },
@@ -10314,32 +10314,6 @@
       }
     },
     {
-      "id": "tmdb:tv:286291",
-      "type": "series",
-      "name": "Dead Account",
-      "poster": "https://image.tmdb.org/t/p/w500/3KxyECISY5arB72ADxUuY4DUwJL.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/xmFJgz5NyKoiMsdti4tRbbGyPOQ.jpg",
-      "description": "Les fantômes ne hantent plus les maisons abandonnées, mais les écrans des smartphones. Et si le vôtre était déjà possédé ?\n\nSôji Enishiro, 15 ans, est un streameur à la réputation sulfureuse. Sous le pseudonyme d’Aoringo, il embrase les réseaux avec des vidéos provocatrices et des duels musclés, devenant l’influenceur le plus détesté du web. Mais derrière son image de bad boy, Sôji cache un secret : tout cet argent gagné dans la controverse sert à financer les soins d’Akari, sa petite sœur gravement malade.\n\nLoin des projecteurs, c’est un grand frère aimant et un passionné de pâtisserie, prêt à endosser le rôle du paria tant qu’Akari peut sourire. Mais lorsque la tragédie frappe et que son monde s’effondre, Sôji voit sa propre réalité basculer. À présent, il n’est plus seulement question d’argent ou de buzz : un combat bien plus sombre s’annonce, et les fantômes du net n’ont qu’à bien se tenir.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/286291"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/286291-detdoakaunto/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:286291",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:291414",
       "type": "series",
       "name": "Does it Count if You Lose Your Virginity to an Android",
@@ -10362,6 +10336,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:291414",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:286291",
+      "type": "series",
+      "name": "Dead Account",
+      "poster": "https://image.tmdb.org/t/p/w500/3KxyECISY5arB72ADxUuY4DUwJL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xmFJgz5NyKoiMsdti4tRbbGyPOQ.jpg",
+      "description": "Les fantômes ne hantent plus les maisons abandonnées, mais les écrans des smartphones. Et si le vôtre était déjà possédé ?\n\nSôji Enishiro, 15 ans, est un streameur à la réputation sulfureuse. Sous le pseudonyme d’Aoringo, il embrase les réseaux avec des vidéos provocatrices et des duels musclés, devenant l’influenceur le plus détesté du web. Mais derrière son image de bad boy, Sôji cache un secret : tout cet argent gagné dans la controverse sert à financer les soins d’Akari, sa petite sœur gravement malade.\n\nLoin des projecteurs, c’est un grand frère aimant et un passionné de pâtisserie, prêt à endosser le rôle du paria tant qu’Akari peut sourire. Mais lorsque la tragédie frappe et que son monde s’effondre, Sôji voit sa propre réalité basculer. À présent, il n’est plus seulement question d’argent ou de buzz : un combat bien plus sombre s’annonce, et les fantômes du net n’ont qu’à bien se tenir.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/286291"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/286291-detdoakaunto/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:286291",
         "hasScheduledVideos": true
       }
     },
@@ -10418,32 +10418,6 @@
       }
     },
     {
-      "id": "tmdb:tv:284444",
-      "type": "series",
-      "name": "Champignon Witch",
-      "poster": "https://image.tmdb.org/t/p/w500/fnMlh7jvoPvqoIqz5bYnw8MkQwO.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/jlIvjqSqJXDcwTGG5nzKNeH1K9t.jpg",
-      "description": "Luna la sorcière habite au fond d'une sombre forêt et fait pousser des champignons vénéneux sur son passage.\n\nLes villageois la craignent et la fuient, car ils ignorent qu'elle œuvre uniquement dans le but de les aider. Luna cache sa tristesse et tente de se satisfaire de sa condition. Mais un jour, l'amour vient lui jouer des tours...\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.1",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/284444"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/284444-shiyanpinionno-mo-nu/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:284444",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:308142",
       "type": "series",
       "name": "High School! Kimengumi",
@@ -10466,6 +10440,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:308142",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:284444",
+      "type": "series",
+      "name": "Champignon Witch",
+      "poster": "https://image.tmdb.org/t/p/w500/fnMlh7jvoPvqoIqz5bYnw8MkQwO.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jlIvjqSqJXDcwTGG5nzKNeH1K9t.jpg",
+      "description": "Luna la sorcière habite au fond d'une sombre forêt et fait pousser des champignons vénéneux sur son passage.\n\nLes villageois la craignent et la fuient, car ils ignorent qu'elle œuvre uniquement dans le but de les aider. Luna cache sa tristesse et tente de se satisfaire de sa condition. Mais un jour, l'amour vient lui jouer des tours...\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/284444"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/284444-shiyanpinionno-mo-nu/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:284444",
         "hasScheduledVideos": true
       }
     },
@@ -10938,6 +10938,32 @@
       }
     },
     {
+      "id": "tmdb:tv:276393",
+      "type": "series",
+      "name": "Tamon's B-side",
+      "poster": "https://image.tmdb.org/t/p/w500/5X2Z4zEgMzKNLL3OrJccUjXKUUk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bj1TPffyPj6WtKSIrq8hYiZS3Qe.jpg",
+      "description": "Utage Kinoshita est une lycéenne fan absolue du groupe F/ACE, plus précisément de Tamon Fukuhara. Un jour, dans le cadre de son petit boulot de femme de ménage, elle se retrouve nez à nez avec son chouchou. Mais quel choc quand elle découvre sa véritable nature… Loin de l'image du garçon déjanté qu'elle connaît, elle trouve un garçon sombre et très introverti.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/276393"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/276393-duo-wen-kun-jin-dotchi/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:276393",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:285166",
       "type": "series",
       "name": "Jack-of-All-Trades, Party of None",
@@ -11012,32 +11038,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:282946",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:276393",
-      "type": "series",
-      "name": "Tamon's B-side",
-      "poster": "https://image.tmdb.org/t/p/w500/5X2Z4zEgMzKNLL3OrJccUjXKUUk.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/bj1TPffyPj6WtKSIrq8hYiZS3Qe.jpg",
-      "description": "Utage Kinoshita est une lycéenne fan absolue du groupe F/ACE, plus précisément de Tamon Fukuhara. Un jour, dans le cadre de son petit boulot de femme de ménage, elle se retrouve nez à nez avec son chouchou. Mais quel choc quand elle découvre sa véritable nature… Loin de l'image du garçon déjanté qu'elle connaît, elle trouve un garçon sombre et très introverti.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.1",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/276393"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/276393-duo-wen-kun-jin-dotchi/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:276393",
         "hasScheduledVideos": true
       }
     },

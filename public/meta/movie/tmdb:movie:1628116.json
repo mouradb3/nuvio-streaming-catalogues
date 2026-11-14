@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1628116",
+    "type": "movie",
+    "name": "BTS : Le Retour",
+    "poster": "https://image.tmdb.org/t/p/w500/kEAoi6WiFG1eH8q8l8mADgxuxKf.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/w4jOh7ok6JvsYu6WbuSDW97D7D6.jpg",
+    "description": "Les BTS sont de retour et à l'aube d'une nouvelle ère ! Ce documentaire offre un accès inédit au groupe, réuni à Los Angeles pour enregistrer l'album « Arirang ».\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "10",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1628116"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1628116-bts/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1628116",
+      "hasScheduledVideos": false
+    }
+  }
+}
