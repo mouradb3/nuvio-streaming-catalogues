@@ -1,14 +1,66 @@
 {
   "metas": [
     {
+      "id": "tmdb:tv:312661",
+      "type": "series",
+      "name": "Urgences Humaines",
+      "poster": "https://image.tmdb.org/t/p/w500/aatKnanzNiI0qyRf1yuAyGQ4tKg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg",
+      "description": "Choisi par un médecin brillant, un jeune diplômé aux résultats moyens doit faire ses preuves aux côtés d'internes brillants tout en survivant au chaos d'urgences sous tension.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/312661"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/312661-ji-zhen-shi-de-qi-ji/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:312661",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:249565",
+      "type": "series",
+      "name": "The Good Daughter",
+      "poster": "https://image.tmdb.org/t/p/w500/nfWGZtrLH6PLcOQFOttZqmhKaVk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
+      "description": "Les sœurs Charlotte et Samantha Quinn ont passé les vingt-huit dernières années à essayer de reconstituer les vies qui ont été brisées par une nuit de violence. Lorsqu'un nouvel attentat a lieu dans la petite ville de Pikeville, Charlotte est le premier témoin sur les lieux. Devenue avocate comme son père, elle est forcée d'affronter ses propres démons au fur et à mesure que l'affaire affaire.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/249565"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/249565-the-good-daughter/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:249565",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:291507",
       "type": "series",
       "name": "The Body",
       "poster": "https://image.tmdb.org/t/p/w500/swEOVOmkYtTg3UBStrvt1yZJm26.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/fJz7SZhuVnywlXOz9IYsIE33u8j.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
       "description": "Le soir d'Halloween, un rite d'initiation vire au cauchemar, faisant basculer une troupe de danseuses dans la culpabilité catholique, les désirs impies et les visions étranges.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.9",
+      "imdbRating": "7.3",
       "links": [
         {
           "name": "TMDB",
@@ -23,32 +75,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:291507",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:336243",
-      "type": "series",
-      "name": "ChiaroScuro",
-      "poster": "https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg",
-      "description": "Après la découverte d’un corps dans un musée romain, un expert en art doit faire appel à son instinct et à ses compétences pour aider la police à élucider un mystère lié à son propre passé.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/336243"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/336243-chiaroscuro/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:336243",
         "hasScheduledVideos": true
       }
     },
@@ -75,6 +101,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:338562",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:336243",
+      "type": "series",
+      "name": "ChiaroScuro",
+      "poster": "https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vgPPvAquFxSiKebo9fdlGbSeEnb.jpg",
+      "description": "Après la découverte d’un corps dans un musée romain, un expert en art doit faire appel à son instinct et à ses compétences pour aider la police à élucider un mystère lié à son propre passé.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/336243"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/336243-chiaroscuro/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:336243",
         "hasScheduledVideos": true
       }
     },
@@ -137,7 +189,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg",
       "description": "En 1985, les guérilleros du M-19 s'emparent du palais de justice de Bogotá. La série revient sur le siège, la riposte de l'armée et le combat des familles pour obtenir justice.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.7",
+      "imdbRating": "6.6",
       "links": [
         {
           "name": "TMDB",
@@ -293,7 +345,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
       "description": "En mai 2005, un groupe de lycéens d'une petite ville de l'Alabama célèbre la fin de ses études lors d'un voyage à Aruba. Mais Natalee Holloway, 18 ans, ne se présente jamais à l'embarquement pour le vol retour.\n\nSa disparition soudaine déclenche une vaste couverture médiatique et d'intenses recherches qui vont durer des années.\n\nPlus de vingt ans après les faits, sa mère, Beth Holloway, revient pour la première fois sur l'intégralité de cette affaire, depuis la disparition de sa fille jusqu'aux aveux spectaculaires du principal suspect. À travers des témoignages inédits, des images jamais dévoilées et l'accès à des enquêteurs, cette série documentaire retrace le combat acharné d'une mère pour découvrir la vérité.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.8",
       "links": [
         {
           "name": "TMDB",
@@ -319,7 +371,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
       "description": "Impératrice de l'Empire de l'Est, la brillante Navier règne en parfaite harmonie avec son époux, l'empereur Sovieshu. Mais leur monde s'écroule quand il introduit au palais Lasta, une esclave en fuite, et la prend comme maîtresse. Alors que son titre et son amour sont menacés, Navier reste stoïque. Seul Heinri, prince du Royaume de l'Ouest de passage pour la Nouvelle Année, devine la force et la solitude derrière son masque. Le jour où Sovieshu promet le trône à Lasta, Navier réalise qu'elle ne peut plus subir. Pour ne pas être une impératrice déchue mais celle qui choisit son destin, elle prend une décision qui changera sa vie à jamais.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.2",
+      "imdbRating": "8.3",
       "links": [
         {
           "name": "TMDB",
@@ -329,7 +381,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/279246/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/279246-jaehon-hwanghu/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -345,7 +397,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/ygjcwHWhhCaNPaPP965Du7eR2gO.jpg",
       "description": "Dans un Far West steampunk sous la coupe des hors-la-loi, des machines et de forces surnaturelles, un père de famille doit se faire juge, juré et bourreau pour protéger les siens.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.6",
       "links": [
         {
           "name": "TMDB",
@@ -381,7 +433,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/289517/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/289517-kkulalba/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -407,7 +459,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/307478/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/307478-laieo/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -605,7 +657,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/3nJL65FgsUpmBEIMXc0kt0h5uay.jpg",
       "description": "Cette série documentaire retrace le succès hollywoodien, la prise de position ouverte et la mort tragique de la star de \"Friends\", à travers le témoignage de ses proches.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.6",
       "links": [
         {
           "name": "TMDB",
@@ -693,7 +745,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/316702/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/316702-paineol-teibeul/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -848,7 +900,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/300527/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/300527-an-nokoto-nanka-yan-tteta/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -978,7 +1030,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/332713/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/332713-nan-tian-nan-bian-hu-shi-ha-tian-cai-ji/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -1194,32 +1246,6 @@
       }
     },
     {
-      "id": "tmdb:tv:335536",
-      "type": "series",
-      "name": "TYSON",
-      "poster": "https://image.tmdb.org/t/p/w500/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/qFNAWAHCXWtS4EMlLxTAetTpZAR.jpg",
-      "description": "Ce documentaire captivant en quatre volets explore la vie tumultueuse de Mike Tyson, l'une des personnalités les plus redoutées et les plus fascinantes de l'histoire du sport.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/335536"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/335536-tyson/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:335536",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:283371",
       "type": "series",
       "name": "Le piège",
@@ -1242,6 +1268,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:283371",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:335536",
+      "type": "series",
+      "name": "TYSON",
+      "poster": "https://image.tmdb.org/t/p/w500/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qFNAWAHCXWtS4EMlLxTAetTpZAR.jpg",
+      "description": "Ce documentaire captivant en quatre volets explore la vie tumultueuse de Mike Tyson, l'une des personnalités les plus redoutées et les plus fascinantes de l'histoire du sport.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/335536"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/335536-tyson/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:335536",
         "hasScheduledVideos": true
       }
     },
@@ -1289,7 +1341,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/288588/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/288588-xin-zhe-zerono-nu-shen-samato-shi-meru-yi-shi-jie-gong-lue/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -1341,7 +1393,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/293607-100/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/293607-100ilui-geojismal/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -1367,7 +1419,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/295420/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/295420-zhu-se-no-fan-mian/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -1393,7 +1445,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/307903/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/307903-kong-bu-korekuta/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -1428,32 +1480,6 @@
       }
     },
     {
-      "id": "tmdb:tv:293610",
-      "type": "series",
-      "name": "Doctor X : Mafia en blouse blanche",
-      "poster": "https://image.tmdb.org/t/p/w500/vAMmQApMO9QyoyWCUpKxuOrsqw7.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/rCFZ9cQQVSa9sAvco2Czcct6aKB.jpg",
-      "description": "Kye Su-Jeong, une brillante chirurgienne, est affectée à l'hôpital universitaire de Guseo pour pourvoir un poste vacant en chirurgie. Elle y fait ses preuves grâce à son talent et met en lumière les absurdités du milieu médical. Elle se lie d'amitié avec Bu Seung-Kwon, le directeur de l'hôpital, et l'interne Park Tae-Kyeong\n\nDisponibilité France : Netflix.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.1",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/293610"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/293610-x/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:293610",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:284833",
       "type": "series",
       "name": "Avatar : Les Sept Refuges",
@@ -1480,6 +1506,32 @@
       }
     },
     {
+      "id": "tmdb:tv:293610",
+      "type": "series",
+      "name": "Doctor X : Mafia en blouse blanche",
+      "poster": "https://image.tmdb.org/t/p/w500/vAMmQApMO9QyoyWCUpKxuOrsqw7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+      "description": "Kye Su-Jeong, une brillante chirurgienne, est affectée à l'hôpital universitaire de Guseo pour pourvoir un poste vacant en chirurgie. Elle y fait ses preuves grâce à son talent et met en lumière les absurdités du milieu médical. Elle se lie d'amitié avec Bu Seung-Kwon, le directeur de l'hôpital, et l'interne Park Tae-Kyeong\n\nDisponibilité France : Netflix.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/293610"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/293610-x/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:293610",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:320909",
       "type": "series",
       "name": "Les Noces des Lucioles",
@@ -1497,7 +1549,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/320909/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/320909-hotaruno-jia-ru-ri/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -1523,7 +1575,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/289423/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/289423-naleul-chungjeonhaejwo/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -1549,7 +1601,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/284580/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/284580-toaru-an-bu-no-shao-nu-gong-qi/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -1601,7 +1653,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/323937/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/323937-shou-wang-wu-shen-dandevuain/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -1679,7 +1731,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/313346/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/313346-zhui-fang-saretachito-fu-yu-mo-shu-shi-ha-qi-mamanasekandoraifuo-ou-ge-suru-an-ha-wu-qi-dakejiyanaku-arayurumononi-qiang-hua-pointo-o-fu-yu-dekirushi-an-no-yi-si-deitsudemo-xiao-guo-o-jie-chu-dekirukedo-can-tta-ren-tachi-da-zhang-fu/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -1705,7 +1757,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/321518/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/321518-shi-jie-zui-qiang-no-mo-nu-shi-memashita/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -1731,7 +1783,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/303272/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/303272-mo-fa-qi-shi-reiasu/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -1747,7 +1799,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/mnxeCdKE3mtVT8mB9lWs4JY3Mla.jpg",
       "description": "Quatre amis de toujours se retrouvent pris dans un engrenage de chantage quand une vidéo ayant fuité menace de dévoiler des secrets qui pourraient détruire leur amitié.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
+      "imdbRating": "7.8",
       "links": [
         {
           "name": "TMDB",
@@ -1783,7 +1835,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/332261/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/332261-poriteikarupan/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -1808,7 +1860,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/316891/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/316891-yan-dui-ying-no-zuo-teng-sanga-an-nidake-gan-i/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -1834,7 +1886,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/312850/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/312850-xiong-luan-ling-niang-nia-risuton-bing-ruo-ling-niang-ni-zhuan-sheng-shita-shen-sha-shino-wu-ren-no-hua-li-naru-wu-shuang-lu/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -1964,7 +2016,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/313068/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/313068-doumo-hao-kina-ren-ni-hu-re-yao-o-yi-lai-sareta-mo-nu-desu/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -2042,7 +2094,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/329096/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/329096-bi-fang-kara/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -2068,7 +2120,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/333622/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/333622-dai-shita-mo-li-ha-ribo-fan-i-de-qiang-zhi-zheng-shou/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -2094,7 +2146,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/283938/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/283938-sheng-tu-hui-nimo-xue-haaru/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -2120,7 +2172,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/283692/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/283692-mu-jue-metara-zui-qiang-zhuang-bei-to-yu-zhou-chuan-chi-chita-ttanote-yi-hu-jian-te-mu-zhi-shite-yong-bing-toshite-zi-you-ni-sheng-kitai/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -2172,7 +2224,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/335194/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/335194-majikaru-ekusupurora/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -2223,7 +2275,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/330505/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/330505-ojisanhakawaiimonogao-hao-ki/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -2249,11 +2301,37 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/285710/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/285710-huan-xiang-shui-hu-yun/watch?locale=FR"
         }
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:285710",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:324326",
+      "type": "series",
+      "name": "Les 7 Chevaliers du Royaume des Marronniers",
+      "poster": "https://image.tmdb.org/t/p/w500/kbmXfi28xI7m0M5oWfJS5fwiCqo.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/59oBbiLeG3jeDOUmx6zF6Qfmea3.jpg",
+      "description": "Au cœur d'un continent composé de huit royaumes se trouve le royaume des Marronniers. Son général, Baribara, a sept fils, chacun doté d'un don et occupant le poste de chevalier commandant. Unis par le noble espoir de sauver une princesse un jour, les frères partent en bons samaritains vers les sept royaumes voisins. Quelles rencontres et quelles épreuves les attendent dans ces contrées inconnues ?\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/324326"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/324326-maronie-wang-guo-no-qi-ren-no-qi-shi/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:324326",
         "hasScheduledVideos": true
       }
     },
@@ -2305,32 +2383,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:317259",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:324326",
-      "type": "series",
-      "name": "Les 7 Chevaliers du Royaume des Marronniers",
-      "poster": "https://image.tmdb.org/t/p/w500/kbmXfi28xI7m0M5oWfJS5fwiCqo.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/59oBbiLeG3jeDOUmx6zF6Qfmea3.jpg",
-      "description": "Au cœur d'un continent composé de huit royaumes se trouve le royaume des Marronniers. Son général, Baribara, a sept fils, chacun doté d'un don et occupant le poste de chevalier commandant. Unis par le noble espoir de sauver une princesse un jour, les frères partent en bons samaritains vers les sept royaumes voisins. Quelles rencontres et quelles épreuves les attendent dans ces contrées inconnues ?\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/324326"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/324326/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:324326",
         "hasScheduledVideos": true
       }
     },
@@ -2439,32 +2491,6 @@
       }
     },
     {
-      "id": "tmdb:tv:334888",
-      "type": "series",
-      "name": "Afrique, terres de vie",
-      "poster": "https://image.tmdb.org/t/p/w500/wik5FpIY4XvVR29sZGnqseLGKN8.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/17ZgS7G4tVvJsuMfMxkFMHumXog.jpg",
-      "description": "Filmée sur près de quatre ans à travers une trentaine de pays, la série explore la richesse, la résilience et les récits de survie des animaux au coeur des écosystèmes extrêmement variés de l'Afrique (déserts, jungles, montagnes, îles et forêts). Grâce à des technologies de pointe et des images de synthèse, elle met en lumière les forces géologiques et continentales qui ont façonné ces milieux, ainsi que les incroyables capacités d'adaptation de la faune\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.9",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/334888"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/334888-africa-earth-s-wild-home/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:334888",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:335227",
       "type": "series",
       "name": "Je préfère la mort",
@@ -2487,6 +2513,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:335227",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:334888",
+      "type": "series",
+      "name": "Afrique, terres de vie",
+      "poster": "https://image.tmdb.org/t/p/w500/wik5FpIY4XvVR29sZGnqseLGKN8.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/17ZgS7G4tVvJsuMfMxkFMHumXog.jpg",
+      "description": "Filmée sur près de quatre ans à travers une trentaine de pays, la série explore la richesse, la résilience et les récits de survie des animaux au coeur des écosystèmes extrêmement variés de l'Afrique (déserts, jungles, montagnes, îles et forêts). Grâce à des technologies de pointe et des images de synthèse, elle met en lumière les forces géologiques et continentales qui ont façonné ces milieux, ainsi que les incroyables capacités d'adaptation de la faune\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.9",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/334888"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/334888-africa-earth-s-wild-home/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:334888",
         "hasScheduledVideos": true
       }
     },
@@ -2602,7 +2654,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
       "description": "La vie ordinaire de Paolo bascule lorsqu’il recroise la route de Téophane, un ancien camarade d’école, qui brigue aujourd’hui la mairie de sa ville et qui a semble-t-il tout pour lui. Ce qui commence par une simple admiration et une volonté de soutenir la campagne se transforme en une obsession dévorante…\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.6",
+      "imdbRating": "5.8",
       "links": [
         {
           "name": "TMDB",
@@ -2628,7 +2680,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/pE6lTAEaErbLzIZuGP7Ojg8uD0.jpg",
       "description": "Dans le Berlin des années 1990, les origines de la famille Hamady avant qu’elle ne devienne l’un des clans les plus influents de la ville. Réfugiés du Liban, tolérés en Allemagne, les Hamady luttent pour s’imposer dans leur nouveau pays et se faire une place dans le milieu criminel berlinois.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5",
+      "imdbRating": "5.4",
       "links": [
         {
           "name": "TMDB",
@@ -3522,7 +3574,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/305644/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/305644-pohaenjeu/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -3548,7 +3600,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/290193/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/290193-deuljwi/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -3574,7 +3626,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/299952/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/299952-zao-chun-qing-lang/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -3590,7 +3642,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/gXX5VDz1jh0Adqo8a8QPHJthiEl.jpg",
       "description": "Qu'est-il arrivé à Mica Miller ? Cette série documentaire revient sur sa vie prometteuse, son mariage toxique et les circonstances mystérieuses qui ont entouré sa mort.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.3",
       "links": [
         {
           "name": "TMDB",
@@ -3756,7 +3808,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/291496/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/291496-ileon-yeosgateun-salang/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -3860,7 +3912,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/289324/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/289324-suta-uozu-bijiyonzu-jiu-ren-mu-nojiedai/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -4198,7 +4250,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/279323/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/279323-donggung/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -4240,7 +4292,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/fBVNJL85Q60njpKPD6YaLi6tEsX.jpg",
       "description": "Lonnie Hawkins alias \"The Hawk\", légende du golf en fin de carrière, se lance à la conquête d'un ultime titre majeur, entraînant tous ses proches sur un parcours très chaotique.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.6",
+      "imdbRating": "5.7",
       "links": [
         {
           "name": "TMDB",
@@ -4328,7 +4380,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/286345/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/286345-futsutsukana-e-nu-dehagozaimasuga-chu-gong-die-shu-torikae-yun/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -4354,7 +4406,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/312266/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/312266-hua-zhi-sanha-zhuan-sheng-shitemo-xuan-hua-gashitai/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -4380,7 +4432,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/300727/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/300727-apateu/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -4406,7 +4458,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/296437-0/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/296437-ling-min-0-ren-sutatono-bian-jing-ling-zhu-yang/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -4458,7 +4510,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/297826/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/297826-dogulwang/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -4484,7 +4536,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/296286/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/296286-supano-li-deyani-xi-ufutari/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -4588,7 +4640,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/326119/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/326119-sanda/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -4614,7 +4666,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/314054/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/314054-tian-ha-chi-i-he-nohotori/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -4640,7 +4692,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/285574/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/285574-kimiga-si-numade-lian-oshitai/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -4718,7 +4770,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/250008/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/250008-zhuan-xiao-xian-no-qing-chu-ke-lian-na-mei-shao-nu-ga-xi-nan-zi-to-si-tte-yi-xu-ni-you-nda-you-xun-ran-datta-jian/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -4744,7 +4796,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/295071/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/295071-sayonararara/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -4770,7 +4822,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/302051-10/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/302051-kokoha-an-ni-ren-sete-xian-ni-xing-keto-yan-ttekara10-nian-gatattara-yun-shuo-ninatteita/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -4796,7 +4848,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/309974/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/309974-tou-ming-na-ye-ni-qu-keru-jun-to-mu-ni-jian-enai-lian-oshita/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -4848,7 +4900,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/325158/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/325158-she-terare-sheng-nu-no-yi-shi-jie-gohan-lu-yin-resukirudekiyanpingukao-zhao-huan-shimashita/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -4874,7 +4926,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/284581/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/284581-zui-qiang-chu-he-rashi-huang-zi-no-an-yue-di-wei-zheng-i/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -4952,7 +5004,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/308403/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/308403-zhi-guo-nojiyan/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -4978,7 +5030,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/293489/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/293489-gui-no-hua-jia/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -5004,63 +5056,11 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/312849/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/312849-cai-nu-noo-shi-hua-gao-ling-no-hua-darakena-ming-men-xiao-de-xue-yuan-yi-noo-niang-yang-sheng-huo-neng-li-jie-wu-o-yin-nagarao-shi-hua-surukotoninarimashita/watch?locale=FR"
         }
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:312849",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:300267",
-      "type": "series",
-      "name": "The World's Strongest Rearguard",
-      "poster": "https://image.tmdb.org/t/p/w500/qHRIsZS6eikYpQBZGY5fqT7HlHQ.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/93G5xLkTan3fdkUzQVvCcf8IAMx.jpg",
-      "description": "Arihito Atobe est mort dans un accident de bus, mais il se réveille dans un autre monde, entouré de ses anciennes collègues de travail. Dans sa vie précédente, il était un assistant exploité et dévoué à son travail. À présent, il découvre qu'il est capable de jouer un rôle clé dans l'arrière-garde en apportant son soutien dans l'attaque, la défense ou les soins.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.2",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/300267"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/300267/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:300267",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:315054",
-      "type": "series",
-      "name": "The Duke's Son Claims He Won't Love Me, But Showers Me with Adoration",
-      "poster": "https://image.tmdb.org/t/p/w500/yr6dl4TYfG9EznBmM8fUqlo3ewd.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/fbn801LwOIQ04eFvPT2VNVAgZRc.jpg",
-      "description": "Elsa, fille d’un aristocrate déchu, doit se marier avec Julius, un noble issu de la haute société. Bien que intriguée par le fait qu'il l'ai choisie, elle accepte. Mais tandis que Julius se montrait jusqu'ici gentil et attentionné, il lui annonce qu'il n'a aucune intention de l'aimer…\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/315054"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/315054/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:315054",
         "hasScheduledVideos": true
       }
     },
@@ -5087,6 +5087,58 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:296101",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:300267",
+      "type": "series",
+      "name": "The World's Strongest Rearguard",
+      "poster": "https://image.tmdb.org/t/p/w500/qHRIsZS6eikYpQBZGY5fqT7HlHQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/93G5xLkTan3fdkUzQVvCcf8IAMx.jpg",
+      "description": "Arihito Atobe est mort dans un accident de bus, mais il se réveille dans un autre monde, entouré de ses anciennes collègues de travail. Dans sa vie précédente, il était un assistant exploité et dévoué à son travail. À présent, il découvre qu'il est capable de jouer un rôle clé dans l'arrière-garde en apportant son soutien dans l'attaque, la défense ou les soins.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/300267"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/300267-shi-jie-zui-qiang-no-hou-wei-mi-gong-guo-no-xin-ren-tan-suo-zhe/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:300267",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:315054",
+      "type": "series",
+      "name": "The Duke's Son Claims He Won't Love Me, But Showers Me with Adoration",
+      "poster": "https://image.tmdb.org/t/p/w500/yr6dl4TYfG9EznBmM8fUqlo3ewd.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fbn801LwOIQ04eFvPT2VNVAgZRc.jpg",
+      "description": "Elsa, fille d’un aristocrate déchu, doit se marier avec Julius, un noble issu de la haute société. Bien que intriguée par le fait qu'il l'ai choisie, elle accepte. Mais tandis que Julius se montrait jusqu'ici gentil et attentionné, il lui annonce qu'il n'a aucune intention de l'aimer…\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/315054"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/315054-kimio-ai-suru-qi-hanai-to-yan-tta-ci-qi-gong-jue-yang-ganazeka-ni-ai-shitekimasu/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:315054",
         "hasScheduledVideos": true
       }
     },
@@ -5134,7 +5186,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/288971/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/288971-tian-mu-nojiyadougaru/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -5186,7 +5238,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/319990/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/319990-sutorenji-yi-teng-run-er-no-ye-mo-mian-renu-qi-miao-na-hua/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -5212,7 +5264,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/284029/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/284029-mao-to-long/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -5238,7 +5290,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/324335/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/324335-yan-yuan-xian-bei-no-tui-jian/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -5290,7 +5342,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/270603/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/270603-zhui-fang-sareta-zhuan-sheng-zhong-qi-shi-hagemu-zhi-shi-de-wu-shuang-suru/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -5316,7 +5368,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/312949/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/312949-yanineko/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -5342,7 +5394,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/308874/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/308874-yi-nu-guai-shou-kiyaramerize/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -5524,7 +5576,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/286346/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/286346-hiroin-sheng-nu-iie-oruwakusumeidodesu-kua/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -5550,7 +5602,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/296436/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/296436-wu-zi-jue-sheng-nu-ha-jin-ri-mo-wu-yi-shi-ni-li-o-chui-re-liu-su/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -5602,7 +5654,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/296206/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/296206-gimbujang/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -5654,7 +5706,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/286360/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/286360-maen-kkeutjul-sonyeon/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -5706,7 +5758,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/289763/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/289763-naeildo-chulgeun/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -5836,7 +5888,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/312493/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/312493-xuan-hua-du-xue/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -5965,7 +6017,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/276161/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/276161-chamgyoyug/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -6537,7 +6589,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/258063/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/258063-sourumeito/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -6641,7 +6693,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/303143/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/303143-meosjin-sinsegye/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -6901,7 +6953,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/300529/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/300529-de-yu-ni-duo-chiruwayo/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -6927,7 +6979,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/285838/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/285838-giligo/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -7135,7 +7187,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/314784/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/314784-lomaenseuui-jeoldaesgabs/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -7239,11 +7291,37 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/297557/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/297557-hei-mao-to-mo-nu-no-jiao-shi/watch?locale=FR"
         }
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:297557",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:295751",
+      "type": "series",
+      "name": "Ichijôma Mankitsu Gurashi!",
+      "poster": "https://image.tmdb.org/t/p/w500/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
+      "description": "En deuxième année de lycée, Meiko Morita quitte sa campagne natale pour intégrer une école de jeunes filles réputée à Tokyo, à condition de devenir bénévole. Seulement, pour remplir pleinement sa mission, elle se retrouve à travailler dans un minuscule box au sein d’un manga café. Contre toute attente, Meiko commence à apprécier cette nouvelle vie dans ce lieu exigu et animé, où étudiantes et tracas du quotidien se bousculent.\n\nDisponibilité France : Animation Digital Network, Anime Digital Network Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/295751"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/295751-yi-die-jian-mankitsu-mu-rashi/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:295751",
         "hasScheduledVideos": true
       }
     },
@@ -7291,7 +7369,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/300131/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/300131-kiruao/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -7317,7 +7395,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/283905/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/283905-shang-yi-na-botan-zui-heru-zi-ha-bai-he-no-hua/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -7395,7 +7473,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/306121/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/306121-shen-no-na/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -7421,7 +7499,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/291403/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/291403-dan-dao-bai-jing/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -7447,7 +7525,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/283888/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/283888-kujima-ge-eba-jia-hororo/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -7473,37 +7551,11 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/273467/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/273467-ji-qi-shi-ha-man-zu-no-jia/watch?locale=FR"
         }
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:273467",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:250220",
-      "type": "series",
-      "name": "The Miniature Wife",
-      "poster": "https://image.tmdb.org/t/p/w500/ah763FJpttOTCcfxIK3dxXCoJvk.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/gQTjztsHxB7swHm6Dy2h8blukEi.jpg",
-      "description": "Un accident technologique pousse un couple marié à remettre en question l'équilibre de pouvoir dans leur relation. Ce qui commence comme une remise en question tourne vite à l'affrontement alors que chacun tente de reprendre le contrôle sur leur mariage.\n\nDisponibilité France : Canal+, Canal+ Séries.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/250220"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/250220-the-miniature-wife/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:250220",
         "hasScheduledVideos": true
       }
     },
@@ -7530,6 +7582,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:291506",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:250220",
+      "type": "series",
+      "name": "The Miniature Wife",
+      "poster": "https://image.tmdb.org/t/p/w500/ah763FJpttOTCcfxIK3dxXCoJvk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gQTjztsHxB7swHm6Dy2h8blukEi.jpg",
+      "description": "Un accident technologique pousse un couple marié à remettre en question l'équilibre de pouvoir dans leur relation. Ce qui commence comme une remise en question tourne vite à l'affrontement alors que chacun tente de reprendre le contrôle sur leur mariage.\n\nDisponibilité France : Canal+, Canal+ Séries.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/250220"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/250220-the-miniature-wife/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:250220",
         "hasScheduledVideos": true
       }
     },
@@ -7603,7 +7681,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/309163/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/309163-otakuni-you-shiigiyaruhainai/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -7629,7 +7707,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/312522/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/312522-nu-shen-yi-shi-jie-zhuan-sheng-he-ninaritaidesuka-an-yong-zhe-no-lei-gu-de/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -7707,7 +7785,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/306790/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/306790-tadaima-ojiyamasaremasu/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -7733,7 +7811,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/301944/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/301944-maritjitokishin/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -7785,7 +7863,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/290019/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/290019-kurasude-fan-mu-ni-ke-ai-i-nu-no-zi-to-you-dachininatta/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -7915,7 +7993,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/288590/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/288590-zi-cheng-e-yi-ling-niang-na-hun-yue-zhe-no-guan-cha-ji-lu/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -7950,32 +8028,6 @@
       }
     },
     {
-      "id": "tmdb:tv:285818",
-      "type": "series",
-      "name": "Mistress Kanan is Devilishly Easy",
-      "poster": "https://image.tmdb.org/t/p/w500/jYIDlm7E6ji0QtBpGypZHII2Anq.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/mCJWUo6Np2y5daruzt7fhh5TiIA.jpg",
-      "description": "Une jeune démone gourmande d'âmes humaines voit ses principes bouleversés lorsqu'un de ses camarades de classe lui tape dans l'œil !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.1",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/285818"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/285818-kanan-yang-haakumadechiyoroi/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:285818",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:296870",
       "type": "series",
       "name": "Kusunoki's Garden of Gods",
@@ -8002,6 +8054,32 @@
       }
     },
     {
+      "id": "tmdb:tv:285818",
+      "type": "series",
+      "name": "Mistress Kanan is Devilishly Easy",
+      "poster": "https://image.tmdb.org/t/p/w500/jYIDlm7E6ji0QtBpGypZHII2Anq.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mCJWUo6Np2y5daruzt7fhh5TiIA.jpg",
+      "description": "Une jeune démone gourmande d'âmes humaines voit ses principes bouleversés lorsqu'un de ses camarades de classe lui tape dans l'œil !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/285818"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/285818-kanan-yang-haakumadechiyoroi/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:285818",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:312474",
       "type": "series",
       "name": "Les Nations du Soleil sanglant",
@@ -8019,7 +8097,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/312474/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/312474-ri-ben-san-guo/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -8123,37 +8201,11 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/297438/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/297438-akane-xin/watch?locale=FR"
         }
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:297438",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:299144",
-      "type": "series",
-      "name": "Rilakkuma",
-      "poster": "https://image.tmdb.org/t/p/w500/daHe9FgalV98dq9FyWpXNyF2ElN.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/lHIfDwuhQcLVI8bncg2gXATgINz.jpg",
-      "description": "Suivez le quotidien du plus adorable et célèbre des oursons japonais !\n\nDisponibilité France : Animation Digital Network, Anime Digital Network Amazon Channel, Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/299144"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/299144/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:299144",
         "hasScheduledVideos": true
       }
     },
@@ -8175,11 +8227,37 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/303460/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/303460-zui-qiang-no-zhi-ye-ha-yong-zhe-demo-xian-zhe-demonaku-jian-ding-shi-fan-rashiidesuyo/watch?locale=FR"
         }
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:303460",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:299144",
+      "type": "series",
+      "name": "Rilakkuma",
+      "poster": "https://image.tmdb.org/t/p/w500/daHe9FgalV98dq9FyWpXNyF2ElN.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lHIfDwuhQcLVI8bncg2gXATgINz.jpg",
+      "description": "Suivez le quotidien du plus adorable et célèbre des oursons japonais !\n\nDisponibilité France : Animation Digital Network, Anime Digital Network Amazon Channel, Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/299144"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/299144-riratkuma/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:299144",
         "hasScheduledVideos": true
       }
     },
@@ -8201,7 +8279,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/296232/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/296232-sunouboruasu/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -8227,7 +8305,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/316424/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/316424-hui-yuan-kunno-qiang-kute-qing-chun-niyugemu/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -8279,37 +8357,11 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/274622/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/274622-ganbare-zhong-cun-kun/watch?locale=FR"
         }
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:274622",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:303405",
-      "type": "series",
-      "name": "Kujo l'implacable",
-      "poster": "https://image.tmdb.org/t/p/w500/1eHY0eqE6ricIouCyxMfAFm6D6i.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/m2px7CZWxArlG8Lyld1XKIkD5aA.jpg",
-      "description": "Des délinquants aux yakuzas, Taiza Kujo manie la loi pour défendre les pires clients. Son confrère Karasuma, bien que doutant de son éthique, se joint à lui pour faire face aux côtés les plus sombres de la société.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/303405"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/303405/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:303405",
         "hasScheduledVideos": true
       }
     },
@@ -8331,11 +8383,37 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/304820/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/304820-tao-gashita-yu-ha-da-kikattaga-diao-riageta-yu-ga-da-kisugita-jian/watch?locale=FR"
         }
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:304820",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:303405",
+      "type": "series",
+      "name": "Kujo l'implacable",
+      "poster": "https://image.tmdb.org/t/p/w500/1eHY0eqE6ricIouCyxMfAFm6D6i.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/m2px7CZWxArlG8Lyld1XKIkD5aA.jpg",
+      "description": "Des délinquants aux yakuzas, Taiza Kujo manie la loi pour défendre les pires clients. Son confrère Karasuma, bien que doutant de son éthique, se joint à lui pour faire face aux côtés les plus sombres de la société.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/303405"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/303405-jiu-tiao-no-da-zui/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:303405",
         "hasScheduledVideos": true
       }
     },
@@ -8357,7 +8435,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/213703/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/213703-ji-shen/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -8383,7 +8461,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/288659/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/288659-chun-xia-qiu-dong-dai-xing-zhe-chun-no-wu/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -8669,7 +8747,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/281010/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/281010-sinilang-beoblyulsamuso/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -8799,7 +8877,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/281016/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/281016-wolgannamchin/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -8955,7 +9033,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/298026/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/298026-fang-kai-na-ge-nu-wu/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -8981,7 +9059,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/310800/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/310800-seilen/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -9059,7 +9137,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/300054/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/300054-ren-ya-dao/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -9146,6 +9224,32 @@
       }
     },
     {
+      "id": "tmdb:tv:273977",
+      "type": "series",
+      "name": "The Art of Sarah",
+      "poster": "https://image.tmdb.org/t/p/w500/3bYSwRqLy2qfx5gqVJdOhibxeML.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uLYp6qxGNzDlDtBOAlDbfcf4QgO.jpg",
+      "description": "Un corps retrouvé au beau milieu de la ville. Une marque de luxe en pleine ascension. Un détective examine chaque détail du récit confus d'une femme. Que s'est-il vraiment passé  ?\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/273977"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/273977-leidi-dua/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:273977",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:310239",
       "type": "series",
       "name": "Le Musée de l'innocence",
@@ -9168,32 +9272,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:310239",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:273977",
-      "type": "series",
-      "name": "The Art of Sarah",
-      "poster": "https://image.tmdb.org/t/p/w500/3bYSwRqLy2qfx5gqVJdOhibxeML.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/uLYp6qxGNzDlDtBOAlDbfcf4QgO.jpg",
-      "description": "Un corps retrouvé au beau milieu de la ville. Une marque de luxe en pleine ascension. Un détective examine chaque détail du récit confus d'une femme. Que s'est-il vraiment passé  ?\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/273977"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/273977/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:273977",
         "hasScheduledVideos": true
       }
     },
@@ -9267,7 +9345,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/313289-49/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/313289-unmyeongjeonjaeng49/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -9683,7 +9761,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/229891/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/229891-i-salang-tongyeog-doenayo/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -9709,7 +9787,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/270420/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/270420-oneulbuteo-inganibnidaman/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -9917,11 +9995,37 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/287591/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/287591-uruwashino-xiao-no-yue/watch?locale=FR"
         }
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:287591",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:295483",
+      "type": "series",
+      "name": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
+      "poster": "https://image.tmdb.org/t/p/w500/bjgqOgkOxWphCaq1CG1jPhDq1dI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6vaxQIDlAGtELnfyBMC9toTYMuX.jpg",
+      "description": "Réincarnée dans son jeu otome préféré, une femme doit trouver un nouveau chemin après la rupture de ses fiançailles alors qu'un nouveau prince lui fait sa demande en mariage !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/295483"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/295483-e-yi-ling-niang-ha-lin-guo-no-wang-tai-zi-ni-ni-ai-sareru/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:295483",
         "hasScheduledVideos": true
       }
     },
@@ -9943,7 +10047,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/284432/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/284432-yong-zhe-nokuzu/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -9969,37 +10073,11 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/275902/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/275902-kayachiyanhakowakunai/watch?locale=FR"
         }
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:275902",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:295483",
-      "type": "series",
-      "name": "The Villainess Is Adored by the Prince of the Neighbor Kingdom",
-      "poster": "https://image.tmdb.org/t/p/w500/bjgqOgkOxWphCaq1CG1jPhDq1dI.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/6vaxQIDlAGtELnfyBMC9toTYMuX.jpg",
-      "description": "Réincarnée dans son jeu otome préféré, une femme doit trouver un nouveau chemin après la rupture de ses fiançailles alors qu'un nouveau prince lui fait sa demande en mariage !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/295483"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/295483/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:295483",
         "hasScheduledVideos": true
       }
     },
@@ -10021,7 +10099,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/280049/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/280049-herumodo-yari-yu-mi-hao-kinogemaha-fei-she-ding-no-yi-shi-jie-de-wu-shuang-suru-hajimarino-zhao-huan-shi/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -10073,7 +10151,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/288589/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/288589-o-qi-le-ling-zhu-no-le-shii-ling-de-fang-wei-sheng-chan-xi-mo-shu-de-ming-monaki-cun-o-zui-qiang-no-cheng-sai-dou-shi-ni/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -10099,7 +10177,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/285291/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/285291-zhuan-sheng-shitaradoragonno-luan-datta-zui-qiang-yi-wai-mu-zhi-sanee/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -10125,7 +10203,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/291414/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/291414-andoroidoha-jing-yan-ren-shu-ni-ru-rimasuka/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -10151,7 +10229,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/286291/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/286291-detdoakaunto/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -10177,7 +10255,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/285357/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/285357-o-qian-gotokiga-mo-wang-ni-sheng-teruto-si-una-to-yong-zhe-pateio-zhui-fang-saretanode-wang-dou-de-qi-mamani-mu-rashitai/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -10229,7 +10307,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/308142/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/308142-haisukuru-qi-mian-zu/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -10255,7 +10333,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/284444/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/284444-shiyanpinionno-mo-nu/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -10286,6 +10364,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:259731",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:283891",
+      "type": "series",
+      "name": "The Holy Grail of Eris",
+      "poster": "https://image.tmdb.org/t/p/w500/vJ8nhBdsxImahootP1wM5iG3Bzs.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jK9HlovnISpiraw75B0o6qxlMbw.jpg",
+      "description": "Trahie par la maîtresse de son fiancé, Constance Grail, fille de vicomte réputée pour son honnêteté, va être exécutée jusqu'à ce qu'une voix mystérieuse lui offre le salut. Scarlett Castiel, une noble femme que l'on croyait morte pourrait bien être son seul espoir. Ensemble, ces deux alliées improbables découvrent qu'une une sombre conspiration se trame au cœur de la haute société.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/283891"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/283891-erisuno-sheng-bei/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:283891",
         "hasScheduledVideos": true
       }
     },
@@ -10333,37 +10437,11 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/278271/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/278271-tou-ming-nan-to-ren-jian-nu-sonouchi-fu-fu-ninarufutari/watch?locale=FR"
         }
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:278271",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:283891",
-      "type": "series",
-      "name": "The Holy Grail of Eris",
-      "poster": "https://image.tmdb.org/t/p/w500/vJ8nhBdsxImahootP1wM5iG3Bzs.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/jK9HlovnISpiraw75B0o6qxlMbw.jpg",
-      "description": "Trahie par la maîtresse de son fiancé, Constance Grail, fille de vicomte réputée pour son honnêteté, va être exécutée jusqu'à ce qu'une voix mystérieuse lui offre le salut. Scarlett Castiel, une noble femme que l'on croyait morte pourrait bien être son seul espoir. Ensemble, ces deux alliées improbables découvrent qu'une une sombre conspiration se trame au cœur de la haute société.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/283891"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/283891/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:283891",
         "hasScheduledVideos": true
       }
     },
@@ -10411,7 +10489,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/255064/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/255064-dauin-shi-bian/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -10437,11 +10515,37 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/263330/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/263330-si-wang-you-hu-de-fan-o-shi-u/watch?locale=FR"
         }
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:263330",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:294280",
+      "type": "series",
+      "name": "The Demon King's Daughter is Too Kind!!",
+      "poster": "https://image.tmdb.org/t/p/w500/gUpjTomq5J4aOpwAOJ3WB76kh5g.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7BDhqdsznowpcEDMQ334WAaCPcK.jpg",
+      "description": "Autrefois redouté en tant que souverain de tous les démons, le roi Ahriman cherche à conquérir le monde... jusqu'à ce qu'il soit arrêté par une force inattendue : sa fille, Dou ! Trop gentille pour le chaos et trop douce pour la guerre, Dou fait fondre le cœur des démons, des humains et même des anges.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/294280"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/294280-mo-wang-no-niang-ha-you-shisugiru/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:294280",
         "hasScheduledVideos": true
       }
     },
@@ -10472,32 +10576,6 @@
       }
     },
     {
-      "id": "tmdb:tv:294280",
-      "type": "series",
-      "name": "The Demon King's Daughter is Too Kind!!",
-      "poster": "https://image.tmdb.org/t/p/w500/gUpjTomq5J4aOpwAOJ3WB76kh5g.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/7BDhqdsznowpcEDMQ334WAaCPcK.jpg",
-      "description": "Autrefois redouté en tant que souverain de tous les démons, le roi Ahriman cherche à conquérir le monde... jusqu'à ce qu'il soit arrêté par une force inattendue : sa fille, Dou ! Trop gentille pour le chaos et trop douce pour la guerre, Dou fait fondre le cœur des démons, des humains et même des anges.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.1",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/294280"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/294280/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:294280",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:284495",
       "type": "series",
       "name": "Isekai Office Worker: The Other World's Books Depend on the Bean Counter",
@@ -10515,7 +10593,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/284495/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/284495-yi-shi-jie-no-sha-tai-ha-she-chu-ci-di/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -10550,6 +10628,32 @@
       }
     },
     {
+      "id": "tmdb:tv:295366",
+      "type": "series",
+      "name": "There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her",
+      "poster": "https://image.tmdb.org/t/p/w500/hlprcIJFyWVkCNOxU7UySb1ECLe.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/h4wBD8Lrq8hSAxd4fRgbIDTzDLJ.jpg",
+      "description": "Yôki perdit la vie dans un accident de la circulation et se réincarna dans un autre monde. Néanmoins, au lieu d'être un héros de légende, il se retrouve dans la peau d'un démon puissant. N'ayant aucunement le désir de devenir Seigneur Démon, il s'installe dans le château du Seigneur Démon en tant que gardien de rang inférieur.\n\nC'est ainsi qu'un jour, l'équipe du héros arrive pour se battre et, à bon escient, Yôki frappe la tête du leader. Mais alors qu'il vient de guérir le groupe du héros et qu'il s'apprête à le renvoyer en ville, son regard tombe sur la belle prêtresse Cecilia et en tombe immédiatement amoureux !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/295366"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/295366-yong-zhe-pateinikawaii-zi-gaitanode-gao-bai-shitemita/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:295366",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:285933",
       "type": "series",
       "name": "Tune In to the Midnight Heart",
@@ -10567,7 +10671,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/285933/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/285933-zhen-ye-zhong-hatochiyun/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -10602,32 +10706,6 @@
       }
     },
     {
-      "id": "tmdb:tv:295366",
-      "type": "series",
-      "name": "There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her",
-      "poster": "https://image.tmdb.org/t/p/w500/hlprcIJFyWVkCNOxU7UySb1ECLe.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/h4wBD8Lrq8hSAxd4fRgbIDTzDLJ.jpg",
-      "description": "Yôki perdit la vie dans un accident de la circulation et se réincarna dans un autre monde. Néanmoins, au lieu d'être un héros de légende, il se retrouve dans la peau d'un démon puissant. N'ayant aucunement le désir de devenir Seigneur Démon, il s'installe dans le château du Seigneur Démon en tant que gardien de rang inférieur.\n\nC'est ainsi qu'un jour, l'équipe du héros arrive pour se battre et, à bon escient, Yôki frappe la tête du leader. Mais alors qu'il vient de guérir le groupe du héros et qu'il s'apprête à le renvoyer en ville, son regard tombe sur la belle prêtresse Cecilia et en tombe immédiatement amoureux !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.2",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/295366"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/295366/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:295366",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:280948",
       "type": "series",
       "name": "Fièvre printanière",
@@ -10645,7 +10723,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/280948/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/280948-seupeuling-pibeo/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -10671,7 +10749,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/293144/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/293144-qi-li-nishitemoraemasuka/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -10749,7 +10827,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/276393/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/276393-duo-wen-kun-jin-dotchi/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -10775,7 +10853,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/253476/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/253476-wei-guo-ri-ji/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -10853,7 +10931,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/249907-9004/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/249907-yong-zhe-xing-ni-chu-su-cheng-fa-yong-zhe-9004-dui-xing-wu-ji-lu/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -11191,7 +11269,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/281005/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/281005-gyeongdoleul-gidalimyeo/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -11555,7 +11633,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/241576/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/241576-ru-guo-wo-bu-ceng-jian-guo-tai-yang/watch?locale=FR"
         }
       ],
       "behaviorHints": {
