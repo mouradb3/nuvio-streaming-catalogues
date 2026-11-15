@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "tmdb:tv:330784",
+      "type": "series",
+      "name": "Tuzlu Kahve",
+      "poster": "https://image.tmdb.org/t/p/w500/8vjlsis5m7xJSDikg5YbijNgngf.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kE9deMn2l3czaLEjAZJRyNHGsRX.jpg",
+      "description": "Disponibilité détectée chez HBO Max Amazon Channel — France.\nDate de détection : 2026-11-15T22:47:53.603Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/330784"
+        }
+      ]
+    },
+    {
       "id": "tmdb:tv:326844",
       "type": "series",
       "name": "Crowned in a Hundred Days",
