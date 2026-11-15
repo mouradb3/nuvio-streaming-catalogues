@@ -52,6 +52,31 @@
       }
     },
     {
+      "id": "tmdb:tv:341603",
+      "type": "series",
+      "name": "Stars and Vows: Anele & Buzza",
+      "poster": "https://image.tmdb.org/t/p/w500/lcCadlmIDtTdYbYfM2UlkCXhxEO.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xaSO3ejty5l7NO2NSbIieOKWs5c.jpg",
+      "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/341603"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/341603-stars-and-vows-anele-buzza/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:341603",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:254630",
       "type": "series",
       "name": "12 12 12",
@@ -59,7 +84,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
       "description": "Un braquage prend 12 mois à préparer, 12 heures à mettre à exécution, et un braqueur qui n'est pas arrêté dans les 12 jours ne le sera jamais. Dans un chassé-croisé haletant de trois temporalités, un agent du FBI et un criminel de carrière se livrent à un jeu dangereux du chat et de la souris, à travers l'Europe.\n\nDisponibilité France : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "4.8",
+      "imdbRating": "5.3",
       "links": [
         {
           "name": "TMDB",
@@ -74,32 +99,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:254630",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:249565",
-      "type": "series",
-      "name": "The Good Daughter",
-      "poster": "https://image.tmdb.org/t/p/w500/nfWGZtrLH6PLcOQFOttZqmhKaVk.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
-      "description": "Les sœurs Charlotte et Samantha Quinn ont passé les vingt-huit dernières années à essayer de reconstituer les vies qui ont été brisées par une nuit de violence. Lorsqu'un nouvel attentat a lieu dans la petite ville de Pikeville, Charlotte est le premier témoin sur les lieux. Devenue avocate comme son père, elle est forcée d'affronter ses propres démons au fur et à mesure que l'affaire affaire.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/249565"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/249565-the-good-daughter/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:249565",
         "hasScheduledVideos": true
       }
     },
@@ -126,6 +125,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:312661",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:249565",
+      "type": "series",
+      "name": "The Good Daughter",
+      "poster": "https://image.tmdb.org/t/p/w500/nfWGZtrLH6PLcOQFOttZqmhKaVk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
+      "description": "Les sœurs Charlotte et Samantha Quinn ont passé les vingt-huit dernières années à essayer de reconstituer les vies qui ont été brisées par une nuit de violence. Lorsqu'un nouvel attentat a lieu dans la petite ville de Pikeville, Charlotte est le premier témoin sur les lieux. Devenue avocate comme son père, elle est forcée d'affronter ses propres démons au fur et à mesure que l'affaire affaire.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/249565"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/249565-the-good-daughter/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:249565",
         "hasScheduledVideos": true
       }
     },
@@ -188,7 +213,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
       "description": "Le soir d'Halloween, un rite d'initiation vire au cauchemar, faisant basculer une troupe de danseuses dans la culpabilité catholique, les désirs impies et les visions étranges.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "7.3",
       "links": [
         {
           "name": "TMDB",
@@ -214,7 +239,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/yb58l4VGT687EbQAYjc6ecPRjmg.jpg",
       "description": "Lorsque sa vie si bien ordonnée vole en éclats, Alicia reprend l'exercice du droit et découvre que reconstruire sa carrière implique aussi de se redéfinir.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.3",
+      "imdbRating": "6.8",
       "links": [
         {
           "name": "TMDB",
@@ -291,7 +316,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
       "description": "Loïs intègre Belrose aux côtés de Max, son grand amour. Lane créateur de Campus Drivers, l'application la plus en vogue du campus est célèbre pour son incapacité à s'attacher. Leurs chemins n'auraient jamais dû se croiser. Mais certaines rencontres bouleversent tout... jusqu'à réveiller des blessures enfouies. Et quand l'amour s'invite sans prévenir, plus rien n'est certain.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
+      "imdbRating": "7.8",
       "links": [
         {
           "name": "TMDB",
@@ -317,7 +342,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg",
       "description": "En 1985, les guérilleros du M-19 s'emparent du palais de justice de Bogotá. La série revient sur le siège, la riposte de l'armée et le combat des familles pour obtenir justice.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "7.3",
       "links": [
         {
           "name": "TMDB",
@@ -421,7 +446,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
       "description": "Tout juste médaillé d'or aux JO de 1960, le jeune boxeur Muhammad Ali (alors Cassius Clay) vise le titre de champion poids lourd. Face à une nouvelle célébrité, les doutes, le conflit familial et une Amérique politisée, le prodige exceptionnel découvre que son plus grand adversaire n'est pas sur le ring, mais dans une société qui n'est pas prête à ce qu'il devienne son propre maître.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5",
+      "imdbRating": "5.2",
       "links": [
         {
           "name": "TMDB",
@@ -499,7 +524,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
       "description": "Impératrice de l'Empire de l'Est, la brillante Navier règne en parfaite harmonie avec son époux, l'empereur Sovieshu. Mais leur monde s'écroule quand il introduit au palais Lasta, une esclave en fuite, et la prend comme maîtresse. Alors que son titre et son amour sont menacés, Navier reste stoïque. Seul Heinri, prince du Royaume de l'Ouest de passage pour la Nouvelle Année, devine la force et la solitude derrière son masque. Le jour où Sovieshu promet le trône à Lasta, Navier réalise qu'elle ne peut plus subir. Pour ne pas être une impératrice déchue mais celle qui choisit son destin, elle prend une décision qui changera sa vie à jamais.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.4",
+      "imdbRating": "8.5",
       "links": [
         {
           "name": "TMDB",
@@ -551,7 +576,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
       "description": "Croulant sous les dettes, un jeune homme enchaîne les petits boulots très lucratifs que lui propose une mystérieuse agence, mais sa course à l'argent tourne au cauchemar.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
@@ -575,7 +600,7 @@
       "name": "라이어",
       "poster": "https://image.tmdb.org/t/p/w500/up1YBgPq6lC0ut2JvjguNwLiXw4.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg",
-      "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "description": "Deux personnes se souviennent de cette même nuit fatidique, mais leurs récits ne concordent pas. Alors qu’une enseignante et un chirurgien cardiaque s’affrontent pour savoir ce qui s’est réellement passé, la vérité se transforme en un jeu dangereux mêlant souvenirs et mensonges.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "8.5",
       "links": [
@@ -733,7 +758,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/yiElAOM1OD09YCuCUbim4QMyvtJ.jpg",
       "description": "Cofondateur du cartel de Sinaloa, partenaire de longue date d’« El Chapo » et fantôme pour les autorités pendant plus de trois décennies. Le documentaire qui raconte sa chute.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
+      "imdbRating": "8.1",
       "links": [
         {
           "name": "TMDB",
@@ -1122,7 +1147,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
       "description": "Yoon Yi-jun, successeur du groupe Taekang, est le principal suspect d'un terrible meurtre. Pour découvrir la vérité, l'inspectrice Kang Jae-hee s'infiltre auprès de lui en se faisant passer pour son secrétaire. Mais plus elle se rapproche de la vérité, plus ils se rapprochent l'un de l'autre. Entre Jae-hee sous couverture et Yi-jun qui cache un secret, pourront-ils s'avouer leurs sentiments ?\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "9",
+      "imdbRating": "9.1",
       "links": [
         {
           "name": "TMDB",
@@ -1352,7 +1377,7 @@
       "type": "series",
       "name": "VisionQuest",
       "poster": "https://image.tmdb.org/t/p/w500/bWPktguPGslrdM79SNQt4OWYyJS.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
       "description": "Une nouvelle version de Vision ayant échappé à ceux qui cherchaient à faire de lui une arme, vit dans la clandestinité. En quête d’un nouveau sens à sa vie, il consulte les IA intégrées à son programme, notamment Friday, Edith, Jarvis et le tristement célèbre Ultron. Son existence discrète prend fin lorsque sa tête est mise à prix, le contraignant à prendre la fuite avec Thomas Shepherd, un garçon mystérieux qui pourrait bien être la réincarnation du fils de Vision. Tout en échappant à ses poursuivants, Vision doit se confronter à sa propre nature, résister à l’influence d’Ultron et percer le mystère qui entoure son jeune compagnon s’il veut survivre.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "8.3",
@@ -1615,7 +1640,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
       "description": "Kye Su-Jeong, une brillante chirurgienne, est affectée à l'hôpital universitaire de Guseo pour pourvoir un poste vacant en chirurgie. Elle y fait ses preuves grâce à son talent et met en lumière les absurdités du milieu médical. Elle se lie d'amitié avec Bu Seung-Kwon, le directeur de l'hôpital, et l'interne Park Tae-Kyeong\n\nDisponibilité France : Netflix.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "9.1",
+      "imdbRating": "9",
       "links": [
         {
           "name": "TMDB",
@@ -2231,6 +2256,32 @@
       }
     },
     {
+      "id": "tmdb:tv:333622",
+      "type": "series",
+      "name": "Magic Repo Man: Dumped by My Party, I'll Cash In with a Cute Support Fairy to Become the Strongest!",
+      "poster": "https://image.tmdb.org/t/p/w500/3IxYsKJGSlxy6GDnFBIx7UJc5nP.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4ncuq4Qo0NrSZBnxM3PABeROyVT.jpg",
+      "description": "Lent fait partie du groupe « Skypiercers ». Grâce à son don unique, il peut prêter une importante quantité de magie à ses partenaires. Cependant, il est viré du jour au lendemain du groupe par ses compagnons, tous devenus puissants grâce à son talent, ne le jugeant désormais plus utile au groupe.\n\nFurieux, Lent est bien décidé à récupérer jusqu'à la dernière goutte de magie qu'il a prêté à ses anciens compagnons, avec les intérêts, grâce au pouvoir caché de son don.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/333622"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/333622-dai-shita-mo-li-ha-ribo-fan-i-de-qiang-zhi-zheng-shou/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:333622",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:283938",
       "type": "series",
       "name": "Even the Student Council Has Its Holes !",
@@ -2253,32 +2304,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:283938",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:333622",
-      "type": "series",
-      "name": "Magic Repo Man: Dumped by My Party, I'll Cash In with a Cute Support Fairy to Become the Strongest!",
-      "poster": "https://image.tmdb.org/t/p/w500/3IxYsKJGSlxy6GDnFBIx7UJc5nP.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/4ncuq4Qo0NrSZBnxM3PABeROyVT.jpg",
-      "description": "Lent fait partie du groupe « Skypiercers ». Grâce à son don unique, il peut prêter une importante quantité de magie à ses partenaires. Cependant, il est viré du jour au lendemain du groupe par ses compagnons, tous devenus puissants grâce à son talent, ne le jugeant désormais plus utile au groupe.\n\nFurieux, Lent est bien décidé à récupérer jusqu'à la dernière goutte de magie qu'il a prêté à ses anciens compagnons, avec les intérêts, grâce au pouvoir caché de son don.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/333622"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/333622-dai-shita-mo-li-ha-ribo-fan-i-de-qiang-zhi-zheng-shou/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:333622",
         "hasScheduledVideos": true
       }
     },
@@ -2522,7 +2547,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/muPKymUvvBqjLCyGSacxKgjrhxN.jpg",
       "description": "Cathcarts & Sons et Taylor & Byrne s’affrontent dans ce qui s’annonce comme le divorce du siècle : celui du magnat de la tech Morgan Henderson et de la superstar du cinéma Carla Duval. Une affaire retentissante qui pousse les deux cabinets à franchir toutes les limites pour remporter la victoire\n\nDisponibilité France : Hayu, HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3",
+      "imdbRating": "7.4",
       "links": [
         {
           "name": "TMDB",
@@ -3871,7 +3896,7 @@
       "type": "series",
       "name": "Lanterns",
       "poster": "https://image.tmdb.org/t/p/w500/pimX9PWeZS55yfmbO6H3nmnzFCX.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
       "description": "Deux flics intergalactiques, la nouvelle recrue John Stewart et le légendaire Hal Jordan, sont confrontés à un sombre mystère sur Terre alors qu’ils enquêtent sur un meurtre au fin fond de l’Amérique.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "8.2",
@@ -8267,7 +8292,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/c72O2edMsD5QrbEGijBURiZIxk8.jpg",
       "description": "Devenue orpheline à 7 ans à la suite de la disparition tragique de ses parents, Nanoka Kiba, aujourd’hui collégienne, retourne sur les lieux du drame. Une série de phénomènes inexpliqués la propulse alors dans le Japon du XXe siècle, où elle fait la connaissance de Mao, un exorciste chasseur de yokaï. À la recherche de la créature l’ayant maudit, ce dernier et Nanoka s’allient afin de la retrouver.\n\nDisponibilité France : Animation Digital Network, Anime Digital Network Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.6",
+      "imdbRating": "8.5",
       "links": [
         {
           "name": "TMDB",
@@ -9541,7 +9566,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
       "description": "Des garçons échoués sur une île tropicale se retrouvent entièrement livrés à eux‑mêmes, sans la moindre présence adulte. D'abord décidés à instaurer des règles et à préserver un semblant de civilisation, ils se répartissent les rôles et organisent la vie du groupe. Mais très vite, les tensions, la violence et la soif de pouvoir s'installent.\n\nDisponibilité France : Canal+, Canal+ Séries.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:tv:341603",
+    "type": "series",
+    "name": "Stars and Vows: Anele & Buzza",
+    "poster": "https://image.tmdb.org/t/p/w500/lcCadlmIDtTdYbYfM2UlkCXhxEO.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/xaSO3ejty5l7NO2NSbIieOKWs5c.jpg",
+    "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/341603"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/341603-stars-and-vows-anele-buzza/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:341603",
+      "hasScheduledVideos": true
+    }
+  }
+}

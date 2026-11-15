@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1592734",
+    "type": "movie",
+    "name": "Coup de foudre en Amazonie",
+    "poster": "https://image.tmdb.org/t/p/w500/4yCeyro6m0cayrrJ3yOaRHKB4a1.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/k3TMJGWn4nNkTbp4VEx6IEjvFPe.jpg",
+    "description": "Claire, institutrice, mène une vie tranquille. Jusqu'au jour où un événement inattendu l'oblige à rejoindre sa sœur au fin fond de la forêt amazonienne. D'abord craintive, hors de ses repères et de sa zone de confort, la jeune femme va petit à petit se découvrir au cours de ce voyage et de sa rencontre avec un jeune capitaine de bateau.\n\nDisponibilité France : Netflix, Netflix Standard with Ads, TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1592734"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1592734-love-on-the-amazon/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1592734",
+      "hasScheduledVideos": false
+    }
+  }
+}

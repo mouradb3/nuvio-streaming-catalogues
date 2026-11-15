@@ -27,6 +27,31 @@
       }
     },
     {
+      "id": "tmdb:tv:341603",
+      "type": "series",
+      "name": "Stars and Vows: Anele & Buzza",
+      "poster": "https://image.tmdb.org/t/p/w500/lcCadlmIDtTdYbYfM2UlkCXhxEO.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xaSO3ejty5l7NO2NSbIieOKWs5c.jpg",
+      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/341603"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/341603-stars-and-vows-anele-buzza/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:341603",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:254630",
       "type": "series",
       "name": "12 12 12",
@@ -34,7 +59,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
       "description": "Un braquage prend 12 mois à préparer, 12 heures à mettre à exécution, et un braqueur qui n'est pas arrêté dans les 12 jours ne le sera jamais. Dans un chassé-croisé haletant de trois temporalités, un agent du FBI et un criminel de carrière se livrent à un jeu dangereux du chat et de la souris, à travers l'Europe.\n\nDisponibilité Canada : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "4.8",
+      "imdbRating": "5.3",
       "links": [
         {
           "name": "TMDB",
@@ -49,32 +74,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:254630",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:249565",
-      "type": "series",
-      "name": "The Good Daughter",
-      "poster": "https://image.tmdb.org/t/p/w500/nfWGZtrLH6PLcOQFOttZqmhKaVk.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
-      "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/249565"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/249565-the-good-daughter/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:249565",
         "hasScheduledVideos": true
       }
     },
@@ -101,6 +100,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:312661",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:249565",
+      "type": "series",
+      "name": "The Good Daughter",
+      "poster": "https://image.tmdb.org/t/p/w500/nfWGZtrLH6PLcOQFOttZqmhKaVk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
+      "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/249565"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/249565-the-good-daughter/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:249565",
         "hasScheduledVideos": true
       }
     },
@@ -138,7 +163,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
       "description": "Le soir de l'Halloween, une jeune troupe de danseuses sombre dans la culpabilité catholique, les désirs impurs et les visions spectrales quand une initiation tourne au cauchemar.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "7.3",
       "links": [
         {
           "name": "TMDB",
@@ -164,7 +189,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/yb58l4VGT687EbQAYjc6ecPRjmg.jpg",
       "description": "Quand sa vie érigée avec soin s'effondre soudain, Alicia se remet à exercer le droit et comprend qu'elle se redéfinit en rebâtissant sa carrière.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.3",
+      "imdbRating": "6.8",
       "links": [
         {
           "name": "TMDB",
@@ -241,7 +266,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
+      "imdbRating": "7.8",
       "links": [
         {
           "name": "TMDB",
@@ -267,7 +292,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/4GTqXYOKpd1BbDsSJoYyiM8dUv8.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "7.3",
       "links": [
         {
           "name": "TMDB",
@@ -371,7 +396,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/b57tPAE2rpUoNpa63o7U2sFvIZs.jpg",
       "description": "Tout juste médaillé d'or aux Jeux olympiques de 1960, le boxeur Muhammad Ali (alors connu sous le nom de Cassius Clay) vise le titre des poids lourds. Confronté à une renommée soudaine, au doute de soi, à des conflits familiaux et à une Amérique en pleine effervescence, ce prodige découvre que son plus grand adversaire se trouve dans une société qui n'est pas prête à le voir devenir lui-même.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5",
+      "imdbRating": "5.2",
       "links": [
         {
           "name": "TMDB",
@@ -474,7 +499,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
       "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.4",
+      "imdbRating": "8.5",
       "links": [
         {
           "name": "TMDB",
@@ -526,7 +551,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
       "description": "Croulant sous les dettes, un jeune homme accepte du travail lucratif à temps partiel offert par une agence mystérieuse, mais constate que ces contrats deviennent cauchemardesques.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
@@ -682,7 +707,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/yiElAOM1OD09YCuCUbim4QMyvtJ.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
+      "imdbRating": "8.1",
       "links": [
         {
           "name": "TMDB",
@@ -1071,7 +1096,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/ob7m6JqZ7jSOocR3VL73VxRC6Is.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "9",
+      "imdbRating": "9.1",
       "links": [
         {
           "name": "TMDB",
@@ -1352,7 +1377,7 @@
       "type": "series",
       "name": "VisionQuest",
       "poster": "https://image.tmdb.org/t/p/w500/bWPktguPGslrdM79SNQt4OWYyJS.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/31o1Ufd7bStD5dGEcpzapOjwaqx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/58v1KFe3rxvHrYM1hLH5ScpwqNR.jpg",
       "description": "La série suit les aventures de White Vision, un synthézoïde doté d'une intelligence artificielle avancée créé à partir du corps de Vision par le SWORD, qui tente de comprendre son existence et sa place dans le monde après les événements de WandaVision, à travers différentes versions d'intelligence artificielle dans son esprit, dont un reliquat d'Ultron.\n\nDisponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "8.3",
@@ -1615,7 +1640,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
       "description": "Disponibilité Canada : Netflix.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "9.1",
+      "imdbRating": "9",
       "links": [
         {
           "name": "TMDB",
@@ -1797,7 +1822,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/f9BMWxAWzFqXtqayrAyNbDFg9cK.jpg",
       "description": "Disponibilité Canada : Paramount Plus, Paramount Plus Apple TV channel, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel, StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.7",
+      "imdbRating": "5.8",
       "links": [
         {
           "name": "TMDB",
@@ -2238,7 +2263,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/ew8rknzuC55Qai4roLSz69qdtPy.jpg",
       "description": "Disponibilité Canada : HiDive, Hidive Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "9",
+      "imdbRating": "9.1",
       "links": [
         {
           "name": "TMDB",
@@ -2368,7 +2393,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/4ncuq4Qo0NrSZBnxM3PABeROyVT.jpg",
       "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "8",
       "links": [
         {
           "name": "TMDB",
@@ -2575,7 +2600,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/muPKymUvvBqjLCyGSacxKgjrhxN.jpg",
       "description": "Une série anthologique se déroulant dans le monde élitiste du droit à Londres, suivant deux cabinets rivaux, Cathcarts et Taylor & Byrne, qui s'affrontent dans une nouvelle affaire judiciaire médiatisée chaque saison.\n\nDisponibilité Canada : Crave, Crave Amazon Channel, Hayu.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3",
+      "imdbRating": "7.4",
       "links": [
         {
           "name": "TMDB",
@@ -2835,7 +2860,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/mNIc5QqjBuXHeeyj6P4WSqTCBu9.jpg",
       "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.3",
+      "imdbRating": "6.4",
       "links": [
         {
           "name": "TMDB",
@@ -3742,7 +3767,7 @@
       "type": "series",
       "name": "Lanterns",
       "poster": "https://image.tmdb.org/t/p/w500/pimX9PWeZS55yfmbO6H3nmnzFCX.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
       "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "8.2",
@@ -8424,7 +8449,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/c72O2edMsD5QrbEGijBURiZIxk8.jpg",
       "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.6",
+      "imdbRating": "8.5",
       "links": [
         {
           "name": "TMDB",
@@ -9879,7 +9904,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
       "description": "Disponibilité Canada : iciTouTV.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
