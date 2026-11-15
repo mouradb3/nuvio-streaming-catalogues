@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1308388",
+    "type": "movie",
+    "name": "Hunting Matthew Nichols",
+    "poster": "https://image.tmdb.org/t/p/w500/d6I1mvnGUaU57kSFeXxNWlQB934.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/kOttC22G94ZxDdEcudcB3Lie94t.jpg",
+    "description": "Disponibilité France : Molotov TV, Shadowz Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "5.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1308388"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1308388-hunting-matthew-nichols/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1308388",
+      "hasScheduledVideos": false
+    }
+  }
+}

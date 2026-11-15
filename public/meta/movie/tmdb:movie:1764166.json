@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1764166",
+    "type": "movie",
+    "name": "Thomas et ses amis: Des Petites Locos Bien Utiles",
+    "poster": "https://image.tmdb.org/t/p/w500/kuQldt0mSpQswKvQgdqB6CZ3WHH.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/kTH0lBNzU8Jnhusr019VIUwL3KL.jpg",
+    "description": "À chaque virage de Sodor, quelqu’un a besoin d’aide et un problème à résoudre. Et personne n’est plus enthousiaste à l’idée d’aider que Thomas ! Rejoignez Thomas et ses amis pour des aventures passionnantes, des surprises inattendues et des chansons que vous chanterez longtemps après la fin du voyage. Parce que chaque livraison, chaque défi et chaque aventure sont meilleurs lorsque les amis travaillent ensemble.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1764166"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1764166-thomas-friends-really-helpful-engines/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1764166",
+      "hasScheduledVideos": false
+    }
+  }
+}
