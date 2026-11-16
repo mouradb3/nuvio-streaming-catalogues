@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1823608",
+    "type": "movie",
+    "name": "Stellar Web",
+    "poster": "https://image.tmdb.org/t/p/w500/jfn9ZvydiUyvMqgImwTvJ2WqN2d.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/tFZfk5SejDKxWcU46094G0Wuw4w.jpg",
+    "description": "Un navire d'une colonie coloniale fait escale sur une planète pour trouver du carburant, mais un passager clandestin amène à bord une terrible menace qui commence à détruire l'équipage déjà dysfonctionnel.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1823608"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1823608-stellar-web/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1823608",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1755665",
+    "type": "movie",
+    "name": "Assassin Within",
+    "poster": "https://image.tmdb.org/t/p/w500/dCl86bNZt4ww1xLj7T4CwQBVdBY.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/cldAkHgJGO4dqwIuKNVRrknvrVw.jpg",
+    "description": "Disponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "10",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1755665"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1755665-assassin-within/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1755665",
+      "hasScheduledVideos": false
+    }
+  }
+}

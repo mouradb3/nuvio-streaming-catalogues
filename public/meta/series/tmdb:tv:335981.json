@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:335981",
+    "type": "series",
+    "name": "Le Cinéma selon Cunk",
+    "poster": "https://image.tmdb.org/t/p/w500/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
+    "description": "Dans cette série mockumentaire espiègle, Philomena Cunk part à la découverte de l'histoire du cinéma, sans manquer de laisser plusieurs experts perplexes en chemin.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/335981"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/335981-cunk-on-cinema/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:335981",
+      "hasScheduledVideos": true
+    }
+  }
+}

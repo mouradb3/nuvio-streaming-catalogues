@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:329274",
+    "type": "series",
+    "name": "MOURINHO",
+    "poster": "https://image.tmdb.org/t/p/w500/uUgrxU3Gjl7HeaAlYa4glHWFbO5.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ucEswoBdNxw3UchQ6WHxnGU4g1a.jpg",
+    "description": "Ce documentaire riche en témoignages raconte comment José Mourinho est parvenu à entraîner les plus grands clubs de football en devenant l'un des meilleurs coachs au monde.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/329274"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/329274-mourinho/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:329274",
+      "hasScheduledVideos": true
+    }
+  }
+}

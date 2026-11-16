@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1430820",
+    "type": "movie",
+    "name": "À pied d’œuvre",
+    "poster": "https://image.tmdb.org/t/p/w500/iqeF5Yr65hPlEJojJGESjVclf6h.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/xzY5ZwVZSMMn111DhNcQs2M3J9Q.jpg",
+    "description": "Achever un texte ne veut pas dire être publié, être publié ne veut pas dire être lu, être lu ne veut pas dire être aimé, être aimé ne veut pas dire avoir du succès, avoir du succès n'augure aucune fortune.  À pied d’œuvre raconte l'histoire vraie d'un photographe à succès qui abandonne tout pour se consacrer à l'écriture, et découvre la pauvreté.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1430820"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1430820-a-pied-d-oeuvre/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1430820",
+      "hasScheduledVideos": false
+    }
+  }
+}

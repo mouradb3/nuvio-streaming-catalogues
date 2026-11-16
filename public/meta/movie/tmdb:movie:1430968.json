@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1430968",
+    "type": "movie",
+    "name": "Journal d'une Fashionista",
+    "poster": "https://image.tmdb.org/t/p/w500/gLatb5eouLTAWrJGKA1QqMJMoFx.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/oiPQOyHuTA84crxarTkVTObbRz4.jpg",
+    "description": "Dans le quartier russe de West Hollywood, Margarita vit le rêve américain: participer à une émission de téléréalité. Va-t-elle tuer, servir ou survivre ?\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "4.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1430968"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1430968-idiotka/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1430968",
+      "hasScheduledVideos": false
+    }
+  }
+}
