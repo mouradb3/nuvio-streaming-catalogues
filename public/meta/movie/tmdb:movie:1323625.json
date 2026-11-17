@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1323625",
+    "type": "movie",
+    "name": "Night Patrol",
+    "poster": "https://image.tmdb.org/t/p/w500/rNqLzACU9ez2ehDalTFDPjZiC4G.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/vHvVt2Lovn4G6of9u3pHEQE2CxI.jpg",
+    "description": "Disponibilité Canada : AMC+ Amazon Channel, Shudder, Shudder Amazon Channel, Shudder Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1323625"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1323625-night-patrol/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1323625",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:304194",
+    "type": "series",
+    "name": "Reboot",
+    "poster": "https://image.tmdb.org/t/p/w500/1q42BNMaiUu9OSN9W14vbIqce6n.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/yFjcITzpgQJyfLi8CU2TADn8Udm.jpg",
+    "description": "Un pâtissier ordinaire, accusé à tort du meurtre de sa femme, se lance dans une aventure pleine de suspense pour prouver son innocence, en manipulant l'inspecteur chargé de l'affaire et cherchant à dévoiler la vérité.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/304194"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/304194-ributo/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:304194",
+      "hasScheduledVideos": true
+    }
+  }
+}

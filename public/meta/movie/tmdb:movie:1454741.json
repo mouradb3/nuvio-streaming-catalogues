@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1454741",
+    "type": "movie",
+    "name": "The Confession",
+    "poster": "https://image.tmdb.org/t/p/w500/7tmMQwSVVbijKV4lquYpBld3P9K.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/lALfCsv7YMNrqpWzIaxjS81JKOm.jpg",
+    "description": "Lorsqu'une musicienne en difficulté retourne vivre dans la maison de son enfance, elle découvre un enregistrement dans lequel son père décédé avoue avoir commis un meurtre horrible afin de se protéger d'une force maléfique inconnue. Alors que son jeune fils adopte un comportement de plus en plus inquiétant, elle tente désespérément de mettre fin à ce mal.\n\nDisponibilité France : Insomnia Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1454741"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1454741-the-confession/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1454741",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1468471",
+    "type": "movie",
+    "name": "Fiançailles au Machu Picchu",
+    "poster": "https://image.tmdb.org/t/p/w500/ySrjf2ExY0qlKfl3HjmsOgMSTFN.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/2fn9FphCwiuDpJqI4Ivws12b8gN.jpg",
+    "description": "Katie aide à organiser la demande en mariage de son frère au sommet du Machu Picchu. Lorsque la proposition est gâchée par le chef Carlos, Katie sollicite son aide pour trouver l'endroit le plus romantique du Pérou.\n\nDisponibilité France : Netflix, Netflix Standard with Ads, TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1468471"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1468471-a-machu-picchu-proposal/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1468471",
+      "hasScheduledVideos": false
+    }
+  }
+}

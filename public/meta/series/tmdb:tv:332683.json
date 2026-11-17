@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:332683",
+    "type": "series",
+    "name": "地雷グリコ",
+    "poster": "https://image.tmdb.org/t/p/w500/qK89PNm4j96pwx4ul3e8AkDfBsM.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/cKM4DnFGFRrQghqLK9uzPEcEkWD.jpg",
+    "description": "Disponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/332683"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/332683-de-lei-guriko/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:332683",
+      "hasScheduledVideos": true
+    }
+  }
+}

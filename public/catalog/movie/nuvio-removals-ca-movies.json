@@ -1,5 +1,22 @@
 {
-  "metas": [],
+  "metas": [
+    {
+      "id": "tmdb:movie:1610703",
+      "type": "movie",
+      "name": "Infirmary",
+      "poster": "https://image.tmdb.org/t/p/w500/n9MospSE1BoXx2gNJdR6gnWbEzd.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qkxk9URcK33HK54YSXFPQO8aqJH.jpg",
+      "description": "Disponibilité retirée chez AMC Plus Apple TV channel — Canada.\nDate de détection : 2026-11-17T15:57:32.424Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1610703"
+        }
+      ]
+    }
+  ],
   "cacheMaxAge": 10800,
   "staleRevalidate": 3600,
   "staleError": 86400

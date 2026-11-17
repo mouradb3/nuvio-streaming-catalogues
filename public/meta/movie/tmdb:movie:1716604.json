@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1716604",
+    "type": "movie",
+    "name": "A Proud Family Wizmas",
+    "poster": "https://image.tmdb.org/t/p/w500/yXYuDTwYTI5UdsIQjORTAhTdURG.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/a8syGZWwgV4ofi70OtvoIGsNjFz.jpg",
+    "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1716604"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1716604-a-proud-family-wizmas/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1716604",
+      "hasScheduledVideos": false
+    }
+  }
+}

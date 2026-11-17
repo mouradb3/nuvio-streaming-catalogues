@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:316540",
+    "type": "series",
+    "name": "嫁入高门",
+    "poster": "https://image.tmdb.org/t/p/w500/8cp0T45VlImvWqnuJXxTEoDwKjG.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ugTBA8nEDCq2sVvxH7ViRAJpUSN.jpg",
+    "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/316540"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/316540-jia-ru-gao-men/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:316540",
+      "hasScheduledVideos": true
+    }
+  }
+}
