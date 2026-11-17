@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:283853",
+    "type": "series",
+    "name": "Privilèges",
+    "poster": "https://image.tmdb.org/t/p/w500/cjJBNmSLqwhDL5nob2xu6nMOQgp.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/wZewK73NjgQ0IdZFGSt7t1yQjC7.jpg",
+    "description": "Adèle, une jeune détenue, trouve une chance de réinsertion dans les coulisses d’un grand Palace parisien, avec le soutien de son tout-puissant directeur Édouard Galzain. Mais quand elle découvre que sa liberté a un prix, une lutte dangereuse pour sa survie commence, entre manipulation, jeux de pouvoir et trahisons.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/283853"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/283853-privileges/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:283853",
+      "hasScheduledVideos": true
+    }
+  }
+}

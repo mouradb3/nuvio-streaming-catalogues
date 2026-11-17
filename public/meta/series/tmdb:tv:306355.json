@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:306355",
+    "type": "series",
+    "name": "Jasmine",
+    "poster": "https://image.tmdb.org/t/p/w500/ra2655lCb3OAgI28F4YVYdJ2p8n.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/kntwE5atwmYaqVH8sbVqp7VUXJQ.jpg",
+    "description": "Jasmine est une jeune femme atteinte d'une grave maladie cardiaque. Son seul soutien est son demi-frère Tufan, qui l'aime d'un amour obsessionnel. Alors qu'elle se bat pour être inscrite sur la liste d'attente pour une transplantation, Jasmine est entraînée dans un monde sombre et dangereux, qui conduit les deux frères et sœurs vers une fin irréversible.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/306355"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/306355-jasmine/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:306355",
+      "hasScheduledVideos": true
+    }
+  }
+}
