@@ -5,7 +5,7 @@
       "type": "movie",
       "name": "Never Surrender",
       "poster": "https://image.tmdb.org/t/p/w500/nkE9esa0p8vBmY38jQasmVVRqoc.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/umxN2kMcUm6VoxSOdcEcQoXuC4q.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
       "description": "Quand un gang meurtrier prend d'assaut sa maison isolée, un vétéran rongé par le remords et ses petits-enfants qu'il connaît à peine unissent leurs forces pour survivre.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "7.1",
@@ -108,8 +108,8 @@
       "id": "tmdb:movie:1543469",
       "type": "movie",
       "name": "Heartland",
-      "poster": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gVhJbOCns6GNsQaUbLszQUkFIKf.jpg",
       "description": "Misty Jones, ancienne légende de la musique country, sort de sa retraite après la disparition de sa nièce, une chanteuse en pleine ascension. Son enquête va la conduire à affronter son propre passé et découvrir les bas-fonds de Nashville, où les apparences sont trompeuses, et où Misty elle-même n'est pas celle qu'elle semble être.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "6.3",
@@ -580,7 +580,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/3gIGgmK27lt3YK9EUnZ6iXMHg7Q.jpg",
       "description": "Afin de ne plus figurer sur la liste noire du père Noël, Snoopy fait de son mieux pour avoir une conduite irréprochable.\n\nDisponibilité France : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.6",
       "links": [
         {
           "name": "TMDB",
@@ -606,7 +606,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/25aB8RXP4mfQLFRSuEEhk0d0sTC.jpg",
       "description": "Débrouillarde, défiant l'autorité et fatiguée d'être traitée comme un fardeau, Judy Heumann transforme son indignation en révolution. En 1977, cette dernière et plus de 100 manifestants luttant pour les droits des personnes handicapées envoient un message très clair : le système est défaillant, pas nous.\n\nDisponibilité France : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "7.1",
       "links": [
         {
           "name": "TMDB",
@@ -658,7 +658,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
       "description": "De retour de cure de désintoxication après une overdose en pleine plaidoirie, un avocat a une semaine pour préparer son propre procès, avec l'aide d'un stagiaire tenace.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.7",
+      "imdbRating": "6.5",
       "links": [
         {
           "name": "TMDB",
@@ -1873,6 +1873,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1716604",
+      "type": "movie",
+      "name": "Cool Attitude: Magic Noël",
+      "poster": "https://image.tmdb.org/t/p/w500/yXYuDTwYTI5UdsIQjORTAhTdURG.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/a8syGZWwgV4ofi70OtvoIGsNjFz.jpg",
+      "description": "Lorsque la révolte de Penny Proud contre le « Magic Noël » et la marchandisation de cet évènement pousse le Père Noël à démissionner la veille de la fête, notre héroïne se laisse convaincre — non sans culpabilité — d'enfiler la célèbre tenue rouge pour le remplacer. En apportant la joie des fêtes avec l'aide des lutins irrévérencieux, elle découvre que l'esprit de Noël est toujours bel et bien vivant.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1716604"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1716604-a-proud-family-wizmas/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1716604",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:860508",
       "type": "movie",
       "name": "The Whisper Man",
@@ -2738,7 +2764,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/9uU3523A14KJ90Jr8pQx0NGGIgb.jpg",
       "description": "Simone, un homme organisé et profondément attaché aux valeurs familiales, partage sa vie avec Lucia, une femme indépendante qui a toujours rejeté l'idée de devenir mère. Malgré leurs différences, leur couple repose sur un amour solide et de perpétuelles négociations. Mais lorsqu'ils décident d'adopter un enfant, leurs convictions et leurs désirs contradictoires refont surface, mettant leur relation à l'épreuve.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6",
+      "imdbRating": "6.1",
       "links": [
         {
           "name": "TMDB",
@@ -3844,6 +3870,31 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1466115",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1801870",
+      "type": "movie",
+      "name": "La malédiction de Noël",
+      "poster": "https://image.tmdb.org/t/p/w500/lSDX9TKJ0y4Jn5CDR0qLral5G2Z.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ocYYXEi2THSMFG25QR2SLtVH2jb.jpg",
+      "description": "Chelsey, experte en rencontres, est bien décidée à briser la malédiction qui la voit systématiquement se faire quitter pendant les fêtes de fin d'année. Mais au moment où le destin lui fait croiser le chemin de son amour de lycée, elle se demande si elle n'était pas tout simplement vouée à retrouver son premier amour.\n\nDisponibilité France : TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1801870"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1801870-second-chance-holiday/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1801870",
         "hasScheduledVideos": false
       }
     },
@@ -5463,8 +5514,8 @@
       "type": "movie",
       "name": "Pour le plaisir",
       "poster": "https://image.tmdb.org/t/p/w500/2cWdr2n7VNrLEAer6hMPASIP7Px.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/eJKKygAF718jp1HhGvH3SMoi5Cv.jpg",
-      "description": "Et si on vous racontait l’invention du siècle ? Un couple, une vérité qui explose. Fanny et Tom sont mariés et heureux depuis 20 ans. Mais un jour un secret éclate : Fanny n’a jamais eu d’orgasme. Tom, ingénieur, décide alors de relever un défi audacieux : créer l’objet qui révolutionnera le plaisir féminin. Ensemble, ils se lancent dans cette quête aussi déjantée qu’émouvante qui va transformer leur couple. Jusqu’où iront-ils ? Loin, très loin.\n\nDisponibilité France : Cine+ OCS Amazon Channel , Molotov TV.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "background": "https://image.tmdb.org/t/p/w1280/aS282t7mVVmfykD3SrDHaOS5Q9m.jpg",
+      "description": "Et si on vous racontait l’invention du siècle ?  Un couple, une vérité qui explose. Fanny et Tom sont mariés et heureux depuis 20 ans. Mais un jour un secret éclate : Fanny n’a jamais eu d’orgasme. Tom, ingénieur, décide alors de relever un défi audacieux : créer l’objet qui révolutionnera le plaisir féminin.  Ensemble, ils se lancent dans cette quête aussi déjantée qu’émouvante qui va transformer leur couple. Jusqu’où iront-ils ?  Loin très loin\n\nDisponibilité France : Cine+ OCS Amazon Channel , Molotov TV.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "6.5",
       "links": [
@@ -6038,7 +6089,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/vate7k6MyLQDeFYkHqCrLhRes6m.jpg",
       "description": "Dans ce documentaire, Martin Short évoque une vie nourrie par la joie à travers des séquences cultes, des interviews et des vidéos inédites où apparaissent de nombreuses stars.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8",
+      "imdbRating": "7.9",
       "links": [
         {
           "name": "TMDB",
@@ -7129,7 +7180,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/kjKxmpuPIvXjDP4reWCkMaeK2Es.jpg",
       "description": "Le dossier 137 est en apparence une affaire de plus pour Stéphanie, enquêtrice à l’IGPN, la police des polices. Une manifestation tendue, un jeune homme blessé par un tir de LBD, des circonstances à éclaircir pour établir une responsabilité. Mais un élément inattendu va troubler Stéphanie, pour qui le dossier 137 devient autre chose qu’un simple numéro.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2025",
-      "imdbRating": "6.9",
+      "imdbRating": "6.8",
       "links": [
         {
           "name": "TMDB",
@@ -7196,6 +7247,31 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1754364",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1826442",
+      "type": "movie",
+      "name": "Expedition: Saving Our Seas",
+      "poster": "https://image.tmdb.org/t/p/w500/9sKVTdLSw8d6nEbwJ7XryEUlxRm.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hObUQ27znUjR5muP8rXR19lCuyF.jpg",
+      "description": "Disponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1826442"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1826442-expedition-saving-our-seas/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1826442",
         "hasScheduledVideos": false
       }
     },
@@ -7545,7 +7621,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/gMDGov7yzowLP92yf8AzMkOrcfD.jpg",
       "description": "Une jeune fille entreprend un périlleux voyage pour récupérer la dépouille de son frère, exécuté par le gouvernement, et réunir l'argent nécessaire pour l’enterrer dignement.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.6",
       "links": [
         {
           "name": "TMDB",
@@ -8637,7 +8713,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/h6BWd6mU6o1KqZDrVaAldmvboCX.jpg",
       "description": "Disponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.5",
+      "imdbRating": "5.3",
       "links": [
         {
           "name": "TMDB",
@@ -8869,7 +8945,7 @@
       "name": "Soumsoum, la nuit des astres",
       "poster": "https://image.tmdb.org/t/p/w500/vHSXd1UZIRoTV3OKMb4XObcgymU.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/5u2rcM3QRlRYP6caBN6vZabvxEj.jpg",
-      "description": "Dans un village isolé du Tchad, Kellou est traversée par des visions qu’elle ne comprend pas. Grâce à sa rencontre avec Aya, une exilée aux secrets douloureux, elle va découvrir une autre façon de regarder son passé, ses rêves et son village. Mais en prenant la défense d’Aya, que le chef du village tente de chasser, elle se heurte à la peur et à la colère des habitants, et devra se battre pour garder sa liberté.\n\nDisponibilité France : Molotov TV.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "description": "Dans un village isolé du Tchad, Kellou est traversée par des visions qu’elle ne comprend pas. Grâce à sa rencontre avec Aya, une exilée aux secrets douloureux, elle va découvrir une autre façon de regarder son passé, ses rêves et son village. Mais en prenant la défense d’Aya, que le chef du village tente de chasser, elle se heurte à la peur et à la colère des habitants, et devra se battre pour garder sa liberté.\n\nDisponibilité France : Cine+ OCS Amazon Channel , Molotov TV, SFR Play.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "6.2",
       "links": [
@@ -9068,6 +9144,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1628116",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1596294",
+      "type": "movie",
+      "name": "Paralyzed by Hope: The Maria Bamford Story",
+      "poster": "https://image.tmdb.org/t/p/w500/waH2eiMaEW987JUTWyrj4x4d63k.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/toPLP3b8LfH7ix8w7dcrJ9mn5da.jpg",
+      "description": "Brouillant la frontière entre performance et crise personnelle, l'humoriste Maria Bamford transforme son parcours de santé mentale en un spectacle à la fois hilarant et profondément inspirant. Il en résulte le portrait d'une artiste qui, grâce à son authenticité, métamorphose sa vulnérabilité en force créative.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1596294"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1596294-paralyzed-by-hope-the-maria-bamford-story/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1596294",
         "hasScheduledVideos": false
       }
     },
@@ -9962,7 +10064,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/ZotF04zyv7iVTSbpCHEbx4HUde.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/2MIJOoBXGTN4igYeibSz7tlImLk.jpg",
       "description": "Morgan et Gabe, voisins et amis de longue date, partagent une passion pour les Buffalo Bills. En enquêtant sur un mystérieux bienfaiteur qui aide sa famille depuis 60 ans, Morgan se rapproche de Gabe. Ensemble, ils vont vivre un Noël inoubliable, entre secrets, famille et amour.\n\nDisponibilité France : Netflix, Netflix Standard with Ads, TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
+      "releaseInfo": "2025",
       "imdbRating": "6.1",
       "links": [
         {
