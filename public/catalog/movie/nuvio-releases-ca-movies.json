@@ -1,6 +1,31 @@
 {
   "metas": [
     {
+      "id": "tmdb:movie:1773340",
+      "type": "movie",
+      "name": "Mistletoe and Mimosas",
+      "poster": "https://image.tmdb.org/t/p/w500/nxU3FefyvZZ1dMDpJu1cgobJyeS.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mUpleDBBpu1W2uzkCO61ccaRTSp.jpg",
+      "description": "Disponibilité Canada : StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1773340"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1773340-mistletoe-and-mimosas/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1773340",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1716604",
       "type": "movie",
       "name": "A Proud Family Wizmas",
@@ -8,7 +33,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/a8syGZWwgV4ofi70OtvoIGsNjFz.jpg",
       "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.2",
+      "imdbRating": "5.5",
       "links": [
         {
           "name": "TMDB",
@@ -55,11 +80,11 @@
       "id": "tmdb:movie:1543469",
       "type": "movie",
       "name": "Heartland",
-      "poster": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pg8me0oPc8CGEEmpgwqZ1EMmKnx.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.6",
+      "imdbRating": "6.3",
       "links": [
         {
           "name": "TMDB",
@@ -111,6 +136,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/fb9fkEni7iqqYCUPMYArBVBmb9y.jpg",
       "description": "Disponibilité Canada : StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
@@ -162,7 +188,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
       "description": "Vingt ans après sa rencontre avec un extraterrestre, Petey n'a toujours pas tourné la page. Aujourd'hui, son vieil ami est de retour pour une raison complexe et plutôt inattendue.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.8",
+      "imdbRating": "6.7",
       "links": [
         {
           "name": "TMDB",
@@ -188,7 +214,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/4BsOLok9WaTTTcSpmoMtCLERScS.jpg",
       "description": "En quête de renouveau, une citadine turbulente échange sa vie avec celle de sa sœur casanière à Noël… et se retrouve avec un paquet d'ennuis à déballer.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.6",
+      "imdbRating": "6.4",
       "links": [
         {
           "name": "TMDB",
@@ -368,6 +394,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/1qF3J2YtdmgN7eO8WUg817qVvFE.jpg",
       "description": "Disponibilité Canada : StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
@@ -445,7 +472,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6",
+      "imdbRating": "6.7",
       "links": [
         {
           "name": "TMDB",
@@ -471,7 +498,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/6vGH7JZFLzFawpwCcnNweF8j3KD.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.2",
       "links": [
         {
           "name": "TMDB",
@@ -1482,7 +1509,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/3eZQoaWm2cDE2QV02GUHUrWsxAC.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
@@ -1508,7 +1535,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/i5XAKlLzmbGsBtr8T3vyGZHkanT.jpg",
       "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1",
+      "imdbRating": "7.2",
       "links": [
         {
           "name": "TMDB",
@@ -1844,7 +1871,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
       "description": "Adapté du best-seller du New York Times, L'hypothèse amoureuse suit Olive, une doctorante qui embrasse sur un coup de tête le professeur le plus intimidant de son département, Adam Carlsen. Leur besoin commun d'une relation de façade se transforme en une expérience sur l'alchimie qui pourrait bien déboucher sur le véritable amour.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
+      "imdbRating": "7.8",
       "links": [
         {
           "name": "TMDB",
@@ -2806,7 +2833,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/vJb3fniB8E0JnSMr1tDyIsb6gPi.jpg",
       "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.5",
+      "imdbRating": "6.4",
       "links": [
         {
           "name": "TMDB",
@@ -2929,6 +2956,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1477712",
+      "type": "movie",
+      "name": "Ice Cream Man",
+      "poster": "https://image.tmdb.org/t/p/w500/ef4rk6H8TWWf5I7wsSsu4TVncbW.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3DV7c9FoogMORFGUFDbTcCtzxOr.jpg",
+      "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1477712"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1477712-ice-cream-man/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1477712",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1284041",
       "type": "movie",
       "name": "Le Dernier Refuge",
@@ -2962,7 +3015,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/riezFXKrSq1XNnRLJi3AKIwEV8d.jpg",
       "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.3",
+      "imdbRating": "6.2",
       "links": [
         {
           "name": "TMDB",
@@ -4964,7 +5017,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
       "description": "Après avoir été témoin d’un terrible accident de la route, un jeune couple réalise qu’il n’a pas quitté les lieux du drame sans être suivi. Une présence démoniaque, le Passager, se joint à leur voyage en van et transforme leur aventure en un véritable cauchemar, déterminée à ne s’arrêter qu’une fois qu’elle les aura tous les deux emportés.\n\nDisponibilité Canada : Paramount Plus, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3",
+      "imdbRating": "7.2",
       "links": [
         {
           "name": "TMDB",
@@ -5536,7 +5589,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/5nilYwx9jH6P27pnORwlrRdtCwZ.jpg",
       "description": "Un adolescent couvert de sang fait irruption dans un poste de police et exige de parler à l’inspecteur Matthew Shaw, lui lançant un ultimatum terrifiant : résoudre une série de meurtres atroces ou son fils kidnappé sera tué. Dans une course contre la montre, Shaw démêle un tissu de secrets pour découvrir une vérité encore plus sombre qui remet en cause tout ce qu’il croyait savoir sur l’institution à laquelle il a consacré sa vie.\n\nDisponibilité Canada : Crave, Crave Amazon Channel, Paramount Plus, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.3",
+      "imdbRating": "6.5",
       "links": [
         {
           "name": "TMDB",
@@ -6264,7 +6317,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/w4ISfPkFLdG0ew07XcrlQSB4O4q.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6",
+      "imdbRating": "6.1",
       "links": [
         {
           "name": "TMDB",
@@ -9849,7 +9902,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/xXKMcz8m9E3x7fMhKpu9nZYZ1py.jpg",
       "description": "Disponibilité Canada : Paramount Plus, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2025",
-      "imdbRating": "8.3",
+      "imdbRating": "8.4",
       "links": [
         {
           "name": "TMDB",
@@ -10031,7 +10084,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/argJlxQHbXAzyH8fKnjLfoEyDcd.jpg",
       "description": "Disponibilité Canada : Crave, Crave Amazon Channel, Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2025",
-      "imdbRating": "6.5",
+      "imdbRating": "6.6",
       "links": [
         {
           "name": "TMDB",
@@ -10187,7 +10240,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/mZ6J2g6HCV2gj3iuCdSxcyBXq9c.jpg",
       "description": "Des chants du cœur de sa mère aux murmures d'un Dieu fidèle, l'histoire de David commence dans une dévotion silencieuse. Lorsque le géant Goliath se lève pour terroriser une nation, un jeune berger armé uniquement d'une fronde, de quelques pierres et d'une foi inébranlable s'avance. Poursuivi par le pouvoir et animé par un but précis, son parcours met à l'épreuve les limites de la loyauté, de l'amour et du courage, et culmine dans une bataille qui ne vise pas seulement la couronne, mais aussi l'âme d'un royaume.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2025",
-      "imdbRating": "8",
+      "imdbRating": "8.1",
       "links": [
         {
           "name": "TMDB",
