@@ -1,6 +1,38 @@
 {
   "metas": [
     {
+      "id": "tmdb:tv:314647",
+      "type": "series",
+      "name": "GIFT",
+      "poster": "https://image.tmdb.org/t/p/w500/5bjdruO6jpKc4xz1PQjZudwxvYA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4C8nlqPrcZwwScTtdkPQKul4K8V.jpg",
+      "description": "Disponibilité détectée chez HBO Max — France.\nDate de détection : 2026-11-19T11:32:27.916Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/314647"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:314647",
+      "type": "series",
+      "name": "GIFT",
+      "poster": "https://image.tmdb.org/t/p/w500/5bjdruO6jpKc4xz1PQjZudwxvYA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4C8nlqPrcZwwScTtdkPQKul4K8V.jpg",
+      "description": "Disponibilité détectée chez HBO Max Amazon Channel — France.\nDate de détection : 2026-11-19T11:32:27.916Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/314647"
+        }
+      ]
+    },
+    {
       "id": "tmdb:tv:316427",
       "type": "series",
       "name": "Ingoku Danchi : Deviant’s Apartment Complex",

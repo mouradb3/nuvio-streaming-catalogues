@@ -137,7 +137,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
       "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
+      "imdbRating": "7.6",
       "links": [
         {
           "name": "TMDB",
@@ -211,7 +211,7 @@
       "id": "tmdb:tv:291507",
       "type": "series",
       "name": "Le corps",
-      "poster": "https://image.tmdb.org/t/p/w500/swEOVOmkYtTg3UBStrvt1yZJm26.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pi1hkk70TvHSSSenNFkryRPb0nG.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
       "description": "Le soir de l'Halloween, une jeune troupe de danseuses sombre dans la culpabilité catholique, les désirs impurs et les visions spectrales quand une initiation tourne au cauchemar.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
@@ -344,7 +344,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
+      "imdbRating": "7.8",
       "links": [
         {
           "name": "TMDB",
@@ -888,7 +888,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/tJSM9kwCWHXgoYbrfmJ2vwiizWq.jpg",
       "description": "Des ados essaient de gérer une petite pizzéria tout en jonglant avec l'école, leur patronne intense et le salaire minimum dans cette série adaptée de vidéos populaires.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.3",
       "links": [
         {
           "name": "TMDB",
@@ -1458,7 +1458,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/uoXXbN2PrOxH6UKyP7kYwmGpAAP.jpg",
       "description": "La série suit les aventures de White Vision, un synthézoïde doté d'une intelligence artificielle avancée créé à partir du corps de Vision par le SWORD, qui tente de comprendre son existence et sa place dans le monde après les événements de WandaVision, à travers différentes versions d'intelligence artificielle dans son esprit, dont un reliquat d'Ultron.\n\nDisponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.3",
+      "imdbRating": "8.2",
       "links": [
         {
           "name": "TMDB",
@@ -1715,7 +1715,7 @@
       "type": "series",
       "name": "닥터X: 하얀 마피아의 시대",
       "poster": "https://image.tmdb.org/t/p/w500/8i864F141l4HNZa1IqXgPg1qzns.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/xnDB7h89ECKgaTrWlfST8TNwvBJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
       "description": "Disponibilité Canada : Netflix.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "8.7",
@@ -1796,7 +1796,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
       "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "9",
+      "imdbRating": "8.8",
       "links": [
         {
           "name": "TMDB",
@@ -1841,32 +1841,6 @@
       }
     },
     {
-      "id": "tmdb:tv:302020",
-      "type": "series",
-      "name": "てつりょー！meet with 鉄道むすめ",
-      "poster": "https://image.tmdb.org/t/p/w500/vHXCic8xST3Htbb7O98RKQR1pSv.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/3jnuPu5CMCDWX7h9JM7SAuF2Ick.jpg",
-      "description": "Disponibilité Canada : Hidive Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/302020"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/302020-meet-with/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:302020",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:294446",
       "type": "series",
       "name": "美人余",
@@ -1889,6 +1863,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:294446",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:302020",
+      "type": "series",
+      "name": "てつりょー！meet with 鉄道むすめ",
+      "poster": "https://image.tmdb.org/t/p/w500/vHXCic8xST3Htbb7O98RKQR1pSv.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3jnuPu5CMCDWX7h9JM7SAuF2Ick.jpg",
+      "description": "Disponibilité Canada : Hidive Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/302020"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/302020-meet-with/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:302020",
         "hasScheduledVideos": true
       }
     },
@@ -1978,7 +1978,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/v4HLZ8FsBeYPjMBQZ1JFgrhkhG8.jpg",
       "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "10",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
@@ -2212,7 +2212,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/5obfnImCRn0LzQnRb4jxuCJRlxd.jpg",
       "description": "Disponibilité Canada : HiDive, Hidive Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.4",
       "links": [
         {
           "name": "TMDB",
@@ -2315,7 +2315,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/ew8rknzuC55Qai4roLSz69qdtPy.jpg",
       "description": "Disponibilité Canada : HiDive, Hidive Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.9",
+      "imdbRating": "8.6",
       "links": [
         {
           "name": "TMDB",
@@ -2367,7 +2367,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/hEE9n9tZAjoT3eE5lL4MhZZ2DbB.jpg",
       "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.8",
+      "imdbRating": "8.2",
       "links": [
         {
           "name": "TMDB",
@@ -2445,7 +2445,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/inwM4LXqXYYauU1eJkfJ6uDkV11.jpg",
       "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8",
+      "imdbRating": "6.7",
       "links": [
         {
           "name": "TMDB",
@@ -2523,7 +2523,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/xe6wbOPKuSMOze4rl48NFWy8PNe.jpg",
       "description": "Disponibilité Canada : StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "9.1",
+      "imdbRating": "9",
       "links": [
         {
           "name": "TMDB",
@@ -2626,7 +2626,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/59oBbiLeG3jeDOUmx6zF6Qfmea3.jpg",
       "description": "Au cœur d'un continent composé de huit royaumes se trouve le royaume des Marronniers. Son général, Baribara, a sept fils, chacun doté d'un don et occupant le poste de chevalier commandant. Unis par le noble espoir de sauver une princesse un jour, les frères partent en bons samaritains vers les sept royaumes voisins. Quelles rencontres et quelles épreuves les attendent dans ces contrées inconnues ?\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8",
+      "imdbRating": "6",
       "links": [
         {
           "name": "TMDB",
@@ -2671,31 +2671,6 @@
       }
     },
     {
-      "id": "tmdb:tv:317259",
-      "type": "series",
-      "name": "バーテックスフォース",
-      "poster": "https://image.tmdb.org/t/p/w500/q4Frct3HP4eaFs7hc8fHq04Rl6Y.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/wNjJs2OronJm8jK4Y35R6kjH3sy.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/317259"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/317259-batetkusufuosu/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:317259",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:301139",
       "type": "series",
       "name": "#ゾンビさがしてます",
@@ -2718,6 +2693,31 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:301139",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:317259",
+      "type": "series",
+      "name": "バーテックスフォース",
+      "poster": "https://image.tmdb.org/t/p/w500/q4Frct3HP4eaFs7hc8fHq04Rl6Y.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wNjJs2OronJm8jK4Y35R6kjH3sy.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/317259"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/317259-batetkusufuosu/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:317259",
         "hasScheduledVideos": true
       }
     },
@@ -3795,7 +3795,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/hYBtbqNGijJRRmoSxLhp6rq44bC.jpg",
       "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "9.5",
+      "imdbRating": "9.4",
       "links": [
         {
           "name": "TMDB",
@@ -5868,32 +5868,6 @@
       }
     },
     {
-      "id": "tmdb:tv:253960",
-      "type": "series",
-      "name": "Human Vapor",
-      "poster": "https://image.tmdb.org/t/p/w500/3KLCNqMocDEwe8AUylUx2K3Tj9W.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/tDjLCYMaJK27PEZHiAtCYujXdRo.jpg",
-      "description": "Une mort en direct à la télé. Un coupable qui s'évapore littéralement. Un projet secret qui utilise et se débarrasse de personnes vulnérables. Et un détective en quête de vérité.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.3",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/253960"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/253960-gasu-ren-jian/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:253960",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:312507",
       "type": "series",
       "name": "令和のダラさん",
@@ -5901,7 +5875,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/t9pxS8JUIya68VOIRVAu8rhbGZL.jpg",
       "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.2",
+      "imdbRating": "8.5",
       "links": [
         {
           "name": "TMDB",
@@ -5968,6 +5942,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:298994",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:253960",
+      "type": "series",
+      "name": "Human Vapor",
+      "poster": "https://image.tmdb.org/t/p/w500/3KLCNqMocDEwe8AUylUx2K3Tj9W.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tDjLCYMaJK27PEZHiAtCYujXdRo.jpg",
+      "description": "Une mort en direct à la télé. Un coupable qui s'évapore littéralement. Un projet secret qui utilise et se débarrasse de personnes vulnérables. Et un détective en quête de vérité.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/253960"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/253960-gasu-ren-jian/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:253960",
         "hasScheduledVideos": true
       }
     },
@@ -9254,7 +9254,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/nneIV3TxADIIP0V2I9c1MjcKFVA.jpg",
       "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.9",
+      "imdbRating": "6.8",
       "links": [
         {
           "name": "TMDB",
@@ -11489,7 +11489,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/fRi1Qf51rtFzrYM3gvl9ihGjT5Q.jpg",
       "description": "Martin Best est un chirurgien brillant qui quitte abruptement sa carrière prestigieuse à Boston pour devenir médecin généraliste dans un charmant village de pêcheurs de la côte Est où il passait ses étés étant enfant. Malheureusement, les manières brusques et limite impolies de Martin au chevet des patients déplaisent aux habitants excentriques et exigeants du village, et il s'aliène rapidement la population, même s'il est leur seul recours.\n\nDisponibilité Canada : Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1",
+      "imdbRating": "7.2",
       "links": [
         {
           "name": "TMDB",
@@ -12284,32 +12284,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:219080",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:296520",
-      "type": "series",
-      "name": "Cooper & Fry",
-      "poster": "https://image.tmdb.org/t/p/w500/frDntanA2DMcNppQYBY5NfHmMM2.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/kgWPwLlDW6Ay8f4jvwybZKA0L9A.jpg",
-      "description": "Disponibilité Canada : BritBox, BritBox Amazon Channel, Britbox Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/296520"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/296520-cooper-fry/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:296520",
         "hasScheduledVideos": true
       }
     }

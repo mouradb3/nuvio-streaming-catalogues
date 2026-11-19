@@ -33,7 +33,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/a8syGZWwgV4ofi70OtvoIGsNjFz.jpg",
       "description": "Lorsque la révolte de Penny Proud contre le « Magic Noël » et la marchandisation de cet évènement pousse le Père Noël à démissionner la veille de la fête, notre héroïne se laisse convaincre — non sans culpabilité — d'enfiler la célèbre tenue rouge pour le remplacer. En apportant la joie des fêtes avec l'aide des lutins irrévérencieux, elle découvre que l'esprit de Noël est toujours bel et bien vivant.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.5",
+      "imdbRating": "6.8",
       "links": [
         {
           "name": "TMDB",
@@ -81,10 +81,10 @@
       "type": "movie",
       "name": "Heartland",
       "poster": "https://image.tmdb.org/t/p/w500/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/gVhJbOCns6GNsQaUbLszQUkFIKf.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
       "description": "Misty Jones, ancienne légende de la musique country, sort de sa retraite après la disparition de sa nièce, une chanteuse en pleine ascension. Son enquête va la conduire à affronter son propre passé et découvrir les bas-fonds de Nashville, où les apparences sont trompeuses, et où Misty elle-même n'est pas celle qu'elle semble être.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.3",
+      "imdbRating": "6.2",
       "links": [
         {
           "name": "TMDB",
@@ -2723,32 +2723,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1744876",
-      "type": "movie",
-      "name": "Fito Paez : Le monde dans une chanson",
-      "poster": "https://image.tmdb.org/t/p/w500/vG6rXAyLSu5MqIZG5jTjP6tpdbl.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg",
-      "description": "Un film documentaire qui observe, écoute et interagit avec Fito Páez dans une profonde intimité. La caméra, presque invisible, est témoin de chacun de ses gestes, l'accompagnant pendant plus d'un an lors d'enregistrements, de répétitions, de tournées et de concerts dans les grandes villes d'Amérique latine, d'Europe et des États-Unis. C'est aussi un voyage à travers la vie de l'un des plus grands artistes hispanophones : ses amours et ses peines, ses enfants et ses amitiés, ses excès, ses tragédies, ses échecs et ses succès.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.3",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1744876"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1744876-fito-paez-el-mundo-cabe-en-una-cancion/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1744876",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1506560",
       "type": "movie",
       "name": "Le Choc des Thunderman",
@@ -2823,6 +2797,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1752159",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1744876",
+      "type": "movie",
+      "name": "Fito Paez : Le monde dans une chanson",
+      "poster": "https://image.tmdb.org/t/p/w500/vG6rXAyLSu5MqIZG5jTjP6tpdbl.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tThekN7w7Kyo41FGrrKYfC0ViVE.jpg",
+      "description": "Un film documentaire qui observe, écoute et interagit avec Fito Páez dans une profonde intimité. La caméra, presque invisible, est témoin de chacun de ses gestes, l'accompagnant pendant plus d'un an lors d'enregistrements, de répétitions, de tournées et de concerts dans les grandes villes d'Amérique latine, d'Europe et des États-Unis. C'est aussi un voyage à travers la vie de l'un des plus grands artistes hispanophones : ses amours et ses peines, ses enfants et ses amitiés, ses excès, ses tragédies, ses échecs et ses succès.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1744876"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1744876-fito-paez-el-mundo-cabe-en-una-cancion/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1744876",
         "hasScheduledVideos": false
       }
     },
@@ -7668,7 +7668,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/xprL040VY3rZYxuanOpJB0gNVx1.jpg",
       "description": "Depuis son enfance, Céleste vit avec son meilleur ami, un robot, qui l’aide à accomplir son rêve : devenir astronaute ! Mais lorsqu’elle embarque pour sa première mission interstellaire, son robot se retrouve seul sur Terre et doit faire face à sa solitude pendant que Céleste affronte des dangers imprévus. Leurs souvenirs communs leur donneront le courage et la force de lutter pour pouvoir se retrouver.\n\nDisponibilité France : Cine+ OCS Amazon Channel , Molotov TV, SFR Play.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.8",
+      "imdbRating": "6.9",
       "links": [
         {
           "name": "TMDB",
@@ -7824,7 +7824,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/cmP55W8EqqIE41Ck9D7uWRpzLwS.jpg",
       "description": "Quatre anciens espions espagnols sont assassinés simultanément dans différents pays. Le CNI découvre qu'ils ont tous participé à l'Opération Ciénaga il y a 35 ans en Colombie. Zeta, agent du CNI, doit trouver et protéger le seul survivant au cours de la mission la plus dangereuse de sa carrière. Alfa, un agent colombien, se joint à Zeta. Il semble en savoir bien plus que lui sur \"Ciénaga\"...\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.6",
+      "imdbRating": "6.5",
       "links": [
         {
           "name": "TMDB",
@@ -8880,6 +8880,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1442908",
+      "type": "movie",
+      "name": "Les Chanteurs",
+      "poster": "https://image.tmdb.org/t/p/w500/a6wheh1243vceZ7Dqb0knYmKqaj.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/oTWgvLnMjjsVNdVTZjf5CEnihhw.jpg",
+      "description": "Dans ce court-métrage nommé aux Oscars, une compétition de chant improvisée dans un bar de quartier transforme une nuit de solitude en un moment d'harmonie et de partage.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1442908"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1442908-the-singers/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1442908",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1363979",
       "type": "movie",
       "name": "The Dangers in my Heart : The Movie",
@@ -8980,32 +9006,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1243460",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1442908",
-      "type": "movie",
-      "name": "Les Chanteurs",
-      "poster": "https://image.tmdb.org/t/p/w500/a6wheh1243vceZ7Dqb0knYmKqaj.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/oTWgvLnMjjsVNdVTZjf5CEnihhw.jpg",
-      "description": "Dans ce court-métrage nommé aux Oscars, une compétition de chant improvisée dans un bar de quartier transforme une nuit de solitude en un moment d'harmonie et de partage.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1442908"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1442908-the-singers/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1442908",
         "hasScheduledVideos": false
       }
     },
@@ -10517,6 +10517,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1308618",
+      "type": "movie",
+      "name": "Qui brille au combat",
+      "poster": "https://image.tmdb.org/t/p/w500/kpUkx4nxuH9ssoTi4NLunlRcXgu.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/s2jfSL3O1tmDV4FiruB48LWr0ul.jpg",
+      "description": "Qui brille au combat est le sens étymologique du prénom Bertille, la plus jeune des deux sœurs de la famille Roussier, atteinte d’un handicap lourd au diagnostic incertain. La famille vit dans un équilibre fragile autour de cet enfant qui accapare les efforts et pensées de chacun, et qui pourrait perdre la vie à tout moment. Chacun se construit, vit comme il peut avec les exigences de ce rythme et les incertitudes qui l’accompagnent. Les parents, Madeleine et Gilles, la sœur aînée, Marion. Quel quotidien et quels avenirs pour une mère, un père, un couple, une adolescente que la responsabilité ​ de sa cadette a rendu trop vite adulte ? Lorsqu’un nouveau diagnostic est posé, les cartes sont rebattues et un nouvel horizon se dessine...\n\nDisponibilité France : SFR Play.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1308618"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1308618-qui-brille-au-combat/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1308618",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1559984",
       "type": "movie",
       "name": "My Weird School",
@@ -10524,7 +10550,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/xXKMcz8m9E3x7fMhKpu9nZYZ1py.jpg",
       "description": "Un collégien fait équipe avec des professeurs et des amis pour contrecarrer une invasion extraterrestre...\n\nDisponibilité France : Paramount Plus, Paramount Plus Premium, Paramount+ Amazon Channel, SFR Play.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2025",
-      "imdbRating": "8.1",
+      "imdbRating": "7.8",
       "links": [
         {
           "name": "TMDB",
@@ -11823,7 +11849,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/x8gV0MUZVWkikNZElaBk13vW5f4.jpg",
       "description": "Deux travailleurs en galère font équipe pour braquer un grand magasin des beaux quartiers de Londres la veille de Noël. Se feront-ils voler leur cœur en chemin ?\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2025",
-      "imdbRating": "6",
+      "imdbRating": "6.1",
       "links": [
         {
           "name": "TMDB",
@@ -12072,83 +12098,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1376439",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1323475",
-      "type": "movie",
-      "name": "Champagne Problems",
-      "poster": "https://image.tmdb.org/t/p/w500/a66w2eVNFHMgevJlw0d6f4TTrrD.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/idRDmfGxrLD0SNBq5I2J6HC0dt5.jpg",
-      "description": "Venue à Paris pour racheter une grande maison de champagne avant Noël, une cadre américaine ambitieuse tombe sous le charme de l'héritier de la marque.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1323475"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1323475-champagne-problems/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1323475",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1659983",
-      "type": "movie",
-      "name": "Tous complotistes !?",
-      "poster": "https://image.tmdb.org/t/p/w500/cwcSRGCD2cNfMqaQXR1hw9noCi7.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/w7IPBlB7tjKmQCDDfSf6aQKNS6t.jpg",
-      "description": "Avec un ton léger et humoristique, mais sans jamais perdre de vue la profondeur du sujet, ce documentaire explore le complotisme, les raisons qui poussent certains à croire en ces théories et leurs conséquences sur notre société. À travers une série d’interviews de spécialistes, de théoriciens du complot autoproclamés et de citoyens ordinaires, « Tous complotistes ? » offre un panorama complet du phénomène, enrichi d’études de cas et de références historiques et culturelles qui illustrent la persistance de ces théories à travers le temps. Que l’on soit sceptique ou curieux, ce documentaire pousse à remettre en question les certitudes et à explorer les zones grises de notre perception du monde.\n\nDisponibilité France : M6+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1659983"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1659983-tous-complotistes/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1659983",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1363282",
-      "type": "movie",
-      "name": "Les Secrets emportés des Carman",
-      "poster": "https://image.tmdb.org/t/p/w500/xikXt9XcVnrtenHNLMr4uz4CiOc.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/kWRlETiLSH8BRq9akHIQoMXgtfe.jpg",
-      "description": "Sauvé en mer, un jeune homme se retrouve soupçonné d’avoir tué deux membres de sa riche famille de Nouvelle-Angleterre.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1363282"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1363282-the-carman-family-deaths/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1363282",
         "hasScheduledVideos": false
       }
     },

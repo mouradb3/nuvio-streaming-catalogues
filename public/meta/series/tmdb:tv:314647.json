@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:314647",
+    "type": "series",
+    "name": "GIFT",
+    "poster": "https://image.tmdb.org/t/p/w500/5bjdruO6jpKc4xz1PQjZudwxvYA.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/4C8nlqPrcZwwScTtdkPQKul4K8V.jpg",
+    "description": "Disponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/314647"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/314647-gift/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:314647",
+      "hasScheduledVideos": true
+    }
+  }
+}
