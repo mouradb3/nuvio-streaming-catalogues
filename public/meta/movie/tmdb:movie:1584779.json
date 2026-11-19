@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1584779",
+    "type": "movie",
+    "name": "Mon père, un meurtrier ?",
+    "poster": "https://image.tmdb.org/t/p/w500/4aBN0YZ6Jfb09fRSxyObfdSe2Ot.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/8UkpeQ7fwKyX2PVmnnaAJm7Vv9J.jpg",
+    "description": "Quand Amy, la présidente d'une importante association caritative, perd son père, elle est choquée de découvrir qu'il possédait un espace dans un garde-meuble avec un secret mortel à l'intérieur : le corps d'une femme. Son père était-il un meurtriers ? Qui était cette femme ?\n\nDisponibilité France : Netflix, Netflix Standard with Ads, TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1584779"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1584779-the-body-in-the-locker/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1584779",
+      "hasScheduledVideos": false
+    }
+  }
+}

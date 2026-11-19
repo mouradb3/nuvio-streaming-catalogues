@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1442908",
+    "type": "movie",
+    "name": "Les Chanteurs",
+    "poster": "https://image.tmdb.org/t/p/w500/a6wheh1243vceZ7Dqb0knYmKqaj.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/oTWgvLnMjjsVNdVTZjf5CEnihhw.jpg",
+    "description": "Dans ce court-métrage nommé aux Oscars, une compétition de chant improvisée dans un bar de quartier transforme une nuit de solitude en un moment d'harmonie et de partage.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1442908"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1442908-the-singers/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1442908",
+      "hasScheduledVideos": false
+    }
+  }
+}
