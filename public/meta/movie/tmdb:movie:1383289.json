@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1383289",
+    "type": "movie",
+    "name": "Laurent dans le vent",
+    "poster": "https://image.tmdb.org/t/p/w500/aTXe5dlNCJiuQKcRhsa1L6eokC0.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/frYCn9ZOzloE0t41Etb1X5gcTai.jpg",
+    "description": "À 29 ans, Laurent cherche un sens à sa vie. Sans travail ni logement, il atterrit dans une station de ski déserte hors-saison et s’immisce dans la vie des rares habitant·es qu’il rencontre. Quand les touristes arrivent avec l’hiver, Laurent ne peut plus repartir.\n\nDisponibilité France : Cine+ OCS Amazon Channel , Molotov TV, SFR Play.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1383289"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1383289-laurent-dans-le-vent/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1383289",
+      "hasScheduledVideos": false
+    }
+  }
+}

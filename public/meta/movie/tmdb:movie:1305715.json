@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1305715",
+    "type": "movie",
+    "name": "过家家",
+    "poster": "https://image.tmdb.org/t/p/w500/rwdLcQeV9TB6Qc1JU0EC387bUQi.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/aKAtFSge7SwJeEtzxJWkTDQQfJa.jpg",
+    "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads, Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1305715"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1305715-guo-jia-jia/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1305715",
+      "hasScheduledVideos": false
+    }
+  }
+}

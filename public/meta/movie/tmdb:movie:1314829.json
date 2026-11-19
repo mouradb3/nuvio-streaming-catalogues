@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1314829",
+    "type": "movie",
+    "name": "Monkey’s Magic Merry Go Round",
+    "poster": "https://image.tmdb.org/t/p/w500/g1v1ogfa8PCvcYJ1JSmrqbcHMAP.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/w4ssqWwSiSumZve63L1gtXd3bC5.jpg",
+    "description": "Un animateur d'une émission de télévision pour enfants, frappé d’amnésie, tente de reconstituer son passé trouble. Mais lorsque ses marionnettes se retournent contre lui, ses souvenirs refont surface sous une forme de plus en plus inquiétante.\n\nDisponibilité France : Molotov TV, Shadowz Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1314829"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1314829-monkey-s-magic-merry-go-round/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1314829",
+      "hasScheduledVideos": false
+    }
+  }
+}

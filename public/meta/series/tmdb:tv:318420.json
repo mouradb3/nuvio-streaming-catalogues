@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:318420",
+    "type": "series",
+    "name": "Valentina et les 12 signes",
+    "poster": "https://image.tmdb.org/t/p/w500/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/wf8UcYFLgo6QYi49O13lMMaZrod.jpg",
+    "description": "Après une rupture dévastatrice, Valentina décide de fréquenter un homme de chaque signe du zodiaque – mais l'univers a d'autres plans.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/318420"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/318420-os-12-signos-de-valentina/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:318420",
+      "hasScheduledVideos": true
+    }
+  }
+}

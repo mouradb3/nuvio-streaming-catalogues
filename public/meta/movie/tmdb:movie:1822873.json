@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1822873",
+    "type": "movie",
+    "name": "Darius Rucker: They Called Me Hootie",
+    "poster": "https://image.tmdb.org/t/p/w500/ir7EsjwI0IBknrYt7JHaKGMIrqu.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/brF22Atolq9py6u9HPVoWu63dIq.jpg",
+    "description": "Disponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1822873"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1822873-darius-rucker-they-called-me-hootie/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1822873",
+      "hasScheduledVideos": false
+    }
+  }
+}

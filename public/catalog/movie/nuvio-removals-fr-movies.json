@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "tmdb:movie:1559984",
+      "type": "movie",
+      "name": "My Weird School",
+      "poster": "https://image.tmdb.org/t/p/w500/aNQ0ZaF5g2VIq4CXU1VswPFWsx5.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xXKMcz8m9E3x7fMhKpu9nZYZ1py.jpg",
+      "description": "Disponibilité retirée chez SFR Play — France.\nDate de détection : 2026-11-19T20:30:21.246Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1559984"
+        }
+      ]
+    },
+    {
       "id": "tmdb:movie:1621923",
       "type": "movie",
       "name": "Entre chiens et louves par le Cirque Le Roux au Bon Marché Rive Gauche",

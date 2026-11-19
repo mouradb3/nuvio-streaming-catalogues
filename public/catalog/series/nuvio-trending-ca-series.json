@@ -369,7 +369,7 @@
       "type": "series",
       "name": "Off Campus",
       "poster": "https://image.tmdb.org/t/p/w500/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cdD0InWMH4e6AxceQs93fQRYsfO.jpg",
       "description": "Hannah donne des cours à Garrett, lui l'aide à séduire son crush. Cela les rapproche. Logan, Dean, Tucker et Allie jonglent entre fac et amour.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "8.8",
@@ -448,7 +448,7 @@
       "name": "嫁金钗",
       "poster": "https://image.tmdb.org/t/p/w500/nKhiK99WZohc3fJsTXJLf4SrSEY.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/oagkprEWVF8EDyGMoQlTQajbsWH.jpg",
-      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads, Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "7.6",
       "links": [
@@ -710,7 +710,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.2",
+      "imdbRating": "6.4",
       "links": [
         {
           "name": "TMDB",
@@ -907,6 +907,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:270476",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:332839",
+      "type": "series",
+      "name": "Prawo bestii",
+      "poster": "https://image.tmdb.org/t/p/w500/9anIbazZJUteF9FLvdSsISJcNNq.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
+      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/332839"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/332839-prawo-bestii/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:332839",
         "hasScheduledVideos": true
       }
     },
@@ -1542,7 +1568,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
       "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.3",
+      "imdbRating": "8",
       "links": [
         {
           "name": "TMDB",
@@ -1932,7 +1958,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/ccG6WAuf2XBC808HFaeIjvk2hXW.jpg",
       "description": "Disponibilité Canada : Rakuten Viki, Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "9.2",
+      "imdbRating": "6.8",
       "links": [
         {
           "name": "TMDB",
@@ -1999,6 +2025,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:277439",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:318420",
+      "type": "series",
+      "name": "Valentina et les 12 signes",
+      "poster": "https://image.tmdb.org/t/p/w500/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wf8UcYFLgo6QYi49O13lMMaZrod.jpg",
+      "description": "Après une rupture douloureuse, Valentina décide de sortir avec un homme de chaque signe du zodiaque. Mais l'univers a d'autres projets pour elle.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/318420"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/318420-os-12-signos-de-valentina/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:318420",
         "hasScheduledVideos": true
       }
     },
@@ -7823,6 +7875,31 @@
       }
     },
     {
+      "id": "tmdb:tv:336592",
+      "type": "series",
+      "name": "Win the Mall",
+      "poster": "https://image.tmdb.org/t/p/w500/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg",
+      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/336592"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/336592-win-the-mall/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:336592",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:303351",
       "type": "series",
       "name": "Sacrifice de sang",
@@ -9284,7 +9361,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/3jnuPu5CMCDWX7h9JM7SAuF2Ick.jpg",
       "description": "Disponibilité Canada : Hidive Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.7",
+      "imdbRating": "6",
       "links": [
         {
           "name": "TMDB",
@@ -10012,6 +10089,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/wNjJs2OronJm8jK4Y35R6kjH3sy.jpg",
       "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
+      "imdbRating": "4",
       "links": [
         {
           "name": "TMDB",

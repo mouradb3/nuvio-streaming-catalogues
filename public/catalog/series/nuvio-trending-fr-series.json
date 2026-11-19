@@ -369,7 +369,7 @@
       "type": "series",
       "name": "Off Campus",
       "poster": "https://image.tmdb.org/t/p/w500/9tyqp3lIuYyDyqQJDTGssvijIAu.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/3ANXZWhhcqPAh0q6nRZ979TIwxC.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cdD0InWMH4e6AxceQs93fQRYsfO.jpg",
       "description": "La romance improbable entre Hannah Wells, étudiante en musique ironique qui déteste le hockey, et Garrett Graham, centre vedette et séducteur de l'université Briar, alors qu'ils concluent un accord pour s'entraider. Mais leur accord se déroulera-t-il comme prévu ?\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "8.8",
@@ -658,7 +658,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
       "description": "Quand une femme est agressée en pleine nuit, un sergent tenace soupçonne le mari de ne pas être aussi innocent qu'il en a l'air dans ce drame inspiré de faits réels.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.2",
+      "imdbRating": "6.4",
       "links": [
         {
           "name": "TMDB",
@@ -859,6 +859,32 @@
       }
     },
     {
+      "id": "tmdb:tv:332839",
+      "type": "series",
+      "name": "La loi de la bête",
+      "poster": "https://image.tmdb.org/t/p/w500/9anIbazZJUteF9FLvdSsISJcNNq.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
+      "description": "Lorsque l'affaire d'un tueur en série d'enfants refait surface après 25 ans, devenant un problème juridique et social non résolu, deux anciens amis sont contraints de se confronter aux choix qui ont brisé leur amitié et façonné leurs vies.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/332839"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/332839-prawo-bestii/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:332839",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:300126",
       "type": "series",
       "name": "LIAR GAME",
@@ -933,6 +959,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:273207",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:340280",
+      "type": "series",
+      "name": "Gordon",
+      "poster": "https://image.tmdb.org/t/p/w500/wzY5EjF8X1plKUWHwIRW6eNCqFU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg",
+      "description": "Aníbal Gordon passe de petit délinquant à criminel condamné pour meurtre en Argentine dans les années 70. Une série dramatique adaptée du livre de Marcelo Larraquy.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/340280"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/340280-gordon/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:340280",
         "hasScheduledVideos": true
       }
     },
@@ -1412,7 +1464,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/vPDVee1j6w0hJ2xMJ2bU5HVBA0Z.jpg",
       "description": "\"Après avoir tout perdu du jour au lendemain, Lee Yubin, architecte d'intérieur coréen à succès, met le cap sur une sublime petite île japonaise. Sur Chora, il rencontre Shirahama Karin, une agricultrice déterminée à cultiver des fraises malgré sa mystérieuse maladie. Issus de deux mondes différents, ils se retrouvent au cœur d'un quiproquo inattendu. En parallèle, une autre idylle voit le jour sur l'île. Park Kunam, en visa vacances-travail, décide de rester après être tombé sous le charme de Mizuno Mari, une cartomancienne incapable de prédire son propre avenir sentimental. Au fil de leur relation, ils deviennent de précieux alliés pour Yubin et Karin.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.3",
+      "imdbRating": "8",
       "links": [
         {
           "name": "TMDB",
@@ -1765,6 +1817,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:277439",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:318420",
+      "type": "series",
+      "name": "Valentina et les 12 signes",
+      "poster": "https://image.tmdb.org/t/p/w500/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wf8UcYFLgo6QYi49O13lMMaZrod.jpg",
+      "description": "Après une rupture dévastatrice, Valentina décide de fréquenter un homme de chaque signe du zodiaque – mais l'univers a d'autres plans.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/318420"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/318420-os-12-signos-de-valentina/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:318420",
         "hasScheduledVideos": true
       }
     },
@@ -2237,6 +2315,32 @@
       }
     },
     {
+      "id": "tmdb:tv:288120",
+      "type": "series",
+      "name": "Vienna Game",
+      "poster": "https://image.tmdb.org/t/p/w500/uJ4firkLeu1aUN8sHc7Zys0LwNQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hQ7pzPFt7HiwAnsTwTsUadwHu6A.jpg",
+      "description": "Tandis que Napoléon Bonaparte est envoyé en exil à l'île d'Elbe, les rois comme les princes héritiers, les ministres comme les espions, les dames nobles comme les maîtresses, les soldats de fortune comme les inventeurs, les artistes comme les concubines, font la fête et discutent à Vienne. Le destin de l'Europe se joue alors sur la piste de danse et dans le boudoir. Les délégations de l'Angleterre, de la Russie, de l'Autriche, de la France et de la Prusse contribuent de manière déterminante à l'organisation du congrès. Des femmes puissantes usent alors de leur influence pour orienter les pourparlers en faveur de la paix. Un jeu de chance, d'argent, d'amour et de pouvoir - le Congrès de Vienne en coulisses !\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "9",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/288120"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/288120-vienna-game/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:288120",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:336243",
       "type": "series",
       "name": "ChiaroScuro",
@@ -2372,7 +2476,7 @@
       "name": "Douce Nuit",
       "poster": "https://image.tmdb.org/t/p/w500/5KKmG94mjp1ds1r99n3i0IGWQXg.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/bbCCaAlzJkCv8C8AFr8l1rBWJyt.jpg",
-      "description": "Lors de la nuit de Noël 1976 en Pologne, trois jeunes gens meurent tragiquement, fauchés par un autobus alors qu'ils revenaient de la messe de minuit. Alors que les autorités locales s'empressent de classer l'affaire en un simple et malheureux accident de la route, la mère des victimes refuse de croire à cette version. Épaulée par un jeune enquêteur ambitieux et obstiné, elle va se confronter à une terrible loi du silence qui paralyse tout le village. Ensemble, ils vont tenter de briser l'omerta pour faire éclater une vérité bien plus sombre et obtenir justice.\n\nDisponibilité France : HBO Max.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "description": "Lors de la nuit de Noël 1976 en Pologne, trois jeunes gens meurent tragiquement, fauchés par un autobus alors qu'ils revenaient de la messe de minuit. Alors que les autorités locales s'empressent de classer l'affaire en un simple et malheureux accident de la route, la mère des victimes refuse de croire à cette version. Épaulée par un jeune enquêteur ambitieux et obstiné, elle va se confronter à une terrible loi du silence qui paralyse tout le village. Ensemble, ils vont tenter de briser l'omerta pour faire éclater une vérité bien plus sombre et obtenir justice.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "7.9",
       "links": [
@@ -3246,6 +3350,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:296756",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:305313",
+      "type": "series",
+      "name": "Romelia War Chronicle",
+      "poster": "https://image.tmdb.org/t/p/w500/2wqyITVWs1wZMih2VraylRjqzCo.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6LeBjYSPULKwSv5R6sX6Iovwoad.jpg",
+      "description": "Sa victoire sur le Roi-Démon aurait dû être le triomphe de Romélia. Au lieu de cela, son fiancé, le prince Henri, rompt leurs fiançailles et la renvoie dans une province en ruines. Mais Romélia ne se laisse pas abattre. Elle jure de lever une armée, de reconstruire le royaume et ce, malgré des conflits qui continuent. Son histoire ne fait que commencer…\n\nDisponibilité France : Crunchyroll.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/305313"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/305313-romeria-zhan-ji/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:305313",
         "hasScheduledVideos": true
       }
     },
@@ -6090,7 +6220,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
       "description": "La vie ordinaire de Paolo bascule lorsqu’il recroise la route de Téophane, un ancien camarade d’école, qui brigue aujourd’hui la mairie de sa ville et qui a semble-t-il tout pour lui. Ce qui commence par une simple admiration et une volonté de soutenir la campagne se transforme en une obsession dévorante…\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.9",
+      "imdbRating": "6",
       "links": [
         {
           "name": "TMDB",
@@ -6780,6 +6910,31 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:287011",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:336592",
+      "type": "series",
+      "name": "La conquête des boutiques",
+      "poster": "https://image.tmdb.org/t/p/w500/awZejt5KgmNzqlQIReQa4vJelx4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9qKkdHizmDOXwABJx6LP6MdbWiO.jpg",
+      "description": "Dans cette téléréalité, dix équipes s'installent dans un centre commercial pour obtenir des boutiques, forger des alliances, déjouer les rivaux… et gagner 1 000 000 $.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/336592"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/336592-win-the-mall/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:336592",
         "hasScheduledVideos": true
       }
     },
@@ -8728,6 +8883,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:280511",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:310198",
+      "type": "series",
+      "name": "Hermanas, un amor compartido",
+      "poster": "https://image.tmdb.org/t/p/w500/wyumt3DAtHs9X8siZsopH7FjKLl.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/oY5dUyULOThagoH11ZHHFLAQLQv.jpg",
+      "description": "Disponibilité France : SFR Play.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/310198"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/310198-hermanas-un-amor-compartido/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:310198",
         "hasScheduledVideos": true
       }
     },
