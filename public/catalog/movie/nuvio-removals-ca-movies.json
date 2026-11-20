@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "tmdb:movie:1418657",
+      "type": "movie",
+      "name": "The Yeti",
+      "poster": "https://image.tmdb.org/t/p/w500/zaqEfoKcWkVni2eONhJ7DRhMO8Q.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1ytf7rzkZ7RLlMnBdGggQ0ENe6z.jpg",
+      "description": "Disponibilité retirée chez AMC+ Amazon Channel — Canada.\nDate de détection : 2026-11-20T11:30:33.589Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1418657"
+        }
+      ]
+    },
+    {
       "id": "tmdb:movie:1742441",
       "type": "movie",
       "name": "V/H/S/MIXTAPE",

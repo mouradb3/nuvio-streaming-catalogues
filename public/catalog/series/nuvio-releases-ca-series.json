@@ -8,7 +8,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.8",
+      "imdbRating": "7.1",
       "links": [
         {
           "name": "TMDB",
@@ -23,32 +23,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:332839",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:340280",
-      "type": "series",
-      "name": "Gordon",
-      "poster": "https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg",
-      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/340280"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/340280-gordon/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:340280",
         "hasScheduledVideos": true
       }
     },
@@ -100,6 +74,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:336592",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:340280",
+      "type": "series",
+      "name": "Gordon",
+      "poster": "https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg",
+      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/340280"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/340280-gordon/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:340280",
         "hasScheduledVideos": true
       }
     },
@@ -188,7 +188,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
       "description": "Un braquage prend 12 mois à préparer, 12 heures à mettre à exécution, et un braqueur qui n'est pas arrêté dans les 12 jours ne le sera jamais. Dans un chassé-croisé haletant de trois temporalités, un agent du FBI et un criminel de carrière se livrent à un jeu dangereux du chat et de la souris, à travers l'Europe.\n\nDisponibilité Canada : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.2",
+      "imdbRating": "6.1",
       "links": [
         {
           "name": "TMDB",
@@ -240,7 +240,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/nDU6mUk4wVU1EkDkDvcLvT2UWdy.jpg",
       "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
@@ -525,7 +525,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/1csFLrwh28PrWyWyeUXzgyt4930.jpg",
       "description": "L’actrice hollywoodienne et comédienne Nora Lum (a.k.a. Awkwafina) est descendante de la royauté de la restauration... mais elle ne sait pas cuisiner. Partez avec elle dans ce road trip culinaire inspirant, et dans sa quête de raviver la cuisine chinoise tant affectionnée par sa famille.\n\nDisponibilité Canada : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.5",
+      "imdbRating": "5",
       "links": [
         {
           "name": "TMDB",
@@ -1769,7 +1769,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/d63e5W3rWWuMIDcrUgmZTauMbna.jpg",
       "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
+      "imdbRating": "8",
       "links": [
         {
           "name": "TMDB",
@@ -1821,7 +1821,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
       "description": "Disponibilité Canada : Netflix.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.7",
+      "imdbRating": "8.6",
       "links": [
         {
           "name": "TMDB",
@@ -1977,7 +1977,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/6Iha7gx0lTdrv6x7dECtjB8YnLA.jpg",
       "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.3",
+      "imdbRating": "5.6",
       "links": [
         {
           "name": "TMDB",
@@ -2055,7 +2055,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/1bmsSexBYKUlkst0TgHZCdf4EvH.jpg",
       "description": "Disponibilité Canada : Paramount Plus, Paramount Plus Apple TV channel, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel, StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.8",
+      "imdbRating": "7.9",
       "links": [
         {
           "name": "TMDB",
@@ -2230,32 +2230,6 @@
       }
     },
     {
-      "id": "tmdb:tv:290233",
-      "type": "series",
-      "name": "Inside the circle",
-      "poster": "https://image.tmdb.org/t/p/w500/u2PDaI3BYtGg0YO0rOKnycDwxld.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/mnxeCdKE3mtVT8mB9lWs4JY3Mla.jpg",
-      "description": "Quatre amis de longue date se retrouvent pris dans un engrenage de chantage lorsqu'une vidéo fuite menace de révéler des secrets susceptibles de détruire leur amitié.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/290233"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/290233-el-circulo/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:290233",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:332261",
       "type": "series",
       "name": "ポリティカルパン",
@@ -2278,6 +2252,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:332261",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:290233",
+      "type": "series",
+      "name": "Inside the circle",
+      "poster": "https://image.tmdb.org/t/p/w500/u2PDaI3BYtGg0YO0rOKnycDwxld.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mnxeCdKE3mtVT8mB9lWs4JY3Mla.jpg",
+      "description": "Quatre amis de longue date se retrouvent pris dans un engrenage de chantage lorsqu'une vidéo fuite menace de révéler des secrets susceptibles de détruire leur amitié.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/290233"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/290233-el-circulo/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:290233",
         "hasScheduledVideos": true
       }
     },
@@ -2859,7 +2859,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/muPKymUvvBqjLCyGSacxKgjrhxN.jpg",
       "description": "Une série anthologique se déroulant dans le monde élitiste du droit à Londres, suivant deux cabinets rivaux, Cathcarts et Taylor & Byrne, qui s'affrontent dans une nouvelle affaire judiciaire médiatisée chaque saison.\n\nDisponibilité Canada : Crave, Crave Amazon Channel, Hayu.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.3",
       "links": [
         {
           "name": "TMDB",
@@ -3587,7 +3587,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/icPBB9V5IX1hggtNs1fvskP2lsi.jpg",
       "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.1",
+      "imdbRating": "6.2",
       "links": [
         {
           "name": "TMDB",
@@ -5374,32 +5374,6 @@
       }
     },
     {
-      "id": "tmdb:tv:309974",
-      "type": "series",
-      "name": "透明な夜に駆ける君と、目に見えない恋をした。",
-      "poster": "https://image.tmdb.org/t/p/w500/qbPEnASkv65oKE06wHefsHMcgA0.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/g9MeGvfwHXldvVOttIybvaNfLEM.jpg",
-      "description": "Disponibilité Canada : Crunchyroll.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.2",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/309974"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/309974-tou-ming-na-ye-ni-qu-keru-jun-to-mu-ni-jian-enai-lian-oshita/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:309974",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:320406",
       "type": "series",
       "name": "가족관계증명서",
@@ -5422,6 +5396,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:320406",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:309974",
+      "type": "series",
+      "name": "透明な夜に駆ける君と、目に見えない恋をした。",
+      "poster": "https://image.tmdb.org/t/p/w500/qbPEnASkv65oKE06wHefsHMcgA0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/g9MeGvfwHXldvVOttIybvaNfLEM.jpg",
+      "description": "Disponibilité Canada : Crunchyroll.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/309974"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/309974-tou-ming-na-ye-ni-qu-keru-jun-to-mu-ni-jian-enai-lian-oshita/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:309974",
         "hasScheduledVideos": true
       }
     },
@@ -8058,7 +8058,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/r1lGjwTRF0RGYFHzvt3SupArmRy.jpg",
       "description": "L’écrivaine en herbe Margo Millet tombe enceinte, et se retrouve obligée de quitter l’université, presque ruinée. Mais quand son père, ex-catcheur pro, refait surface, Margo trouve un moyen inattendu de gagner de l’argent avec son don pour raconter les histoires.\n\nDisponibilité Canada : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
+      "imdbRating": "7.8",
       "links": [
         {
           "name": "TMDB",
@@ -9618,7 +9618,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/c43frTJmf5SkVT7AZ2RTnxNqDRF.jpg",
       "description": "Disponibilité Canada : BritBox, BritBox Amazon Channel, Britbox Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.6",
+      "imdbRating": "6.7",
       "links": [
         {
           "name": "TMDB",
@@ -9774,7 +9774,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/8mmDLb108DoFZlE8sfc64TRqLvm.jpg",
       "description": "De Guy Ritchie, découvrez cette série irrévérencieuse pleine de mystère et d'action, découvrez la genèse du légendaire Sherlock Holmes en suivant ses premières aventures.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.8",
+      "imdbRating": "7.7",
       "links": [
         {
           "name": "TMDB",
@@ -12414,32 +12414,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:301507",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:219080",
-      "type": "series",
-      "name": "Le puissant Nein",
-      "poster": "https://image.tmdb.org/t/p/w500/q2P52yvWJXH2eTKTyxKjmhp9Pri.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/7K7wbQIpkzif4fMhDHsCweXFS42.jpg",
-      "description": "Un groupe de marginaux, de criminels et de marginaux se retrouve par hasard à sauver le continent lorsqu'une relique mystérieuse capable de remodeler la réalité tombe entre de mauvaises mains.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "8.2",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/219080"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/219080-the-mighty-nein/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:219080",
         "hasScheduledVideos": true
       }
     }
