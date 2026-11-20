@@ -30,11 +30,11 @@
       "id": "tmdb:tv:340280",
       "type": "series",
       "name": "Gordon",
-      "poster": "https://image.tmdb.org/t/p/w500/wzY5EjF8X1plKUWHwIRW6eNCqFU.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg",
       "description": "Aníbal Gordon passe de petit délinquant à criminel condamné pour meurtre en Argentine dans les années 70. Une série dramatique adaptée du livre de Marcelo Larraquy.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3",
+      "imdbRating": "6.5",
       "links": [
         {
           "name": "TMDB",
@@ -265,7 +265,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
       "description": "Un braquage prend 12 mois à préparer, 12 heures à mettre à exécution, et un braqueur qui n'est pas arrêté dans les 12 jours ne le sera jamais. Dans un chassé-croisé haletant de trois temporalités, un agent du FBI et un criminel de carrière se livrent à un jeu dangereux du chat et de la souris, à travers l'Europe.\n\nDisponibilité France : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.4",
+      "imdbRating": "6.2",
       "links": [
         {
           "name": "TMDB",
@@ -472,7 +472,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/wM62vjwgxjQTlXX76xmQS1T49O2.jpg",
       "description": "Après la découverte d’un corps dans un musée romain, un expert en art doit faire appel à son instinct et à ses compétences pour aider la police à élucider un mystère lié à son propre passé.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.6",
       "links": [
         {
           "name": "TMDB",
@@ -1951,7 +1951,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/3zmB6PLnjf7rNNC2lnvinQtlJMx.jpg",
       "description": "Durant l'ère Meiji, Satoko Kirigaya n’a qu’un seul souhait : se marier pour l'honneur de sa famille et ce, même si ses jours sont comptés. Mais alors qu'un assassin tente de la tuer, elle lui offre de l’épouser ! Une proposition que Shinpei Goto accepte, mais qui pourrait bien se retourner contre elle…\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.8",
+      "imdbRating": "8.9",
       "links": [
         {
           "name": "TMDB",
@@ -2003,7 +2003,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/cn0feYcDvVzVjUDoXa1O8sRgzz.jpg",
       "description": "Lorsqu'une mystérieuse créature marine sème la terreur dans un petit village de Terre-Neuve, un pêcheur endurci et sa famille luttent pour protéger leur communauté très soudée.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
@@ -2411,32 +2411,6 @@
       }
     },
     {
-      "id": "tmdb:tv:305313",
-      "type": "series",
-      "name": "Romelia War Chronicle",
-      "poster": "https://image.tmdb.org/t/p/w500/2wqyITVWs1wZMih2VraylRjqzCo.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/6LeBjYSPULKwSv5R6sX6Iovwoad.jpg",
-      "description": "Sa victoire sur le Roi-Démon aurait dû être le triomphe de Romélia. Au lieu de cela, son fiancé, le prince Henri, rompt leurs fiançailles et la renvoie dans une province en ruines. Mais Romélia ne se laisse pas abattre. Elle jure de lever une armée, de reconstruire le royaume et ce, malgré des conflits qui continuent. Son histoire ne fait que commencer…\n\nDisponibilité France : Crunchyroll.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/305313"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/305313-romeria-zhan-ji/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:305313",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:297903",
       "type": "series",
       "name": "PSYREN",
@@ -2459,6 +2433,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:297903",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:305313",
+      "type": "series",
+      "name": "Romelia War Chronicle",
+      "poster": "https://image.tmdb.org/t/p/w500/2wqyITVWs1wZMih2VraylRjqzCo.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6LeBjYSPULKwSv5R6sX6Iovwoad.jpg",
+      "description": "Sa victoire sur le Roi-Démon aurait dû être le triomphe de Romélia. Au lieu de cela, son fiancé, le prince Henri, rompt leurs fiançailles et la renvoie dans une province en ruines. Mais Romélia ne se laisse pas abattre. Elle jure de lever une armée, de reconstruire le royaume et ce, malgré des conflits qui continuent. Son histoire ne fait que commencer…\n\nDisponibilité France : Crunchyroll.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/305313"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/305313-romeria-zhan-ji/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:305313",
         "hasScheduledVideos": true
       }
     },
@@ -3171,7 +3171,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/1lVbKPOVjTV02FtLqiPk9F9z1Fh.jpg",
       "description": "Deborah Wayne entame sa première année à Hillman — l'université historiquement noire (HBCU) fréquentée par ses parents — et découvre qu'il est difficile d'échapper à leur ombre. Elle entreprend de bâtir son propre héritage, tout en vivant les meilleurs moments de sa vie, aux côtés d'une nouvelle génération d'étudiants brillants et prometteurs.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.4",
       "links": [
         {
           "name": "TMDB",
@@ -3561,7 +3561,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/zOcEo3oQf9KDPPxZueNhReN6TBr.jpg",
       "description": "Trois célèbres guerriers tentent de sauver le royaume de Yuria des attaques d'un géant maléfique. Leur noble quête est perturbée par un aventurier débutant et maladroit.\n\nDisponibilité France : Paramount Plus, Paramount Plus Apple TV channel, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.8",
+      "imdbRating": "7.9",
       "links": [
         {
           "name": "TMDB",

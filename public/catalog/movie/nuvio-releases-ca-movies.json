@@ -34,7 +34,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/lRsapglJZIyMfGl8oQyNASlZqDC.jpg",
       "description": "MADDEN retrace le parcours de John Madden, de son partenariat victorieux au Super Bowl avec Al Davis et les Raiders, à son ascension en tant que voix la plus emblématique du football, jusqu'à la création de la franchise mondiale de jeux vidéo Madden NFL. Un hommage à un esprit brillant dont le partenariat avec son épouse Virginia et l'amour contagieux des gens ont transcendé le monde du sport.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.1",
+      "imdbRating": "8",
       "links": [
         {
           "name": "TMDB",
@@ -293,7 +293,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/4BsOLok9WaTTTcSpmoMtCLERScS.jpg",
       "description": "En quête de renouveau, une citadine turbulente échange sa vie avec celle de sa sœur casanière à Noël… et se retrouve avec un paquet d'ennuis à déballer.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.4",
+      "imdbRating": "6.5",
       "links": [
         {
           "name": "TMDB",
@@ -319,7 +319,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/3gIGgmK27lt3YK9EUnZ6iXMHg7Q.jpg",
       "description": "Afin de ne plus figurer sur la liste noire du père Noël, Snoopy fait de son mieux pour avoir une conduite irréprochable.\n\nDisponibilité Canada : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.6",
       "links": [
         {
           "name": "TMDB",
@@ -837,7 +837,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/aDc3Kd0nvII9feQjV0464jIO0ra.jpg",
       "description": "Barbie « Brooklyn » Roberts incarne la Princesse Fée Dragée, tandis que Barbie « Malibu » Roberts tient le rôle de Clara ; ensemble, elles traversent un monde onirique pour récupérer un médaillon dérobé. Elles sont rejointes par Chelsea, la petite sœur de Barbie.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads, Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "1.8",
+      "imdbRating": "1.9",
       "links": [
         {
           "name": "TMDB",
@@ -2211,7 +2211,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/25aB8RXP4mfQLFRSuEEhk0d0sTC.jpg",
       "description": "Débrouillarde, défiant l'autorité et fatiguée d'être traitée comme un fardeau, Judy Heumann transforme son indignation en révolution. En 1977, cette dernière et plus de 100 manifestants luttant pour les droits des personnes handicapées envoient un message très clair : le système est défaillant, pas nous.\n\nDisponibilité Canada : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
@@ -5350,6 +5350,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1662317",
+      "type": "movie",
+      "name": "L'Accident",
+      "poster": "https://image.tmdb.org/t/p/w500/cCJTvf7xZpqoEXF9PFf9t5jttxl.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2iqLoDsatVBwAvHTEzI71p3qBe9.jpg",
+      "description": "Une ado emboutit sa voiture dans un immeuble, tuant son amoureux et son ami. Dans ce documentaire, ce qui semble être un accident tragique devient une affaire de meurtre.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1662317"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1662317-the-crash/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1662317",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1285669",
       "type": "movie",
       "name": "LifeHack",
@@ -5450,32 +5476,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1662858",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1662317",
-      "type": "movie",
-      "name": "L'Accident",
-      "poster": "https://image.tmdb.org/t/p/w500/cCJTvf7xZpqoEXF9PFf9t5jttxl.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/2iqLoDsatVBwAvHTEzI71p3qBe9.jpg",
-      "description": "Une ado emboutit sa voiture dans un immeuble, tuant son amoureux et son ami. Dans ce documentaire, ce qui semble être un accident tragique devient une affaire de meurtre.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1662317"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1662317-the-crash/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1662317",
         "hasScheduledVideos": false
       }
     },
@@ -6007,6 +6007,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/zQO6OyZRA4cXWEU48eAKLs9rbjs.jpg",
       "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
+      "imdbRating": "8",
       "links": [
         {
           "name": "TMDB",
@@ -6448,7 +6449,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/w4ISfPkFLdG0ew07XcrlQSB4O4q.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.3",
+      "imdbRating": "6.2",
       "links": [
         {
           "name": "TMDB",
@@ -7217,32 +7218,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1542877",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1294698",
-      "type": "movie",
-      "name": "Dossier 137",
-      "poster": "https://image.tmdb.org/t/p/w500/t93h1ptV098Q6vzl9gfEymJQ6Qp.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/kjKxmpuPIvXjDP4reWCkMaeK2Es.jpg",
-      "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1294698"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1294698-dossier-137/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1294698",
         "hasScheduledVideos": false
       }
     },
@@ -10033,7 +10008,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/6qQQhhF87Rm1z2TYhXAmoPiEHME.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.8",
+      "imdbRating": "6.9",
       "links": [
         {
           "name": "TMDB",
@@ -10085,7 +10060,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/xXKMcz8m9E3x7fMhKpu9nZYZ1py.jpg",
       "description": "Disponibilité Canada : Paramount Plus, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2025",
-      "imdbRating": "7.8",
+      "imdbRating": "8.1",
       "links": [
         {
           "name": "TMDB",
@@ -11118,32 +11093,6 @@
       }
     },
     {
-      "id": "tmdb:movie:967941",
-      "type": "movie",
-      "name": "Wicked : Pour de bon",
-      "poster": "https://image.tmdb.org/t/p/w500/dHsudKg4Ik44oi0aVy3Vv1Z2oe0.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/cGbPBHKSFO7hSIjxkb3KOaGdOep.jpg",
-      "description": "Elphaba, désormais diabolisée dans sa personnalité de méchante sorcière de l'ouest, vit en exil, cachée dans la forêt d'Oz. Glinda, quant à elle, est devenue le symbole glamour de la bonté pour toute la population d’Oz. Alors que la célébrité de Glinda prend de l'ampleur et qu'elle se prépare à épouser le prince Fiyero lors d'un spectaculaire mariage ozien, elle est hantée par sa séparation d'avec Elphaba. Elle tente une conciliation entre Elphaba et le magicien, mais sans succès, c’est un échec qui sépare encore plus Elphaba et Glinda. Lorsqu'une fille du Kansas viendra bouleverser leur vie à tous, Glinda et Elphaba devront s'unir une dernière fois. Elles devront se porter un regard honnête et empathique, si elles désirent non seulement se changer elles-mêmes, mais également tout Oz, pour de bon.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "6.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/967941"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/967941-wicked-for-good/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:967941",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1208348",
       "type": "movie",
       "name": "Famille à louer",
@@ -11170,6 +11119,32 @@
       }
     },
     {
+      "id": "tmdb:movie:967941",
+      "type": "movie",
+      "name": "Wicked : Pour de bon",
+      "poster": "https://image.tmdb.org/t/p/w500/dHsudKg4Ik44oi0aVy3Vv1Z2oe0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cGbPBHKSFO7hSIjxkb3KOaGdOep.jpg",
+      "description": "Elphaba, désormais diabolisée dans sa personnalité de méchante sorcière de l'ouest, vit en exil, cachée dans la forêt d'Oz. Glinda, quant à elle, est devenue le symbole glamour de la bonté pour toute la population d’Oz. Alors que la célébrité de Glinda prend de l'ampleur et qu'elle se prépare à épouser le prince Fiyero lors d'un spectaculaire mariage ozien, elle est hantée par sa séparation d'avec Elphaba. Elle tente une conciliation entre Elphaba et le magicien, mais sans succès, c’est un échec qui sépare encore plus Elphaba et Glinda. Lorsqu'une fille du Kansas viendra bouleverser leur vie à tous, Glinda et Elphaba devront s'unir une dernière fois. Elles devront se porter un regard honnête et empathique, si elles désirent non seulement se changer elles-mêmes, mais également tout Oz, pour de bon.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/967941"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/967941-wicked-for-good/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:967941",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1448560",
       "type": "movie",
       "name": "Wildcat",
@@ -11192,6 +11167,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1448560",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1294698",
+      "type": "movie",
+      "name": "Dossier 137",
+      "poster": "https://image.tmdb.org/t/p/w500/t93h1ptV098Q6vzl9gfEymJQ6Qp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kjKxmpuPIvXjDP4reWCkMaeK2Es.jpg",
+      "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1294698"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1294698-dossier-137/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1294698",
         "hasScheduledVideos": false
       }
     },
