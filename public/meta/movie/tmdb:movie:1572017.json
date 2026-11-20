@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1572017",
+    "type": "movie",
+    "name": "Love and Wine",
+    "poster": "https://image.tmdb.org/t/p/w500/yo0AlfVD6NHqokwduKi91KshJRI.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/teRLn0uy7Ttggbi7ll5kipPrynv.jpg",
+    "description": "Un jeune homme privilégié travaillant dans l'entreprise de son riche père se retrouve pris au piège d'un mensonge lorsqu'il tombe amoureux d'une étudiante en médecine travailleuse et tente de la convaincre qu'il est issu d'un milieu modeste, comme elle. S'ensuit alors une comédie tourbillonnante mêlant chaos et révélations sincères.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1572017"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1572017-love-and-wine/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1572017",
+      "hasScheduledVideos": false
+    }
+  }
+}

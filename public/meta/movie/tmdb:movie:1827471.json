@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1827471",
+    "type": "movie",
+    "name": "Mike Ward: Modeste",
+    "poster": "https://image.tmdb.org/t/p/w500/oB9Pcb5grM5Gk0TDWZeBZ3vHhDZ.jpg",
+    "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1827471"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1827471-mike-ward-modeste/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1827471",
+      "hasScheduledVideos": false
+    }
+  }
+}
