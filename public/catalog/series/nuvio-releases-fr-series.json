@@ -291,7 +291,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/tjy25xpiFeo2gahl7N0hoxbRtG7.jpg",
       "description": "Un braquage prend 12 mois à préparer, 12 heures à mettre à exécution, et un braqueur qui n'est pas arrêté dans les 12 jours ne le sera jamais. Dans un chassé-croisé haletant de trois temporalités, un agent du FBI et un criminel de carrière se livrent à un jeu dangereux du chat et de la souris, à travers l'Europe.\n\nDisponibilité France : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.1",
+      "imdbRating": "6.3",
       "links": [
         {
           "name": "TMDB",
@@ -369,7 +369,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
       "description": "Dans cette série mockumentaire espiègle, Philomena Cunk part à la découverte de l'histoire du cinéma, sans manquer de laisser plusieurs experts perplexes en chemin.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3",
+      "imdbRating": "7.4",
       "links": [
         {
           "name": "TMDB",
@@ -472,7 +472,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/yb58l4VGT687EbQAYjc6ecPRjmg.jpg",
       "description": "Lorsque sa vie si bien ordonnée vole en éclats, Alicia reprend l'exercice du droit et découvre que reconstruire sa carrière implique aussi de se redéfinir.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.5",
+      "imdbRating": "6.4",
       "links": [
         {
           "name": "TMDB",
@@ -3457,7 +3457,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
       "description": "Prisonnière d'une cruelle famille victorienne, Lizzie Borden massacre ses parents à la hache dans un crime sanglant qui choque toute une nation.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "7.1",
       "links": [
         {
           "name": "TMDB",
@@ -5374,32 +5374,6 @@
       }
     },
     {
-      "id": "tmdb:tv:302051",
-      "type": "series",
-      "name": "Légende vivante",
-      "poster": "https://image.tmdb.org/t/p/w500/v1qWtWt9sYOabDgzcztsYb9hH73.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ttcHr50V6A4JNKUlkIhhLsX9c04.jpg",
-      "description": "Mage de rang S au sein d’un groupe du héros, Luck a livré seul le combat contre le Roi Démon pour sauver ses compagnons. Lorsqu’il revient enfin victorieux, dix ans se sont écoulés et le monde le vénère comme un héros légendaire mort au combat. Ne pouvant retrouver sa vie d’avant, Luck cache son identité et recommence à zéro sous le nom de « Lock »…\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/302051"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/302051-kokoha-an-ni-ren-sete-xian-ni-xing-keto-yan-ttekara10-nian-gatattara-yun-shuo-ninatteita/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:302051",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:284581",
       "type": "series",
       "name": "The Insipid Prince's Furtive Grab for the Throne",
@@ -5422,6 +5396,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:284581",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:302051",
+      "type": "series",
+      "name": "Légende vivante",
+      "poster": "https://image.tmdb.org/t/p/w500/v1qWtWt9sYOabDgzcztsYb9hH73.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ttcHr50V6A4JNKUlkIhhLsX9c04.jpg",
+      "description": "Mage de rang S au sein d’un groupe du héros, Luck a livré seul le combat contre le Roi Démon pour sauver ses compagnons. Lorsqu’il revient enfin victorieux, dix ans se sont écoulés et le monde le vénère comme un héros légendaire mort au combat. Ne pouvant retrouver sa vie d’avant, Luck cache son identité et recommence à zéro sous le nom de « Lock »…\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/302051"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/302051-kokoha-an-ni-ren-sete-xian-ni-xing-keto-yan-ttekara10-nian-gatattara-yun-shuo-ninatteita/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:302051",
         "hasScheduledVideos": true
       }
     },
@@ -7067,7 +7067,7 @@
       "type": "series",
       "name": "The WONDERfools",
       "poster": "https://image.tmdb.org/t/p/w500/qWqQrZTUQ4MALLpkBFALhXGsodX.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/y2u7d8evmnTivi3LaVql01Sfea4.jpg",
       "description": "Dans cette série d'action déjantée, une bande de bras cassés du coin se découvre des super-pouvoirs et lutte contre le mal sur fond de panique apocalyptique.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "8.7",
