@@ -138,7 +138,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
       "description": "Quand une garde du corps intraitable est chargée de protéger une star de cinéma, les étincelles fusent, des secrets éclatent au grand jour et Noël devient soudain très compliqué.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "7.1",
       "links": [
         {
           "name": "TMDB",
@@ -216,7 +216,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/lRsapglJZIyMfGl8oQyNASlZqDC.jpg",
       "description": "Inspiré de la vie d'une icône américaine, MADDEN retrace le parcours de John Madden : de son duo victorieux avec Al Davis chez les Raiders à son rôle de voix emblématique du football, jusqu'à la création du jeu vidéo mythique Madden NFL. Ce film rend hommage à un esprit brillant dont la passion débordante et la complicité avec son épouse Virginia ont dépassé le simple cadre du sport.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
@@ -268,7 +268,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/OiXyM1w9NxdV450GpV92B0YPMj.jpg",
       "description": "Dans cette adaptation du roman d'Alex Mírez, Jude Derry infiltre l'université privée de Tagus et le cercle des frères Cash afin de découvrir la vérité sur la mort de son frère. Ce qui commence comme une quête de vengeance se transforme en un dangereux triangle de séduction, d'attirance interdite et de mensonges, la rapprochant d'une vérité qu'elle n'est peut-être pas prête à affronter.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.9",
+      "imdbRating": "7.3",
       "links": [
         {
           "name": "TMDB",
@@ -313,6 +313,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1595124",
+      "type": "movie",
+      "name": "Soeurs de sort",
+      "poster": "https://image.tmdb.org/t/p/w500/2rOCe6L9qwFoakYrWFVnICSbmLK.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
+      "description": "Vous pensiez tout savoir sur les \"méchantes\" demi-sœurs de Cendrillon ? Détrompez-vous ! Lassée de vivre dans l'ombre de Cendrillon, Lilith vole la baguette magique de la bonne fée et sabote le bal royal avec sa sœur Margot. En changeant le cours de l'histoire que l'on connaît, elle condamne le royaume au règne tyrannique de Priscilla, une usurpatrice machiavélique qui s'empare du trône. Dans une quête épique, Lilith doit alors s'allier à Cendrillon et affronter des trolls à moto, semer des sbires malfaisants ou encore s'échapper de la Forêt hurlante pour tenter de sauver non seulement le royaume, mais aussi leur relation.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1595124"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1595124-steps/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1595124",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1518204",
       "type": "movie",
       "name": "Allen",
@@ -320,7 +346,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/51fGmBW7WjyJouP9TjIcxRpCUNk.jpg",
       "description": "Vingt ans après sa rencontre avec un alien, Petey n'a jamais pu tourner la page. Maintenant, son vieil ami est de retour, mais pour une raison compliquée... et inattendue.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.5",
+      "imdbRating": "6.4",
       "links": [
         {
           "name": "TMDB",
@@ -1044,7 +1070,7 @@
       "id": "tmdb:movie:1621552",
       "type": "movie",
       "name": "La captura",
-      "poster": "https://image.tmdb.org/t/p/w500/my8euQR37XeJ8lfLz3XgBR03R45.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/jCZFj8b6y8QoeWzAsRVE4ldEiNn.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
       "description": "Deux agents mexicains doivent survivre aux dernières heures de leur service après avoir froissé un chef de cartel dans ce drame policier inspiré de faits réels.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
@@ -1713,6 +1739,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1386315",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1307474",
+      "type": "movie",
+      "name": "Vicentina demande pardon",
+      "poster": "https://image.tmdb.org/t/p/w500/j3jheqT8incVBBtB9dTXdvavu2i.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tTevcc0y0EQLeEyg4aMsrGyy7NO.jpg",
+      "description": "Un accident mortel. Une mère rongée par la culpabilité. Des familles en deuil. Vicentina veut réparer le mal causé par son fils. Mais est-il trop tard pour obtenir le pardon ?\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1307474"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1307474-vicentina-pede-desculpas/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1307474",
         "hasScheduledVideos": false
       }
     },
@@ -3414,7 +3466,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/bjdgmMhTKcxqFO7RdXYhTlGzffB.jpg",
       "description": "Des décennies après les crimes qui ont secoué le Brésil, Suzane von Richthofen s'exprime dans des entrevues exclusives sur le meurtre de ses parents et ce qui en a découlé.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5",
+      "imdbRating": "5.1",
       "links": [
         {
           "name": "TMDB",
@@ -3481,6 +3533,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1034716",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1791730",
+      "type": "movie",
+      "name": "Primetime Preacher$",
+      "poster": "https://image.tmdb.org/t/p/w500/ilFRKYUhsYyW0mpSifpFZmpR9yo.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gwrGO8A61CtuxxurWjo3OAl1wcO.jpg",
+      "description": "Ce livre relate l'âge d'or des années 1980 pour la radiodiffusion chrétienne, en détaillant comment trois des télévangélistes les plus en vue d'Amérique ont transformé le christianisme évangélique en une force politique massive.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1791730"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1791730-primetime-preacher/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1791730",
         "hasScheduledVideos": false
       }
     },
@@ -4895,7 +4973,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/eBtITrrdFo1EG7t6TSG5U5c4P2e.jpg",
       "description": "Marlene Frischmann, mère célibataire, organise la fête d'anniversaire parfaite pour son fils Theo dans la superbe maison de campagne de son frère : ballons, gâteau sans gluten, piñata et même quelques animaux sauvages devraient rendre cette journée inoubliable. Mais cette célébration préparée avec amour ne tarde pas à virer au cauchemar, entre débats enflammés sur l'éducation, la masculinité et les principes parentaux. Un drôle de désordre en partie engendré par Timo, le frère de Marlene, banquier turbulent, Hans, son père excentrique à la dérive, Jenny, sa collègue idéaliste qui rêve de sauver le monde, et un cadeau très spécial. Entre structures familiales dysfonctionnelles, mères surprotectrices prétentieuses et anarchie enfantine, la fête sombre peu à peu dans le chaos.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6",
+      "imdbRating": "6.1",
       "links": [
         {
           "name": "TMDB",
@@ -5533,6 +5611,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1762506",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1365378",
+      "type": "movie",
+      "name": "Le rêve américain",
+      "poster": "https://image.tmdb.org/t/p/w500/bURZdEMPoaxOCPstwfZ2gYfhqGx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bQPWY2u154jJ5koDp9KcM67Wioi.jpg",
+      "description": "Personne n'aurait parié sur Jérémy, coincé derrière le comptoir d’un vidéo club à Amiens, ou sur Bouna, lorsqu'il faisait des ménages à l’aéroport d’Orly. Sans contacts, sans argent et avec un niveau d'anglais plus qu’approximatif, rien ne les prédestinait à devenir des agents qui comptent en NBA.  Inspiré d’une histoire vraie, ce film raconte le parcours de deux outsiders qui, grâce à leur passion absolue pour le basket et leur amitié indéfectible, ont bravé tous les obstacles pour réaliser leur Rêve Américain.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1365378"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1365378-le-reve-americain/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1365378",
         "hasScheduledVideos": false
       }
     },
@@ -7769,6 +7873,31 @@
       }
     },
     {
+      "id": "tmdb:movie:1737129",
+      "type": "movie",
+      "name": "HB2Me",
+      "poster": "https://image.tmdb.org/t/p/w500/3V52qsWdwqL7pvxS5aXv2RSg2sW.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hrwpI9Y5K9B97RvfXqKXCOrXoav.jpg",
+      "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1737129"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1737129-hb2me/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1737129",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1656489",
       "type": "movie",
       "name": "Sultana",
@@ -7899,6 +8028,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1489931",
+      "type": "movie",
+      "name": "Suzzanna: Santet Dosa di Atas Dosa",
+      "poster": "https://image.tmdb.org/t/p/w500/aNRfWMwoCbOEr78q0rR6YJw949m.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/x1xLzh1w9wn9lq5KCzlrxIQWzS0.jpg",
+      "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1489931"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1489931-suzzanna-santet-dosa-di-atas-dosa/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1489931",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1239198",
       "type": "movie",
       "name": "Mi querida señorita",
@@ -7921,32 +8076,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1239198",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1489931",
-      "type": "movie",
-      "name": "Suzzanna: Santet Dosa di Atas Dosa",
-      "poster": "https://image.tmdb.org/t/p/w500/aNRfWMwoCbOEr78q0rR6YJw949m.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/x1xLzh1w9wn9lq5KCzlrxIQWzS0.jpg",
-      "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.3",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1489931"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1489931-suzzanna-santet-dosa-di-atas-dosa/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1489931",
         "hasScheduledVideos": false
       }
     },
@@ -8519,6 +8648,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1340110",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1541413",
+      "type": "movie",
+      "name": "Un meurtre mystérieux à Noël",
+      "poster": "https://image.tmdb.org/t/p/w500/rotc7GM3PMdvHs1a9yQVtvDb55W.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ewtPu1qSYVDl5Mv5SP6Du08XQHN.jpg",
+      "description": "Vera travaille à temps partiel comme responsable des jeux de réflexion dans un journal et comme consultante pour le shérif local. Après avoir été invitée par une famille aisée à passer les fêtes avec elle, le patriarche est assassiné et c'est à Vera qu'il revient de résoudre l'affaire.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "5.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1541413"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1541413-a-christmas-murder-mystery/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1541413",
         "hasScheduledVideos": false
       }
     },
@@ -9439,7 +9594,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/ZotF04zyv7iVTSbpCHEbx4HUde.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/2MIJOoBXGTN4igYeibSz7tlImLk.jpg",
       "description": "Morgan et Gabe, voisins et amis de longue date, partagent une passion pour les Buffalo Bills. En enquêtant sur un mystérieux bienfaiteur qui aide sa famille depuis 60 ans, Morgan se rapproche de Gabe. Ensemble, ils vont vivre un Noël inoubliable, entre secrets, famille et amour.\n\nDisponibilité France : Netflix, Netflix Standard with Ads, TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
+      "releaseInfo": "2026",
       "imdbRating": "6.1",
       "links": [
         {

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1464883",
+    "type": "movie",
+    "name": "The President's Cake",
+    "poster": "https://image.tmdb.org/t/p/w500/5IWS1sawqYoyKx8hUIEGgMXkAlX.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
+    "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "7.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1464883"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1464883-the-president-s-cake/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1464883",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -34,7 +34,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/hYJqUoXRZnodGxgVZTM8uwr5kbC.jpg",
       "description": "Le soir d'Halloween, un rite d'initiation vire au cauchemar, faisant basculer une troupe de danseuses dans la culpabilité catholique, les désirs impies et les visions étranges.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8",
+      "imdbRating": "7.9",
       "links": [
         {
           "name": "TMDB",
@@ -365,6 +365,32 @@
       }
     },
     {
+      "id": "tmdb:tv:300523",
+      "type": "series",
+      "name": "The Blue Road",
+      "poster": "https://image.tmdb.org/t/p/w500/lHWdz8ZOEhtuzaZFg81oYUTP7Bx.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
+      "description": "À Tokyo, un corps disloqué est découvert, accompagné d'une inscription en coréen. Ce message sidérant en lettres de sang permet à la police japonaise de faire le lien avec un fait troublant : un meurtre identique a été commis en Corée. Les autorités coréennes et japonaises lancent alors une enquête conjointe pour arrêter le tueur en série qui opère dans leurs deux pays et laisse des indices dans chaque langue. Pour ce faire, les inspecteurs suivent une piste mystérieuse qui s'étend au-delà de Séoul et de Tokyo.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/300523"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/300523-puleungil/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:300523",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:95350",
       "type": "series",
       "name": "Lanterns",
@@ -580,7 +606,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
       "description": "Lorsque l'affaire d'un tueur en série d'enfants refait surface après 25 ans, devenant un problème juridique et social non résolu, deux anciens amis sont contraints de se confronter aux choix qui ont brisé leur amitié et façonné leurs vies.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.7",
+      "imdbRating": "6.6",
       "links": [
         {
           "name": "TMDB",
@@ -996,7 +1022,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
       "description": "Alors qu’un détective privé enquête sur la disparition du jeune héritier d’une puissante entreprise de pêche, il se retrouve en désaccord avec un détective local méfiant, un charismatique professeur d’université qui aime les hommes plus jeunes, et un labyrinthe de suspects énigmatiques, de vies secrètes et de magie ancienne.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "7.1",
       "links": [
         {
           "name": "TMDB",
@@ -1906,7 +1932,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/8mmDLb108DoFZlE8sfc64TRqLvm.jpg",
       "description": "À 19 ans, Sherlock Holmes est sans expérience, quand il se retrouve embarqué par le mystère autour d'un meurtre survenu à l’Université d’Oxford. Plongeant dans sa toute première affaire avec un manque certain de discipline, le jeune homme tente de démêler une conspiration qui pourrait changer sa vie à jamais.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.8",
       "links": [
         {
           "name": "TMDB",
@@ -2504,7 +2530,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
       "description": "Entre loyer impayé, emplois perdus et dépendance à la cigarette, Yani la fille-chatte doit repenser son avenir sous la pression de ses proches.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.2",
+      "imdbRating": "8.1",
       "links": [
         {
           "name": "TMDB",
@@ -8403,7 +8429,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
       "description": "Printemps 1959. Treize voyageurs se retrouvent isolés par une tempête sur une île près de Majorque. Personne ne se doute encore de ce qui les attend dans le petit hôtel où ils séjournent : Elisa Mander, une discrète touriste d'origine britannique, y est retrouvée morte. Ce qui semble d'abord être un suicide pourrait en réalité s'avérer plus troublant… un meurtre. Basil, acteur à la retraite qui incarnait autrefois l'illustre Sherlock Holmes au cinéma, est chargé, presque sans le vouloir, de comprendre ce qu'il s'est passé. Dans un lieu que personne ne peut quitter ni rejoindre, chaque client et membre du personnel devient alors suspect dans une enquête qui se révèle, le temps passant, plus complexe et tortueuse qu'il n'y paraît.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
@@ -8626,6 +8652,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:280511",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:298103",
+      "type": "series",
+      "name": "My Stepmother and Stepsisters Aren't Wicked",
+      "poster": "https://image.tmdb.org/t/p/w500/sGnT4zKhXbUQtbcjjGzNzSaWvHI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7v0FA0jeFAiH2kRscuyY2b5aM2d.jpg",
+      "description": "À la mort de sa mère, Miya, enfant illégitime d’une famille noble, est recueillie par la branche principale de la famille Kôzô. Persuadée que son statut d’enfant de concubine lui vaudra le mépris de sa belle-mère implacable et de ses demi-sœurs cruelles, elle se prépare à une vie de solitude et d’humiliations. Pourtant, derrière leurs airs intimidants, les femmes du clan se révèlent bien plus tendres que la jeune fille ne l’avait imaginé.\n\nDisponibilité France : Animation Digital Network, Anime Digital Network Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/298103"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/298103-ibittekonai-yi-mu-to-yi-zi/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:298103",
         "hasScheduledVideos": true
       }
     },
@@ -9408,6 +9460,32 @@
       }
     },
     {
+      "id": "tmdb:tv:322427",
+      "type": "series",
+      "name": "The American Experiment : Une nation à l'épreuve du temps",
+      "poster": "https://image.tmdb.org/t/p/w500/tBLJ7Te2NqXQyGCpR4MSqtfsP10.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fFIWAFUj8TlKafcPUSJlX75dQcM.jpg",
+      "description": "La vie. La liberté. La poursuite du bonheur. Cette série documentaire ambitieuse retrace comment les idéaux des pères fondateurs des États-Unis ont donné naissance à une nation.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/322427"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/322427-the-american-experiment/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:322427",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:286360",
       "type": "series",
       "name": "Le Garçon du dernier rang",
@@ -10157,6 +10235,57 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:294280",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:314131",
+      "type": "series",
+      "name": "MELANIA la série",
+      "poster": "https://image.tmdb.org/t/p/w500/75uNmW51SXsljGTFpNuH464eW4r.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ithzPRYsTWy5umOK9rSbTAiDGat.jpg",
+      "description": "Vivez la transition de Melania Trump au rôle de Première dame, alors qu'elle évolue à la Maison Blanche et met sa mission en œuvre.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/314131"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/314131-melania-the-series/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:314131",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:299134",
+      "type": "series",
+      "name": "The Food Diary of Miss Maid",
+      "poster": "https://image.tmdb.org/t/p/w500/3HYUZAeE1WrA9ATGv6GjeyL6mOO.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/z53MYSiEOGvQ3tcD51I3Sb35Frx.jpg",
+      "description": "Que peut bien faire une jeune servante lorsqu’elle se retrouve coincée au Japon pour un an ? Manger, bien sûr ! Suivez Suzume Tachibana, apprentie servante, prête à goûter toutes sortes de spécialités japonaises : des douceurs comme le taiyaki et le pain melon aux en-cas salés comme le takoyaki et les onigiri !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/299134"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/299134-meidosanha-shi-berudake/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:299134",
         "hasScheduledVideos": true
       }
     },
@@ -11102,7 +11231,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/ryBFDxselVFSGGNCNIXrc8F6XgY.jpg",
       "description": "En mai 2005, un groupe de lycéens d'une petite ville de l'Alabama célèbre la fin de ses études lors d'un voyage à Aruba. Mais Natalee Holloway, 18 ans, ne se présente jamais à l'embarquement pour le vol retour.\n\nSa disparition soudaine déclenche une vaste couverture médiatique et d'intenses recherches qui vont durer des années.\n\nPlus de vingt ans après les faits, sa mère, Beth Holloway, revient pour la première fois sur l'intégralité de cette affaire, depuis la disparition de sa fille jusqu'aux aveux spectaculaires du principal suspect. À travers des témoignages inédits, des images jamais dévoilées et l'accès à des enquêteurs, cette série documentaire retrace le combat acharné d'une mère pour découvrir la vérité.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.3",
       "links": [
         {
           "name": "TMDB",

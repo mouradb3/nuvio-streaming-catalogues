@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:300523",
+    "type": "series",
+    "name": "The Blue Road",
+    "poster": "https://image.tmdb.org/t/p/w500/lHWdz8ZOEhtuzaZFg81oYUTP7Bx.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
+    "description": "À Tokyo, un corps disloqué est découvert, accompagné d'une inscription en coréen. Ce message sidérant en lettres de sang permet à la police japonaise de faire le lien avec un fait troublant : un meurtre identique a été commis en Corée. Les autorités coréennes et japonaises lancent alors une enquête conjointe pour arrêter le tueur en série qui opère dans leurs deux pays et laisse des indices dans chaque langue. Pour ce faire, les inspecteurs suivent une piste mystérieuse qui s'étend au-delà de Séoul et de Tokyo.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/300523"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/300523-puleungil/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:300523",
+      "hasScheduledVideos": true
+    }
+  }
+}

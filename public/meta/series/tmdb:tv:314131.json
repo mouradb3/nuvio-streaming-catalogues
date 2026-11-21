@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:tv:314131",
+    "type": "series",
+    "name": "MELANIA la série",
+    "poster": "https://image.tmdb.org/t/p/w500/75uNmW51SXsljGTFpNuH464eW4r.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ithzPRYsTWy5umOK9rSbTAiDGat.jpg",
+    "description": "Vivez la transition de Melania Trump au rôle de Première dame, alors qu'elle évolue à la Maison Blanche et met sa mission en œuvre.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/314131"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/314131-melania-the-series/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:314131",
+      "hasScheduledVideos": true
+    }
+  }
+}
