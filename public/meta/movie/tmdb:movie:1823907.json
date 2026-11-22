@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1823907",
+    "type": "movie",
+    "name": "Russell Brand: Open Secret",
+    "poster": "https://image.tmdb.org/t/p/w500/rYhOUFkNRwD4ETV7BFcsID53yyi.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/sdYU5S9SMWk9Wr3IMP0538k341l.jpg",
+    "description": "De la gloire comique au procès pénal, des témoignages et des images d'archives retracent l'ascension fulgurante et la chute brutale du comédien britannique Russell Brand suite à des allégations d'agressions sexuelles.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1823907"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1823907-russell-brand-open-secret/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1823907",
+      "hasScheduledVideos": false
+    }
+  }
+}

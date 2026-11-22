@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:329987",
+    "type": "series",
+    "name": "11 septembre : Destins croisés",
+    "poster": "https://image.tmdb.org/t/p/w500/aIn7N68VOOG7LxPbaM6w9jtE9Xm.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/97MBKEskobZSHT0f0wzZVRYd2fg.jpg",
+    "description": "Le récit du 11 septembre à travers les yeux des survivants qui ont vécu des moments de vie ou de mort avec des inconnus ce jour-là et qui souhaitent maintenant les revoir.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/329987"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/329987-9-11-reunited/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:329987",
+      "hasScheduledVideos": true
+    }
+  }
+}

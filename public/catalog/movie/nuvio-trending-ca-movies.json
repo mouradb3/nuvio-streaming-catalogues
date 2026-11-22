@@ -190,7 +190,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
       "description": "Dans cette charmante comédie d'action, Lilith, la « méchante » demi-sœur de Cendrillon, vole la baguette de la bonne fée marraine et bouleverse le conte tel qu'on le connaît.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.6",
+      "imdbRating": "6.7",
       "links": [
         {
           "name": "TMDB",
@@ -216,7 +216,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/OiXyM1w9NxdV450GpV92B0YPMj.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "7.1",
       "links": [
         {
           "name": "TMDB",
@@ -762,7 +762,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/3gIGgmK27lt3YK9EUnZ6iXMHg7Q.jpg",
       "description": "Afin de ne plus figurer sur la liste noire du père Noël, Snoopy fait de son mieux pour avoir une conduite irréprochable.\n\nDisponibilité Canada : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.8",
       "links": [
         {
           "name": "TMDB",
@@ -941,7 +941,7 @@
       "type": "movie",
       "name": "Noël dans ta peau",
       "poster": "https://image.tmdb.org/t/p/w500/uUKX2NRLxEtqsd6O8MJ8ucFVxf2.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/fwbtyZH1LcxhIfN8NZGxHJ8OqDN.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tNoB9ptCmp8bzdanndxswxrOfG6.jpg",
       "description": "En quête de renouveau, une citadine turbulente échange sa vie avec celle de sa sœur casanière à Noël… et se retrouve avec un paquet d'ennuis à déballer.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "6.5",
@@ -1490,7 +1490,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3",
+      "imdbRating": "7.2",
       "links": [
         {
           "name": "TMDB",
@@ -1646,7 +1646,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/3DV7c9FoogMORFGUFDbTcCtzxOr.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads, AMC+ Amazon Channel, Shudder.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.3",
+      "imdbRating": "5.2",
       "links": [
         {
           "name": "TMDB",
@@ -1687,6 +1687,31 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1171145",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1773334",
+      "type": "movie",
+      "name": "Our Holiday Playbook",
+      "poster": "https://image.tmdb.org/t/p/w500/sSgjBkHCdhyPj0l9YWwVwxeXV6D.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uXMzojW1TAyqlZej4ro5mbj2wli.jpg",
+      "description": "Disponibilité Canada : StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1773334"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1773334-our-holiday-playbook/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1773334",
         "hasScheduledVideos": false
       }
     },
@@ -2190,7 +2215,7 @@
       "name": "The Mortuary Assistant",
       "poster": "https://image.tmdb.org/t/p/w500/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
-      "description": "Disponibilité Canada : AMC Plus Apple TV channel, AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "description": "Disponibilité Canada : AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "5.2",
       "links": [
@@ -3381,6 +3406,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1727780",
+      "type": "movie",
+      "name": "Borderline",
+      "poster": "https://image.tmdb.org/t/p/w500/sAA2mjpYJFAKydtzG4P4aHC4mZk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wPSOPYy2fV62GjeXpVdKyweZGZu.jpg",
+      "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1727780"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1727780-borderline/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1727780",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1612018",
       "type": "movie",
       "name": "Jackass : le meilleur pour la fin",
@@ -3537,6 +3588,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1823907",
+      "type": "movie",
+      "name": "Russell Brand: Open Secret",
+      "poster": "https://image.tmdb.org/t/p/w500/rYhOUFkNRwD4ETV7BFcsID53yyi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/sdYU5S9SMWk9Wr3IMP0538k341l.jpg",
+      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1823907"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1823907-russell-brand-open-secret/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1823907",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1292695",
       "type": "movie",
       "name": "Ils te tueront",
@@ -3570,7 +3647,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/mwqxKmbW6ssqa5CKHrgocqbkL0C.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "7.1",
       "links": [
         {
           "name": "TMDB",
@@ -4090,7 +4167,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/q5IF3IHgKC4cQqQCp0VjllNkJp6.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.9",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
@@ -4478,7 +4555,7 @@
       "name": "Saccharine",
       "poster": "https://image.tmdb.org/t/p/w500/l2Z5Zkbar7e1xSYghW84yQ5bSWY.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/7NUx7bQAD4lo9yMDbprvIblhWo2.jpg",
-      "description": "Disponibilité Canada : AMC Plus Apple TV channel, AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "description": "Disponibilité Canada : AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "7.1",
       "links": [
@@ -4894,7 +4971,7 @@
       "name": "The Whistler",
       "poster": "https://image.tmdb.org/t/p/w500/sX8tqkFR1aqZaLQ4Jgb8jEMB4RN.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/qz8m7DGpuhc4RJmCbHsdueQKkTg.jpg",
-      "description": "Sous le choc de la perte de leur fille, Nicole et Sebastian prennent possession d’une ferme vénézuélienne isolée, ignorant les forces obscures qu’ils s’apprêtent à affronter.\n\nDisponibilité Canada : AMC Plus Apple TV channel, AMC+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "description": "Sous le choc de la perte de leur fille, Nicole et Sebastian prennent possession d’une ferme vénézuélienne isolée, ignorant les forces obscures qu’ils s’apprêtent à affronter.\n\nDisponibilité Canada : AMC+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "4.9",
       "links": [
@@ -5071,32 +5148,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1664682",
-      "type": "movie",
-      "name": "Suzane von Richthofen: O Que o Tempo Não Apaga",
-      "poster": "https://image.tmdb.org/t/p/w500/jWH2UAaQX0vONTqOgFTr87tvnNn.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/bjdgmMhTKcxqFO7RdXYhTlGzffB.jpg",
-      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.1",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1664682"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1664682-suzane-von-richthofen-o-que-o-tempo-nao-apaga/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1664682",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1750432",
       "type": "movie",
       "name": "Spidey and the Avengers: Halloween Team-Up!",
@@ -5119,6 +5170,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1750432",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1664682",
+      "type": "movie",
+      "name": "Suzane von Richthofen: O Que o Tempo Não Apaga",
+      "poster": "https://image.tmdb.org/t/p/w500/jWH2UAaQX0vONTqOgFTr87tvnNn.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bjdgmMhTKcxqFO7RdXYhTlGzffB.jpg",
+      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1664682"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1664682-suzane-von-richthofen-o-que-o-tempo-nao-apaga/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1664682",
         "hasScheduledVideos": false
       }
     },
@@ -5907,7 +5984,7 @@
       "name": "Yön lapsi",
       "poster": "https://image.tmdb.org/t/p/w500/y0BxJMOZSHiZZlaPyOcQH6cVW4m.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/hsbuaWwvnDT5JPbyp4wpXPHsfRb.jpg",
-      "description": "Disponibilité Canada : AMC Plus Apple TV channel, AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "description": "Disponibilité Canada : AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "5.9",
       "links": [
@@ -7046,37 +7123,11 @@
       }
     },
     {
-      "id": "tmdb:movie:1432706",
-      "type": "movie",
-      "name": "Bury the Devil",
-      "poster": "https://image.tmdb.org/t/p/w500/yQ3GeVsebrhOPIBhIdoSslbndEv.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/lWVnUBYG7nIb84gxa3tSeP8CghA.jpg",
-      "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1432706"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1432706-bury-the-devil/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1432706",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1807995",
       "type": "movie",
       "name": "Postcards for Christmas",
       "poster": "https://image.tmdb.org/t/p/w500/aC3i0Dnm3hEDKuqVnMVPbP76rRg.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/sAdFWmFSKDs5fzXRLpIW9QG4nct.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/aZSp5uEKlPuMTTKn30ywMMCSBKr.jpg",
       "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "1",
@@ -7441,7 +7492,7 @@
       "name": "The Yeti",
       "poster": "https://image.tmdb.org/t/p/w500/zaqEfoKcWkVni2eONhJ7DRhMO8Q.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/1ytf7rzkZ7RLlMnBdGggQ0ENe6z.jpg",
-      "description": "Disponibilité Canada : AMC Plus Apple TV channel, AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "description": "Disponibilité Canada : AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "5.8",
       "links": [
@@ -7703,7 +7754,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/3eZQoaWm2cDE2QV02GUHUrWsxAC.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
@@ -8584,7 +8635,7 @@
       "name": "The Plague",
       "poster": "https://image.tmdb.org/t/p/w500/agW0Xi07cpuhGiguRx9FeJvMkAA.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/kHyN3PejjlYWYz1Eah3jS64oV0g.jpg",
-      "description": "Disponibilité Canada : AMC Plus Apple TV channel, AMC+, Crave, Crave Amazon Channel, Sundance Now, Sundance Now Amazon Channel, Sundance Now Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "description": "Disponibilité Canada : AMC+, Crave, Crave Amazon Channel, Sundance Now, Sundance Now Amazon Channel, Sundance Now Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2025",
       "imdbRating": "6.4",
       "links": [
@@ -8636,7 +8687,7 @@
       "name": "Bodycam",
       "poster": "https://image.tmdb.org/t/p/w500/xFpBNcG3Dlr8mYF5Kz9Tizs3Pxn.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/qmWypRw88VYp35oTQn0a1sqdZRs.jpg",
-      "description": "Disponibilité Canada : AMC Plus Apple TV channel, AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "description": "Disponibilité Canada : AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "6",
       "links": [
@@ -8716,7 +8767,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/lIvkPPTAHBpKhifdczZH0s8eozB.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.9",
+      "imdbRating": "6.8",
       "links": [
         {
           "name": "TMDB",
@@ -8809,6 +8860,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1175174",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1461254",
+      "type": "movie",
+      "name": "살목지",
+      "poster": "https://image.tmdb.org/t/p/w500/uVJyWlSPCWftRUXRM6lxTqOzPY6.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/edVIvTc8RofOTxoAZN7a5kxIAay.jpg",
+      "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1461254"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1461254-salmogji/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1461254",
         "hasScheduledVideos": false
       }
     },
@@ -8924,7 +9001,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/VhBMTmRt7lFKddjCqFTe0jRa1E.jpg",
       "description": "Disponibilité Canada : Paramount Plus, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.6",
+      "imdbRating": "5.8",
       "links": [
         {
           "name": "TMDB",
@@ -8965,6 +9042,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1596303",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1494715",
+      "type": "movie",
+      "name": "NEW GROUP",
+      "poster": "https://image.tmdb.org/t/p/w500/5fnZKydj3B20tsySo3txImCTJRJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/t8twfnytLPitdJzNVU1yjP4gjD7.jpg",
+      "description": "Disponibilité Canada : AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1494715"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1494715-new-group/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1494715",
         "hasScheduledVideos": false
       }
     },
@@ -9909,7 +10012,7 @@
       "name": "Night Nurse",
       "poster": "https://image.tmdb.org/t/p/w500/cvj1d5avMYRxK8FVpq07UqLrcbZ.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/dcJFy0rtVZp4LqPw1aqyxa046VP.jpg",
-      "description": "Disponibilité Canada : AMC Plus Apple TV channel, AMC+, Sundance Now, Sundance Now Amazon Channel, Sundance Now Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "description": "Disponibilité Canada : AMC+, Sundance Now, Sundance Now Amazon Channel, Sundance Now Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "4.8",
       "links": [
@@ -10116,7 +10219,7 @@
       "name": "Montréal, ma belle",
       "poster": "https://image.tmdb.org/t/p/w500/xgJqnAfbI7IlSre1zEdMFxrkRD5.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/tyPl9khvcjJl5RNT7EEuYkuwiu.jpg",
-      "description": "Feng Xia, immigrante chinoise de 53 ans et mère de famille vivant à Montréal, a passé sa vie dans une obéissance silencieuse — envers sa famille, sa culture, et un mariage fondé sur le non-dit. Mais lorsqu’elle rencontre Camille, une jeune Québécoise libre et insouciante, un désir longtemps réprimé refait surface. Sous la chaleur étouffante de l’été montréalais, Feng Xia ose, pour la première fois, se choisir. Son aventure amoureuse interdite et sa quête de soi deviennent une confrontation bouleversante avec ses choix, son passé et le prix de la liberté.\n\nDisponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "description": "Feng Xia, immigrante chinoise de 53 ans et mère de famille vivant à Montréal, a passé sa vie dans une obéissance silencieuse — envers sa famille, sa culture, et un mariage fondé sur le non-dit. Mais lorsqu’elle rencontre Camille, une jeune Québécoise libre et insouciante, un désir longtemps réprimé refait surface. Sous la chaleur étouffante de l’été montréalais, Feng Xia ose, pour la première fois, se choisir. Son aventure amoureuse interdite et sa quête de soi deviennent une confrontation bouleversante avec ses choix, son passé et le prix de la liberté.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads, Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "6.9",
       "links": [
@@ -10662,7 +10765,7 @@
       "name": "Touch Me",
       "poster": "https://image.tmdb.org/t/p/w500/drcloenCH7ZautM7hnd9r9WScNV.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/kQ3V85ke3LKA4dnww2tH42bsZfX.jpg",
-      "description": "Disponibilité Canada : AMC Plus Apple TV channel, AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "description": "Disponibilité Canada : AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "5.7",
       "links": [
@@ -11366,7 +11469,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/okmLf17lLDfAjJdFjizyblCphrj.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.8",
+      "imdbRating": "6.6",
       "links": [
         {
           "name": "TMDB",

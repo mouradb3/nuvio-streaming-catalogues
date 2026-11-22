@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1773334",
+    "type": "movie",
+    "name": "Our Holiday Playbook",
+    "poster": "https://image.tmdb.org/t/p/w500/sSgjBkHCdhyPj0l9YWwVwxeXV6D.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/uXMzojW1TAyqlZej4ro5mbj2wli.jpg",
+    "description": "Disponibilité Canada : StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1773334"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1773334-our-holiday-playbook/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1773334",
+      "hasScheduledVideos": false
+    }
+  }
+}

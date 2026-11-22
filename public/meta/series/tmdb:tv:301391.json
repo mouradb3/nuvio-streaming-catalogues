@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:301391",
+    "type": "series",
+    "name": "Gènesi",
+    "poster": "https://image.tmdb.org/t/p/w500/snrRW8Dc4iMMWqSXejxr0LvMhJs.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/ethh0YQo1eqQckP5EIWpK3xr5Wk.jpg",
+    "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/301391"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/301391-genesi/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:301391",
+      "hasScheduledVideos": true
+    }
+  }
+}

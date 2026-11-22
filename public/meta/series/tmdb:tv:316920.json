@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:316920",
+    "type": "series",
+    "name": "Le Jardin de Zach",
+    "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/gIeD6FGxdwmfqDjTGYaAqPE0xO5.jpg",
+    "description": "Zach Galifianakis explore le monde du jardinage en cultivant la curiosité des enfants et en sondant des experts excentriques. Un hommage ludique et décalé à la terre nourricière.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.2",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/316920"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/316920-this-is-a-gardening-show/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:316920",
+      "hasScheduledVideos": true
+    }
+  }
+}
