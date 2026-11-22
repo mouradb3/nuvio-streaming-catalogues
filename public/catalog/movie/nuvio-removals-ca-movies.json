@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "tmdb:movie:1290418",
+      "type": "movie",
+      "name": "The Cycle",
+      "poster": "https://image.tmdb.org/t/p/w500/n5gSNf55KWfDc9hqP4H1KCCSutE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bgHW6AJl2SdKzxglvf9tshXbI84.jpg",
+      "description": "Disponibilité retirée chez AMC Plus Apple TV channel — Canada.\nDate de détection : 2026-11-22T11:15:34.581Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1290418"
+        }
+      ]
+    },
+    {
       "id": "tmdb:movie:1510745",
       "type": "movie",
       "name": "Bodycam",
