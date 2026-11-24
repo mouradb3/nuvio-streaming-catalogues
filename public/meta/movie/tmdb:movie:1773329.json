@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1773329",
+    "type": "movie",
+    "name": "Double Booked for the Holidays",
+    "poster": "https://image.tmdb.org/t/p/w500/wbPUMupk9mmFcjDsdbFR4dszY6J.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/cDlT9y8yKuN9n2csHcxxA7vvDWE.jpg",
+    "description": "Disponibilité Canada : StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1773329"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1773329-double-booked-for-the-holidays/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1773329",
+      "hasScheduledVideos": false
+    }
+  }
+}

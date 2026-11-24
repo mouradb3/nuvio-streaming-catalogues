@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:340615",
+    "type": "series",
+    "name": "Les Procès de Karen Read",
+    "poster": "https://image.tmdb.org/t/p/w500/zK0FwkvFhDUXOIZiZ9vgwExjQLa.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg",
+    "description": "Un accident, une bagarre mortelle ou une mise en scène minutieusement orchestrée ? Cette série documentaire sur des faits réels se penche sur les procès pour meurtre de Karen Read, qui ont suscité des théories du complot devenues virales.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/340615"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/340615-the-trials-of-karen-read/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:340615",
+      "hasScheduledVideos": true
+    }
+  }
+}

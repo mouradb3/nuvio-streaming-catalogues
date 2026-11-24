@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1354518",
+    "type": "movie",
+    "name": "Les 100 nuits de héro",
+    "poster": "https://image.tmdb.org/t/p/w500/bbl0zDeehb0DDuoN9RvBA1yqGFZ.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/skmFqH67nh8zJacf7WcR204Kgvl.jpg",
+    "description": "Manfred parie avec son ami Jérôme qu'il peut séduire sa femme, Cherry, en 100 nuits. S'il gagne, il obtiendra le château de Jérôme et toutes ses richesses, tandis que Cherry sera exécutée.\n\nDisponibilité France : Paramount Plus, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "5.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1354518"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1354518-100-nights-of-hero/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1354518",
+      "hasScheduledVideos": false
+    }
+  }
+}

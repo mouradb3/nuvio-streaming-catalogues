@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:301284",
+    "type": "series",
+    "name": "The Killings at Parrish Station",
+    "poster": "https://image.tmdb.org/t/p/w500/9XfUjpDmFKLG9EYLzSTX2jj5JR8.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/vf3hKPv3HKcaqIo3VsxM6ztT31L.jpg",
+    "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/301284"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/301284-the-killings-at-parrish-station/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:301284",
+      "hasScheduledVideos": true
+    }
+  }
+}

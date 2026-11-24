@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1684246",
+    "type": "movie",
+    "name": "L'Envers du sport, Royaume-Uni : Vinnie Jones",
+    "poster": "https://image.tmdb.org/t/p/w500/adVJYlVhaCGEgTMH9JLvH7Hi42B.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/29NF9iyZw2dztiKgV8r4dvHuTSx.jpg",
+    "description": "De son image de bad boy du ballon rond à sa victoire en Coupe d'Angleterre, découvrez l'ascension, la chute, le retour improbable… et les nombreux cartons rouges de Vinnie Jones.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1684246"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1684246-untold-uk-vinnie-jones/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1684246",
+      "hasScheduledVideos": false
+    }
+  }
+}

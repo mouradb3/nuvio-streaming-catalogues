@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1245859",
+    "type": "movie",
+    "name": "Savage House",
+    "poster": "https://image.tmdb.org/t/p/w500/eeZk9aehDJuKxWQE1ckhkFMp7FP.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/9ZzJxEg9zyyGIZx3eplHojYsZ5k.jpg",
+    "description": "Dans l’Angleterre du 18e siècle, Savage House suit Sir Chauncey Savage, un arriviste sans scrupules, motivé par ses dettes et son audace. Lorsqu’on l’invite à accueillir le duc et la duchesse du Devonshire, Chauncey et son épouse, Lady Savage, lancent des enchères pour les impressionner. Les préparatifs virent aux duels, à la décadence et au bain de sang, une satire sombre et comique des classes, du spectacle et de l’art de paraître important.\n\nDisponibilité France : Paramount Plus, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1245859"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1245859-savage-house/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1245859",
+      "hasScheduledVideos": false
+    }
+  }
+}

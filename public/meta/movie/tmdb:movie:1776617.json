@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1776617",
+    "type": "movie",
+    "name": "Artus – Le Show XXL",
+    "poster": "https://image.tmdb.org/t/p/w500/yPVQ9t4AuVqEqYJ7odmQlXV6rps.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/pk8A8bTrK68odyKCOaHKyG3N9Nn.jpg",
+    "description": "Artus relève un défi inédit : devenir le premier humoriste à jouer son spectacle à La Plénitude Arena, la plus grande salle couverte d'Europe. Une soirée hors normes, entre rire XXL et communion géante avec le public. Un événement à la croisée du stand-up et du show à l'américaine, qui prouve que l'humour français n'a plus peur des très grands formats.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1776617"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1776617-artus-le-show-xxl/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1776617",
+      "hasScheduledVideos": false
+    }
+  }
+}
