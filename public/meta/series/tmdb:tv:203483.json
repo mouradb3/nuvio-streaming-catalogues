@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:203483",
+    "type": "series",
+    "name": "两京十五日",
+    "poster": "https://image.tmdb.org/t/p/w500/oqHkgdVFO9LpGnwTx0zXZcUJ82p.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/pFTGCQ3oVhFkuOCjnvCPeVsQBaL.jpg",
+    "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.1",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/203483"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/203483-liang-jing-shi-wu-ri/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:203483",
+      "hasScheduledVideos": true
+    }
+  }
+}

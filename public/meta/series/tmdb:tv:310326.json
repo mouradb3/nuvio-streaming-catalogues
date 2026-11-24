@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:310326",
+    "type": "series",
+    "name": "사랑이 온다",
+    "poster": "https://image.tmdb.org/t/p/w500/eCOFjneZNF6QPQ7IYdTdr8fAyKX.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/1tuHcp4IAwBZWK82UtmsdQk98Uw.jpg",
+    "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/310326"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/310326-salangi-onda/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:310326",
+      "hasScheduledVideos": true
+    }
+  }
+}

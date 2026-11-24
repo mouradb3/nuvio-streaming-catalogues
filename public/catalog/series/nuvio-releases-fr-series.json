@@ -8,7 +8,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
       "description": "À Tokyo, un corps disloqué est découvert, accompagné d'une inscription en coréen. Ce message sidérant en lettres de sang permet à la police japonaise de faire le lien avec un fait troublant : un meurtre identique a été commis en Corée. Les autorités coréennes et japonaises lancent alors une enquête conjointe pour arrêter le tueur en série qui opère dans leurs deux pays et laisse des indices dans chaque langue. Pour ce faire, les inspecteurs suivent une piste mystérieuse qui s'étend au-delà de Séoul et de Tokyo.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.8",
+      "imdbRating": "7.6",
       "links": [
         {
           "name": "TMDB",
@@ -86,7 +86,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
       "description": "Lorsque l'affaire d'un tueur en série d'enfants refait surface après 25 ans, devenant un problème juridique et social non résolu, deux anciens amis sont contraints de se confronter aux choix qui ont brisé leur amitié et façonné leurs vies.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.4",
+      "imdbRating": "6.6",
       "links": [
         {
           "name": "TMDB",
@@ -287,6 +287,31 @@
       }
     },
     {
+      "id": "tmdb:tv:341603",
+      "type": "series",
+      "name": "Les VIP se disent oui : Anele et Buzza",
+      "poster": "https://image.tmdb.org/t/p/w500/lcCadlmIDtTdYbYfM2UlkCXhxEO.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xaSO3ejty5l7NO2NSbIieOKWs5c.jpg",
+      "description": "Stars and Vows: Anele & Buzza) est une série documentaire de téléréalité sud-africaine disponible sur Netflix, qui suit les préparatifs et les célébrations du mariage d'Anele Mdoda et de Bonelela « Buzza » Mgudlwa\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/341603"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/341603-stars-and-vows-anele-buzza/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:341603",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:332683",
       "type": "series",
       "name": "地雷グリコ",
@@ -309,31 +334,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:332683",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:341603",
-      "type": "series",
-      "name": "Les VIP se disent oui : Anele et Buzza",
-      "poster": "https://image.tmdb.org/t/p/w500/lcCadlmIDtTdYbYfM2UlkCXhxEO.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/xaSO3ejty5l7NO2NSbIieOKWs5c.jpg",
-      "description": "Stars and Vows: Anele & Buzza) est une série documentaire de téléréalité sud-africaine disponible sur Netflix, qui suit les préparatifs et les célébrations du mariage d'Anele Mdoda et de Bonelela « Buzza » Mgudlwa\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/341603"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/341603-stars-and-vows-anele-buzza/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:341603",
         "hasScheduledVideos": true
       }
     },
@@ -390,32 +390,6 @@
       }
     },
     {
-      "id": "tmdb:tv:335981",
-      "type": "series",
-      "name": "Le Cinéma selon Cunk",
-      "poster": "https://image.tmdb.org/t/p/w500/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
-      "description": "Dans cette série mockumentaire espiègle, Philomena Cunk part à la découverte de l'histoire du cinéma, sans manquer de laisser plusieurs experts perplexes en chemin.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/335981"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/335981-cunk-on-cinema/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:335981",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:312661",
       "type": "series",
       "name": "Urgences Humaines",
@@ -438,6 +412,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:312661",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:335981",
+      "type": "series",
+      "name": "Le Cinéma selon Cunk",
+      "poster": "https://image.tmdb.org/t/p/w500/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3NA7FxkqAaG1buZC1WtdPDpMlZg.jpg",
+      "description": "Dans cette série mockumentaire espiègle, Philomena Cunk part à la découverte de l'histoire du cinéma, sans manquer de laisser plusieurs experts perplexes en chemin.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/335981"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/335981-cunk-on-cinema/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:335981",
         "hasScheduledVideos": true
       }
     },
@@ -890,7 +890,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/gWedDgBsZkuOho2qe3q2sTQmbpO.jpg",
       "description": "Croulant sous les dettes, un jeune homme enchaîne les petits boulots très lucratifs que lui propose une mystérieuse agence, mais sa course à l'argent tourne au cauchemar.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
@@ -1954,7 +1954,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
       "description": "Kye Su-Jeong, une brillante chirurgienne, est affectée à l'hôpital universitaire de Guseo pour pourvoir un poste vacant en chirurgie. Elle y fait ses preuves grâce à son talent et met en lumière les absurdités du milieu médical. Elle se lie d'amitié avec Bu Seung-Kwon, le directeur de l'hôpital, et l'interne Park Tae-Kyeong\n\nDisponibilité France : Netflix.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.6",
+      "imdbRating": "8.5",
       "links": [
         {
           "name": "TMDB",
@@ -2207,32 +2207,6 @@
       }
     },
     {
-      "id": "tmdb:tv:321518",
-      "type": "series",
-      "name": "The World's Strongest Witch",
-      "poster": "https://image.tmdb.org/t/p/w500/lsvgBC8lyMhiyK6UorRWgkjFRoM.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/bM9pGax5PQCvipy7zifscXsVJ8Z.jpg",
-      "description": "Rejetée par sa famille après l'éveil de son pouvoir jugé inutile, Lorna se retrouve seule, sans ressources et au bord du désespoir. Mais elle découvre bientôt que sa compétence de rang SSS, \"Internet\", est en réalité un don extraordinaire. Grâce au savoir illimité que ce pouvoir lui apporte, elle peut mettre la main sur des objets de grande valeur, acquérir sans effort des équipements rares et ainsi changer le cours de sa vie.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/321518"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/321518-shi-jie-zui-qiang-no-mo-nu-shi-memashita/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:321518",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:303272",
       "type": "series",
       "name": "Magic Knight Rayearth",
@@ -2255,6 +2229,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:303272",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:321518",
+      "type": "series",
+      "name": "The World's Strongest Witch",
+      "poster": "https://image.tmdb.org/t/p/w500/lsvgBC8lyMhiyK6UorRWgkjFRoM.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bM9pGax5PQCvipy7zifscXsVJ8Z.jpg",
+      "description": "Rejetée par sa famille après l'éveil de son pouvoir jugé inutile, Lorna se retrouve seule, sans ressources et au bord du désespoir. Mais elle découvre bientôt que sa compétence de rang SSS, \"Internet\", est en réalité un don extraordinaire. Grâce au savoir illimité que ce pouvoir lui apporte, elle peut mettre la main sur des objets de grande valeur, acquérir sans effort des équipements rares et ainsi changer le cours de sa vie.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/321518"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/321518-shi-jie-zui-qiang-no-mo-nu-shi-memashita/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:321518",
         "hasScheduledVideos": true
       }
     },
@@ -2311,6 +2311,32 @@
       }
     },
     {
+      "id": "tmdb:tv:312850",
+      "type": "series",
+      "name": "Nia Liston: The Merciless Maiden",
+      "poster": "https://image.tmdb.org/t/p/w500/iSP99hEjoLqSVAnH4JHKa9kI4eL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5obfnImCRn0LzQnRb4jxuCJRlxd.jpg",
+      "description": "Aux portes de la mort, une guerrière intrépide et invaincue, succombe à ses blessures et se réincarne dans le corps frêle et maladif de Nia Liston. À la recherche d’un adversaire capable de se hisser à sa hauteur, la jeune fille entreprend de recouvrer sa force, en dépit de ce nouveau corps dont elle va devoir percer les secrets si elle souhaite retrouver sa splendeur d’antan.\n\nDisponibilité France : Animation Digital Network, Anime Digital Network Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/312850"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/312850-xiong-luan-ling-niang-nia-risuton-bing-ruo-ling-niang-ni-zhuan-sheng-shita-shen-sha-shino-wu-ren-no-hua-li-naru-wu-shuang-lu/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:312850",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:316891",
       "type": "series",
       "name": "The Cold Sato-san Is Only Sweet to Me",
@@ -2332,32 +2358,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:316891",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:312850",
-      "type": "series",
-      "name": "Nia Liston: The Merciless Maiden",
-      "poster": "https://image.tmdb.org/t/p/w500/iSP99hEjoLqSVAnH4JHKa9kI4eL.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/5obfnImCRn0LzQnRb4jxuCJRlxd.jpg",
-      "description": "Aux portes de la mort, une guerrière intrépide et invaincue, succombe à ses blessures et se réincarne dans le corps frêle et maladif de Nia Liston. À la recherche d’un adversaire capable de se hisser à sa hauteur, la jeune fille entreprend de recouvrer sa force, en dépit de ce nouveau corps dont elle va devoir percer les secrets si elle souhaite retrouver sa splendeur d’antan.\n\nDisponibilité France : Animation Digital Network, Anime Digital Network Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/312850"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/312850-xiong-luan-ling-niang-nia-risuton-bing-ruo-ling-niang-ni-zhuan-sheng-shita-shen-sha-shino-wu-ren-no-hua-li-naru-wu-shuang-lu/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:312850",
         "hasScheduledVideos": true
       }
     },
@@ -2492,32 +2492,6 @@
       }
     },
     {
-      "id": "tmdb:tv:305313",
-      "type": "series",
-      "name": "Romelia War Chronicle",
-      "poster": "https://image.tmdb.org/t/p/w500/2wqyITVWs1wZMih2VraylRjqzCo.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/6LeBjYSPULKwSv5R6sX6Iovwoad.jpg",
-      "description": "Sa victoire sur le Roi-Démon aurait dû être le triomphe de Romélia. Au lieu de cela, son fiancé, le prince Henri, rompt leurs fiançailles et la renvoie dans une province en ruines. Mais Romélia ne se laisse pas abattre. Elle jure de lever une armée, de reconstruire le royaume et ce, malgré des conflits qui continuent. Son histoire ne fait que commencer…\n\nDisponibilité France : Crunchyroll.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/305313"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/305313-romeria-zhan-ji/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:305313",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:316694",
       "type": "series",
       "name": "Reborn Goblin",
@@ -2540,6 +2514,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:316694",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:305313",
+      "type": "series",
+      "name": "Romelia War Chronicle",
+      "poster": "https://image.tmdb.org/t/p/w500/2wqyITVWs1wZMih2VraylRjqzCo.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6LeBjYSPULKwSv5R6sX6Iovwoad.jpg",
+      "description": "Sa victoire sur le Roi-Démon aurait dû être le triomphe de Romélia. Au lieu de cela, son fiancé, le prince Henri, rompt leurs fiançailles et la renvoie dans une province en ruines. Mais Romélia ne se laisse pas abattre. Elle jure de lever une armée, de reconstruire le royaume et ce, malgré des conflits qui continuent. Son histoire ne fait que commencer…\n\nDisponibilité France : Crunchyroll.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/305313"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/305313-romeria-zhan-ji/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:305313",
         "hasScheduledVideos": true
       }
     },
@@ -2674,32 +2674,6 @@
       }
     },
     {
-      "id": "tmdb:tv:335194",
-      "type": "series",
-      "name": "Magical Explorer",
-      "poster": "https://image.tmdb.org/t/p/w500/b9LtxUfUrhsuq8lYvlhXq2I5gAw.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/oxS6i62MRfIeXFKN2F3uEipKwt7.jpg",
-      "description": "Réincarné dans son jeu « bishojo » préféré, Kousuke se retrouve affublé du pire rôle qui soit : celui d’un acolyte insignifiant. Mais fort de sa connaissance du jeu et de la plus grande réserve de mana de ce monde, il pourrait bien finir par surpasser le héros ! Kousuke doit désormais réécrire son destin et se frayer un chemin à coups d’épée vers les fins heureuses des héroïnes !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/335194"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/335194-majikaru-ekusupurora/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:335194",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:283692",
       "type": "series",
       "name": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
@@ -2722,6 +2696,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:283692",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:335194",
+      "type": "series",
+      "name": "Magical Explorer",
+      "poster": "https://image.tmdb.org/t/p/w500/b9LtxUfUrhsuq8lYvlhXq2I5gAw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/oxS6i62MRfIeXFKN2F3uEipKwt7.jpg",
+      "description": "Réincarné dans son jeu « bishojo » préféré, Kousuke se retrouve affublé du pire rôle qui soit : celui d’un acolyte insignifiant. Mais fort de sa connaissance du jeu et de la plus grande réserve de mana de ce monde, il pourrait bien finir par surpasser le héros ! Kousuke doit désormais réécrire son destin et se frayer un chemin à coups d’épée vers les fins heureuses des héroïnes !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/335194"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/335194-majikaru-ekusupurora/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:335194",
         "hasScheduledVideos": true
       }
     },
@@ -3149,7 +3149,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/o91jmFILQk1UAqPbpEjT3D3OxoO.jpg",
       "description": "Xu Chi se hisse du statut de diplômée à celui de consultante, mais dans cet environnement de travail où règne une compétition féroce, elle doit apprendre à qui faire confiance.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
@@ -3194,32 +3194,6 @@
       }
     },
     {
-      "id": "tmdb:tv:310133",
-      "type": "series",
-      "name": "4 Blocks Zero",
-      "poster": "https://image.tmdb.org/t/p/w500/9j0kT5q7BATWbqTph0gqkzyr0KT.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/pE6lTAEaErbLzIZuGP7Ojg8uD0.jpg",
-      "description": "Dans le Berlin des années 1990, les origines de la famille Hamady avant qu’elle ne devienne l’un des clans les plus influents de la ville. Réfugiés du Liban, tolérés en Allemagne, les Hamady luttent pour s’imposer dans leur nouveau pays et se faire une place dans le milieu criminel berlinois.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/310133"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/310133-4-blocks-zero/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:310133",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:288385",
       "type": "series",
       "name": "Paolo",
@@ -3242,6 +3216,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:288385",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:310133",
+      "type": "series",
+      "name": "4 Blocks Zero",
+      "poster": "https://image.tmdb.org/t/p/w500/9j0kT5q7BATWbqTph0gqkzyr0KT.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/pE6lTAEaErbLzIZuGP7Ojg8uD0.jpg",
+      "description": "Dans le Berlin des années 1990, les origines de la famille Hamady avant qu’elle ne devienne l’un des clans les plus influents de la ville. Réfugiés du Liban, tolérés en Allemagne, les Hamady luttent pour s’imposer dans leur nouveau pays et se faire une place dans le milieu criminel berlinois.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/310133"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/310133-4-blocks-zero/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:310133",
         "hasScheduledVideos": true
       }
     },
@@ -3272,32 +3272,6 @@
       }
     },
     {
-      "id": "tmdb:tv:286940",
-      "type": "series",
-      "name": "Le Ticket d'or de Willy Wonka",
-      "poster": "https://image.tmdb.org/t/p/w500/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg",
-      "description": "L'usine de chocolat de Willy Wonka ouvre ses portes à 12 duos afin de passer plusieurs épreuves dans l'espoir de remporter une forte somme d'argent.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/286940"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/286940-wonka-s-the-golden-ticket/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:286940",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:308963",
       "type": "series",
       "name": "Habeas Corpus",
@@ -3320,6 +3294,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:308963",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:286940",
+      "type": "series",
+      "name": "Le Ticket d'or de Willy Wonka",
+      "poster": "https://image.tmdb.org/t/p/w500/5padVOGD7QxyFLlTAWdCFY2FQf1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3BXEJ0qtVPHj1PL0M78xhYOiBkq.jpg",
+      "description": "L'usine de chocolat de Willy Wonka ouvre ses portes à 12 duos afin de passer plusieurs épreuves dans l'espoir de remporter une forte somme d'argent.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/286940"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/286940-wonka-s-the-golden-ticket/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:286940",
         "hasScheduledVideos": true
       }
     },
@@ -4601,7 +4601,7 @@
       "id": "tmdb:tv:292533",
       "type": "series",
       "name": "Fúria",
-      "poster": "https://image.tmdb.org/t/p/w500/up9kAhzfN3wtnFi1D8AloWeHGDo.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/yF0bOKQ36UZJFsqxof47Q12GJw2.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/kZ77s94jLBliHXDXXPegi6ZbbtN.jpg",
       "description": "Un homme amnésique trouve refuge auprès d'un coach de MMA et monte sur le ring, tiraillé entre l'espoir d'un nouvel avenir et un passé dangereux qui ne cesse de le rattraper.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
@@ -4709,7 +4709,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
       "description": "Le propriétaire de la boutique de comics, Stuart Bloom, est chargé de rétablir la réalité après avoir accidentellement brisé un appareil conçu par Sheldon et Leonard, provoquant ainsi une apocalypse du multivers.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.2",
+      "imdbRating": "8.1",
       "links": [
         {
           "name": "TMDB",
@@ -5612,32 +5612,6 @@
       }
     },
     {
-      "id": "tmdb:tv:153217",
-      "type": "series",
-      "name": "Étincelles de demain",
-      "poster": "https://image.tmdb.org/t/p/w500/bQ4S7bz9ZDdTwJ5hfOM3GEswVy6.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/fx5JyhFvPn1GSm5ITtNNM6hmpUa.jpg",
-      "description": "Dans un passé alternatif, un duo improbable fait équipe pour retrouver un catalogue disparu qui pourrait électrifier les rues enfumées de Kyoto.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.3",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/153217"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/153217-er-shi-shi-ji-dian-qi-mu-lu-yureka-evurika/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:153217",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:312849",
       "type": "series",
       "name": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
@@ -5660,6 +5634,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:312849",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:153217",
+      "type": "series",
+      "name": "Étincelles de demain",
+      "poster": "https://image.tmdb.org/t/p/w500/bQ4S7bz9ZDdTwJ5hfOM3GEswVy6.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fx5JyhFvPn1GSm5ITtNNM6hmpUa.jpg",
+      "description": "Dans un passé alternatif, un duo improbable fait équipe pour retrouver un catalogue disparu qui pourrait électrifier les rues enfumées de Kyoto.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/153217"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/153217-er-shi-shi-ji-dian-qi-mu-lu-yureka-evurika/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:153217",
         "hasScheduledVideos": true
       }
     },
@@ -5742,32 +5742,6 @@
       }
     },
     {
-      "id": "tmdb:tv:287075",
-      "type": "series",
-      "name": "Magical Girl Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
-      "poster": "https://image.tmdb.org/t/p/w500/6FTC8b0V0xdCQrT4929HPdPnoYo.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/8oDXuGfRiNPMZc1eYc9O8gIm7nb.jpg",
-      "description": "Trente ans après une invasion extraterrestre, Shiina Kuze se joint au combat pour protéger sa sœur et sauver l'humanité.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.3",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/287075"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/287075-exceeds-gun-blaze-vengeance/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:287075",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:308403",
       "type": "series",
       "name": "Iron Wok Jan!",
@@ -5790,6 +5764,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:308403",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:287075",
+      "type": "series",
+      "name": "Magical Girl Lyrical Nanoha EXCEEDS: Gun Blaze Vengeance",
+      "poster": "https://image.tmdb.org/t/p/w500/6FTC8b0V0xdCQrT4929HPdPnoYo.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8oDXuGfRiNPMZc1eYc9O8gIm7nb.jpg",
+      "description": "Trente ans après une invasion extraterrestre, Shiina Kuze se joint au combat pour protéger sa sœur et sauver l'humanité.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/287075"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/287075-exceeds-gun-blaze-vengeance/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:287075",
         "hasScheduledVideos": true
       }
     },
@@ -6762,7 +6762,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/zoa11EvyuasC3j7PmH1QGftrSvf.jpg",
       "description": "Des membres de votre équipage ont été remplacés par un métamorphe extraterrestre déterminé à semer la confusion, à saboter le vaisseau et à tuer tout le monde. Éliminez l'imposteur ou devenez la victime de ses plans meurtriers.\n\nDisponibilité France : Paramount Plus, Paramount Plus Apple TV channel, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "9",
+      "imdbRating": "8.9",
       "links": [
         {
           "name": "TMDB",
@@ -7278,7 +7278,7 @@
       "id": "tmdb:tv:285807",
       "type": "series",
       "name": "Nemesis",
-      "poster": "https://image.tmdb.org/t/p/w500/qjkp7DH7eSbLWLacjBqSV6TKz3Q.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/zP8t9uqNhK7ovr5JCZZRKkzWKeo.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/pxnJeLSBdUikUOrWdNgrK1HQy2u.jpg",
       "description": "Deux hommes situés de part et d'autre de la loi, et illustre la réaction provoquée par la rencontre entre une force incontrôlable (un criminel averti) et un objet inamovible (un brillant inspecteur de police). Cette série, qui ambitionne au départ de renverser le genre du braquage, avec ses enjeux risqués, sa dynamique familiale complexe et son action explosive, incite en réalité à explorer ce qui anime, maintient en vie et ce qui conduit l'espèce humaine… à sa perte.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
@@ -7769,32 +7769,6 @@
       }
     },
     {
-      "id": "tmdb:tv:316920",
-      "type": "series",
-      "name": "Le Jardin de Zach",
-      "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/gIeD6FGxdwmfqDjTGYaAqPE0xO5.jpg",
-      "description": "Zach Galifianakis explore le monde du jardinage en cultivant la curiosité des enfants et en sondant des experts excentriques. Un hommage ludique et décalé à la terre nourricière.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/316920"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/316920-this-is-a-gardening-show/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:316920",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:287011",
       "type": "series",
       "name": "Le Cœur aux affaires",
@@ -7817,6 +7791,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:287011",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:316920",
+      "type": "series",
+      "name": "Le Jardin de Zach",
+      "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gIeD6FGxdwmfqDjTGYaAqPE0xO5.jpg",
+      "description": "Zach Galifianakis explore le monde du jardinage en cultivant la curiosité des enfants et en sondant des experts excentriques. Un hommage ludique et décalé à la terre nourricière.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/316920"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/316920-this-is-a-gardening-show/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:316920",
         "hasScheduledVideos": true
       }
     },
@@ -8029,32 +8029,6 @@
       }
     },
     {
-      "id": "tmdb:tv:295751",
-      "type": "series",
-      "name": "Ichijôma Mankitsu Gurashi!",
-      "poster": "https://image.tmdb.org/t/p/w500/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
-      "description": "En deuxième année de lycée, Meiko Morita quitte sa campagne natale pour intégrer une école de jeunes filles réputée à Tokyo, à condition de devenir bénévole. Seulement, pour remplir pleinement sa mission, elle se retrouve à travailler dans un minuscule box au sein d’un manga café. Contre toute attente, Meiko commence à apprécier cette nouvelle vie dans ce lieu exigu et animé, où étudiantes et tracas du quotidien se bousculent.\n\nDisponibilité France : Animation Digital Network, Anime Digital Network Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.2",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/295751"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/295751-yi-die-jian-mankitsu-mu-rashi/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:295751",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:297557",
       "type": "series",
       "name": "The Classroom of a Black Cat and a Witch",
@@ -8077,6 +8051,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:297557",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:295751",
+      "type": "series",
+      "name": "Ichijôma Mankitsu Gurashi!",
+      "poster": "https://image.tmdb.org/t/p/w500/wOTg5dWnh2R1r1Y6581siGMw0aB.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/syTjpyKFGKeoWglpowdZHPrc81s.jpg",
+      "description": "En deuxième année de lycée, Meiko Morita quitte sa campagne natale pour intégrer une école de jeunes filles réputée à Tokyo, à condition de devenir bénévole. Seulement, pour remplir pleinement sa mission, elle se retrouve à travailler dans un minuscule box au sein d’un manga café. Contre toute attente, Meiko commence à apprécier cette nouvelle vie dans ce lieu exigu et animé, où étudiantes et tracas du quotidien se bousculent.\n\nDisponibilité France : Animation Digital Network, Anime Digital Network Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/295751"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/295751-yi-die-jian-mankitsu-mu-rashi/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:295751",
         "hasScheduledVideos": true
       }
     },
@@ -8315,32 +8315,6 @@
       }
     },
     {
-      "id": "tmdb:tv:291506",
-      "type": "series",
-      "name": "Big Mistakes",
-      "poster": "https://image.tmdb.org/t/p/w500/qeCmU79haciBBOBmOy7dJtbz95Y.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/oGORe3yzIPBueHVHroSmsaMVKDi.jpg",
-      "description": "Contraints à la suite d'un chantage d'œuvrer pour des individus très dangereux, un frère et une sœur complètement bras cassés deviennent le duo le plus loufoque du crime organisé.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/291506"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/291506-big-mistakes/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:291506",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:273467",
       "type": "series",
       "name": "The Warrior Princess and the Barbaric King",
@@ -8363,6 +8337,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:273467",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:291506",
+      "type": "series",
+      "name": "Big Mistakes",
+      "poster": "https://image.tmdb.org/t/p/w500/qeCmU79haciBBOBmOy7dJtbz95Y.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/oGORe3yzIPBueHVHroSmsaMVKDi.jpg",
+      "description": "Contraints à la suite d'un chantage d'œuvrer pour des individus très dangereux, un frère et une sœur complètement bras cassés deviennent le duo le plus loufoque du crime organisé.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/291506"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/291506-big-mistakes/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:291506",
         "hasScheduledVideos": true
       }
     },
@@ -8835,32 +8835,6 @@
       }
     },
     {
-      "id": "tmdb:tv:285818",
-      "type": "series",
-      "name": "Mistress Kanan is Devilishly Easy",
-      "poster": "https://image.tmdb.org/t/p/w500/jYIDlm7E6ji0QtBpGypZHII2Anq.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/mCJWUo6Np2y5daruzt7fhh5TiIA.jpg",
-      "description": "Une jeune démone gourmande d'âmes humaines voit ses principes bouleversés lorsqu'un de ses camarades de classe lui tape dans l'œil !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.1",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/285818"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/285818-kanan-yang-haakumadechiyoroi/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:285818",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:312474",
       "type": "series",
       "name": "Les Nations du Soleil sanglant",
@@ -8883,6 +8857,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:312474",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:285818",
+      "type": "series",
+      "name": "Mistress Kanan is Devilishly Easy",
+      "poster": "https://image.tmdb.org/t/p/w500/jYIDlm7E6ji0QtBpGypZHII2Anq.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mCJWUo6Np2y5daruzt7fhh5TiIA.jpg",
+      "description": "Une jeune démone gourmande d'âmes humaines voit ses principes bouleversés lorsqu'un de ses camarades de classe lui tape dans l'œil !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/285818"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/285818-kanan-yang-haakumadechiyoroi/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:285818",
         "hasScheduledVideos": true
       }
     },
@@ -10811,32 +10811,6 @@
       }
     },
     {
-      "id": "tmdb:tv:250505",
-      "type": "series",
-      "name": "Les Sept Cadrans d'Agatha Christie",
-      "poster": "https://image.tmdb.org/t/p/w500/yd5vUf3eYDL9t8LEqX6I1yCbZoU.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/eVEbRtSOrczWlYnVmwM195AnX86.jpg",
-      "description": "Une jeune aristocrate brillante cherche à élucider le mystère d'un meurtre commis pendant une fête fastueuse dans une maison de campagne. Une adaptation du roman d'Agatha Christie.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.2",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/250505"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/250505-agatha-christie-s-seven-dials/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:250505",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:262793",
       "type": "series",
       "name": "PONIES",
@@ -10859,6 +10833,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:262793",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:250505",
+      "type": "series",
+      "name": "Les Sept Cadrans d'Agatha Christie",
+      "poster": "https://image.tmdb.org/t/p/w500/yd5vUf3eYDL9t8LEqX6I1yCbZoU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/eVEbRtSOrczWlYnVmwM195AnX86.jpg",
+      "description": "Une jeune aristocrate brillante cherche à élucider le mystère d'un meurtre commis pendant une fête fastueuse dans une maison de campagne. Une adaptation du roman d'Agatha Christie.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/250505"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/250505-agatha-christie-s-seven-dials/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:250505",
         "hasScheduledVideos": true
       }
     },
@@ -11279,32 +11279,6 @@
       }
     },
     {
-      "id": "tmdb:tv:285357",
-      "type": "series",
-      "name": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
-      "poster": "https://image.tmdb.org/t/p/w500/nH6Ch1q5rwdRs56bYTA9wuOhfbL.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/uLC9tdRSPcKsgvRLth38WEbm8pa.jpg",
-      "description": "Jamais tu ne vaincras le roi démon ! Simple fille de la campagne, Flamme Abricot a été choisie pour rejoindre la troupe du héros malgré ses statistiques à zéro et une compétence qu'elle ne peut utiliser. Devenue un fardeau pour ses coéquipiers, elle se retrouve abandonnée et vendue à un marchand d'esclaves. Pour échapper au sadisme de son geôlier et à une mort certaine, Flamme fait le choix désespéré d'attraper une arme maudite...\n\nC'est alors que quelque chose de nouveau se réveille en elle.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/285357"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/285357-o-qian-gotokiga-mo-wang-ni-sheng-teruto-si-una-to-yong-zhe-pateio-zhui-fang-saretanode-wang-dou-de-qi-mamani-mu-rashitai/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:285357",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:284444",
       "type": "series",
       "name": "Champignon Witch",
@@ -11327,6 +11301,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:284444",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:285357",
+      "type": "series",
+      "name": "ROLL OVER AND DIE: I Will Fight for an Ordinary Life with My Love and Cursed Sword!",
+      "poster": "https://image.tmdb.org/t/p/w500/nH6Ch1q5rwdRs56bYTA9wuOhfbL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/uLC9tdRSPcKsgvRLth38WEbm8pa.jpg",
+      "description": "Jamais tu ne vaincras le roi démon ! Simple fille de la campagne, Flamme Abricot a été choisie pour rejoindre la troupe du héros malgré ses statistiques à zéro et une compétence qu'elle ne peut utiliser. Devenue un fardeau pour ses coéquipiers, elle se retrouve abandonnée et vendue à un marchand d'esclaves. Pour échapper au sadisme de son geôlier et à une mort certaine, Flamme fait le choix désespéré d'attraper une arme maudite...\n\nC'est alors que quelque chose de nouveau se réveille en elle.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/285357"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/285357-o-qian-gotokiga-mo-wang-ni-sheng-teruto-si-una-to-yong-zhe-pateio-zhui-fang-saretanode-wang-dou-de-qi-mamani-mu-rashitai/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:285357",
         "hasScheduledVideos": true
       }
     },
@@ -11487,32 +11487,6 @@
       }
     },
     {
-      "id": "tmdb:tv:263330",
-      "type": "series",
-      "name": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
-      "poster": "https://image.tmdb.org/t/p/w500/4EswDHj9GVcSNmKwWcxvQDynTVJ.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/rcwfBh8gPBL4sKUEPqu0lEKreha.jpg",
-      "description": "Yuuki se réveille dans un étrange manoir, vêtue d'un uniforme de maid. Après s'être aventurée dans la salle à manger, elle rencontre cinq autres filles, chacune portant exactement la même tenue. Rapidement, les filles apprennent que le manoir regorge d'armes mortelles et de pièges redoutables et qu'elles ne peuvent s'échapper qu'en jouant à des jeux plus horribles les uns que les autres. Au fur et à mesure qu'elles découvrent la situation dans laquelle elles se trouvent, le visage de chacune des filles se décompose, sauf celui de Yuuki. Pourquoi ? Parce qu'elle n'en est pas à son premier coup d'essai. En effet, elle est une joueuse professionnelle de ces jeux mortels qui vit de l'argent qu'elle gagne en remportant ces tueries et elle ne compte pas s'arrêter là.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel, Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.9",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/263330"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/263330-si-wang-you-hu-de-fan-o-shi-u/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:263330",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:255064",
       "type": "series",
       "name": "DARWIN'S INCIDENT",
@@ -11535,6 +11509,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:255064",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:263330",
+      "type": "series",
+      "name": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
+      "poster": "https://image.tmdb.org/t/p/w500/4EswDHj9GVcSNmKwWcxvQDynTVJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rcwfBh8gPBL4sKUEPqu0lEKreha.jpg",
+      "description": "Yuuki se réveille dans un étrange manoir, vêtue d'un uniforme de maid. Après s'être aventurée dans la salle à manger, elle rencontre cinq autres filles, chacune portant exactement la même tenue. Rapidement, les filles apprennent que le manoir regorge d'armes mortelles et de pièges redoutables et qu'elles ne peuvent s'échapper qu'en jouant à des jeux plus horribles les uns que les autres. Au fur et à mesure qu'elles découvrent la situation dans laquelle elles se trouvent, le visage de chacune des filles se décompose, sauf celui de Yuuki. Pourquoi ? Parce qu'elle n'en est pas à son premier coup d'essai. En effet, elle est une joueuse professionnelle de ces jeux mortels qui vit de l'argent qu'elle gagne en remportant ces tueries et elle ne compte pas s'arrêter là.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel, Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.9",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/263330"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/263330-si-wang-you-hu-de-fan-o-shi-u/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:263330",
         "hasScheduledVideos": true
       }
     },
@@ -11981,32 +11981,6 @@
       }
     },
     {
-      "id": "tmdb:tv:311375",
-      "type": "series",
-      "name": "MrBeast: Epic Adventures!",
-      "poster": "https://image.tmdb.org/t/p/w500/oputqZzvoesRu5l4kcalJTsxEG8.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/dWbjhcewQeeCmyorWV8jjg0ZmZY.jpg",
-      "description": "MrBeast emmène ses amis et les candidats dans des aventures hors du commun. Au programme : parcours d'obstacles, labyrinthes laser, temples antiques, trains en train de couler et pièges mortels. Seuls ceux qui gardent leur sang-froid sous pression parviendront à survivre dans ces conditions extrêmes.\n\nDisponibilité France : Amazon Prime Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "3.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/311375"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/311375-mrbeast-epic-adventures/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:311375",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:244244",
       "type": "series",
       "name": "Ne t'enfuis plus",
@@ -12029,6 +12003,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:244244",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:311375",
+      "type": "series",
+      "name": "MrBeast: Epic Adventures!",
+      "poster": "https://image.tmdb.org/t/p/w500/oputqZzvoesRu5l4kcalJTsxEG8.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/dWbjhcewQeeCmyorWV8jjg0ZmZY.jpg",
+      "description": "MrBeast emmène ses amis et les candidats dans des aventures hors du commun. Au programme : parcours d'obstacles, labyrinthes laser, temples antiques, trains en train de couler et pièges mortels. Seuls ceux qui gardent leur sang-froid sous pression parviendront à survivre dans ces conditions extrêmes.\n\nDisponibilité France : Amazon Prime Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "3.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/311375"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/311375-mrbeast-epic-adventures/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:311375",
         "hasScheduledVideos": true
       }
     },
