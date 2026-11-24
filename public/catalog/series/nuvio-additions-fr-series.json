@@ -1,6 +1,38 @@
 {
   "metas": [
     {
+      "id": "tmdb:tv:308112",
+      "type": "series",
+      "name": "Mel Brooks: Une légende de 99 ans",
+      "poster": "https://image.tmdb.org/t/p/w500/7ywcx3HrSv5JjGjbjH5mg9puXLs.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5ECEMrt5DbTcXQqGfVwhtOtdcJl.jpg",
+      "description": "Disponibilité détectée chez HBO Max — France.\nDate de détection : 2026-11-24T02:11:48.592Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/308112"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:308112",
+      "type": "series",
+      "name": "Mel Brooks: Une légende de 99 ans",
+      "poster": "https://image.tmdb.org/t/p/w500/7ywcx3HrSv5JjGjbjH5mg9puXLs.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5ECEMrt5DbTcXQqGfVwhtOtdcJl.jpg",
+      "description": "Disponibilité détectée chez HBO Max Amazon Channel — France.\nDate de détection : 2026-11-24T02:11:48.592Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/308112"
+        }
+      ]
+    },
+    {
       "id": "tmdb:tv:316920",
       "type": "series",
       "name": "Le Jardin de Zach",

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:308112",
+    "type": "series",
+    "name": "Mel Brooks: Une légende de 99 ans",
+    "poster": "https://image.tmdb.org/t/p/w500/7ywcx3HrSv5JjGjbjH5mg9puXLs.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/5ECEMrt5DbTcXQqGfVwhtOtdcJl.jpg",
+    "description": "Un regard à la fois vaste et intime sur le légendaire comédien, scénariste et réalisateur Mel Brooks.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/308112"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/308112-mel-brooks-the-99-year-old-man/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:308112",
+      "hasScheduledVideos": true
+    }
+  }
+}

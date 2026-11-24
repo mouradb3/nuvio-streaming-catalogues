@@ -8,7 +8,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/7ojpD6ARKYhRxnsjzMIrorOfj4T.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.8",
       "links": [
         {
           "name": "TMDB",
@@ -34,7 +34,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
       "description": "Jeunes, idéalistes et soudain pleins aux as, ils essaient de faire le bien – mais font ressortir le pire chez l'autre. Une histoire d'amour toxique inspirée par une vraie fraude.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.3",
+      "imdbRating": "6.2",
       "links": [
         {
           "name": "TMDB",
@@ -60,7 +60,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/iMvGSFcxzvwLWyHDOLqwDX9JQ27.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.6",
+      "imdbRating": "6.4",
       "links": [
         {
           "name": "TMDB",
@@ -86,7 +86,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/o8wVY0c4v54KsFQ5IdU2uvOves1.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.7",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
@@ -708,7 +708,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/7T59rrJSmQoJatZdq5ytboMsuLI.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.8",
       "links": [
         {
           "name": "TMDB",
@@ -812,7 +812,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/ygjcwHWhhCaNPaPP965Du7eR2gO.jpg",
       "description": "Dans un Far West rétrofuturiste envahi par des hors-la-loi, des machines et des forces surnaturelles, un père devient juge, juré et bourreau afin de protéger sa famille.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.8",
+      "imdbRating": "7.9",
       "links": [
         {
           "name": "TMDB",
@@ -1298,32 +1298,6 @@
       }
     },
     {
-      "id": "tmdb:tv:334470",
-      "type": "series",
-      "name": "It Gets Worse",
-      "poster": "https://image.tmdb.org/t/p/w500/xm3NMFDjgPRjgCmH5uo3LuVZYBX.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/c5nYh3atmgiUCpvVnS28lYxDopL.jpg",
-      "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.2",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/334470"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/334470-it-gets-worse/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:334470",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:300527",
       "type": "series",
       "name": "On a parlé de moi?",
@@ -1346,6 +1320,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:300527",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:334470",
+      "type": "series",
+      "name": "It Gets Worse",
+      "poster": "https://image.tmdb.org/t/p/w500/xm3NMFDjgPRjgCmH5uo3LuVZYBX.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/c5nYh3atmgiUCpvVnS28lYxDopL.jpg",
+      "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/334470"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/334470-it-gets-worse/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:334470",
         "hasScheduledVideos": true
       }
     },
@@ -1565,7 +1565,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/4vqJTCRzckYrsqqaXCiN1ObJBNL.jpg",
       "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.5",
+      "imdbRating": "8.3",
       "links": [
         {
           "name": "TMDB",
@@ -1846,7 +1846,7 @@
       "type": "series",
       "name": "100일의 거짓말",
       "poster": "https://image.tmdb.org/t/p/w500/ox52xrCfPq9iHWX1YX8DC03vBqz.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/yeMmiOzXkAdbbRgy2W41H3c2lLQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3SvKCITqMtjgPIhFBjRc4yTAc4H.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "8.8",
@@ -2284,32 +2284,6 @@
       }
     },
     {
-      "id": "tmdb:tv:303272",
-      "type": "series",
-      "name": "魔法騎士レイアース",
-      "poster": "https://image.tmdb.org/t/p/w500/5bw8QSid3tOutYxNjXespau07MS.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ovysGUJ9Qc7oWaiFbyWjwhw1vtc.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel, Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/303272"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/303272-mo-fa-qi-shi-reiasu/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:303272",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:321518",
       "type": "series",
       "name": "世界最強の魔女、始めました",
@@ -2336,28 +2310,28 @@
       }
     },
     {
-      "id": "tmdb:tv:290233",
+      "id": "tmdb:tv:303272",
       "type": "series",
-      "name": "Inside the circle",
-      "poster": "https://image.tmdb.org/t/p/w500/u2PDaI3BYtGg0YO0rOKnycDwxld.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/mnxeCdKE3mtVT8mB9lWs4JY3Mla.jpg",
-      "description": "Quatre amis de longue date se retrouvent pris dans un engrenage de chantage lorsqu'une vidéo fuite menace de révéler des secrets susceptibles de détruire leur amitié.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "name": "魔法騎士レイアース",
+      "poster": "https://image.tmdb.org/t/p/w500/5bw8QSid3tOutYxNjXespau07MS.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ovysGUJ9Qc7oWaiFbyWjwhw1vtc.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel, Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.8",
+      "imdbRating": "8",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/290233"
+          "url": "https://www.themoviedb.org/tv/303272"
         },
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/290233-el-circulo/watch?locale=CA"
+          "url": "https://www.themoviedb.org/tv/303272-mo-fa-qi-shi-reiasu/watch?locale=CA"
         }
       ],
       "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:290233",
+        "defaultVideoId": "tmdb:tv:303272",
         "hasScheduledVideos": true
       }
     },
@@ -2384,6 +2358,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:332261",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:290233",
+      "type": "series",
+      "name": "Inside the circle",
+      "poster": "https://image.tmdb.org/t/p/w500/u2PDaI3BYtGg0YO0rOKnycDwxld.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mnxeCdKE3mtVT8mB9lWs4JY3Mla.jpg",
+      "description": "Quatre amis de longue date se retrouvent pris dans un engrenage de chantage lorsqu'une vidéo fuite menace de révéler des secrets susceptibles de détruire leur amitié.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/290233"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/290233-el-circulo/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:290233",
         "hasScheduledVideos": true
       }
     },
@@ -2543,6 +2543,32 @@
       }
     },
     {
+      "id": "tmdb:tv:313068",
+      "type": "series",
+      "name": "どうも、好きな人に惚れ薬を依頼された魔女です。",
+      "poster": "https://image.tmdb.org/t/p/w500/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hEE9n9tZAjoT3eE5lL4MhZZ2DbB.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/313068"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/313068-doumo-hao-kina-ren-ni-hu-re-yao-o-yi-lai-sareta-mo-nu-desu/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:313068",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:307106",
       "type": "series",
       "name": "연애박사",
@@ -2565,32 +2591,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:307106",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:313068",
-      "type": "series",
-      "name": "どうも、好きな人に惚れ薬を依頼された魔女です。",
-      "poster": "https://image.tmdb.org/t/p/w500/7VjZRZD5sHjsIaoNiUiXzO0qC10.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/hEE9n9tZAjoT3eE5lL4MhZZ2DbB.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/313068"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/313068-doumo-hao-kina-ren-ni-hu-re-yao-o-yi-lai-sareta-mo-nu-desu/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:313068",
         "hasScheduledVideos": true
       }
     },
@@ -2725,6 +2725,32 @@
       }
     },
     {
+      "id": "tmdb:tv:231801",
+      "type": "series",
+      "name": "GET JIRO",
+      "poster": "https://image.tmdb.org/t/p/w500/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xe6wbOPKuSMOze4rl48NFWy8PNe.jpg",
+      "description": "Disponibilité Canada : StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "9",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/231801"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/231801-get-jiro/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:231801",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:335194",
       "type": "series",
       "name": "マジカル★エクスプローラー",
@@ -2773,32 +2799,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:283692",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:231801",
-      "type": "series",
-      "name": "GET JIRO",
-      "poster": "https://image.tmdb.org/t/p/w500/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/xe6wbOPKuSMOze4rl48NFWy8PNe.jpg",
-      "description": "Disponibilité Canada : StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "9",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/231801"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/231801-get-jiro/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:231801",
         "hasScheduledVideos": true
       }
     },
@@ -2966,7 +2966,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/muPKymUvvBqjLCyGSacxKgjrhxN.jpg",
       "description": "Une série anthologique se déroulant dans le monde élitiste du droit à Londres, suivant deux cabinets rivaux, Cathcarts et Taylor & Byrne, qui s'affrontent dans une nouvelle affaire judiciaire médiatisée chaque saison.\n\nDisponibilité Canada : Crave, Crave Amazon Channel, Hayu.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "7.3",
       "links": [
         {
           "name": "TMDB",
@@ -3460,7 +3460,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/uc1p1PEbEMpdIHqnU9TESNC6Jhp.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
@@ -3798,7 +3798,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/mZSewqVlY4F2F2Axm7hiG6KBOBp.jpg",
       "description": "Disponibilité Canada : Rakuten Viki, Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.6",
       "links": [
         {
           "name": "TMDB",
@@ -3928,7 +3928,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/kgaQnDdDaPqvGN7i8LLz1aWJdjP.jpg",
       "description": "Lorsque Ian Ridley, opérateur des services d'urgence, reçoit un appel affolé d’une adolescente qu’il pense être sa fille disparue, il ne recule devant rien pour la retrouver.\n\nDisponibilité Canada : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
@@ -4006,7 +4006,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "9.2",
+      "imdbRating": "9.1",
       "links": [
         {
           "name": "TMDB",
@@ -4548,7 +4548,7 @@
       "id": "tmdb:tv:292533",
       "type": "series",
       "name": "Fúria",
-      "poster": "https://image.tmdb.org/t/p/w500/up9kAhzfN3wtnFi1D8AloWeHGDo.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/yF0bOKQ36UZJFsqxof47Q12GJw2.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/kZ77s94jLBliHXDXXPegi6ZbbtN.jpg",
       "description": "Un amnésique blessé trouve refuge auprès d'un entraîneur d'arts martiaux mixtes et monte sur le ring, déchiré entre l'espoir d'un nouvel avenir et les dangers issus du passé.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
@@ -5533,32 +5533,6 @@
       }
     },
     {
-      "id": "tmdb:tv:320406",
-      "type": "series",
-      "name": "가족관계증명서",
-      "poster": "https://image.tmdb.org/t/p/w500/qVK5lrPrRswoe542XEnufx8BH2j.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/xBFkSHJAco6XCwYZ3YRZc81pn22.jpg",
-      "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "10",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/320406"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/320406-gajoggwangyejeungmyeongseo/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:320406",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:295071",
       "type": "series",
       "name": "さよならララ",
@@ -5581,6 +5555,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:295071",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:320406",
+      "type": "series",
+      "name": "가족관계증명서",
+      "poster": "https://image.tmdb.org/t/p/w500/qVK5lrPrRswoe542XEnufx8BH2j.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xBFkSHJAco6XCwYZ3YRZc81pn22.jpg",
+      "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "10",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/320406"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/320406-gajoggwangyejeungmyeongseo/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:320406",
         "hasScheduledVideos": true
       }
     },
@@ -5611,32 +5611,6 @@
       }
     },
     {
-      "id": "tmdb:tv:284581",
-      "type": "series",
-      "name": "最強出涸らし皇子の暗躍帝位争い",
-      "poster": "https://image.tmdb.org/t/p/w500/etpSosywRvOO8mds61uv3aSjhDF.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/rbxKqzKkw9zrO9lKgqvXHOo4sZo.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/284581"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/284581-zui-qiang-chu-he-rashi-huang-zi-no-an-yue-di-wei-zheng-i/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:284581",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:302051",
       "type": "series",
       "name": "ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。",
@@ -5659,6 +5633,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:302051",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:284581",
+      "type": "series",
+      "name": "最強出涸らし皇子の暗躍帝位争い",
+      "poster": "https://image.tmdb.org/t/p/w500/etpSosywRvOO8mds61uv3aSjhDF.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rbxKqzKkw9zrO9lKgqvXHOo4sZo.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/284581"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/284581-zui-qiang-chu-he-rashi-huang-zi-no-an-yue-di-wei-zheng-i/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:284581",
         "hasScheduledVideos": true
       }
     },
@@ -5715,32 +5715,6 @@
       }
     },
     {
-      "id": "tmdb:tv:312849",
-      "type": "series",
-      "name": "才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様（生活能力皆無）を陰ながらお世話することになりました",
-      "poster": "https://image.tmdb.org/t/p/w500/A45lOrx7PJRjWrwlTAg09cUosQJ.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/5GF3fifAe3uElhci6TI09VHBMHA.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/312849"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/312849-cai-nu-noo-shi-hua-gao-ling-no-hua-darakena-ming-men-xiao-de-xue-yuan-yi-noo-niang-yang-sheng-huo-neng-li-jie-wu-o-yin-nagarao-shi-hua-surukotoninarimashita/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:312849",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:153217",
       "type": "series",
       "name": "Étincelles de demain",
@@ -5763,6 +5737,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:153217",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:312849",
+      "type": "series",
+      "name": "才女のお世話 高嶺の花だらけな名門校で、学院一のお嬢様（生活能力皆無）を陰ながらお世話することになりました",
+      "poster": "https://image.tmdb.org/t/p/w500/A45lOrx7PJRjWrwlTAg09cUosQJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5GF3fifAe3uElhci6TI09VHBMHA.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/312849"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/312849-cai-nu-noo-shi-hua-gao-ling-no-hua-darakena-ming-men-xiao-de-xue-yuan-yi-noo-niang-yang-sheng-huo-neng-li-jie-wu-o-yin-nagarao-shi-hua-surukotoninarimashita/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:312849",
         "hasScheduledVideos": true
       }
     },
@@ -5819,32 +5819,6 @@
       }
     },
     {
-      "id": "tmdb:tv:308403",
-      "type": "series",
-      "name": "鉄鍋のジャン！",
-      "poster": "https://image.tmdb.org/t/p/w500/du37GaThbc824q4wjfdSRtjEuJA.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/egAGdTC9aR8YJG4dU1OTPf950UP.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/308403"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/308403-zhi-guo-nojiyan/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:308403",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:300267",
       "type": "series",
       "name": "世界最強の後衛 ～迷宮国の新人探索者～",
@@ -5893,6 +5867,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:287075",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:308403",
+      "type": "series",
+      "name": "鉄鍋のジャン！",
+      "poster": "https://image.tmdb.org/t/p/w500/du37GaThbc824q4wjfdSRtjEuJA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/egAGdTC9aR8YJG4dU1OTPf950UP.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/308403"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/308403-zhi-guo-nojiyan/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:308403",
         "hasScheduledVideos": true
       }
     },
@@ -7281,7 +7281,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/gfBw8ZoGtRHSmSD5jo0McgwDzYd.jpg",
       "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.5",
+      "imdbRating": "6.8",
       "links": [
         {
           "name": "TMDB",
@@ -8366,32 +8366,6 @@
       }
     },
     {
-      "id": "tmdb:tv:297557",
-      "type": "series",
-      "name": "黒猫と魔女の教室",
-      "poster": "https://image.tmdb.org/t/p/w500/csFBSIeDwOpXt7fn7vU3R4Flm7e.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/tR8AoRgTCLS0y0iI1Eou8vZylfq.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/297557"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/297557-hei-mao-to-mo-nu-no-jiao-shi/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:297557",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:295751",
       "type": "series",
       "name": "一畳間まんきつ暮らし！",
@@ -8414,6 +8388,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:295751",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:297557",
+      "type": "series",
+      "name": "黒猫と魔女の教室",
+      "poster": "https://image.tmdb.org/t/p/w500/csFBSIeDwOpXt7fn7vU3R4Flm7e.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tR8AoRgTCLS0y0iI1Eou8vZylfq.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/297557"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/297557-hei-mao-to-mo-nu-no-jiao-shi/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:297557",
         "hasScheduledVideos": true
       }
     },
@@ -9146,32 +9146,6 @@
       }
     },
     {
-      "id": "tmdb:tv:297438",
-      "type": "series",
-      "name": "あかね噺",
-      "poster": "https://image.tmdb.org/t/p/w500/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/tD1pMgt3DNGoJn2M0QaDyaN3FfJ.jpg",
-      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/297438"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/297438-akane-xin/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:297438",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:260463",
       "type": "series",
       "name": "黄泉のツガイ",
@@ -9194,6 +9168,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:260463",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:297438",
+      "type": "series",
+      "name": "あかね噺",
+      "poster": "https://image.tmdb.org/t/p/w500/ix3Jv1p9IOHkssYO5uct86aMJ1q.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tD1pMgt3DNGoJn2M0QaDyaN3FfJ.jpg",
+      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/297438"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/297438-akane-xin/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:297438",
         "hasScheduledVideos": true
       }
     },
@@ -9354,32 +9354,6 @@
       }
     },
     {
-      "id": "tmdb:tv:274622",
-      "type": "series",
-      "name": "ガンバレ！中村くん！！",
-      "poster": "https://image.tmdb.org/t/p/w500/rCI8bgsqoq2ho04ZE0gUr36l8Pg.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/wpsLsjCcIf3QexYO6pCaLm9PI0Z.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.3",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/274622"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/274622-ganbare-zhong-cun-kun/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:274622",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:304820",
       "type": "series",
       "name": "逃がした魚は大きかったが釣りあげた魚が大きすぎた件",
@@ -9402,6 +9376,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:304820",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:274622",
+      "type": "series",
+      "name": "ガンバレ！中村くん！！",
+      "poster": "https://image.tmdb.org/t/p/w500/rCI8bgsqoq2ho04ZE0gUr36l8Pg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wpsLsjCcIf3QexYO6pCaLm9PI0Z.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/274622"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/274622-ganbare-zhong-cun-kun/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:274622",
         "hasScheduledVideos": true
       }
     },
@@ -10063,7 +10063,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/8mmDLb108DoFZlE8sfc64TRqLvm.jpg",
       "description": "De Guy Ritchie, découvrez cette série irrévérencieuse pleine de mystère et d'action, découvrez la genèse du légendaire Sherlock Holmes en suivant ses premières aventures.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.8",
+      "imdbRating": "7.7",
       "links": [
         {
           "name": "TMDB",
@@ -10712,7 +10712,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/muj5grIGkNLek2j7A6K6fHcbPb7.jpg",
       "description": "Disponibilité Canada : fuboTV, StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.3",
+      "imdbRating": "5.4",
       "links": [
         {
           "name": "TMDB",
@@ -11225,32 +11225,6 @@
       }
     },
     {
-      "id": "tmdb:tv:262793",
-      "type": "series",
-      "name": "PONIES",
-      "poster": "https://image.tmdb.org/t/p/w500/5SFjDV42IMWpZDAcu3fT9LUpFHY.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/Ak7AdQpvmZpSe9WYBd5KrgjSsSX.jpg",
-      "description": "En 1977 à Moscou, deux PONIES (personnes sans intérêt, selon le jargon des services de renseignement) travaillent incognito comme secrétaires à l'ambassade américaine. Du moins, jusqu'à ce que leurs maris meurent dans des circonstances mystérieuses en Union soviétique et qu'elles soient propulsées au sein de la CIA. Bea Grant, brillante, surdiplômée et parlant couramment russe, est la fille d'immigrants russes et tente de donner un sens à une vie qui a pris un tournant inattendu. Twila Hasbeck, une jeune femme de province au tempérament de feu, est franche, audacieuse et plus intrépide qu'il n'y paraît. Réunies par le deuil et les circonstances, les deux femmes se lancent à la découverte du vaste complot pour lequel leurs maris ont été assassinés.\n\nDisponibilité Canada : fuboTV, StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/262793"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/262793-ponies/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:262793",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:250505",
       "type": "series",
       "name": "Les Sept Cadrans d'Agatha Christie",
@@ -11273,6 +11247,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:250505",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:262793",
+      "type": "series",
+      "name": "PONIES",
+      "poster": "https://image.tmdb.org/t/p/w500/5SFjDV42IMWpZDAcu3fT9LUpFHY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/Ak7AdQpvmZpSe9WYBd5KrgjSsSX.jpg",
+      "description": "En 1977 à Moscou, deux PONIES (personnes sans intérêt, selon le jargon des services de renseignement) travaillent incognito comme secrétaires à l'ambassade américaine. Du moins, jusqu'à ce que leurs maris meurent dans des circonstances mystérieuses en Union soviétique et qu'elles soient propulsées au sein de la CIA. Bea Grant, brillante, surdiplômée et parlant couramment russe, est la fille d'immigrants russes et tente de donner un sens à une vie qui a pris un tournant inattendu. Twila Hasbeck, une jeune femme de province au tempérament de feu, est franche, audacieuse et plus intrépide qu'il n'y paraît. Réunies par le deuil et les circonstances, les deux femmes se lancent à la découverte du vaste complot pour lequel leurs maris ont été assassinés.\n\nDisponibilité Canada : fuboTV, StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/262793"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/262793-ponies/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:262793",
         "hasScheduledVideos": true
       }
     },
@@ -11381,32 +11381,6 @@
       }
     },
     {
-      "id": "tmdb:tv:284432",
-      "type": "series",
-      "name": "勇者のクズ",
-      "poster": "https://image.tmdb.org/t/p/w500/zUdByBz1zWn4Prgw5nkVmgfFzfI.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/1hS9huDDGeirdy1Regli71wo9ot.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/284432"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/284432-yong-zhe-nokuzu/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:284432",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:295483",
       "type": "series",
       "name": "悪役令嬢は隣国の王太子に溺愛される",
@@ -11429,6 +11403,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:295483",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:284432",
+      "type": "series",
+      "name": "勇者のクズ",
+      "poster": "https://image.tmdb.org/t/p/w500/zUdByBz1zWn4Prgw5nkVmgfFzfI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1hS9huDDGeirdy1Regli71wo9ot.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/284432"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/284432-yong-zhe-nokuzu/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:284432",
         "hasScheduledVideos": true
       }
     },
@@ -11667,32 +11667,6 @@
       }
     },
     {
-      "id": "tmdb:tv:281161",
-      "type": "series",
-      "name": "貴族転生 ～恵まれた生まれから最強の力を得る～",
-      "poster": "https://image.tmdb.org/t/p/w500/ggxUYlw7a3eVegnXDv8aCDiLccJ.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/wThJAr5CYaLXH5qNhleCfbNrNSE.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/281161"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/281161-gui-zu-zhuan-sheng-hui-mareta-sheng-marekara-zui-qiang-no-li-o-de-ru/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:281161",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:283891",
       "type": "series",
       "name": "エリスの聖杯",
@@ -11715,6 +11689,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:283891",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:281161",
+      "type": "series",
+      "name": "貴族転生 ～恵まれた生まれから最強の力を得る～",
+      "poster": "https://image.tmdb.org/t/p/w500/ggxUYlw7a3eVegnXDv8aCDiLccJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wThJAr5CYaLXH5qNhleCfbNrNSE.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/281161"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/281161-gui-zu-zhuan-sheng-hui-mareta-sheng-marekara-zui-qiang-no-li-o-de-ru/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:281161",
         "hasScheduledVideos": true
       }
     },
@@ -11745,32 +11745,6 @@
       }
     },
     {
-      "id": "tmdb:tv:255064",
-      "type": "series",
-      "name": "DARWIN'S INCIDENT",
-      "poster": "https://image.tmdb.org/t/p/w500/zoiybpuhbeLlaGQGSoF4z9DY6aR.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/3pxPbuDzuZaWRdheGptiDTM9jFz.jpg",
-      "description": "Charlie est unique, mi-humain, mi-chimpanzé. Son intellect et ses prouesses physiques sont hors norme. C'est pourquoi l'Alliance de Libération des Animaux, un groupe terroriste, veut le rallier à sa cause. Ils sont prêts à tout pour le recruter. Mais Charlie est déterminé à ne pas se laisser faire pour le bien de ses proches.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/255064"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/255064-dauin-shi-bian/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:255064",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:263330",
       "type": "series",
       "name": "死亡遊戯で飯を食う。",
@@ -11793,6 +11767,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:263330",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:255064",
+      "type": "series",
+      "name": "DARWIN'S INCIDENT",
+      "poster": "https://image.tmdb.org/t/p/w500/zoiybpuhbeLlaGQGSoF4z9DY6aR.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3pxPbuDzuZaWRdheGptiDTM9jFz.jpg",
+      "description": "Charlie est unique, mi-humain, mi-chimpanzé. Son intellect et ses prouesses physiques sont hors norme. C'est pourquoi l'Alliance de Libération des Animaux, un groupe terroriste, veut le rallier à sa cause. Ils sont prêts à tout pour le recruter. Mais Charlie est déterminé à ne pas se laisser faire pour le bien de ses proches.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/255064"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/255064-dauin-shi-bian/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:255064",
         "hasScheduledVideos": true
       }
     },
@@ -12265,32 +12265,6 @@
       }
     },
     {
-      "id": "tmdb:tv:311355",
-      "type": "series",
-      "name": "MrBeast: Luxury Experiences!",
-      "poster": "https://image.tmdb.org/t/p/w500/eOPM31IvNb00S46OM4gLiogM4qj.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/zH1nfoj7QxYzam2xVK0er39S9N2.jpg",
-      "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "4.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/311355"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/311355-mrbeast-luxury-experiences/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:311355",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:244244",
       "type": "series",
       "name": "Ne t'enfuis plus",
@@ -12313,6 +12287,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:244244",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:311355",
+      "type": "series",
+      "name": "MrBeast: Luxury Experiences!",
+      "poster": "https://image.tmdb.org/t/p/w500/eOPM31IvNb00S46OM4gLiogM4qj.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zH1nfoj7QxYzam2xVK0er39S9N2.jpg",
+      "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "4.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/311355"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/311355-mrbeast-luxury-experiences/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:311355",
         "hasScheduledVideos": true
       }
     },

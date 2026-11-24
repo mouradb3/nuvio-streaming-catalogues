@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1536559",
+    "type": "movie",
+    "name": "Double Happiness",
+    "poster": "https://image.tmdb.org/t/p/w500/1MzikEP1A09dZFuQu5DBxJFPNH7.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/5wvi1AfmGubxjftZgVsNVmJ6tHU.jpg",
+    "description": "Tim, futur marié, doit organiser deux mariages parfaits le même soir, dans le même hôtel cinq étoiles, sans que ses parents divorcés ne se croisent.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1536559"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1536559-shuang-xi/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1536559",
+      "hasScheduledVideos": false
+    }
+  }
+}
