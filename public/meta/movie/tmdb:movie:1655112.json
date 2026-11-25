@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1655112",
+    "type": "movie",
+    "name": "One Last Order",
+    "poster": "https://image.tmdb.org/t/p/w500/ept9ZKHko1JbYPHEUxMK9cf6tzy.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/juUyC5Ku9oWOjSskvE0MVmeaUAD.jpg",
+    "description": "Une employée adorée d'un service à l'auto reçoit la recette de la journée en cadeau d'adieu, lorsque la communauté fait la file pour lui dire au revoir lors de son dernier jour à Gainesville.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1655112"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1655112-one-last-order/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1655112",
+      "hasScheduledVideos": false
+    }
+  }
+}

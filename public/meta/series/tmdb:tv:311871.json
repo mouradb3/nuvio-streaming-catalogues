@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:311871",
+    "type": "series",
+    "name": "TAGUSARI bros.",
+    "poster": "https://image.tmdb.org/t/p/w500/m6UmAAt2X39j6KWeIsATEX2O5qu.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/cwRWWqXzZmxdKCsLjsne56gVj94.jpg",
+    "description": "Deux frères rejoignent la police pour élucider le meurtre de leurs parents, car l'affaire est sur le point d'expirer quelques jours avant que le Japon n'abolisse la prescription.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/311871"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/311871-tian-suo-burazazu/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:311871",
+      "hasScheduledVideos": true
+    }
+  }
+}

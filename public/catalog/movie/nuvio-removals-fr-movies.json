@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "tmdb:movie:1368337",
+      "type": "movie",
+      "name": "L'Odyssée",
+      "poster": "https://image.tmdb.org/t/p/w500/jKf0p3fhO893ROvRuvuSDsZSvK6.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/c7btGYblBnfAaw713WvFM0Kimc7.jpg",
+      "description": "Disponibilité retirée chez Universal+ Amazon Channel — France.\nDate de détection : 2026-11-25T19:13:30.558Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1368337"
+        }
+      ]
+    },
+    {
       "id": "tmdb:movie:1559984",
       "type": "movie",
       "name": "My Weird School",

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:303870",
+    "type": "series",
+    "name": "霧尾ファンクラブ",
+    "poster": "https://image.tmdb.org/t/p/w500/yy9gsBKHX9PHq17mJhhm2yVKh8g.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/5XnCFHGrBCDsZCH4Aihr4PsNXBe.jpg",
+    "description": "Disponibilité Canada : HiDive, Hidive Amazon Channel, Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/303870"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/303870-wu-wei-fuankurabu/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:303870",
+      "hasScheduledVideos": true
+    }
+  }
+}

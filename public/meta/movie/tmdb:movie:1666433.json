@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1666433",
+    "type": "movie",
+    "name": "Trevor Noah: Joy in The Trenches",
+    "poster": "https://image.tmdb.org/t/p/w500/nGbo6kZLHwcyBJOgr5b36OvBPPe.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/vSTlbow1yx2L85EEUhFiJOMo4LY.jpg",
+    "description": "D'un buzz inattendu sur les réseaux sociaux à un uppercut lâché par sa thérapeute, Trevor Noah transforme le chaos en comédie dans ce stand-up hilarant et incisif.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1666433"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1666433-trevor-noah-joy-in-the-trenches/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1666433",
+      "hasScheduledVideos": false
+    }
+  }
+}

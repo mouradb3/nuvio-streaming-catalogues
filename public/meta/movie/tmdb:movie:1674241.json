@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1674241",
+    "type": "movie",
+    "name": "The Symphony of Dance",
+    "poster": "https://image.tmdb.org/t/p/w500/5FkdTRRHqTgaySPgQDwVlqx4c6J.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/9crOknb6AdvURcTsmgmvxm9gRuv.jpg",
+    "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1674241"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1674241-the-symphony-of-dance/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1674241",
+      "hasScheduledVideos": false
+    }
+  }
+}
