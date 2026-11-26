@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1599329",
+    "type": "movie",
+    "name": "All for Christmas",
+    "poster": "https://image.tmdb.org/t/p/w500/oGdv5eh69qZBws5vjIFJvvSH1Uz.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/umIrgCdfDgZXXlzMCkLk38CURs.jpg",
+    "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1599329"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1599329-all-for-christmas/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1599329",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,6 +1,32 @@
 {
   "metas": [
     {
+      "id": "tmdb:movie:1280115",
+      "type": "movie",
+      "name": "L’apprenti guerrier",
+      "poster": "https://image.tmdb.org/t/p/w500/2rXUmLp4ZxlrsAUxNBXMIYYvdHE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1JL6mDxYRauwv81bLupSZczC39M.jpg",
+      "description": "Jake, un commando de la Marine blessé en mission, aide son neveu Marc, un ado timide et tourmenté, à devenir un jeune guerrier grâce à des principes militaires.\n\nDisponibilité Canada : Apple TV.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1280115"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1280115-way-of-the-warrior-kid/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1280115",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1802703",
       "type": "movie",
       "name": "Rob Lowe: The Outsider",
@@ -27,28 +53,28 @@
       }
     },
     {
-      "id": "tmdb:movie:1280115",
+      "id": "tmdb:movie:1599329",
       "type": "movie",
-      "name": "L’apprenti guerrier",
-      "poster": "https://image.tmdb.org/t/p/w500/2rXUmLp4ZxlrsAUxNBXMIYYvdHE.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/vOByLZRhCIIItlSlCT7bYbI9MYL.jpg",
-      "description": "Jake, un commando de la Marine blessé en mission, aide son neveu Marc, un ado timide et tourmenté, à devenir un jeune guerrier grâce à des principes militaires.\n\nDisponibilité Canada : Apple TV.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "name": "All for Christmas",
+      "poster": "https://image.tmdb.org/t/p/w500/oGdv5eh69qZBws5vjIFJvvSH1Uz.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/umIrgCdfDgZXXlzMCkLk38CURs.jpg",
+      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8",
+      "imdbRating": "5.5",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1280115"
+          "url": "https://www.themoviedb.org/movie/1599329"
         },
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1280115-way-of-the-warrior-kid/watch?locale=CA"
+          "url": "https://www.themoviedb.org/movie/1599329-all-for-christmas/watch?locale=CA"
         }
       ],
       "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1280115",
+        "defaultVideoId": "tmdb:movie:1599329",
         "hasScheduledVideos": false
       }
     },
@@ -85,7 +111,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
       "description": "Ryan Mitchell et Hannah Hendricks, deux rivaux, se retrouvent pris au piège par une tempête pendant les fêtes et sont contraints de partager une voiture vers New York, où une occasion cruciale pour leur carrière les attend. Au fil des mésaventures et des détours, l'esprit des fêtes commence à apaiser leur rivalité acharnée et à créer une amitié inattendue.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.8",
+      "imdbRating": "6.7",
       "links": [
         {
           "name": "TMDB",
@@ -111,7 +137,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/ynyXGFFQsUjDSIPHzba1g0zGgcM.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.7",
+      "imdbRating": "5.8",
       "links": [
         {
           "name": "TMDB",
@@ -189,7 +215,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
       "description": "Dans cette charmante comédie d'action, Lilith, la « méchante » demi-sœur de Cendrillon, vole la baguette de la bonne fée marraine et bouleverse le conte tel qu'on le connaît.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "7.1",
       "links": [
         {
           "name": "TMDB",
@@ -292,7 +318,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/qHvap0vpfTBIbv7cnR0OyBRqQHG.jpg",
       "description": "Une garde du corps à la tête froide rejoint l'acteur qu'elle protège dans son ranch du Montana. Mais se faire passer pour un couple à Noël fait vite naître de vrais sentiments.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.9",
+      "imdbRating": "6.8",
       "links": [
         {
           "name": "TMDB",
@@ -396,7 +422,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/gwrGO8A61CtuxxurWjo3OAl1wcO.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.9",
+      "imdbRating": "6.8",
       "links": [
         {
           "name": "TMDB",
@@ -496,7 +522,7 @@
       "id": "tmdb:movie:1543469",
       "type": "movie",
       "name": "Heartland",
-      "poster": "https://image.tmdb.org/t/p/w500/zhxlzxBlO1sWB1rPn7RmAoeQ2na.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/azArOQaVxKa3367XJv2l4ewjsdB.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/psTMZj8gvsfYVfvd7FZCHH4xL6P.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
@@ -916,7 +942,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.7",
+      "imdbRating": "6.9",
       "links": [
         {
           "name": "TMDB",
@@ -1772,7 +1798,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/o3XwuDUj0n8qnK91p6q8LKfr6rj.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.2",
+      "imdbRating": "6.1",
       "links": [
         {
           "name": "TMDB",
@@ -4574,7 +4600,7 @@
       "type": "movie",
       "name": "Leviticus",
       "poster": "https://image.tmdb.org/t/p/w500/l4wKajF6yWUcCiZaZ7qzMPlBmU2.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ekFr4AyEpwyIHK1R3VOYDXN2PqL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8stjEyaNvZrWAgLODiJoeBDmxza.jpg",
       "description": "Deux adolescents maudits par les étoiles doivent échapper à une entité violente qui prend la forme de la personne qu’ils désirent le plus — l’un l’autre.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "6.8",
@@ -5643,7 +5669,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/5Dkv39CuytJDnJeZjkepFtOWqBr.jpg",
       "description": "De l'audace, de la folie et de l'ingéniosité mexicaine. En 1986, le Mexique accueillait le plus grand tournoi de soccer, malgré les obstacles. Comment a-t-il accompli cet exploit?\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.8",
       "links": [
         {
           "name": "TMDB",
@@ -6865,7 +6891,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/VhBMTmRt7lFKddjCqFTe0jRa1E.jpg",
       "description": "Disponibilité Canada : Paramount Plus, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.7",
+      "imdbRating": "5.6",
       "links": [
         {
           "name": "TMDB",
@@ -9125,7 +9151,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
       "description": "Disponibilité Canada : AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.3",
+      "imdbRating": "5.2",
       "links": [
         {
           "name": "TMDB",
