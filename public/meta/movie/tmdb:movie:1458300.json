@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1458300",
+    "type": "movie",
+    "name": "The Mosquito Bowl",
+    "poster": "https://image.tmdb.org/t/p/w500/9vqBni5nflDX9CmvftTB08Q9kca.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/nfcXn5yvBejpbljQIBrTlOMQZoC.jpg",
+    "description": "Après l'attaque de Pearl Harbor, quatre des plus grands noms du football universitaire américain mettent leur célébrité de côté pour s'engager chez les Marines. Alors qu'ils se préparent pour la brutale invasion d'Okinawa, ils participent à un match légendaire réunissant certains des meilleurs joueurs de l'Histoire, un match qui, pour beaucoup, sera le dernier.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.4",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1458300"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1458300-the-mosquito-bowl/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1458300",
+      "hasScheduledVideos": false
+    }
+  }
+}

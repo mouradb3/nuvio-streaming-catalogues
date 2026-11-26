@@ -1,6 +1,38 @@
 {
   "metas": [
     {
+      "id": "tmdb:tv:203483",
+      "type": "series",
+      "name": "两京十五日",
+      "poster": "https://image.tmdb.org/t/p/w500/oqHkgdVFO9LpGnwTx0zXZcUJ82p.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/pFTGCQ3oVhFkuOCjnvCPeVsQBaL.jpg",
+      "description": "Disponibilité retirée chez Rakuten Viki — Canada.\nDate de détection : 2026-11-26T16:51:08.445Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/203483"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:318349",
+      "type": "series",
+      "name": "宝珠",
+      "poster": "https://image.tmdb.org/t/p/w500/p1MA5VQyjZhWmelyRC75RuRu1CG.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4YguelPz6c9zzGfh29HYHVOsyyN.jpg",
+      "description": "Disponibilité retirée chez Rakuten Viki — Canada.\nDate de détection : 2026-11-26T16:51:08.253Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/318349"
+        }
+      ]
+    },
+    {
       "id": "tmdb:tv:323903",
       "type": "series",
       "name": "The Terror: Devil in Silver",

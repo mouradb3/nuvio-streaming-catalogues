@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1513183",
+    "type": "movie",
+    "name": "الكلام على إيه؟!: أول ليلة",
+    "poster": "https://image.tmdb.org/t/p/w500/gmxvCmuvqT7RN6gO80fgp2HXVJ8.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/7tUMoGBYpPy0CJ98SsFJiFwKrCX.jpg",
+    "description": "Disponibilité France : Shahid VIP.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1513183"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1513183-lklm-la-yh-wl-lylh/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1513183",
+      "hasScheduledVideos": false
+    }
+  }
+}

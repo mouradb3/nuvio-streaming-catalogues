@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1002109",
+    "type": "movie",
+    "name": "Police Flash 80",
+    "poster": "https://image.tmdb.org/t/p/w500/2HD9MuSt5Fk6i7uAgI3m75VATjk.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/h7VBwwztl4it7BSA6HsJR41nC37.jpg",
+    "description": "Paris, années 80. Le trafic d’héroïne envahit la capitale. Un duo de flics à l’ancienne Yvon Kastendeuch et Johnny Lansky tient encore la baraque… jusqu’à ce que ce dernier se fasse descendre. Pour faire tomber le réseau, Yvon est propulsé à la tête d’une unité expérimentale : la Police Flash 80. Il va devoir désormais faire équipe avec des jeunes recrues aux méthodes modernes, loin de ses habitudes de mâle dominant fan de Sardou et d’andouillette.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.9",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1002109"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1002109-police-flash-80/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1002109",
+      "hasScheduledVideos": false
+    }
+  }
+}

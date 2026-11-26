@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1404684",
+    "type": "movie",
+    "name": "Juste une illusion",
+    "poster": "https://image.tmdb.org/t/p/w500/dx2TBCvWuTNsCMkVGMpoymlih2x.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/l1fhfzNclQcp4oBz550KMY0CTre.jpg",
+    "description": "Nous sommes en 1985, Vincent, bientôt 13 ans, vit en banlieue parisienne dans une famille de la classe moyenne, entre un grand frère distant et des parents en conflit permanent. Alors qu’il n’est « déjà plus » un enfant et qu’il n’est « pas encore » un adulte nous allons partager ses questions et ses doutes sur l’identité, l’amitié, la famille, la religion, le désir et les premiers élans amoureux.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1404684"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1404684-juste-une-illusion/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1404684",
+      "hasScheduledVideos": false
+    }
+  }
+}

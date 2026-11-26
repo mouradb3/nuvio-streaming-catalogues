@@ -1,14 +1,40 @@
 {
   "metas": [
     {
+      "id": "tmdb:movie:1458300",
+      "type": "movie",
+      "name": "The Mosquito Bowl",
+      "poster": "https://image.tmdb.org/t/p/w500/9vqBni5nflDX9CmvftTB08Q9kca.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/nfcXn5yvBejpbljQIBrTlOMQZoC.jpg",
+      "description": "Après l'attaque de Pearl Harbor, quatre des plus grands noms du football universitaire américain mettent leur célébrité de côté pour s'engager chez les Marines. Alors qu'ils se préparent pour la brutale invasion d'Okinawa, ils participent à un match légendaire réunissant certains des meilleurs joueurs de l'Histoire, un match qui, pour beaucoup, sera le dernier.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1458300"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1458300-the-mosquito-bowl/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1458300",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1280115",
       "type": "movie",
       "name": "Warrior Kid",
-      "poster": "https://image.tmdb.org/t/p/w500/wc3iEKO4lTRnhmwqyV7cSOddnCY.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/1JL6mDxYRauwv81bLupSZczC39M.jpg",
-      "description": "L’école intermédiaire est un véritable cauchemar pour Marc, intimidé par les élèves de sa classe. Il a l’impression d’avoir de la difficulté dans tout : dans ses cours, en éducation physique et même à se faire des amis. Tout change lorsque son oncle Jake, membre décoré des Navy Seals, vient passer l’été avec Marc et sa mère Sarah pour se remettre d’une blessure. Pour aider Marc à se défendre, Jake organise un programme d’entraînement soutenu inspiré de sa formation dans la marine. Au lieu de montrer à son neveu comment se battre, Jake enseigne à Marc ce qu’est le réel courage, ce qui lui permet d’affronter ses propres démons du même coup.\n\nDisponibilité France : Apple TV.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "poster": "https://image.tmdb.org/t/p/w500/1HG5zdKArZMrfk782vMs39JAnEQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vOByLZRhCIIItlSlCT7bYbI9MYL.jpg",
+      "description": "Jake, un commando de la Marine blessé en mission, aide son neveu Marc, un ado timide et tourmenté, à devenir un jeune guerrier grâce à des principes militaires.\n\nDisponibilité France : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.3",
       "links": [
         {
           "name": "TMDB",
@@ -32,7 +58,7 @@
       "name": "Une nounou en cadeau",
       "poster": "https://image.tmdb.org/t/p/w500/gG14F6TIydzRXQB9yOKDV0t1R23.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/jIkHqDc4jWKfDaf1T6YHmNqhKoG.jpg",
-      "description": "Jen, une cadre d'entreprise qui déteste Noël, se voit confier à contrecœur la garde des deux enfants de sa sœur. Heureusement, son séduisant voisin Adam l'aide à surmonter les catastrophes des fêtes et à redécouvrir les liens familiaux.\n\nDisponibilité France : Molotov TV.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "description": "Jen, une cadre d'entreprise qui déteste Noël, se voit confier à contrecœur la garde des deux enfants de sa sœur. Heureusement, son séduisant voisin Adam l'aide à surmonter les catastrophes des fêtes et à redécouvrir les liens familiaux.\n\nDisponibilité France : Molotov TV, TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "links": [
         {
@@ -103,6 +129,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1764131",
+      "type": "movie",
+      "name": "The Buffalo Miracle",
+      "poster": "https://image.tmdb.org/t/p/w500/iF63sGX6KilPI84Ly3GNVKYOdwZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/65P2rjBi89U4qsFLdzUxeYecgS1.jpg",
+      "description": "Disponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "1.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1764131"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1764131-the-buffalo-miracle/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1764131",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1611767",
       "type": "movie",
       "name": "Noël à la page",
@@ -110,7 +162,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/x6kwEsxxqLIoqpIrZOXRV0LORqm.jpg",
       "description": "Coincés par une tempête de neige durant les fêtes de fin d'année, Ryan Mitchell et Hannah Hendricks, deux éditeurs que tout oppose, doivent se rendre en voiture à New York, où chacun espère sauver sa carrière. Après un parcours semé d'embuches et de détours dans des petites villes, l'esprit des fêtes transforme leur rivalité farouche en une chose inattendue.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.7",
+      "imdbRating": "6.1",
       "links": [
         {
           "name": "TMDB",
@@ -136,7 +188,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/ynyXGFFQsUjDSIPHzba1g0zGgcM.jpg",
       "description": "L’influenceuse Chiara Ferragni se confie pour la première fois sur le scandale caritatif qui a ébranlé sa carrière et provoqué la fin de son mariage très médiatisé.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.8",
+      "imdbRating": "5.9",
       "links": [
         {
           "name": "TMDB",
@@ -233,6 +285,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1541413",
+      "type": "movie",
+      "name": "Un meurtre mystérieux à Noël",
+      "poster": "https://image.tmdb.org/t/p/w500/rotc7GM3PMdvHs1a9yQVtvDb55W.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ewtPu1qSYVDl5Mv5SP6Du08XQHN.jpg",
+      "description": "Vera travaille à temps partiel comme responsable des jeux de réflexion dans un journal et comme consultante pour le shérif local. Après avoir été invitée par une famille aisée à passer les fêtes avec elle, le patriarche est assassiné et c'est à Vera qu'il revient de résoudre l'affaire.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1541413"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1541413-a-christmas-murder-mystery/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1541413",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1804968",
       "type": "movie",
       "name": "The Pursuit: F1 ACADEMY",
@@ -258,28 +336,27 @@
       }
     },
     {
-      "id": "tmdb:movie:1541413",
+      "id": "tmdb:movie:1584779",
       "type": "movie",
-      "name": "Un meurtre mystérieux à Noël",
-      "poster": "https://image.tmdb.org/t/p/w500/rotc7GM3PMdvHs1a9yQVtvDb55W.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ewtPu1qSYVDl5Mv5SP6Du08XQHN.jpg",
-      "description": "Vera travaille à temps partiel comme responsable des jeux de réflexion dans un journal et comme consultante pour le shérif local. Après avoir été invitée par une famille aisée à passer les fêtes avec elle, le patriarche est assassiné et c'est à Vera qu'il revient de résoudre l'affaire.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "name": "L’inconnue dans le placard",
+      "poster": "https://image.tmdb.org/t/p/w500/4aBN0YZ6Jfb09fRSxyObfdSe2Ot.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8UkpeQ7fwKyX2PVmnnaAJm7Vv9J.jpg",
+      "description": "Quand Amy, la présidente d'une importante association caritative, perd son père, elle est choquée de découvrir qu'il possédait un espace dans un garde-meuble avec un secret mortel à l'intérieur : le corps d'une femme. Son père était-il un meurtriers ? Qui était cette femme ?\n\nDisponibilité France : Netflix, Netflix Standard with Ads, TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.3",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1541413"
+          "url": "https://www.themoviedb.org/movie/1584779"
         },
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1541413-a-christmas-murder-mystery/watch?locale=FR"
+          "url": "https://www.themoviedb.org/movie/1584779-the-body-in-the-locker/watch?locale=FR"
         }
       ],
       "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1541413",
+        "defaultVideoId": "tmdb:movie:1584779",
         "hasScheduledVideos": false
       }
     },
@@ -415,8 +492,8 @@
       "id": "tmdb:movie:1791730",
       "type": "movie",
       "name": "Primetime Preacher$",
-      "poster": "https://image.tmdb.org/t/p/w500/ilFRKYUhsYyW0mpSifpFZmpR9yo.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/gwrGO8A61CtuxxurWjo3OAl1wcO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pnMVyfJevpBCpElzKglYb8pD3hf.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kWuGqljCzwqRm36qDXU85Yh6VhM.jpg",
       "description": "Ce livre relate l'âge d'or des années 1980 pour la radiodiffusion chrétienne, en détaillant comment trois des télévangélistes les plus en vue d'Amérique ont transformé le christianisme évangélique en une force politique massive.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "6.8",
@@ -601,7 +678,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
       "description": "Quand un gang meurtrier prend d'assaut sa maison isolée, un vétéran rongé par le remords et ses petits-enfants qu'il connaît à peine unissent leurs forces pour survivre.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "6.8",
       "links": [
         {
           "name": "TMDB",
@@ -668,6 +745,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1757174",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1458215",
+      "type": "movie",
+      "name": "Cash Out 3 - The Gentleman Thief",
+      "poster": "https://image.tmdb.org/t/p/w500/t8dT2sEzre41i6zgQFyY7RHbORY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iar5GAkSX1LswFFxMTbHHR3zxMf.jpg",
+      "description": "L'incorrigible Shawn réussit, non sans mal, à sortir son frère Mason Goddard de sa retraite pour l'embarquer dans un ultime casse. Mais Mason et son équipe d'experts en cambriolage vont, sans le savoir, s'attaquer au redoutable Abel Salazar qui vient de s'évader de prison. Ce casse de haut vol, apparemment à leur portée, a en réalité été imaginé par Salazar lui-même...\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1458215"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1458215-the-gentleman-thief/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1458215",
         "hasScheduledVideos": false
       }
     },
@@ -1061,32 +1164,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1003494",
-      "type": "movie",
-      "name": "L’Affaire Marie-Claire",
-      "poster": "https://image.tmdb.org/t/p/w500/eJyYB3D5YeJp20r3yZFwQW23Rp3.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/rIxB1b3nBfjxP0nHrWyjJArcVwa.jpg",
-      "description": "Novembre 1972. Au tribunal de Bobigny, un procès hors norme secoue la France entière. Marie-Claire Chevalier, 16 ans, est accusée d’avoir avorté illégalement. À la barre, sa mère et toutes les femmes qui l’ont aidée. Leur avocate, Gisèle Halimi, fait un pari fou, insensé : elle leur demande de ne pas plaider coupable. Gisèle va faire ce qui n’a jamais été fait auparavant, elle va accuser et attaquer la loi, au risque de tout perdre. Au nom de toutes.\n\nDisponibilité France : SFR Play.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1003494"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1003494-l-affaire-marie-claire/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1003494",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1705729",
       "type": "movie",
       "name": "Man of War",
@@ -1113,6 +1190,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1003494",
+      "type": "movie",
+      "name": "L’Affaire Marie-Claire",
+      "poster": "https://image.tmdb.org/t/p/w500/eJyYB3D5YeJp20r3yZFwQW23Rp3.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rIxB1b3nBfjxP0nHrWyjJArcVwa.jpg",
+      "description": "Novembre 1972. Au tribunal de Bobigny, un procès hors norme secoue la France entière. Marie-Claire Chevalier, 16 ans, est accusée d’avoir avorté illégalement. À la barre, sa mère et toutes les femmes qui l’ont aidée. Leur avocate, Gisèle Halimi, fait un pari fou, insensé : elle leur demande de ne pas plaider coupable. Gisèle va faire ce qui n’a jamais été fait auparavant, elle va accuser et attaquer la loi, au risque de tout perdre. Au nom de toutes.\n\nDisponibilité France : SFR Play.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1003494"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1003494-l-affaire-marie-claire/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1003494",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1816668",
       "type": "movie",
       "name": "Ninho : Le prix à payer",
@@ -1135,6 +1238,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1816668",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:938150",
+      "type": "movie",
+      "name": "Wardriver",
+      "poster": "https://image.tmdb.org/t/p/w500/z8xWGVIrZ26lkE0jExeh1sRY7RO.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cVhvKbZS8H0oqKDGzoKvgG9dS1B.jpg",
+      "description": "Cole, un brillant voleur expert en technologie, parcourt la ville au volant de sa voiture, utilisant ses compétences hautement spécialisées pour commettre des cambriolages sophistiqués depuis son ordinateur portable.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/938150"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/938150-wardriver/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:938150",
         "hasScheduledVideos": false
       }
     },
@@ -1187,32 +1316,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1083884",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1545997",
-      "type": "movie",
-      "name": "Noël in the city",
-      "poster": "https://image.tmdb.org/t/p/w500/5tYw1fstvTdpH6wInqY23oTIiiI.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ow0fjNLTQeI8trA3oH3d1szqdl.jpg",
-      "description": "Toute en joie de recevoir sa famille chez elle à Chicago pour Noël, Nell a concocté un séjour sur mesure et préparé un programme d'activités dont elle rêvait depuis des années. Ses parents et sa soeur ont malheureusement des contraintes de dernières minutes et ne pourront pas venir... Elle se résout à annuler ses projets. Mais, encouragée par Cooper, son voisin, Nell décide de tout mettre en oeuvre pour vivre le Noël dont elle a toujours rêvé.\n\nDisponibilité France : Netflix, Netflix Standard with Ads, TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1545997"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1545997-single-on-the-25th/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1545997",
         "hasScheduledVideos": false
       }
     },
@@ -1379,7 +1482,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/uI3kWI7kGW5E0F8WduewgQYPt34.jpg",
       "description": "En pleine crise économique, un groupe de cambrioleurs s'introduit dans une banque à Madrid, déclenchant une série d'événements imprévisibles. Ce qui s'apparentait au départ à un simple braquage se transforme en un jeu de dupes et de peur où tout est affaire de survie : chaque décision compte, chaque geste cache quelque chose et chacun cherche à échapper à un châtiment pire que la prison.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.3",
+      "imdbRating": "6.2",
       "links": [
         {
           "name": "TMDB",
@@ -1457,7 +1560,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/4EKa1ordKkch7bAYlV4e3fwsVCj.jpg",
       "description": "Les membres légendaires de la distribution de \"SCTV\" se réunissent dans ce documentaire pour une célébration drôle et touchante de la façon dont une émission de sketches canadienne sans fioritures a marqué l'histoire de la comédie.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
@@ -1865,32 +1968,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1754364",
-      "type": "movie",
-      "name": "Making Marie Antoinette",
-      "poster": "https://image.tmdb.org/t/p/w500/1vt7dhpq5dYA5H5VDEf7IITMbSg.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/x0jpUyJ5ETwRn5LmAKvDzEVHgb7.jpg",
-      "description": "Disponibilité France : MUBI, MUBI Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.1",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1754364"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1754364-making-marie-antoinette/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1754364",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1620918",
       "type": "movie",
       "name": "Norm Macdonald : Une vie pas si normale",
@@ -1917,28 +1994,28 @@
       }
     },
     {
-      "id": "tmdb:movie:1546001",
+      "id": "tmdb:movie:1754364",
       "type": "movie",
-      "name": "Quatre bébés pour Noël",
-      "poster": "https://image.tmdb.org/t/p/w500/3wiTWMVT6RpnMkWfW5tW39Ou8ba.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/nHAc3ovLgHXDNb8lpgrF138pHwA.jpg",
-      "description": "Alice, médecin urgentiste, s'apprête à prendre sa garde le soir de Noël. Avec l'aide de Brian, cardiologue de renom, elle parvient à mettre au monde trois bébés, lors d'un baby-boom. Ce qui tisse en eux un lien inaltérable.\n\nDisponibilité France : Netflix, Netflix Standard with Ads, TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "name": "Making Marie Antoinette",
+      "poster": "https://image.tmdb.org/t/p/w500/1vt7dhpq5dYA5H5VDEf7IITMbSg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/x0jpUyJ5ETwRn5LmAKvDzEVHgb7.jpg",
+      "description": "Disponibilité France : MUBI, MUBI Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.2",
+      "imdbRating": "8.1",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1546001"
+          "url": "https://www.themoviedb.org/movie/1754364"
         },
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1546001-the-more-the-merrier/watch?locale=FR"
+          "url": "https://www.themoviedb.org/movie/1754364-making-marie-antoinette/watch?locale=FR"
         }
       ],
       "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1546001",
+        "defaultVideoId": "tmdb:movie:1754364",
         "hasScheduledVideos": false
       }
     },
@@ -1976,7 +2053,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
       "description": "Mi-ok et son époux Ho-seok, récemment licencié, mènent une vie tranquille avec leur jeune fils Cheol, jusqu'à leur rencontre, lors de funérailles, avec un couple dont le style de vie aisé est parfaitement opposé au leur : Ye-ji, une documentariste qui s'intéresse au parcours d'ouvriers licenciés, et son mari Sang-woo. Après avoir accepté de participer au tournage, Mi-ok se rapproche de Ye-ji et ressent un trouble grandissant pour le mystérieux Sang-woo. Tandis que leurs mondes entrent en collision, des tensions émergent dans leur quotidien.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "7.1",
       "links": [
         {
           "name": "TMDB",
@@ -2229,32 +2306,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1756286",
-      "type": "movie",
-      "name": "Portrait d'un artiste : Stephen Curry",
-      "poster": "https://image.tmdb.org/t/p/w500/bKVscDx3dWrOwZuy0X1WMlOUNWN.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/nOMQ0Kq1gSmlPy4K9m7PSPnEdcL.jpg",
-      "description": "Le record historique : Le documentaire capture la quête et l'atteinte de son 4 000e tir à trois points en carrière en NBA (réalisé avec les Golden State Warriors).\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "1",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1756286"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1756286-portrait-of-an-artist-stephen-curry/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1756286",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1596285",
       "type": "movie",
       "name": "The Disciple: A Wu-Tang Fable",
@@ -2277,6 +2328,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1596285",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1756286",
+      "type": "movie",
+      "name": "Portrait d'un artiste : Stephen Curry",
+      "poster": "https://image.tmdb.org/t/p/w500/bKVscDx3dWrOwZuy0X1WMlOUNWN.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/nOMQ0Kq1gSmlPy4K9m7PSPnEdcL.jpg",
+      "description": "Le record historique : Le documentaire capture la quête et l'atteinte de son 4 000e tir à trois points en carrière en NBA (réalisé avec les Golden State Warriors).\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1756286"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1756286-portrait-of-an-artist-stephen-curry/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1756286",
         "hasScheduledVideos": false
       }
     },
@@ -3085,32 +3162,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1522689",
-      "type": "movie",
-      "name": "Pourquoi je me suis marié, déjà ?",
-      "poster": "https://image.tmdb.org/t/p/w500/8mmQWqkvZrvxqr21WhV7Pk0WIHl.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
-      "description": "Réunis à l'étranger pour le mariage de la fille de Marcus et Angela, les couples attisent des tensions anciennes et nouvelles en se demandant : « Pourquoi on s'est mariés, déjà ? »\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1522689"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1522689-why-did-i-get-married-again/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1522689",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1107166",
       "type": "movie",
       "name": "Psycho Killer",
@@ -3137,28 +3188,28 @@
       }
     },
     {
-      "id": "tmdb:movie:1762506",
+      "id": "tmdb:movie:1522689",
       "type": "movie",
-      "name": "Frères d'Armes : l'héritage",
-      "poster": "https://image.tmdb.org/t/p/w500/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/mMLVXM8UOKSxVSxnXcmuBPMiHsC.jpg",
-      "description": "À l'occasion du 25e anniversaire de la série Band of Brothers, récompensée par un Emmy®, cette émission spéciale revient sur l'impact de cette série.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "name": "Pourquoi je me suis marié, déjà ?",
+      "poster": "https://image.tmdb.org/t/p/w500/8mmQWqkvZrvxqr21WhV7Pk0WIHl.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/lJYniNRM2i9wXnfWVHOB4PxygFZ.jpg",
+      "description": "Réunis à l'étranger pour le mariage de la fille de Marcus et Angela, les couples attisent des tensions anciennes et nouvelles en se demandant : « Pourquoi on s'est mariés, déjà ? »\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.5",
+      "imdbRating": "6.6",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1762506"
+          "url": "https://www.themoviedb.org/movie/1522689"
         },
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1762506-band-of-brothers-legacy/watch?locale=FR"
+          "url": "https://www.themoviedb.org/movie/1522689-why-did-i-get-married-again/watch?locale=FR"
         }
       ],
       "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1762506",
+        "defaultVideoId": "tmdb:movie:1522689",
         "hasScheduledVideos": false
       }
     },
@@ -3189,28 +3240,28 @@
       }
     },
     {
-      "id": "tmdb:movie:1739206",
+      "id": "tmdb:movie:1762506",
       "type": "movie",
-      "name": "L'Envers du sport : Mister T, l'icône tous risques",
-      "poster": "https://image.tmdb.org/t/p/w500/xHLK9OqYHkVyvLqsz6HsKKEnoZU.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/laiVx3X4J7GNUyWWNvwGpSgT7MX.jpg",
-      "description": "Icône des années 80, Mr. T a marqué toute une époque. Dans ce documentaire, il révèle lui-même l'histoire derrière la crête, les chaînes et sa réplique culte.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "name": "Frères d'Armes : l'héritage",
+      "poster": "https://image.tmdb.org/t/p/w500/n29MsV1m2OCbDp6PLeHxziOVOLG.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mMLVXM8UOKSxVSxnXcmuBPMiHsC.jpg",
+      "description": "À l'occasion du 25e anniversaire de la série Band of Brothers, récompensée par un Emmy®, cette émission spéciale revient sur l'impact de cette série.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "8.5",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1739206"
+          "url": "https://www.themoviedb.org/movie/1762506"
         },
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1739206-untold-mr-t-i-pity-the-fool/watch?locale=FR"
+          "url": "https://www.themoviedb.org/movie/1762506-band-of-brothers-legacy/watch?locale=FR"
         }
       ],
       "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1739206",
+        "defaultVideoId": "tmdb:movie:1762506",
         "hasScheduledVideos": false
       }
     },
@@ -3237,6 +3288,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1664003",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1739206",
+      "type": "movie",
+      "name": "L'Envers du sport : Mister T, l'icône tous risques",
+      "poster": "https://image.tmdb.org/t/p/w500/xHLK9OqYHkVyvLqsz6HsKKEnoZU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/laiVx3X4J7GNUyWWNvwGpSgT7MX.jpg",
+      "description": "Icône des années 80, Mr. T a marqué toute une époque. Dans ce documentaire, il révèle lui-même l'histoire derrière la crête, les chaînes et sa réplique culte.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1739206"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1739206-untold-mr-t-i-pity-the-fool/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1739206",
         "hasScheduledVideos": false
       }
     },
@@ -3787,6 +3864,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1443302",
+      "type": "movie",
+      "name": "The Snare",
+      "poster": "https://image.tmdb.org/t/p/w500/vfRfUcRbqqUBntpuJD9q4B4iZtY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fi93gir8BfQnxCuapAOlcloRYGl.jpg",
+      "description": "Lorsqu'une lycéenne est arrêtée avec une petite quantité de drogue, la police fait pression sur elle pour qu'elle devienne une informatrice, l'obligeant à choisir entre les personnes qu'elle aime le plus et l'avenir qu'elle a tant travaillé pour créer.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "4.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1443302"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1443302-the-snare/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1443302",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1626188",
       "type": "movie",
       "name": "Novak Djoković : Le loup en hiver",
@@ -3890,32 +3993,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1589248",
-      "type": "movie",
-      "name": "Mon Meilleur Ami, sa copine et Moi",
-      "poster": "https://image.tmdb.org/t/p/w500/sWFzFNvqpas8y0BFSx0o7dURG8H.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
-      "description": "Pour Olli, une chose est claire : son meilleur ami Matze a manifestement été manipulé par sa nouvelle petite amie Rebecca. Son influence désastreuse compromet non seulement leur amitié, mais surtout le voyage autour du monde qu'Olli et Matze préparent depuis des années dans les moindres détails. Il n'y a donc qu'une seule solution : il faut arrêter Rebecca ! Avec son copain Schmitti, Olli passe à l'offensive. Mais contre toute attente, Rebecca a elle aussi plus d'un tour dans son sac. La bataille commence.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.3",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1589248"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1589248-mein-bester-freund-seine-freundin-und-ich/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1589248",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1688804",
       "type": "movie",
       "name": "Freefall : Boeing au banc des accusés",
@@ -3964,6 +4041,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1588838",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1589248",
+      "type": "movie",
+      "name": "Mon Meilleur Ami, sa copine et Moi",
+      "poster": "https://image.tmdb.org/t/p/w500/sWFzFNvqpas8y0BFSx0o7dURG8H.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/oAFBdUTyyJZ7EMImZAdMGuPvt6V.jpg",
+      "description": "Pour Olli, une chose est claire : son meilleur ami Matze a manifestement été manipulé par sa nouvelle petite amie Rebecca. Son influence désastreuse compromet non seulement leur amitié, mais surtout le voyage autour du monde qu'Olli et Matze préparent depuis des années dans les moindres détails. Il n'y a donc qu'une seule solution : il faut arrêter Rebecca ! Avec son copain Schmitti, Olli passe à l'offensive. Mais contre toute attente, Rebecca a elle aussi plus d'un tour dans son sac. La bataille commence.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1589248"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1589248-mein-bester-freund-seine-freundin-und-ich/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1589248",
         "hasScheduledVideos": false
       }
     },
@@ -4020,32 +4123,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1487864",
-      "type": "movie",
-      "name": "Nando entre deux mondes : Un film \"Sintonia\"",
-      "poster": "https://image.tmdb.org/t/p/w500/zRQH3BbC12nV6EnXfXQYi12vPH1.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg",
-      "description": "Cinq ans après son ascension dans le monde du crime organisé, Nando, qui vit désormais en Serbie, doit retourner au Brésil lorsque sa fille ado qu'il a perdue de vue décide de se rebeller et de s'enfuir. Alors que Nando tente de renouer avec sa famille et d'échapper à son passé, il est trahi par son plus proche allié et subit la pression de l'organisation criminelle qu'il dirigeait. Tiraillé entre sa loyauté envers la pègre et son engagement familial, Nando doit faire un choix crucial : tout risquer pour tourner le dos à la criminalité et offrir à ses enfants l'avenir qu'il n'a jamais eu.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1487864"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1487864-nando-entre-dois-mundos-um-filme-sintonia/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1487864",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1728113",
       "type": "movie",
       "name": "KATSEYE: Wild Hearts",
@@ -4068,6 +4145,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1728113",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1487864",
+      "type": "movie",
+      "name": "Nando entre deux mondes : Un film \"Sintonia\"",
+      "poster": "https://image.tmdb.org/t/p/w500/zRQH3BbC12nV6EnXfXQYi12vPH1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/pWvYluV8GNWQJRC4IdrZuJPLwzO.jpg",
+      "description": "Cinq ans après son ascension dans le monde du crime organisé, Nando, qui vit désormais en Serbie, doit retourner au Brésil lorsque sa fille ado qu'il a perdue de vue décide de se rebeller et de s'enfuir. Alors que Nando tente de renouer avec sa famille et d'échapper à son passé, il est trahi par son plus proche allié et subit la pression de l'organisation criminelle qu'il dirigeait. Tiraillé entre sa loyauté envers la pègre et son engagement familial, Nando doit faire un choix crucial : tout risquer pour tourner le dos à la criminalité et offrir à ses enfants l'avenir qu'il n'a jamais eu.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1487864"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1487864-nando-entre-dois-mundos-um-filme-sintonia/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1487864",
         "hasScheduledVideos": false
       }
     },
@@ -4209,7 +4312,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/ewuZpFd7zoB8xCtwlRGUU3E599s.jpg",
       "description": "Dans l'épisode spécial Sesame Street dans la tempête , Elmo et ses amis collaborent pour se préparer à affronter les éléments, apprenant au passage à anticiper, à faire preuve de courage et à s'apaiser quand la peur s'installe. Une fois la tempête passée, Sesame Street a changé de visage, et les voisins s'entraident pour reconstruire leurs maisons. Tout le quartier s'y met, y compris les invités célèbres Post Malone et Michelle Buteau. Ainsi épaulés, Elmo et Abby découvrent que les petits gestes de bienveillance et le soutien des amis peuvent faire toute la différence.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.9",
+      "imdbRating": "7.2",
       "links": [
         {
           "name": "TMDB",
@@ -4722,6 +4825,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1731494",
+      "type": "movie",
+      "name": "The Odyssey - Making Of",
+      "poster": "https://image.tmdb.org/t/p/w500/nEWsCyE488tG85P8Cg3HbVbMvqQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/fXUxAL8w724dI9yT5UbwJuk29K9.jpg",
+      "description": "Plongez dans les coulisses de *L'Odyssée*, l'épopée d'action légendaire de Christopher Nolan. Ce documentaire exceptionnel explore le défi monumental que représentait l'adaptation pour le grand écran de la saga fondatrice d'Homère, en retraçant un tournage principal éprouvant de 91 jours à travers six pays. De l'utilisation révolutionnaire d'une technologie de tournage IMAX inédite à la coordination colossale de plus de 5 300 costumes créés sur mesure, découvrez comment une distribution prestigieuse — emmenée par Matt Damon, Tom Holland et Anne Hathaway — a donné vie à l'univers périlleux et intemporel des dieux et monstres de la Grèce antique.\n\nDisponibilité France : Canal+, SFR Play, Universal+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1731494"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1731494-the-odyssey-the-making-of-an-epic/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1731494",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1616674",
       "type": "movie",
       "name": "Me Before Me",
@@ -4744,32 +4873,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1616674",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1731494",
-      "type": "movie",
-      "name": "The Odyssey - Making Of",
-      "poster": "https://image.tmdb.org/t/p/w500/nEWsCyE488tG85P8Cg3HbVbMvqQ.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/fXUxAL8w724dI9yT5UbwJuk29K9.jpg",
-      "description": "Plongez dans les coulisses de *L'Odyssée*, l'épopée d'action légendaire de Christopher Nolan. Ce documentaire exceptionnel explore le défi monumental que représentait l'adaptation pour le grand écran de la saga fondatrice d'Homère, en retraçant un tournage principal éprouvant de 91 jours à travers six pays. De l'utilisation révolutionnaire d'une technologie de tournage IMAX inédite à la coordination colossale de plus de 5 300 costumes créés sur mesure, découvrez comment une distribution prestigieuse — emmenée par Matt Damon, Tom Holland et Anne Hathaway — a donné vie à l'univers périlleux et intemporel des dieux et monstres de la Grèce antique.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1731494"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1731494-the-odyssey-the-making-of-an-epic/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1731494",
         "hasScheduledVideos": false
       }
     },
@@ -5065,7 +5168,7 @@
       "name": "C'est vrai ce mensonge ?",
       "poster": "https://image.tmdb.org/t/p/w500/pDGQkYQXDJlNup4FvnScZDNqS7y.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/4MrM3SfbohbfmZu0APiyXPOI653.jpg",
-      "description": "Rescapé d’un accident de voiture, qui lui vaut une amnésie post-traumatique, Felix, un financier quinquagénaire, rentre chez lui après presque deux mois d’hôpital. Pour fêter son retour, sa femme, Anne, qui a fait redécorer leur luxueuse demeure en son absence, lui a réservé une surprise en invitant leurs amis proches. Soudain, Micha, une jeune femme, débarque de nulle part. Vivant dans un quartier déshérité, elle recherche sa fille Emily, une adolescente disparue depuis des semaines, sans que, selon elle, la police s’en soucie.\n\nDisponibilité France : SFR Play, TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "description": "Rescapé d’un accident de voiture, qui lui vaut une amnésie post-traumatique, Felix, un financier quinquagénaire, rentre chez lui après presque deux mois d’hôpital. Pour fêter son retour, sa femme, Anne, qui a fait redécorer leur luxueuse demeure en son absence, lui a réservé une surprise en invitant leurs amis proches. Soudain, Micha, une jeune femme, débarque de nulle part. Vivant dans un quartier déshérité, elle recherche sa fille Emily, une adolescente disparue depuis des semaines, sans que, selon elle, la police s’en soucie.\n\nDisponibilité France : TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "5.6",
       "links": [
@@ -5186,32 +5289,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1398050",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1511549",
-      "type": "movie",
-      "name": "Encore Plus Sexy",
-      "poster": "https://image.tmdb.org/t/p/w500/cQYHYSnHf1A853xoNn6Qq6lm2JO.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/jUpuMPCQiNSYi4QxeCIGFUlPizn.jpg",
-      "description": "Maddalena a tout pour elle : un travail qu'elle adore, un fiancé parfait et un mariage de rêve à venir. Mais au lit, quelque chose manque. Poussée par sa voix intérieure incarnée par la star du porno Valentina Nappi, elle remet sa vie en question. Sa rencontre avec Bruno, un jardinier au passé compliqué, l'amène à comprendre que la seule voie qui vaille la peine d'être suivie est la sienne.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1511549"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1511549-ancora-piu-sexy/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1511549",
         "hasScheduledVideos": false
       }
     },
@@ -5523,6 +5600,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1501018",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1511549",
+      "type": "movie",
+      "name": "Encore Plus Sexy",
+      "poster": "https://image.tmdb.org/t/p/w500/cQYHYSnHf1A853xoNn6Qq6lm2JO.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jUpuMPCQiNSYi4QxeCIGFUlPizn.jpg",
+      "description": "Maddalena a tout pour elle : un travail qu'elle adore, un fiancé parfait et un mariage de rêve à venir. Mais au lit, quelque chose manque. Poussée par sa voix intérieure incarnée par la star du porno Valentina Nappi, elle remet sa vie en question. Sa rencontre avec Bruno, un jardinier au passé compliqué, l'amène à comprendre que la seule voie qui vaille la peine d'être suivie est la sienne.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1511549"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1511549-ancora-piu-sexy/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1511549",
         "hasScheduledVideos": false
       }
     },
@@ -5969,32 +6072,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1370123",
-      "type": "movie",
-      "name": "Aída the movie",
-      "poster": "https://image.tmdb.org/t/p/w500/k3Bk1v28P0ZVQKFL90WtttpQhEP.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/5Sfl1SdrCWNHuRcPcqJP6Vcx8I8.jpg",
-      "description": "En 2018, Aída reste un véritable phénomène télévisuel. Mais la protestation d'une actrice contre une blague offensante crée des tensions sur le plateau. Face au tollé sur les réseaux sociaux et à la crainte d'une annulation, l'équipe peine à rester unie pendant le tournage de l'épisode le plus controversé de l'histoire de la série.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1370123"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1370123-aida-y-vuelta/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1370123",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1322562",
       "type": "movie",
       "name": "Mononoke, le film : Chapitre III – La Malédiction du serpent",
@@ -6028,7 +6105,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/yPQA2LHKOzLb4e2iu5M0vj7F5H8.jpg",
       "description": "Face à la mort des glaciers islandais et de ses grands-parents bien-aimés, les images d'archives de l'écrivain islandais Andri Snær Magnason se transforment en capsule temporelle pour tenter de retenir ce qui lui échappe: sa famille, ses souvenirs, le temps et l'eau.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.3",
+      "imdbRating": "6.8",
       "links": [
         {
           "name": "TMDB",
@@ -6411,32 +6488,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1662414",
-      "type": "movie",
-      "name": "Vol de nuit pour Los Angeles",
-      "poster": "https://image.tmdb.org/t/p/w500/szQPIA23wit2FvTsxIjxmHqdhVE.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ldUVeDfA5ID2vchHGejrEltoBSN.jpg",
-      "description": "En plein âge d'or de l'aviation, un jeune amateur d'avions et sa mère embarquent pour un périple à travers le pays jusqu'à Hollywood. Ce vol deviendra le voyage d'une vie.\n\nDisponibilité France : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.3",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1662414"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1662414-propeller-one-way-night-coach/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1662414",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1206008",
       "type": "movie",
       "name": "Ella McCay",
@@ -6459,6 +6510,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1206008",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1662414",
+      "type": "movie",
+      "name": "Vol de nuit pour Los Angeles",
+      "poster": "https://image.tmdb.org/t/p/w500/szQPIA23wit2FvTsxIjxmHqdhVE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ldUVeDfA5ID2vchHGejrEltoBSN.jpg",
+      "description": "En plein âge d'or de l'aviation, un jeune amateur d'avions et sa mère embarquent pour un périple à travers le pays jusqu'à Hollywood. Ce vol deviendra le voyage d'une vie.\n\nDisponibilité France : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1662414"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1662414-propeller-one-way-night-coach/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1662414",
         "hasScheduledVideos": false
       }
     },
@@ -6537,6 +6614,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1662858",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1513183",
+      "type": "movie",
+      "name": "الكلام على إيه؟!: أول ليلة",
+      "poster": "https://image.tmdb.org/t/p/w500/gmxvCmuvqT7RN6gO80fgp2HXVJ8.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7tUMoGBYpPy0CJ98SsFJiFwKrCX.jpg",
+      "description": "Disponibilité France : Shahid VIP.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1513183"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1513183-lklm-la-yh-wl-lylh/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1513183",
         "hasScheduledVideos": false
       }
     },
@@ -6697,32 +6800,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1317448",
-      "type": "movie",
-      "name": "Amour, Chianti et Tutti Quanti",
-      "poster": "https://image.tmdb.org/t/p/w500/7Zyx2JDEnU3PCfch0fn3A0dc8FE.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/bWvGtxd3a6wW7ocQPlYza3ycpxk.jpg",
-      "description": "En Toscane, dans les collines viticoles baignées de soleil de Belvedere, Elisa consacre sa vie au vignoble familial. Contrairement aux autre femmes de la région, Elisa n'a pas besoin d'une âme sœur. Sa fille, sa terre et son héritage sont ses remparts. Pourtant, quand Michele, son ami d'enfance, revient à Belvedere après des années d'absence, ces remparts s'effritent. Tandis que la période des vendanges approche, et que la ville est en effervescence, Elisa se retrouve face à un choix impossible.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1317448"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1317448-non-e-un-paese-per-single/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1317448",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1339210",
       "type": "movie",
       "name": "Affection",
@@ -6745,6 +6822,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1339210",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1317448",
+      "type": "movie",
+      "name": "Amour, Chianti et Tutti Quanti",
+      "poster": "https://image.tmdb.org/t/p/w500/7Zyx2JDEnU3PCfch0fn3A0dc8FE.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/bWvGtxd3a6wW7ocQPlYza3ycpxk.jpg",
+      "description": "En Toscane, dans les collines viticoles baignées de soleil de Belvedere, Elisa consacre sa vie au vignoble familial. Contrairement aux autre femmes de la région, Elisa n'a pas besoin d'une âme sœur. Sa fille, sa terre et son héritage sont ses remparts. Pourtant, quand Michele, son ami d'enfance, revient à Belvedere après des années d'absence, ces remparts s'effritent. Tandis que la période des vendanges approche, et que la ville est en effervescence, Elisa se retrouve face à un choix impossible.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1317448"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1317448-non-e-un-paese-per-single/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1317448",
         "hasScheduledVideos": false
       }
     },
@@ -7113,32 +7216,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1495041",
-      "type": "movie",
-      "name": "Buffet Infinity",
-      "poster": "https://image.tmdb.org/t/p/w500/m3Cl4Fu2lqCbEE2nEmeXKkDJwsp.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/AsnZYgCKfB4OXvzoJrw4Ld7mp89.jpg",
-      "description": "L’ouverture d'un nouveau buffet à volonté dans la petite ville de Westridge coïncide avec l'apparition d'un immense gouffre au cœur du comté. Tandis que les habitants disparaissent un à un, une série de publicités locales devient notre seule fenêtre sur l’émergence d'une force sinistre et incontrôlable.\n\nDisponibilité France : Molotov TV, Shadowz Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "4.7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1495041"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1495041-buffet-infinity/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1495041",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1567151",
       "type": "movie",
       "name": "Nikki Glaser: Good Girl",
@@ -7161,6 +7238,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1567151",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1495041",
+      "type": "movie",
+      "name": "Buffet Infinity",
+      "poster": "https://image.tmdb.org/t/p/w500/m3Cl4Fu2lqCbEE2nEmeXKkDJwsp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/AsnZYgCKfB4OXvzoJrw4Ld7mp89.jpg",
+      "description": "L’ouverture d'un nouveau buffet à volonté dans la petite ville de Westridge coïncide avec l'apparition d'un immense gouffre au cœur du comté. Tandis que les habitants disparaissent un à un, une série de publicités locales devient notre seule fenêtre sur l’émergence d'une force sinistre et incontrôlable.\n\nDisponibilité France : Molotov TV, Shadowz Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "4.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1495041"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1495041-buffet-infinity/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1495041",
         "hasScheduledVideos": false
       }
     },
@@ -7265,6 +7368,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1315843",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:936075",
+      "type": "movie",
+      "name": "Michael",
+      "poster": "https://image.tmdb.org/t/p/w500/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+      "description": "Michael dresse le portrait cinématographique de la vie et de l’héritage de l’un des artistes les plus influents de notre époque.  Le film raconte l’histoire de Michael Jackson au-delà de la musique, depuis la découverte d’un talent hors du commun en tant que leader des Jackson Five, jusqu’à l’artiste visionnaire dont l’ambition créative a alimenté une quête incessante pour devenir le plus grand artiste au monde.  Mettant en lumière sa vie hors scène et ses performances les plus emblématiques de ses débuts en solo, le film offre au public une place au premier rang pour découvrir Michael Jackson comme jamais auparavant.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/936075"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/936075-michael/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:936075",
         "hasScheduledVideos": false
       }
     },
@@ -7659,6 +7788,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1404684",
+      "type": "movie",
+      "name": "Juste une illusion",
+      "poster": "https://image.tmdb.org/t/p/w500/dx2TBCvWuTNsCMkVGMpoymlih2x.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/l1fhfzNclQcp4oBz550KMY0CTre.jpg",
+      "description": "Nous sommes en 1985, Vincent, bientôt 13 ans, vit en banlieue parisienne dans une famille de la classe moyenne, entre un grand frère distant et des parents en conflit permanent. Alors qu’il n’est « déjà plus » un enfant et qu’il n’est « pas encore » un adulte nous allons partager ses questions et ses doutes sur l’identité, l’amitié, la famille, la religion, le désir et les premiers élans amoureux.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1404684"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1404684-juste-une-illusion/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1404684",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1263012",
       "type": "movie",
       "name": "La Corde au cou",
@@ -7733,57 +7888,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1666433",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1492341",
-      "type": "movie",
-      "name": "Noah Kahan: Out of Body",
-      "poster": "https://image.tmdb.org/t/p/w500/8VtZAonOgK8hae7FwOZCSg7XmCu.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/qgQPajFB3gt58dwJX9A13P3rJIQ.jpg",
-      "description": "Devenu une célébrité mondiale du jour au lendemain, le compositeur-interprète Noah Kahan retrouve ses racines du Vermont et se recentre sur lui-même dans ce documentaire sincère.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1492341"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1492341-noah-kahan-out-of-body/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1492341",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1584779",
-      "type": "movie",
-      "name": "L’inconnue dans le placard",
-      "poster": "https://image.tmdb.org/t/p/w500/4aBN0YZ6Jfb09fRSxyObfdSe2Ot.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/8UkpeQ7fwKyX2PVmnnaAJm7Vv9J.jpg",
-      "description": "Quand Amy, la présidente d'une importante association caritative, perd son père, elle est choquée de découvrir qu'il possédait un espace dans un garde-meuble avec un secret mortel à l'intérieur : le corps d'une femme. Son père était-il un meurtriers ? Qui était cette femme ?\n\nDisponibilité France : Netflix, Netflix Standard with Ads, TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1584779"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1584779-the-body-in-the-locker/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1584779",
         "hasScheduledVideos": false
       }
     },
@@ -7888,6 +7992,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1631917",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1266800",
+      "type": "movie",
+      "name": "L'enfant du désert",
+      "poster": "https://image.tmdb.org/t/p/w500/PODwO3sxLAMU9NyffIdYOzxYVW.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/raTby3MY67GCHiF1S0VSwq01fds.jpg",
+      "description": "Sun, âgée de 14 ans, a publié un livre inspiré d'une histoire que son grand-père lui racontait : l'incroyable histoire d'Hadara, un enfant nomade perdu par sa famille à l’âge de 2 ans dans une tempête de sable dans le désert, qui a ensuite été recueilli et élevé par un couple d’autruches. Mais lorsque Sun est invitée à visiter le Sahara, elle se rend compte qu'Hadara est peut-être plus qu'une simple histoire pour s'endormir.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1266800"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1266800-l-enfant-du-desert/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1266800",
         "hasScheduledVideos": false
       }
     },
@@ -8022,6 +8152,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1226863",
+      "type": "movie",
+      "name": "Super Mario Galaxy, le film",
+      "poster": "https://image.tmdb.org/t/p/w500/aSQktALDmbunDbwkuZbZFMEWVFr.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+      "description": "Mario et Luigi gèrent les tracas du royaume Champignon, se lient d'amitié avec Yoshi, tentent de réhabiliter mini-Bowser et se préparent pour l'anniversaire de Peach. Mais quand un appel à l'aide arrive de l'autre bout de la galaxie, l'équipe part découvrir des mondes nouveaux, des menaces inattendues et des personnages emblématiques, comme Rosalina et Bowser Jr.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1226863"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1226863-the-super-mario-galaxy-movie/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1226863",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1171145",
       "type": "movie",
       "name": "Crime 101",
@@ -8074,6 +8230,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1046699",
+      "type": "movie",
+      "name": "Derrière les palmiers",
+      "poster": "https://image.tmdb.org/t/p/w500/47k5xBtbReL4lZKBNDUbT0hHWJa.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/arA4ecprfdAYslXIBheiAOPm8ha.jpg",
+      "description": "À Tanger, Mehdi voit sa relation avec Selma bouleversée lorsqu’il rencontre Marie, une riche française dont les parents ont acheté une luxueuse villa dans la kasbah. Attiré par sa vie mondaine, il délaisse Selma, feignant d’ignorer que ses choix le rattraperont.\n\nDisponibilité France : Molotov TV, SFR Play.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1046699"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1046699-derriere-les-palmiers/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1046699",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1315657",
       "type": "movie",
       "name": "Yellow Letters",
@@ -8096,32 +8278,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1315657",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1046699",
-      "type": "movie",
-      "name": "Derrière les palmiers",
-      "poster": "https://image.tmdb.org/t/p/w500/47k5xBtbReL4lZKBNDUbT0hHWJa.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/arA4ecprfdAYslXIBheiAOPm8ha.jpg",
-      "description": "À Tanger, Mehdi voit sa relation avec Selma bouleversée lorsqu’il rencontre Marie, une riche française dont les parents ont acheté une luxueuse villa dans la kasbah. Attiré par sa vie mondaine, il délaisse Selma, feignant d’ignorer que ses choix le rattraperont.\n\nDisponibilité France : Molotov TV.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1046699"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1046699-derriere-les-palmiers/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1046699",
         "hasScheduledVideos": false
       }
     },
@@ -8334,32 +8490,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1276704",
-      "type": "movie",
-      "name": "53 dimanches",
-      "poster": "https://image.tmdb.org/t/p/w500/fU6feB2WKk0In99PZxVNw8qCz1g.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/kFK6FpbbEvVKDH956qTKEHB4Sfp.jpg",
-      "description": "Lorsque deux frères et leur sœur se réunissent pour discuter du devenir de leur père, leurs retrouvailles tournent rapidement au vinaigre et font resurgir de vieilles rancunes.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "5.9",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1276704"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1276704-53-domingos/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1276704",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1535392",
       "type": "movie",
       "name": "Malaikat Malam",
@@ -8382,6 +8512,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1535392",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1276704",
+      "type": "movie",
+      "name": "53 dimanches",
+      "poster": "https://image.tmdb.org/t/p/w500/fU6feB2WKk0In99PZxVNw8qCz1g.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kFK6FpbbEvVKDH956qTKEHB4Sfp.jpg",
+      "description": "Lorsque deux frères et leur sœur se réunissent pour discuter du devenir de leur père, leurs retrouvailles tournent rapidement au vinaigre et font resurgir de vieilles rancunes.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.9",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1276704"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1276704-53-domingos/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1276704",
         "hasScheduledVideos": false
       }
     },
@@ -8434,6 +8590,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1084187",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1433087",
+      "type": "movie",
+      "name": "Love on Trial",
+      "poster": "https://image.tmdb.org/t/p/w500/mGRzr87hf74rAiz5zFiFSkRaOkI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/eBMrvczvSBzn9fjBfUGKvKgtnsK.jpg",
+      "description": "Jeune idole de la pop en pleine ascension, Mai commet l’irréparable : tomber amoureuse, malgré l’interdiction formelle inscrite dans son contrat. Lorsque sa relation éclate au grand jour, Mai est traînée par sa propre agence devant la justice. Confrontés à une machine implacable, les deux amants décident de se battre pour défendre leur droit le plus universel : celui d’aimer.\n\nDisponibilité France : Cine+ OCS Amazon Channel , Molotov TV.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1433087"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1433087-lian-ai-cai-pan/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1433087",
         "hasScheduledVideos": false
       }
     },
@@ -8698,6 +8880,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1002109",
+      "type": "movie",
+      "name": "Police Flash 80",
+      "poster": "https://image.tmdb.org/t/p/w500/2HD9MuSt5Fk6i7uAgI3m75VATjk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/h7VBwwztl4it7BSA6HsJR41nC37.jpg",
+      "description": "Paris, années 80. Le trafic d’héroïne envahit la capitale. Un duo de flics à l’ancienne Yvon Kastendeuch et Johnny Lansky tient encore la baraque… jusqu’à ce que ce dernier se fasse descendre. Pour faire tomber le réseau, Yvon est propulsé à la tête d’une unité expérimentale : la Police Flash 80. Il va devoir désormais faire équipe avec des jeunes recrues aux méthodes modernes, loin de ses habitudes de mâle dominant fan de Sardou et d’andouillette.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.9",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1002109"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1002109-police-flash-80/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1002109",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1489931",
       "type": "movie",
       "name": "Suzzanna: Santet Dosa di Atas Dosa",
@@ -8746,6 +8954,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1648961",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1492341",
+      "type": "movie",
+      "name": "Noah Kahan: Out of Body",
+      "poster": "https://image.tmdb.org/t/p/w500/8VtZAonOgK8hae7FwOZCSg7XmCu.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qgQPajFB3gt58dwJX9A13P3rJIQ.jpg",
+      "description": "Devenu une célébrité mondiale du jour au lendemain, le compositeur-interprète Noah Kahan retrouve ses racines du Vermont et se recentre sur lui-même dans ce documentaire sincère.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1492341"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1492341-noah-kahan-out-of-body/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1492341",
         "hasScheduledVideos": false
       }
     },
@@ -8902,6 +9136,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1471224",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1454680",
+      "type": "movie",
+      "name": "Victor comme tout le monde",
+      "poster": "https://image.tmdb.org/t/p/w500/eQnsG3eFupvzgn6BWuCNAFqlgMT.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vmgg3BZ7xSTawLcm2ATg7telLpF.jpg",
+      "description": "Habité par Victor Hugo, le comédien Robert Zucchini traîne une douce mélancolie lorsqu'il n'est pas sur scène. Chaque soir, il remplit les salles en transmettant son amour des mots. Jusqu’au jour où réapparaît sa fille, qu’il n’a pas vue grandir… Et si aimer, pour une fois, valait mieux qu’admirer ?\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1454680"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1454680-victor-comme-tout-le-monde/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1454680",
         "hasScheduledVideos": false
       }
     },
@@ -9319,6 +9579,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1159559",
+      "type": "movie",
+      "name": "Scream 7",
+      "poster": "https://image.tmdb.org/t/p/w500/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg",
+      "description": "Lorsqu’un nouveau Ghostface surgit dans la paisible ville où Sidney Prescott a reconstruit sa vie, ses pires cauchemars refont surface. Alors que sa fille devient la prochaine cible, Sidney n’a d’autre choix que de reprendre le combat. Déterminée à protéger les siens, elle doit alors affronter les démons de son passé pour tenter de mettre fin une bonne fois pour toutes au bain de sang.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1159559"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1159559-scream-7/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1159559",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1307373",
       "type": "movie",
       "name": "En sursis",
@@ -9523,6 +9809,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1631485",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1317288",
+      "type": "movie",
+      "name": "Marty Supreme",
+      "poster": "https://image.tmdb.org/t/p/w500/hjrvtc7UCrnsypfnLJuxx9ODKCi.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg",
+      "description": "Marty Mauser, 23 ans, aspire à devenir le meilleur athlète sur la scène mondiale du tennis de table. Le sport est sous-représenté aux États-Unis, ce qui rend difficile le financement de ses compétitions à l'étranger. Il est toutefois prêt à tout pour arriver à ses fins, y compris nouer des liens avec une ancienne actrice et son riche mari entrepreneur. Son entêtement pose un problème pour les personnes de son entourage, qui font souvent les frais de ses choix cavaliers.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1317288"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1317288-marty-supreme/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1317288",
         "hasScheduledVideos": false
       }
     },
@@ -9872,7 +10184,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/im5reyQPEWcYTaK0Bz8tCpqPZj9.jpg",
       "description": "Disponibilité France : Insomnia Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "3.8",
+      "imdbRating": "4.1",
       "links": [
         {
           "name": "TMDB",
@@ -9995,6 +10307,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1477170",
+      "type": "movie",
+      "name": "LOL 2.0",
+      "poster": "https://image.tmdb.org/t/p/w500/dNjZ6lQCVZMWAxKlqMVAlzGC5FQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jn3TWz4bq2UeEQSWFraoPagmc1f.jpg",
+      "description": "Anne profite enfin de sa liberté après le départ de ses enfants. Mais tout bascule quand sa fille Louise revient vivre chez elle après un échec professionnel et sentimental. Et comme une surprise n’arrive jamais seule, son fils Théo lui annonce qu’elle va devenir grand-mère ! Entre chocs générationnels, rêves en mutation et nouveaux élans amoureux … Anne comprend que la vie ne suit jamais tout à fait le plan prévu, et qu’à tout âge, on continue toujours d’apprendre à grandir.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1477170"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1477170-lol-2-0/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1477170",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1426964",
       "type": "movie",
       "name": "L'Appel du chaos",
@@ -10043,32 +10381,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1533029",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1477170",
-      "type": "movie",
-      "name": "LOL 2.0",
-      "poster": "https://image.tmdb.org/t/p/w500/dNjZ6lQCVZMWAxKlqMVAlzGC5FQ.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/jn3TWz4bq2UeEQSWFraoPagmc1f.jpg",
-      "description": "Anne profite enfin de sa liberté après le départ de ses enfants. Mais tout bascule quand sa fille Louise revient vivre chez elle après un échec professionnel et sentimental. Et comme une surprise n’arrive jamais seule, son fils Théo lui annonce qu’elle va devenir grand-mère ! Entre chocs générationnels, rêves en mutation et nouveaux élans amoureux … Anne comprend que la vie ne suit jamais tout à fait le plan prévu, et qu’à tout âge, on continue toujours d’apprendre à grandir.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1477170"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1477170-lol-2-0/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1477170",
         "hasScheduledVideos": false
       }
     },
@@ -10255,6 +10567,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1536720",
+      "type": "movie",
+      "name": "禍禍女",
+      "poster": "https://image.tmdb.org/t/p/w500/7k7ywAbBNrhsLhHkKggzveMhFQg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/g01fDs0AeLU50yCy92jsxCCkEHN.jpg",
+      "description": "Quand son amant est tué par le fantôme Mag Mag, Sanae cherche justice, mais découvre bientôt la véritable personne à qui elle doit sa vengeance.\n\nDisponibilité France : Shadowz Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1536720"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1536720-huo-huo-nu/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1536720",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1618945",
       "type": "movie",
       "name": "Yoh! Bestie",
@@ -10303,32 +10641,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1436061",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1536720",
-      "type": "movie",
-      "name": "禍禍女",
-      "poster": "https://image.tmdb.org/t/p/w500/7k7ywAbBNrhsLhHkKggzveMhFQg.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/g01fDs0AeLU50yCy92jsxCCkEHN.jpg",
-      "description": "Quand son amant est tué par le fantôme Mag Mag, Sanae cherche justice, mais découvre bientôt la véritable personne à qui elle doit sa vengeance.\n\nDisponibilité France : Shadowz Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1536720"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1536720-huo-huo-nu/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1536720",
         "hasScheduledVideos": false
       }
     },
@@ -10437,6 +10749,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1464883",
+      "type": "movie",
+      "name": "Le Gâteau du Président",
+      "poster": "https://image.tmdb.org/t/p/w500/5IWS1sawqYoyKx8hUIEGgMXkAlX.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/vRdHKjKOpT1HoAp6JkfvdrnphH4.jpg",
+      "description": "Dans l’Irak de Saddam Hussein, Lamia, 9 ans, se voit confier la lourde tâche de confectionner un gâteau pour célébrer l’anniversaire du président. Sa quête d’ingrédients, accompagnée de son ami Saeed, bouleverse son quotidien.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1464883"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1464883-the-president-s-cake/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1464883",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1433842",
       "type": "movie",
       "name": "Relationship Goals",
@@ -10537,6 +10875,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1466115",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1370123",
+      "type": "movie",
+      "name": "Aída the movie",
+      "poster": "https://image.tmdb.org/t/p/w500/k3Bk1v28P0ZVQKFL90WtttpQhEP.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5Sfl1SdrCWNHuRcPcqJP6Vcx8I8.jpg",
+      "description": "En 2018, Aída reste un véritable phénomène télévisuel. Mais la protestation d'une actrice contre une blague offensante crée des tensions sur le plateau. Face au tollé sur les réseaux sociaux et à la crainte d'une annulation, l'équipe peine à rester unie pendant le tournage de l'épisode le plus controversé de l'histoire de la série.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1370123"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1370123-aida-y-vuelta/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1370123",
         "hasScheduledVideos": false
       }
     },
@@ -10645,32 +11009,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1259983",
-      "type": "movie",
-      "name": "Gourou",
-      "poster": "https://image.tmdb.org/t/p/w500/ufdcPu8CdcsC0c73pATNjYXEmMR.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/t77v17Y74eIQDSITsBHtiySOGPr.jpg",
-      "description": "Matt est le coach en développement personnel le plus suivi de France. Dans une société en quête de sens où la réussite individuelle est devenue sacrée, il propose à ses adeptes une catharsis qui électrise les foules autant qu'elle inquiète les autorités. Sous le feu des critiques, Matt va s'engager dans une fuite en avant qui le mènera aux frontières de la folie et peut-être de la gloire...\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1259983"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1259983-gourou/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1259983",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:677561",
       "type": "movie",
       "name": "Les Légendaires",
@@ -10693,6 +11031,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:677561",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1259983",
+      "type": "movie",
+      "name": "Gourou",
+      "poster": "https://image.tmdb.org/t/p/w500/ufdcPu8CdcsC0c73pATNjYXEmMR.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/t77v17Y74eIQDSITsBHtiySOGPr.jpg",
+      "description": "Matt est le coach en développement personnel le plus suivi de France. Dans une société en quête de sens où la réussite individuelle est devenue sacrée, il propose à ses adeptes une catharsis qui électrise les foules autant qu'elle inquiète les autorités. Sous le feu des critiques, Matt va s'engager dans une fuite en avant qui le mènera aux frontières de la folie et peut-être de la gloire...\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1259983"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1259983-gourou/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1259983",
         "hasScheduledVideos": false
       }
     },
@@ -10822,32 +11186,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1370424",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1433087",
-      "type": "movie",
-      "name": "Love on Trial",
-      "poster": "https://image.tmdb.org/t/p/w500/mGRzr87hf74rAiz5zFiFSkRaOkI.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/eBMrvczvSBzn9fjBfUGKvKgtnsK.jpg",
-      "description": "Jeune idole de la pop en pleine ascension, Mai commet l’irréparable : tomber amoureuse, malgré l’interdiction formelle inscrite dans son contrat. Lorsque sa relation éclate au grand jour, Mai est traînée par sa propre agence devant la justice. Confrontés à une machine implacable, les deux amants décident de se battre pour défendre leur droit le plus universel : celui d’aimer.\n\nDisponibilité France : Cine+ OCS Amazon Channel , Molotov TV.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.2",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1433087"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1433087-lian-ai-cai-pan/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1433087",
         "hasScheduledVideos": false
       }
     },
@@ -11455,7 +11793,7 @@
       "name": "Qui brille au combat",
       "poster": "https://image.tmdb.org/t/p/w500/kpUkx4nxuH9ssoTi4NLunlRcXgu.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/s2jfSL3O1tmDV4FiruB48LWr0ul.jpg",
-      "description": "Qui brille au combat est le sens étymologique du prénom Bertille, la plus jeune des deux sœurs de la famille Roussier, atteinte d’un handicap lourd au diagnostic incertain. La famille vit dans un équilibre fragile autour de cet enfant qui accapare les efforts et pensées de chacun, et qui pourrait perdre la vie à tout moment. Chacun se construit, vit comme il peut avec les exigences de ce rythme et les incertitudes qui l’accompagnent. Les parents, Madeleine et Gilles, la sœur aînée, Marion. Quel quotidien et quels avenirs pour une mère, un père, un couple, une adolescente que la responsabilité ​ de sa cadette a rendu trop vite adulte ? Lorsqu’un nouveau diagnostic est posé, les cartes sont rebattues et un nouvel horizon se dessine...\n\nDisponibilité France : SFR Play.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "description": "Qui brille au combat est le sens étymologique du prénom Bertille, la plus jeune des deux sœurs de la famille Roussier, atteinte d’un handicap lourd au diagnostic incertain. La famille vit dans un équilibre fragile autour de cet enfant qui accapare les efforts et pensées de chacun, et qui pourrait perdre la vie à tout moment. Chacun se construit, vit comme il peut avec les exigences de ce rythme et les incertitudes qui l’accompagnent. Les parents, Madeleine et Gilles, la sœur aînée, Marion. Quel quotidien et quels avenirs pour une mère, un père, un couple, une adolescente que la responsabilité ​ de sa cadette a rendu trop vite adulte ? Lorsqu’un nouveau diagnostic est posé, les cartes sont rebattues et un nouvel horizon se dessine...\n\nDisponibilité France : Canal+, SFR Play.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2025",
       "imdbRating": "6.7",
       "links": [
@@ -12151,6 +12489,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1290450",
+      "type": "movie",
+      "name": "Love Me Tender",
+      "poster": "https://image.tmdb.org/t/p/w500/4F3lAOngHzNZtXiJ4zSB0CqXOZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wNpEnHxNQXSv2fc3bW0QNuswKs6.jpg",
+      "description": "Une fin d’été, Clémence annonce à son ex-mari qu’elle a des histoires d’amour avec des femmes. Sa vie bascule lorsqu'il lui retire la garde de son fils. Clémence va devoir lutter pour rester mère, femme, libre.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1290450"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1290450-love-me-tender/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1290450",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1266826",
       "type": "movie",
       "name": "La Petite Cuisine de Mehdi",
@@ -12203,6 +12567,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1505013",
+      "type": "movie",
+      "name": "Masaka Kids Le Rythme Du Coeur",
+      "poster": "https://image.tmdb.org/t/p/w500/n4wndI9q3GTWprBaQXlYCqaDI9k.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zgKNlcPC3pfTikPOMQC1saywQ85.jpg",
+      "description": "Le film présente un portrait documentaire centré sur la force collective d’un groupe d’enfants utilisant la danse comme moyen d’expression et de reconstruction.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1505013"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1505013-masaka-kids-a-rhythm-within/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1505013",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1586820",
       "type": "movie",
       "name": "Elmo et Mark Rober fêtent Sesamoël",
@@ -12229,28 +12619,28 @@
       }
     },
     {
-      "id": "tmdb:movie:1505013",
+      "id": "tmdb:movie:1545997",
       "type": "movie",
-      "name": "Masaka Kids Le Rythme Du Coeur",
-      "poster": "https://image.tmdb.org/t/p/w500/n4wndI9q3GTWprBaQXlYCqaDI9k.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/zgKNlcPC3pfTikPOMQC1saywQ85.jpg",
-      "description": "Le film présente un portrait documentaire centré sur la force collective d’un groupe d’enfants utilisant la danse comme moyen d’expression et de reconstruction.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "name": "Noël in the city",
+      "poster": "https://image.tmdb.org/t/p/w500/5tYw1fstvTdpH6wInqY23oTIiiI.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ow0fjNLTQeI8trA3oH3d1szqdl.jpg",
+      "description": "Toute en joie de recevoir sa famille chez elle à Chicago pour Noël, Nell a concocté un séjour sur mesure et préparé un programme d'activités dont elle rêvait depuis des années. Ses parents et sa soeur ont malheureusement des contraintes de dernières minutes et ne pourront pas venir... Elle se résout à annuler ses projets. Mais, encouragée par Cooper, son voisin, Nell décide de tout mettre en oeuvre pour vivre le Noël dont elle a toujours rêvé.\n\nDisponibilité France : Netflix, Netflix Standard with Ads, TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2025",
-      "imdbRating": "7.1",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/movie/1505013"
+          "url": "https://www.themoviedb.org/movie/1545997"
         },
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1505013-masaka-kids-a-rhythm-within/watch?locale=FR"
+          "url": "https://www.themoviedb.org/movie/1545997-single-on-the-25th/watch?locale=FR"
         }
       ],
       "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1505013",
+        "defaultVideoId": "tmdb:movie:1545997",
         "hasScheduledVideos": false
       }
     },
@@ -12333,32 +12723,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1196207",
-      "type": "movie",
-      "name": "Noël entre ses mains 2",
-      "poster": "https://image.tmdb.org/t/p/w500/3i1L5KbGouDGw9fMMjGk0uZgcN0.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/X5N8GliuEHrKBydQnKcztqT7AV.jpg",
-      "description": "Quand la directrice sans scrupules d'une société de jouets enlève le père Noël, un homme et son fils se donnent pour mission de sauver les fêtes.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "5.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1196207"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1196207-la-navidad-en-sus-manos-2/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1196207",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1354518",
       "type": "movie",
       "name": "Les 100 nuits de héro",
@@ -12381,6 +12745,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1354518",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1196207",
+      "type": "movie",
+      "name": "Noël entre ses mains 2",
+      "poster": "https://image.tmdb.org/t/p/w500/3i1L5KbGouDGw9fMMjGk0uZgcN0.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/X5N8GliuEHrKBydQnKcztqT7AV.jpg",
+      "description": "Quand la directrice sans scrupules d'une société de jouets enlève le père Noël, un homme et son fils se donnent pour mission de sauver les fêtes.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "5.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1196207"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1196207-la-navidad-en-sus-manos-2/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1196207",
         "hasScheduledVideos": false
       }
     },
@@ -12723,6 +13113,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1546001",
+      "type": "movie",
+      "name": "Quatre bébés pour Noël",
+      "poster": "https://image.tmdb.org/t/p/w500/3wiTWMVT6RpnMkWfW5tW39Ou8ba.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/nHAc3ovLgHXDNb8lpgrF138pHwA.jpg",
+      "description": "Alice, médecin urgentiste, s'apprête à prendre sa garde le soir de Noël. Avec l'aide de Brian, cardiologue de renom, elle parvient à mettre au monde trois bébés, lors d'un baby-boom. Ce qui tisse en eux un lien inaltérable.\n\nDisponibilité France : Netflix, Netflix Standard with Ads, TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1546001"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1546001-the-more-the-merrier/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1546001",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1547918",
       "type": "movie",
       "name": "Un rendez-vous parfait pour Noël",
@@ -12797,32 +13213,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1401778",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1218762",
-      "type": "movie",
-      "name": "Vive le vol d'hiver",
-      "poster": "https://image.tmdb.org/t/p/w500/uNn5SWzgeBSVjNDYiRJYH6dRI2G.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/x8gV0MUZVWkikNZElaBk13vW5f4.jpg",
-      "description": "Deux travailleurs en galère font équipe pour braquer un grand magasin des beaux quartiers de Londres la veille de Noël. Se feront-ils voler leur cœur en chemin ?\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "6.1",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1218762"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1218762-jingle-bell-heist/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1218762",
         "hasScheduledVideos": false
       }
     },

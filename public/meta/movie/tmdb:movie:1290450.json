@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1290450",
+    "type": "movie",
+    "name": "Love Me Tender",
+    "poster": "https://image.tmdb.org/t/p/w500/4F3lAOngHzNZtXiJ4zSB0CqXOZ.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/wNpEnHxNQXSv2fc3bW0QNuswKs6.jpg",
+    "description": "Une fin d’été, Clémence annonce à son ex-mari qu’elle a des histoires d’amour avec des femmes. Sa vie bascule lorsqu'il lui retire la garde de son fils. Clémence va devoir lutter pour rester mère, femme, libre.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "6.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1290450"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1290450-love-me-tender/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1290450",
+      "hasScheduledVideos": false
+    }
+  }
+}

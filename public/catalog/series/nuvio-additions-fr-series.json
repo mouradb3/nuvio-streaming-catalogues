@@ -1,6 +1,54 @@
 {
   "metas": [
     {
+      "id": "tmdb:tv:309129",
+      "type": "series",
+      "name": "Slangedræber",
+      "poster": "https://image.tmdb.org/t/p/w500/znKDM2tpvoLbr4URpUDlPbLA9uP.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3zSJIxxfHVJdqQG1JUNImy5bsgM.jpg",
+      "description": "Disponibilité détectée chez Canal+ — France.\nDate de détection : 2026-11-26T16:50:23.499Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/309129"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:310209",
+      "type": "series",
+      "name": "De 9 h à 18 h",
+      "poster": "https://image.tmdb.org/t/p/w500/3srmSrHvvBL2wotlTUFmwQ9ZyPR.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/y6vS0tG9uQPOU9y2YhuZ0Uga99c.jpg",
+      "description": "Disponibilité détectée chez Amazon Prime Video — France.\nDate de détection : 2026-11-26T16:50:10.369Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/310209"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:310209",
+      "type": "series",
+      "name": "De 9 h à 18 h",
+      "poster": "https://image.tmdb.org/t/p/w500/3srmSrHvvBL2wotlTUFmwQ9ZyPR.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/y6vS0tG9uQPOU9y2YhuZ0Uga99c.jpg",
+      "description": "Disponibilité détectée chez Amazon Prime Video with Ads — France.\nDate de détection : 2026-11-26T16:50:10.369Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/310209"
+        }
+      ]
+    },
+    {
       "id": "tmdb:tv:311871",
       "type": "series",
       "name": "TAGUSARI bros.",

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1266800",
+    "type": "movie",
+    "name": "L'enfant du désert",
+    "poster": "https://image.tmdb.org/t/p/w500/PODwO3sxLAMU9NyffIdYOzxYVW.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/raTby3MY67GCHiF1S0VSwq01fds.jpg",
+    "description": "Sun, âgée de 14 ans, a publié un livre inspiré d'une histoire que son grand-père lui racontait : l'incroyable histoire d'Hadara, un enfant nomade perdu par sa famille à l’âge de 2 ans dans une tempête de sable dans le désert, qui a ensuite été recueilli et élevé par un couple d’autruches. Mais lorsque Sun est invitée à visiter le Sahara, elle se rend compte qu'Hadara est peut-être plus qu'une simple histoire pour s'endormir.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1266800"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1266800-l-enfant-du-desert/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1266800",
+      "hasScheduledVideos": false
+    }
+  }
+}
