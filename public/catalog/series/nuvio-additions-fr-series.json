@@ -1,6 +1,38 @@
 {
   "metas": [
     {
+      "id": "tmdb:tv:171802",
+      "type": "series",
+      "name": "Blade Runner 2099",
+      "poster": "https://image.tmdb.org/t/p/w500/w5ORXfoCNFVI2wbkgObzLjpq9kY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg",
+      "description": "Disponibilité détectée chez Amazon Prime Video — France.\nDate de détection : 2026-11-27T01:42:59.056Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/171802"
+        }
+      ]
+    },
+    {
+      "id": "tmdb:tv:171802",
+      "type": "series",
+      "name": "Blade Runner 2099",
+      "poster": "https://image.tmdb.org/t/p/w500/w5ORXfoCNFVI2wbkgObzLjpq9kY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg",
+      "description": "Disponibilité détectée chez Amazon Prime Video with Ads — France.\nDate de détection : 2026-11-27T01:42:59.056Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/171802"
+        }
+      ]
+    },
+    {
       "id": "tmdb:tv:309129",
       "type": "series",
       "name": "Slangedræber",
