@@ -1,6 +1,22 @@
 {
   "metas": [
     {
+      "id": "tmdb:movie:1477712",
+      "type": "movie",
+      "name": "Ice Cream Man",
+      "poster": "https://image.tmdb.org/t/p/w500/ef4rk6H8TWWf5I7wsSsu4TVncbW.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3DV7c9FoogMORFGUFDbTcCtzxOr.jpg",
+      "description": "Disponibilité retirée chez AMC+ Amazon Channel — Canada.\nDate de détection : 2026-11-27T12:10:00.014Z.\nDonnées fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1477712"
+        }
+      ]
+    },
+    {
       "id": "tmdb:movie:1432706",
       "type": "movie",
       "name": "Bury the Devil",
