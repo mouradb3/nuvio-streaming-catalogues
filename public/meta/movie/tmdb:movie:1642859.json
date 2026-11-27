@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1642859",
+    "type": "movie",
+    "name": "Iron Maiden: Burning Ambition",
+    "poster": "https://image.tmdb.org/t/p/w500/psJU0sOk56dm3wmcPCuJE7bNaFG.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/52t7nT1f117FW6gdG32DrQKxpU1.jpg",
+    "description": "Couvrant cinq décennies, Iron Maiden: Burning Ambition retrace leur ascension emblématique pour devenir l'un des plus grands groupes de l'histoire de la musique.\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.5",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1642859"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1642859-iron-maiden-burning-ambition/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1642859",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:326247",
+    "type": "series",
+    "name": "Fool Night",
+    "poster": "https://image.tmdb.org/t/p/w500/nsrIlQY7ivvIChG5GFDEkxpEvA2.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/rumSTVTcuZj0khFXxXgwXouIMgg.jpg",
+    "description": "Dans un futur sans soleil où les humains deviennent des plantes pour produire de l'oxygène, un jeune homme désespéré commence sa mutation et déterre un dangereux complot.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/326247"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/326247-furunaito/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:326247",
+      "hasScheduledVideos": true
+    }
+  }
+}

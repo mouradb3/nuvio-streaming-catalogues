@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:tv:313701",
+    "type": "series",
+    "name": "Un Noël philippin",
+    "poster": "https://image.tmdb.org/t/p/w500/zYUsYASG6gLiSnddKEj2fNRS4R3.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/f4ocST2EI5HDUPVB2FyQ7pkk7Ns.jpg",
+    "description": "Retrouvailles à Boracay, histoire d'amour au bureau, quiproquos et querelle entre sœurs : quatre récits qui célèbrent l'amour, la famille et la magie d'un Noël philippin.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/313701"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/313701-paskong-pinoy/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:313701",
+      "hasScheduledVideos": true
+    }
+  }
+}

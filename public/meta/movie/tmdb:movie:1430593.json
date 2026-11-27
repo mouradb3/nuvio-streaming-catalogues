@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1430593",
+    "type": "movie",
+    "name": "Tinsel Town",
+    "poster": "https://image.tmdb.org/t/p/w500/9YxpBl5CRAaBiQhQG7uZ86Jw2Hv.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/psAGX272PFGdpKmSJI4x8sGPciZ.jpg",
+    "description": "Bradley Mack, une ex-star de films d'action à Hollywood se rend en Angleterre, espérant reconstruire son image en tant qu'acteur réputé.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "5.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1430593"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1430593-tinsel-town/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1430593",
+      "hasScheduledVideos": false
+    }
+  }
+}

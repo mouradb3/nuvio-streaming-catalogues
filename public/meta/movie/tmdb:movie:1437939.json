@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1437939",
+    "type": "movie",
+    "name": "Cocorico 2",
+    "poster": "https://image.tmdb.org/t/p/w500/3eZwrYd90t5kHLHfS0zxPWH1tWl.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/4dN9kXTNqvssrbF81viFoPnW2pt.jpg",
+    "description": "Après avoir découvert la vérité sur leurs origines, grâce à des tests ADN aux résultats pour le moins surprenants, les Bouvier-Sauvage et les Martin décident d’enterrer la hache de guerre, pour organiser le mariage de leurs enfants. Mais c’était sans compter sur un imprévu de taille : un cousin de Frédéric a été retrouvé grâce aux tests… Révélant que les résultats étaient erronés. Les deux familles vont découvrir que leurs ancêtres n’ont pas fini de les surprendre !\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1437939"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1437939-cocorico-2/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1437939",
+      "hasScheduledVideos": false
+    }
+  }
+}

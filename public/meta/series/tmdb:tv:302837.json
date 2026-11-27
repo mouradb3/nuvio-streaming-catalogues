@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:tv:302837",
+    "type": "series",
+    "name": "L'Enlèvement de Toos van der Valk",
+    "poster": "https://image.tmdb.org/t/p/w500/gfpPknqv2IBDtnSz9Btm5rIDYl9.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/6k5dug3eriqHf1kgJeLHXrfBROc.jpg",
+    "description": "En 1982, la matriarche d'un empire hôtelier hollandais est kidnappée contre rançon. Sa famille cherche alors désespérément à la faire libérer. Inspiré d'une histoire vraie.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/302837"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/302837-toos-de-van-der-valk-ontvoering/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:302837",
+      "hasScheduledVideos": true
+    }
+  }
+}

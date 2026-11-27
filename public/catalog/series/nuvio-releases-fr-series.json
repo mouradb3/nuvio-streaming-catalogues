@@ -1,6 +1,108 @@
 {
   "metas": [
     {
+      "id": "tmdb:tv:326247",
+      "type": "series",
+      "name": "Fool Night",
+      "poster": "https://image.tmdb.org/t/p/w500/nsrIlQY7ivvIChG5GFDEkxpEvA2.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rumSTVTcuZj0khFXxXgwXouIMgg.jpg",
+      "description": "Dans un futur sans soleil où les humains deviennent des plantes pour produire de l'oxygène, un jeune homme désespéré commence sa mutation et déterre un dangereux complot.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/326247"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/326247-furunaito/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:326247",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:338930",
+      "type": "series",
+      "name": "Toujours sur la brèche",
+      "poster": "https://image.tmdb.org/t/p/w500/lGOtqZchpjsJNM0SkUfyUSud4y4.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7JBjCdmH8kddW41YoipVVwQJllm.jpg",
+      "description": "Une équipe de soignants dévoués jongle entre problèmes personnels, pressions politiques et arrivée d'une recrue imprévisible dans un service d'urgences débordé à Oslo.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/338930"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/338930-legevakta/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:338930",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:302837",
+      "type": "series",
+      "name": "L'Enlèvement de Toos van der Valk",
+      "poster": "https://image.tmdb.org/t/p/w500/gfpPknqv2IBDtnSz9Btm5rIDYl9.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6k5dug3eriqHf1kgJeLHXrfBROc.jpg",
+      "description": "En 1982, la matriarche d'un empire hôtelier hollandais est kidnappée contre rançon. Sa famille cherche alors désespérément à la faire libérer. Inspiré d'une histoire vraie.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/302837"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/302837-toos-de-van-der-valk-ontvoering/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:302837",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:313701",
+      "type": "series",
+      "name": "Un Noël philippin",
+      "poster": "https://image.tmdb.org/t/p/w500/zYUsYASG6gLiSnddKEj2fNRS4R3.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/f4ocST2EI5HDUPVB2FyQ7pkk7Ns.jpg",
+      "description": "Retrouvailles à Boracay, histoire d'amour au bureau, quiproquos et querelle entre sœurs : quatre récits qui célèbrent l'amour, la famille et la magie d'un Noël philippin.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/313701"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/313701-paskong-pinoy/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:313701",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:310209",
       "type": "series",
       "name": "De 9 h à 18 h",
@@ -34,7 +136,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg",
       "description": "Cora, une fugitive devenue Blade Runner, fait équipe avec Olwen, une Réplicante mourante, pour traquer un fugitif dans un Los Angeles qui a retrouvé un nouveau souffle. Ensemble, elles découvrent une vérité qui menace de détruire leur fragile cité.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.3",
+      "imdbRating": "5.4",
       "links": [
         {
           "name": "TMDB",
@@ -60,7 +162,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/bn3UWOaVNFPXNOJhuL42W67CSKb.jpg",
       "description": "Un accident, une bagarre mortelle ou une mise en scène minutieusement orchestrée ? Cette série documentaire sur des faits réels se penche sur les procès pour meurtre de Karen Read, qui ont suscité des théories du complot devenues virales.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.2",
+      "imdbRating": "5.5",
       "links": [
         {
           "name": "TMDB",
@@ -86,7 +188,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/cS2L6mz6PcebS9deAJ1LrCMjZch.jpg",
       "description": "Disponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.5",
+      "imdbRating": "5.3",
       "links": [
         {
           "name": "TMDB",
@@ -183,32 +285,6 @@
       }
     },
     {
-      "id": "tmdb:tv:332839",
-      "type": "series",
-      "name": "La loi de la bête",
-      "poster": "https://image.tmdb.org/t/p/w500/ihKzBXYrK3uZWmdTIwgNWXTZBG9.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg",
-      "description": "Lorsque l'affaire d'un tueur en série d'enfants refait surface après 25 ans, devenant un problème juridique et social non résolu, deux anciens amis sont contraints de se confronter aux choix qui ont brisé leur amitié et façonné leurs vies.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/332839"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/332839-prawo-bestii/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:332839",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:340280",
       "type": "series",
       "name": "Gordon",
@@ -235,28 +311,28 @@
       }
     },
     {
-      "id": "tmdb:tv:318420",
+      "id": "tmdb:tv:332839",
       "type": "series",
-      "name": "Valentina et les 12 signes",
-      "poster": "https://image.tmdb.org/t/p/w500/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/wf8UcYFLgo6QYi49O13lMMaZrod.jpg",
-      "description": "Après une rupture dévastatrice, Valentina décide de fréquenter un homme de chaque signe du zodiaque – mais l'univers a d'autres plans.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "name": "La loi de la bête",
+      "poster": "https://image.tmdb.org/t/p/w500/ihKzBXYrK3uZWmdTIwgNWXTZBG9.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9ims6WUxFggBrlmgA9Rew1Co5MD.jpg",
+      "description": "Lorsque l'affaire d'un tueur en série d'enfants refait surface après 25 ans, devenant un problème juridique et social non résolu, deux anciens amis sont contraints de se confronter aux choix qui ont brisé leur amitié et façonné leurs vies.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "6.6",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/318420"
+          "url": "https://www.themoviedb.org/tv/332839"
         },
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/318420-os-12-signos-de-valentina/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/332839-prawo-bestii/watch?locale=FR"
         }
       ],
       "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:318420",
+        "defaultVideoId": "tmdb:tv:332839",
         "hasScheduledVideos": true
       }
     },
@@ -283,6 +359,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:288120",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:318420",
+      "type": "series",
+      "name": "Valentina et les 12 signes",
+      "poster": "https://image.tmdb.org/t/p/w500/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wf8UcYFLgo6QYi49O13lMMaZrod.jpg",
+      "description": "Après une rupture dévastatrice, Valentina décide de fréquenter un homme de chaque signe du zodiaque – mais l'univers a d'autres plans.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/318420"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/318420-os-12-signos-de-valentina/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:318420",
         "hasScheduledVideos": true
       }
     },
@@ -1202,7 +1304,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/gSlWzjRk1QarsB2PrJemCd88wJc.jpg",
       "description": "Un stratagème coûteux vient aggraver la relation déjà tendue d'une veuve de la bonne société de Rio et de sa fille.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3",
+      "imdbRating": "7.2",
       "links": [
         {
           "name": "TMDB",
@@ -2025,6 +2127,32 @@
       }
     },
     {
+      "id": "tmdb:tv:311955",
+      "type": "series",
+      "name": "俺たちの箱根駅伝",
+      "poster": "https://image.tmdb.org/t/p/w500/1cA5ysVK1C4W5KRtxxNkW2zTBqF.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iWeUBHcVZANmKptWXAwm7BG2q5K.jpg",
+      "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/311955"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/311955-an-tachino-xiang-gen-yi-yun/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:311955",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:328035",
       "type": "series",
       "name": "Migali",
@@ -2441,6 +2569,31 @@
       }
     },
     {
+      "id": "tmdb:tv:316891",
+      "type": "series",
+      "name": "The Cold Sato-san Is Only Sweet to Me",
+      "poster": "https://image.tmdb.org/t/p/w500/c1YUQPXPLf9jJLGRFxUD9fOLQ6t.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ukHKDQO3ILHEAsZ6uXRCeT7tKlO.jpg",
+      "description": "Sato Koharu est une jeune fille dont la beauté est appréciée par tous ses camarades de classe. Mais elle est aussi réputée pour se montrer toujours très froide avec eux. D'innombrables personnes ont été brisées par sa froideur alors qu'elles essayaient de la connaître. Mais un jour, Oshio, un garçon de sa classe, tombe sur elle par hasard lors de son travail à temps partiel, et la sauve des avances de dragueurs un peu trop insistants. Depuis, elle semble s'être prise d'affection pour lui. Oshio se retrouve alors à l'aider à prendre de belles photos pour ses réseaux sociaux. L'impassible Sato devient ainsi avec lui une douce et adorable personne au sourire enchanteur.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/316891"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/316891-yan-dui-ying-no-zuo-teng-sanga-an-nidake-gan-i/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:316891",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:316551",
       "type": "series",
       "name": "Battle Spirits [Re] ZEKKAI NO KU",
@@ -2463,31 +2616,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:316551",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:316891",
-      "type": "series",
-      "name": "The Cold Sato-san Is Only Sweet to Me",
-      "poster": "https://image.tmdb.org/t/p/w500/c1YUQPXPLf9jJLGRFxUD9fOLQ6t.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ukHKDQO3ILHEAsZ6uXRCeT7tKlO.jpg",
-      "description": "Sato Koharu est une jeune fille dont la beauté est appréciée par tous ses camarades de classe. Mais elle est aussi réputée pour se montrer toujours très froide avec eux. D'innombrables personnes ont été brisées par sa froideur alors qu'elles essayaient de la connaître. Mais un jour, Oshio, un garçon de sa classe, tombe sur elle par hasard lors de son travail à temps partiel, et la sauve des avances de dragueurs un peu trop insistants. Depuis, elle semble s'être prise d'affection pour lui. Oshio se retrouve alors à l'aider à prendre de belles photos pour ses réseaux sociaux. L'impassible Sato devient ainsi avec lui une douce et adorable personne au sourire enchanteur.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/316891"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/316891-yan-dui-ying-no-zuo-teng-sanga-an-nidake-gan-i/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:316891",
         "hasScheduledVideos": true
       }
     },
@@ -2778,32 +2906,6 @@
       }
     },
     {
-      "id": "tmdb:tv:335194",
-      "type": "series",
-      "name": "Magical Explorer",
-      "poster": "https://image.tmdb.org/t/p/w500/b9LtxUfUrhsuq8lYvlhXq2I5gAw.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/oxS6i62MRfIeXFKN2F3uEipKwt7.jpg",
-      "description": "Réincarné dans son jeu « bishojo » préféré, Kousuke se retrouve affublé du pire rôle qui soit : celui d’un acolyte insignifiant. Mais fort de sa connaissance du jeu et de la plus grande réserve de mana de ce monde, il pourrait bien finir par surpasser le héros ! Kousuke doit désormais réécrire son destin et se frayer un chemin à coups d’épée vers les fins heureuses des héroïnes !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/335194"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/335194-majikaru-ekusupurora/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:335194",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:283692",
       "type": "series",
       "name": "Reborn as a Space Mercenary: I Woke Up Piloting the Strongest Starship!",
@@ -2826,6 +2928,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:283692",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:335194",
+      "type": "series",
+      "name": "Magical Explorer",
+      "poster": "https://image.tmdb.org/t/p/w500/b9LtxUfUrhsuq8lYvlhXq2I5gAw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/oxS6i62MRfIeXFKN2F3uEipKwt7.jpg",
+      "description": "Réincarné dans son jeu « bishojo » préféré, Kousuke se retrouve affublé du pire rôle qui soit : celui d’un acolyte insignifiant. Mais fort de sa connaissance du jeu et de la plus grande réserve de mana de ce monde, il pourrait bien finir par surpasser le héros ! Kousuke doit désormais réécrire son destin et se frayer un chemin à coups d’épée vers les fins heureuses des héroïnes !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/335194"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/335194-majikaru-ekusupurora/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:335194",
         "hasScheduledVideos": true
       }
     },
@@ -2934,32 +3062,6 @@
       }
     },
     {
-      "id": "tmdb:tv:285710",
-      "type": "series",
-      "name": "Suikoden",
-      "poster": "https://image.tmdb.org/t/p/w500/aCnMXOrLVUF32hFbSMRXLJwUtkd.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/sqfxKwR0mYva1LJlkMqIMNb2W36.jpg",
-      "description": "Alors que la guerre fait rage aux confins du Royaume de Highland, Riliu et son meilleur ami Jowy aspirent à retrouver la quiétude des temps passés. Mais lorsqu’une attaque les sépare et les contraint à traverser le territoire ennemi, ils découvrent que le conflit pourrait être le fruit d’une machination soigneusement orchestrée. Déterminés à faire éclater la vérité, les deux soldats entreprennent…\n\nDisponibilité France : Anime Digital Network Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/285710"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/285710-huan-xiang-shui-hu-yun/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:285710",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:301139",
       "type": "series",
       "name": "#I'm Looking for a Zombie",
@@ -2982,6 +3084,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:301139",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:285710",
+      "type": "series",
+      "name": "Suikoden",
+      "poster": "https://image.tmdb.org/t/p/w500/aCnMXOrLVUF32hFbSMRXLJwUtkd.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/sqfxKwR0mYva1LJlkMqIMNb2W36.jpg",
+      "description": "Alors que la guerre fait rage aux confins du Royaume de Highland, Riliu et son meilleur ami Jowy aspirent à retrouver la quiétude des temps passés. Mais lorsqu’une attaque les sépare et les contraint à traverser le territoire ennemi, ils découvrent que le conflit pourrait être le fruit d’une machination soigneusement orchestrée. Déterminés à faire éclater la vérité, les deux soldats entreprennent…\n\nDisponibilité France : Anime Digital Network Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/285710"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/285710-huan-xiang-shui-hu-yun/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:285710",
         "hasScheduledVideos": true
       }
     },
@@ -3272,6 +3400,32 @@
       }
     },
     {
+      "id": "tmdb:tv:288385",
+      "type": "series",
+      "name": "Paolo",
+      "poster": "https://image.tmdb.org/t/p/w500/4EGhg689jbAO865qWs8AznalyWl.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
+      "description": "La vie ordinaire de Paolo bascule lorsqu’il recroise la route de Téophane, un ancien camarade d’école, qui brigue aujourd’hui la mairie de sa ville et qui a semble-t-il tout pour lui. Ce qui commence par une simple admiration et une volonté de soutenir la campagne se transforme en une obsession dévorante…\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/288385"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/288385-paolo/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:288385",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:290720",
       "type": "series",
       "name": "Le Problème final",
@@ -3320,32 +3474,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:310133",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:288385",
-      "type": "series",
-      "name": "Paolo",
-      "poster": "https://image.tmdb.org/t/p/w500/4EGhg689jbAO865qWs8AznalyWl.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/mjje2ajzDEpT3wDgc28RtjIq3WD.jpg",
-      "description": "La vie ordinaire de Paolo bascule lorsqu’il recroise la route de Téophane, un ancien camarade d’école, qui brigue aujourd’hui la mairie de sa ville et qui a semble-t-il tout pour lui. Ce qui commence par une simple admiration et une volonté de soutenir la campagne se transforme en une obsession dévorante…\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/288385"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/288385-paolo/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:288385",
         "hasScheduledVideos": true
       }
     },
@@ -3643,7 +3771,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
       "description": "Prisonnière d'une cruelle famille victorienne, Lizzie Borden massacre ses parents à la hache dans un crime sanglant qui choque toute une nation.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
@@ -4735,7 +4863,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/rc3Jy6sWFt7PDVGFqLjvo7tle13.jpg",
       "description": "Nouvelle école, nouveau départ... Mais de violentes attaques en ligne et le défi tordu lancé par un camarade de classe créent un lien dangereux qui pousse Tamara à la transformation.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.4",
       "links": [
         {
           "name": "TMDB",
@@ -4865,7 +4993,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/tMpfa73LmKpeZ3Fix1QmFGIUrKI.jpg",
       "description": "Après une attaque sans précédent contre le GIGN, un officier sur le point de quitter le terrain doit mener une mission périlleuse qui le force à affronter son passé.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.8",
+      "imdbRating": "7.7",
       "links": [
         {
           "name": "TMDB",
@@ -5456,32 +5584,6 @@
       }
     },
     {
-      "id": "tmdb:tv:255358",
-      "type": "series",
-      "name": "THE GHOST IN THE SHELL",
-      "poster": "https://image.tmdb.org/t/p/w500/n0YA8GrukYlUnskWZzDjGIh24BY.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/2aZc3aNtycEDYkYbcuu6Q2QQ9bD.jpg",
-      "description": "2029, un Japon du futur proche. Le cyborg Motoko Kusanagi envisage une unité de lutte contre les menaces émergentes. Daisuke Aramaki recrute son équipe et forme la Section 9 de la Sécurité publique, alias l'« Unité spéciale ». Un complot se dessine et un hacker émerge : le « Marionnettiste ». Que réserve l'avenir à Kusanagi ? Que veut ce hacker ? Une nouvelle ère d'action cyberpunk commence !\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.1",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/255358"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/255358-the-ghost-in-the-shell/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:255358",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:285574",
       "type": "series",
       "name": "Je veux t'aimer jusqu'à ta mort",
@@ -5504,6 +5606,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:285574",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:255358",
+      "type": "series",
+      "name": "THE GHOST IN THE SHELL",
+      "poster": "https://image.tmdb.org/t/p/w500/n0YA8GrukYlUnskWZzDjGIh24BY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/2aZc3aNtycEDYkYbcuu6Q2QQ9bD.jpg",
+      "description": "2029, un Japon du futur proche. Le cyborg Motoko Kusanagi envisage une unité de lutte contre les menaces émergentes. Daisuke Aramaki recrute son équipe et forme la Section 9 de la Sécurité publique, alias l'« Unité spéciale ». Un complot se dessine et un hacker émerge : le « Marionnettiste ». Que réserve l'avenir à Kusanagi ? Que veut ce hacker ? Une nouvelle ère d'action cyberpunk commence !\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/255358"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/255358-the-ghost-in-the-shell/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:255358",
         "hasScheduledVideos": true
       }
     },
@@ -5612,28 +5740,28 @@
       }
     },
     {
-      "id": "tmdb:tv:250008",
+      "id": "tmdb:tv:325158",
       "type": "series",
-      "name": "Oh Boy, Was I Wrong About Her",
-      "poster": "https://image.tmdb.org/t/p/w500/mNgP82BUf9gpjmaHqiBLRilb8BJ.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/9PBeccJiwTMPE9ZR7IHrUxSCb9s.jpg",
-      "description": "Sept ans après s'être promis, enfants, de rester amis pour toujours, Hayato retrouve son ancienne copine Haruki. Mais celle qui était avant un vrai garçon manqué est devenue aujourd'hui une ravissante lycéenne ! Tandis qu'elle impressionne tous les garçons, elle retrouve avec Hayato la complicité qu'ils avaient.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "name": "The Forsaken Saintess and Her Foodie Road Trip in Another World",
+      "poster": "https://image.tmdb.org/t/p/w500/d0hx0f1vz6S5UvZChaxyUf51HFK.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4ZQopUsLT8JHmgPHscxe7lX6Guo.jpg",
+      "description": "Invoquée dans un autre monde contre son gré, Rin Takanashi, une aide-soignante dans la trentaine, se retrouve proclamée « Sainte » dans un royaume qui la rejette aussitôt, jugeant ses talents bien trop ordinaires. Loin d’être découragée, cette amatrice de camping et de cuisine entreprend alors de prendre la route, en mettant à profit ses nouvelles compétences : “Motor House” et “Survival”. Désormais capable de survivre en milieu hostile, la jeune femme espère profiter comme il se doit de cette nouvelle liberté.\n\nDisponibilité France : Animation Digital Network, Anime Digital Network Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.9",
+      "imdbRating": "7.1",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/250008"
+          "url": "https://www.themoviedb.org/tv/325158"
         },
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/250008-zhuan-xiao-xian-no-qing-chu-ke-lian-na-mei-shao-nu-ga-xi-nan-zi-to-si-tte-yi-xu-ni-you-nda-you-xun-ran-datta-jian/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/325158-she-terare-sheng-nu-no-yi-shi-jie-gohan-lu-yin-resukirudekiyanpingukao-zhao-huan-shimashita/watch?locale=FR"
         }
       ],
       "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:250008",
+        "defaultVideoId": "tmdb:tv:325158",
         "hasScheduledVideos": true
       }
     },
@@ -5664,6 +5792,32 @@
       }
     },
     {
+      "id": "tmdb:tv:250008",
+      "type": "series",
+      "name": "Oh Boy, Was I Wrong About Her",
+      "poster": "https://image.tmdb.org/t/p/w500/mNgP82BUf9gpjmaHqiBLRilb8BJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9PBeccJiwTMPE9ZR7IHrUxSCb9s.jpg",
+      "description": "Sept ans après s'être promis, enfants, de rester amis pour toujours, Hayato retrouve son ancienne copine Haruki. Mais celle qui était avant un vrai garçon manqué est devenue aujourd'hui une ravissante lycéenne ! Tandis qu'elle impressionne tous les garçons, elle retrouve avec Hayato la complicité qu'ils avaient.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.9",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/250008"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/250008-zhuan-xiao-xian-no-qing-chu-ke-lian-na-mei-shao-nu-ga-xi-nan-zi-to-si-tte-yi-xu-ni-you-nda-you-xun-ran-datta-jian/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:250008",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:298831",
       "type": "series",
       "name": "A Livid Lady's Guide to Getting Even: How I Crushed My Homeland with My Mighty Grimoires",
@@ -5686,32 +5840,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:298831",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:325158",
-      "type": "series",
-      "name": "The Forsaken Saintess and Her Foodie Road Trip in Another World",
-      "poster": "https://image.tmdb.org/t/p/w500/d0hx0f1vz6S5UvZChaxyUf51HFK.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/4ZQopUsLT8JHmgPHscxe7lX6Guo.jpg",
-      "description": "Invoquée dans un autre monde contre son gré, Rin Takanashi, une aide-soignante dans la trentaine, se retrouve proclamée « Sainte » dans un royaume qui la rejette aussitôt, jugeant ses talents bien trop ordinaires. Loin d’être découragée, cette amatrice de camping et de cuisine entreprend alors de prendre la route, en mettant à profit ses nouvelles compétences : “Motor House” et “Survival”. Désormais capable de survivre en milieu hostile, la jeune femme espère profiter comme il se doit de cette nouvelle liberté.\n\nDisponibilité France : Animation Digital Network, Anime Digital Network Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.1",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/325158"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/325158-she-terare-sheng-nu-no-yi-shi-jie-gohan-lu-yin-resukirudekiyanpingukao-zhao-huan-shimashita/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:325158",
         "hasScheduledVideos": true
       }
     },
@@ -5742,32 +5870,6 @@
       }
     },
     {
-      "id": "tmdb:tv:312849",
-      "type": "series",
-      "name": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
-      "poster": "https://image.tmdb.org/t/p/w500/A45lOrx7PJRjWrwlTAg09cUosQJ.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/5GF3fifAe3uElhci6TI09VHBMHA.jpg",
-      "description": "Hinako Konohana est la jeune fille parfaite : gracieuse, élégante et irréprochable… du moins, c’est ce que tout le monde croit. En fait, elle est tellement bonne à rien qu'elle est incapable de faire les choses les plus élémentaires ! Quand l'étudiant Itsuki Tomonari devient son assistant personnel, il se retrouve à s'occuper d'elle sans relâche pour préserver son image...\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/312849"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/312849-cai-nu-noo-shi-hua-gao-ling-no-hua-darakena-ming-men-xiao-de-xue-yuan-yi-noo-niang-yang-sheng-huo-neng-li-jie-wu-o-yin-nagarao-shi-hua-surukotoninarimashita/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:312849",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:296101",
       "type": "series",
       "name": "Grow Up Show",
@@ -5794,28 +5896,28 @@
       }
     },
     {
-      "id": "tmdb:tv:308403",
+      "id": "tmdb:tv:312849",
       "type": "series",
-      "name": "Iron Wok Jan!",
-      "poster": "https://image.tmdb.org/t/p/w500/du37GaThbc824q4wjfdSRtjEuJA.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/egAGdTC9aR8YJG4dU1OTPf950UP.jpg",
-      "description": "Jan Akiyama, un adolescent arrogant et plein d'assurance, veut exaucer le souhait de son grand-père : vaincre son ennemi juré, Mutsuju Gobancho. Lorsqu'il arrive au restaurant Gobancho, il rencontre sa petite-fille, Kiriko Gobancho. Leur rivalité est facilement comparable à celle de leurs grands-pères respectifs, car Jan pense que la cuisine est avant tout une question de compétition, tandis que Kiriko croit que la cuisine est une affaire de cœur.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "name": "Rich Girl Caretaker: I'm Secretly the Caregiver of the Most Popular Girl in This Rich Kid School",
+      "poster": "https://image.tmdb.org/t/p/w500/A45lOrx7PJRjWrwlTAg09cUosQJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5GF3fifAe3uElhci6TI09VHBMHA.jpg",
+      "description": "Hinako Konohana est la jeune fille parfaite : gracieuse, élégante et irréprochable… du moins, c’est ce que tout le monde croit. En fait, elle est tellement bonne à rien qu'elle est incapable de faire les choses les plus élémentaires ! Quand l'étudiant Itsuki Tomonari devient son assistant personnel, il se retrouve à s'occuper d'elle sans relâche pour préserver son image...\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "7.7",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/308403"
+          "url": "https://www.themoviedb.org/tv/312849"
         },
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/308403-zhi-guo-nojiyan/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/312849-cai-nu-noo-shi-hua-gao-ling-no-hua-darakena-ming-men-xiao-de-xue-yuan-yi-noo-niang-yang-sheng-huo-neng-li-jie-wu-o-yin-nagarao-shi-hua-surukotoninarimashita/watch?locale=FR"
         }
       ],
       "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:308403",
+        "defaultVideoId": "tmdb:tv:312849",
         "hasScheduledVideos": true
       }
     },
@@ -5868,6 +5970,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:300267",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:308403",
+      "type": "series",
+      "name": "Iron Wok Jan!",
+      "poster": "https://image.tmdb.org/t/p/w500/du37GaThbc824q4wjfdSRtjEuJA.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/egAGdTC9aR8YJG4dU1OTPf950UP.jpg",
+      "description": "Jan Akiyama, un adolescent arrogant et plein d'assurance, veut exaucer le souhait de son grand-père : vaincre son ennemi juré, Mutsuju Gobancho. Lorsqu'il arrive au restaurant Gobancho, il rencontre sa petite-fille, Kiriko Gobancho. Leur rivalité est facilement comparable à celle de leurs grands-pères respectifs, car Jan pense que la cuisine est avant tout une question de compétition, tandis que Kiriko croit que la cuisine est une affaire de cœur.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/308403"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/308403-zhi-guo-nojiyan/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:308403",
         "hasScheduledVideos": true
       }
     },
@@ -6132,32 +6260,6 @@
       }
     },
     {
-      "id": "tmdb:tv:287028",
-      "type": "series",
-      "name": "Draw This, Then Die!",
-      "poster": "https://image.tmdb.org/t/p/w500/4Ij8l8rYAhreybSVueK9xKR8Ltp.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/6szuXVEj9zQtsu3RyWn9SnclIgB.jpg",
-      "description": "Ai Yasumi est une lycéenne qui habite Izu Ôshima, une petite île au sud de Tokyo. Passionnée de manga, elle prend conscience que la lectrice pourrait devenir mangaka. Une vocation naît en elle, mais sa volonté et sa détermination seront-elles suffisantes pour se faire une place dans ce milieu ?\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/287028"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/287028-kore-miao-ite-si-ne/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:287028",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:312949",
       "type": "series",
       "name": "Chainsmoker Cat",
@@ -6180,6 +6282,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:312949",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:287028",
+      "type": "series",
+      "name": "Draw This, Then Die!",
+      "poster": "https://image.tmdb.org/t/p/w500/4Ij8l8rYAhreybSVueK9xKR8Ltp.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6szuXVEj9zQtsu3RyWn9SnclIgB.jpg",
+      "description": "Ai Yasumi est une lycéenne qui habite Izu Ôshima, une petite île au sud de Tokyo. Passionnée de manga, elle prend conscience que la lectrice pourrait devenir mangaka. Une vocation naît en elle, mais sa volonté et sa détermination seront-elles suffisantes pour se faire une place dans ce milieu ?\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/287028"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/287028-kore-miao-ite-si-ne/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:287028",
         "hasScheduledVideos": true
       }
     },
@@ -8107,6 +8235,32 @@
       }
     },
     {
+      "id": "tmdb:tv:312383",
+      "type": "series",
+      "name": "キャンディーカリエス",
+      "poster": "https://image.tmdb.org/t/p/w500/a7sm6GnT2NfO9l7N4e8JGpYw7eN.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7UywPXaiCJ43zysmaq82RKoGIEi.jpg",
+      "description": "Disponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/312383"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/312383-kiyandeikariesu/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:312383",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:245318",
       "type": "series",
       "name": "Margo a des problèmes d'argent",
@@ -8263,32 +8417,6 @@
       }
     },
     {
-      "id": "tmdb:tv:300131",
-      "type": "series",
-      "name": "KILL BLUE",
-      "poster": "https://image.tmdb.org/t/p/w500/1hzamo8nOZmurGQQ7P2uqpsGHek.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/jOxZVOYxghHw6ofH1QFG6ZQUt2V.jpg",
-      "description": "Juzo Ogami, tueur à gages légendaire, n’a jamais échoué dans une mission. Mais après l’une d’elles, il se fait piquer par une mystérieuse guêpe et se réveille dans le corps d’un garçon de 13 ans. Et pour rendre les choses encore plus étranges, il reçoit un nouvel ordre pour le moins bizarre : infiltrer un collège. Désormais, l'assassin autrefois redouté doit jongler entre le chaos de la vie scolaire et son travail meurtrier, tout en cherchant un moyen de retrouver son corps d'adulte.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads, Animation Digital Network, Anime Digital Network Amazon Channel, Crunchyroll, Crunchyroll Amazon Channel, Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/300131"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/300131-kiruao/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:300131",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:283905",
       "type": "series",
       "name": "Botan Kamiina Fully Blossoms When Drunk",
@@ -8311,6 +8439,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:283905",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:300131",
+      "type": "series",
+      "name": "KILL BLUE",
+      "poster": "https://image.tmdb.org/t/p/w500/1hzamo8nOZmurGQQ7P2uqpsGHek.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jOxZVOYxghHw6ofH1QFG6ZQUt2V.jpg",
+      "description": "Juzo Ogami, tueur à gages légendaire, n’a jamais échoué dans une mission. Mais après l’une d’elles, il se fait piquer par une mystérieuse guêpe et se réveille dans le corps d’un garçon de 13 ans. Et pour rendre les choses encore plus étranges, il reçoit un nouvel ordre pour le moins bizarre : infiltrer un collège. Désormais, l'assassin autrefois redouté doit jongler entre le chaos de la vie scolaire et son travail meurtrier, tout en cherchant un moyen de retrouver son corps d'adulte.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads, Animation Digital Network, Anime Digital Network Amazon Channel, Crunchyroll, Crunchyroll Amazon Channel, Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/300131"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/300131-kiruao/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:300131",
         "hasScheduledVideos": true
       }
     },
@@ -8367,32 +8521,6 @@
       }
     },
     {
-      "id": "tmdb:tv:291403",
-      "type": "series",
-      "name": "A Hundred Scenes of AWAJIMA",
-      "poster": "https://image.tmdb.org/t/p/w500/WAbrf6kONFAdXtG5N1s7no4zEw.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/4u7uvGbu1RCZDX8IIFMljG8U9Zb.jpg",
-      "description": "Rêves et jalousie s'affrontent à l'école d'opéra d'Awajima, où les rivales se disputent une place sous la lumière des projecteurs !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/291403"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/291403-dan-dao-bai-jing/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:291403",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:306121",
       "type": "series",
       "name": "Les Gouttes de Dieu",
@@ -8415,6 +8543,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:306121",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:291403",
+      "type": "series",
+      "name": "A Hundred Scenes of AWAJIMA",
+      "poster": "https://image.tmdb.org/t/p/w500/WAbrf6kONFAdXtG5N1s7no4zEw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4u7uvGbu1RCZDX8IIFMljG8U9Zb.jpg",
+      "description": "Rêves et jalousie s'affrontent à l'école d'opéra d'Awajima, où les rivales se disputent une place sous la lumière des projecteurs !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/291403"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/291403-dan-dao-bai-jing/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:291403",
         "hasScheduledVideos": true
       }
     },
@@ -8553,7 +8707,7 @@
       "type": "series",
       "name": "The Testaments",
       "poster": "https://image.tmdb.org/t/p/w500/b18QpJ7WiELr1HNxuDaLyv2LH8R.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/uCndE341njionskk1pK9SbHqwZh.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9g97jR3577Sd2gYM61BKVK9UEqm.jpg",
       "description": "Une nouvelle génération de jeunes femmes à Gilead est aux prises avec l’avenir sombre qui les attend. Pour ces jeunes femmes, grandir à Gilead est tout ce qu’elles ont jamais connu, n’ayant aucun souvenir tangible du monde extérieur avant leur endoctrinement dans cette vie. Confrontés à la perspective d’être mariées et de vivre une vie de servitude, elles seront forcées de chercher des alliés, nouveaux et anciens, pour les aider dans leur lutte pour la liberté et la vie qu’elles méritent.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "8.2",
@@ -8601,32 +8755,6 @@
       }
     },
     {
-      "id": "tmdb:tv:309163",
-      "type": "series",
-      "name": "Gals Can't Be Kind to Otaku!?",
-      "poster": "https://image.tmdb.org/t/p/w500/mpbX1OQTNoWbqY0ixz280GLrURy.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/7837uc8fhaREbOVnqIwXrFu335o.jpg",
-      "description": "Takuya Seo est un otaku qui est assis derrière Ijichi et Amane, les filles populaires de sa classe. Comme ils appartiennent à des \"castes\" différentes, on pourrait penser qu'ils n'ont pas grand-chose en commun. Cependant, lorsque leurs mondes se rencontrent à propos d'une gomme empruntée, Takuya commet une erreur en parlant de son anime préféré, et Amane... ne tarde pas à le corriger. Elle dit ne pas être fan, mais sa connaissance de la série suggère le contraire. Serait-elle... une otaku comme lui ?!\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/309163"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/309163-otakuni-you-shiigiyaruhainai/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:309163",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:305567",
       "type": "series",
       "name": "Eren the Southpaw",
@@ -8653,28 +8781,28 @@
       }
     },
     {
-      "id": "tmdb:tv:306790",
+      "id": "tmdb:tv:309163",
       "type": "series",
-      "name": "Pardon the Intrusion, I'm Home!",
-      "poster": "https://image.tmdb.org/t/p/w500/ipc7ChnTAVAQWJm01UJFq3sjiOL.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ytpYtFoZ7nZGvNHySLYufTFpZB9.jpg",
-      "description": "À 24 ans, Rinko est employée de bureau et vit seule. Un jour, son appartement se retrouve avec deux trous dans le mur. À gauche, un garçon se montrant excessivement gentil avec elle. À droite, un voisin un peu trop violent. Son petit havre de paix est ainsi tout chamboulé !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "name": "Gals Can't Be Kind to Otaku!?",
+      "poster": "https://image.tmdb.org/t/p/w500/mpbX1OQTNoWbqY0ixz280GLrURy.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7837uc8fhaREbOVnqIwXrFu335o.jpg",
+      "description": "Takuya Seo est un otaku qui est assis derrière Ijichi et Amane, les filles populaires de sa classe. Comme ils appartiennent à des \"castes\" différentes, on pourrait penser qu'ils n'ont pas grand-chose en commun. Cependant, lorsque leurs mondes se rencontrent à propos d'une gomme empruntée, Takuya commet une erreur en parlant de son anime préféré, et Amane... ne tarde pas à le corriger. Elle dit ne pas être fan, mais sa connaissance de la série suggère le contraire. Serait-elle... une otaku comme lui ?!\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.3",
+      "imdbRating": "7.7",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/306790"
+          "url": "https://www.themoviedb.org/tv/309163"
         },
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/306790-tadaima-ojiyamasaremasu/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/309163-otakuni-you-shiigiyaruhainai/watch?locale=FR"
         }
       ],
       "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:306790",
+        "defaultVideoId": "tmdb:tv:309163",
         "hasScheduledVideos": true
       }
     },
@@ -8701,6 +8829,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:316898",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:306790",
+      "type": "series",
+      "name": "Pardon the Intrusion, I'm Home!",
+      "poster": "https://image.tmdb.org/t/p/w500/ipc7ChnTAVAQWJm01UJFq3sjiOL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ytpYtFoZ7nZGvNHySLYufTFpZB9.jpg",
+      "description": "À 24 ans, Rinko est employée de bureau et vit seule. Un jour, son appartement se retrouve avec deux trous dans le mur. À gauche, un garçon se montrant excessivement gentil avec elle. À droite, un voisin un peu trop violent. Son petit havre de paix est ainsi tout chamboulé !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/306790"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/306790-tadaima-ojiyamasaremasu/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:306790",
         "hasScheduledVideos": true
       }
     },
@@ -8887,32 +9041,6 @@
       }
     },
     {
-      "id": "tmdb:tv:288551",
-      "type": "series",
-      "name": "The Klutzy Class Monitor and the Girl with the Short Skirt",
-      "poster": "https://image.tmdb.org/t/p/w500/uBHcmbmC3TccLO6hdrttOpjy4bN.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/8EaA5ffwNJv4uBwmfUWT06WY5ee.jpg",
-      "description": "Au lycée, Sakuradaimon est un élève qui est autorisé à faire appliquer les règles de discipline dans l'établissement. En tant que représentant de la discipline, il est censé être un modèle pour les autres élèves, mais malheureusement, il n'est pas parfait.\n\nTous les matins, il essaie tant bien que mal de forcer Kohinata à porter une tenue appropriée. Cependant, elle a jusqu'à présent été désobéissante.\n\nNous allons ainsi suivre le quotidien de ces deux personnes que tout semble opposer.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/288551"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/288551-jk/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:288551",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:303796",
       "type": "series",
       "name": "GHOST CONCERT : missing Songs",
@@ -8935,6 +9063,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:303796",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:288551",
+      "type": "series",
+      "name": "The Klutzy Class Monitor and the Girl with the Short Skirt",
+      "poster": "https://image.tmdb.org/t/p/w500/uBHcmbmC3TccLO6hdrttOpjy4bN.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/8EaA5ffwNJv4uBwmfUWT06WY5ee.jpg",
+      "description": "Au lycée, Sakuradaimon est un élève qui est autorisé à faire appliquer les règles de discipline dans l'établissement. En tant que représentant de la discipline, il est censé être un modèle pour les autres élèves, mais malheureusement, il n'est pas parfait.\n\nTous les matins, il essaie tant bien que mal de forcer Kohinata à porter une tenue appropriée. Cependant, elle a jusqu'à présent été désobéissante.\n\nNous allons ainsi suivre le quotidien de ces deux personnes que tout semble opposer.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/288551"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/288551-jk/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:288551",
         "hasScheduledVideos": true
       }
     },
@@ -10655,32 +10809,6 @@
       }
     },
     {
-      "id": "tmdb:tv:281401",
-      "type": "series",
-      "name": "Rêve de glace",
-      "poster": "https://image.tmdb.org/t/p/w500/sqHXC6fCS3snwk9kV8qPIbmVpw.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/3aeYYriPQN7886in9bIGKnbC5eQ.jpg",
-      "description": "Une ancienne danseuse sur glace retrouve les pistes avec un nouveau patineur séduisant, mais garde des sentiments pour son ex-partenaire, qui était aussi son premier amour.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/281401"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/281401-finding-her-edge/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:281401",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:308112",
       "type": "series",
       "name": "Mel Brooks: Une légende de 99 ans",
@@ -10703,6 +10831,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:308112",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:281401",
+      "type": "series",
+      "name": "Rêve de glace",
+      "poster": "https://image.tmdb.org/t/p/w500/sqHXC6fCS3snwk9kV8qPIbmVpw.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/3aeYYriPQN7886in9bIGKnbC5eQ.jpg",
+      "description": "Une ancienne danseuse sur glace retrouve les pistes avec un nouveau patineur séduisant, mais garde des sentiments pour son ex-partenaire, qui était aussi son premier amour.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/281401"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/281401-finding-her-edge/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:281401",
         "hasScheduledVideos": true
       }
     },
@@ -11036,7 +11190,7 @@
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/306129-ramune-monkey/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/306129-ramunemonki/watch?locale=FR"
         }
       ],
       "behaviorHints": {
@@ -11383,32 +11537,6 @@
       }
     },
     {
-      "id": "tmdb:tv:293550",
-      "type": "series",
-      "name": "Gomorra : Les Origines",
-      "poster": "https://image.tmdb.org/t/p/w500/vb8PT3ykGqxQPHEXqDeo4rR8ytZ.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/xHn6IMBBDPb2dkWpu8DrTAasR4D.jpg",
-      "description": "Dans les années 1970, Pietro Savastano, un gamin des quartiers défavorisés de Secondigliano, survit avec ses amis en écumant la ville à scooter et en multipliant les petits larcins. Son rêve : devenir comme Angelo, le \"roi\" du quartier. Lorsqu’il parvient à se faire remarquer par le jeune caïd, Pietro est entraîné dans un jeu de pouvoir qui le dépasse. Bientôt, il se demande si cette vie de violence et de crime est vraiment la sienne — ou si l’amour qu’il porte à Imma pourra encore le sauver.\n\nDisponibilité France : Canal+, Canal+ Séries.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/293550"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/293550-gomorra-le-origini/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:293550",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:308142",
       "type": "series",
       "name": "High School! Kimengumi",
@@ -11457,6 +11585,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:284444",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:293550",
+      "type": "series",
+      "name": "Gomorra : Les Origines",
+      "poster": "https://image.tmdb.org/t/p/w500/vb8PT3ykGqxQPHEXqDeo4rR8ytZ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xHn6IMBBDPb2dkWpu8DrTAasR4D.jpg",
+      "description": "Dans les années 1970, Pietro Savastano, un gamin des quartiers défavorisés de Secondigliano, survit avec ses amis en écumant la ville à scooter et en multipliant les petits larcins. Son rêve : devenir comme Angelo, le \"roi\" du quartier. Lorsqu’il parvient à se faire remarquer par le jeune caïd, Pietro est entraîné dans un jeu de pouvoir qui le dépasse. Bientôt, il se demande si cette vie de violence et de crime est vraiment la sienne — ou si l’amour qu’il porte à Imma pourra encore le sauver.\n\nDisponibilité France : Canal+, Canal+ Séries.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/293550"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/293550-gomorra-le-origini/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:293550",
         "hasScheduledVideos": true
       }
     },
@@ -11539,32 +11693,6 @@
       }
     },
     {
-      "id": "tmdb:tv:281161",
-      "type": "series",
-      "name": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
-      "poster": "https://image.tmdb.org/t/p/w500/ggxUYlw7a3eVegnXDv8aCDiLccJ.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/wThJAr5CYaLXH5qNhleCfbNrNSE.jpg",
-      "description": "En tant que treizième prince de la famille royale, Noah a toujours mené une vie paisible, loin des intrigues liées à la succession impériale. Mais tout bascule lorsque le prince héritier meurt soudainement, ouvrant la voie à une bataille intestine entre les autres princes pour décider du prochain successeur. Contre toute attente, Noah, qui a toujours évité les rivalités, révèle une force et une ambition redoutables, écrasant sans pitié ses frères pour s’emparer du trône ! L’avènement du nouvel Empereur le plus puissant du monde ne fait que commencer.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/281161"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/281161-gui-zu-zhuan-sheng-hui-mareta-sheng-marekara-zui-qiang-no-li-o-de-ru/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:281161",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:283891",
       "type": "series",
       "name": "The Holy Grail of Eris",
@@ -11587,6 +11715,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:283891",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:281161",
+      "type": "series",
+      "name": "Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
+      "poster": "https://image.tmdb.org/t/p/w500/ggxUYlw7a3eVegnXDv8aCDiLccJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wThJAr5CYaLXH5qNhleCfbNrNSE.jpg",
+      "description": "En tant que treizième prince de la famille royale, Noah a toujours mené une vie paisible, loin des intrigues liées à la succession impériale. Mais tout bascule lorsque le prince héritier meurt soudainement, ouvrant la voie à une bataille intestine entre les autres princes pour décider du prochain successeur. Contre toute attente, Noah, qui a toujours évité les rivalités, révèle une force et une ambition redoutables, écrasant sans pitié ses frères pour s’emparer du trône ! L’avènement du nouvel Empereur le plus puissant du monde ne fait que commencer.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/281161"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/281161-gui-zu-zhuan-sheng-hui-mareta-sheng-marekara-zui-qiang-no-li-o-de-ru/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:281161",
         "hasScheduledVideos": true
       }
     },
@@ -11617,28 +11771,28 @@
       }
     },
     {
-      "id": "tmdb:tv:276110",
+      "id": "tmdb:tv:263330",
       "type": "series",
-      "name": "The Case Book of Arne",
-      "poster": "https://image.tmdb.org/t/p/w500/AbpAfT1RJ4IMB2uxUucXfaPMrFa.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/6R8SQ1K9zxV7wvD8liDIptHI2TC.jpg",
-      "description": "Lin est une jeune fille noble dont la mère est décédée il y a deux ans. Alors que son père, malade et incapable d'accepter la mort de sa femme, sort en pleine nuit, Lin décide de le suivre et se retrouve au beau milieu d'un meurtre. Elle va alors faire la rencontre d'Arne, un vampire détective qui manipule les pouvoirs surnaturels. Ils vont devoir agir ensemble pour résoudre ce macabre mystère !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "name": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
+      "poster": "https://image.tmdb.org/t/p/w500/4EswDHj9GVcSNmKwWcxvQDynTVJ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rcwfBh8gPBL4sKUEPqu0lEKreha.jpg",
+      "description": "Yuuki se réveille dans un étrange manoir, vêtue d'un uniforme de maid. Après s'être aventurée dans la salle à manger, elle rencontre cinq autres filles, chacune portant exactement la même tenue. Rapidement, les filles apprennent que le manoir regorge d'armes mortelles et de pièges redoutables et qu'elles ne peuvent s'échapper qu'en jouant à des jeux plus horribles les uns que les autres. Au fur et à mesure qu'elles découvrent la situation dans laquelle elles se trouvent, le visage de chacune des filles se décompose, sauf celui de Yuuki. Pourquoi ? Parce qu'elle n'en est pas à son premier coup d'essai. En effet, elle est une joueuse professionnelle de ces jeux mortels qui vit de l'argent qu'elle gagne en remportant ces tueries et elle ne compte pas s'arrêter là.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel, Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.7",
+      "imdbRating": "6.9",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/276110"
+          "url": "https://www.themoviedb.org/tv/263330"
         },
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/276110-aruneno-shi-jian-bu/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/263330-si-wang-you-hu-de-fan-o-shi-u/watch?locale=FR"
         }
       ],
       "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:276110",
+        "defaultVideoId": "tmdb:tv:263330",
         "hasScheduledVideos": true
       }
     },
@@ -11669,28 +11823,28 @@
       }
     },
     {
-      "id": "tmdb:tv:263330",
+      "id": "tmdb:tv:276110",
       "type": "series",
-      "name": "SHIBOYUGI: Playing Death Games to Put Food on the Table",
-      "poster": "https://image.tmdb.org/t/p/w500/4EswDHj9GVcSNmKwWcxvQDynTVJ.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/rcwfBh8gPBL4sKUEPqu0lEKreha.jpg",
-      "description": "Yuuki se réveille dans un étrange manoir, vêtue d'un uniforme de maid. Après s'être aventurée dans la salle à manger, elle rencontre cinq autres filles, chacune portant exactement la même tenue. Rapidement, les filles apprennent que le manoir regorge d'armes mortelles et de pièges redoutables et qu'elles ne peuvent s'échapper qu'en jouant à des jeux plus horribles les uns que les autres. Au fur et à mesure qu'elles découvrent la situation dans laquelle elles se trouvent, le visage de chacune des filles se décompose, sauf celui de Yuuki. Pourquoi ? Parce qu'elle n'en est pas à son premier coup d'essai. En effet, elle est une joueuse professionnelle de ces jeux mortels qui vit de l'argent qu'elle gagne en remportant ces tueries et elle ne compte pas s'arrêter là.\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel, Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "name": "The Case Book of Arne",
+      "poster": "https://image.tmdb.org/t/p/w500/AbpAfT1RJ4IMB2uxUucXfaPMrFa.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/6R8SQ1K9zxV7wvD8liDIptHI2TC.jpg",
+      "description": "Lin est une jeune fille noble dont la mère est décédée il y a deux ans. Alors que son père, malade et incapable d'accepter la mort de sa femme, sort en pleine nuit, Lin décide de le suivre et se retrouve au beau milieu d'un meurtre. Elle va alors faire la rencontre d'Arne, un vampire détective qui manipule les pouvoirs surnaturels. Ils vont devoir agir ensemble pour résoudre ce macabre mystère !\n\nDisponibilité France : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.9",
+      "imdbRating": "6.7",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/263330"
+          "url": "https://www.themoviedb.org/tv/276110"
         },
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/263330-si-wang-you-hu-de-fan-o-shi-u/watch?locale=FR"
+          "url": "https://www.themoviedb.org/tv/276110-aruneno-shi-jian-bu/watch?locale=FR"
         }
       ],
       "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:263330",
+        "defaultVideoId": "tmdb:tv:276110",
         "hasScheduledVideos": true
       }
     },
