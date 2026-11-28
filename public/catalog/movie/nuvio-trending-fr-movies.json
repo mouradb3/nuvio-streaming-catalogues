@@ -83,7 +83,7 @@
       "type": "movie",
       "name": "Never Surrender",
       "poster": "https://image.tmdb.org/t/p/w500/nkE9esa0p8vBmY38jQasmVVRqoc.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/bjt53Hjqwl9VrtJkDv39GwmE1QN.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hir35iIjs1FIzp7PrY1JK2Eg40n.jpg",
       "description": "Quand un gang meurtrier prend d'assaut sa maison isolée, un vétéran rongé par le remords et ses petits-enfants qu'il connaît à peine unissent leurs forces pour survivre.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "6.9",
@@ -112,7 +112,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/nfcXn5yvBejpbljQIBrTlOMQZoC.jpg",
       "description": "Après Pearl Harbor, quatre stars de football américain universitaire s'engagent dans les Marines, découvrant la force de la fraternité et le prix de la guerre.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.4",
       "links": [
         {
           "name": "TMDB",
@@ -190,7 +190,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/vOByLZRhCIIItlSlCT7bYbI9MYL.jpg",
       "description": "Jake, un commando de la Marine blessé en mission, aide son neveu Marc, un ado timide et tourmenté, à devenir un jeune guerrier grâce à des principes militaires.\n\nDisponibilité France : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.6",
       "links": [
         {
           "name": "TMDB",
@@ -268,7 +268,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/7bsFkCxWM2Dx3vv7ollsGDLdlWn.jpg",
       "description": "Alors que le choléra menace de ravager Paris en 1830, un tailleur de pierre bossu que l’on prend pour un monstre pourrait être la clé du remède et devient la cible de la police. Prêt à tout pour protéger Agnès, une danseuse libre dont il est épris, il se retrouve au cœur du chaos révolutionnaire.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "6.5",
       "links": [
         {
           "name": "TMDB",
@@ -781,6 +781,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1506401",
+      "type": "movie",
+      "name": "Le Petit",
+      "poster": "https://image.tmdb.org/t/p/w500/8Gcdl3XhM1CvEafZ9NBLdYaUk7t.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/kkierrbus8z4QpsexmSg8QSKqak.jpg",
+      "description": "L'histoire de Mariaje et Nicasio, la mère et le grand-père de l'un des enfants décédés dans une explosion de gaz en octobre 1980, dans une ville du Pays basque. La tragédie a secoué la communauté locale ainsi que toute la nation espagnole, marquant la vie des habitants à jamais. Au fil d'un périple émotionnel imprévisible, Mariaje et Nicasio découvrent peu à peu, chacun à sa manière, comment surmonter cette perte.\n\nDisponibilité France : Netflix.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1506401"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1506401-el-nino/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1506401",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1314829",
       "type": "movie",
       "name": "Monkey’s Magic Merry Go Round",
@@ -1022,7 +1048,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/uujYvxE9s6KY4SbBZ0ZFN3oBJhW.jpg",
       "description": "Un soldat américain mène son unité pour bloquer une contre-offensive nazie. Coincés derrière les lignes ennemies, ses hommes sont tués dans une attaque, le laissant seul survivant. Blessé et confronté au froid glacial, il doit rejoindre à pied un point de ralliement. Avec sa radio comme seul lien, il lutte pour survivre aux éléments et aux ennemis qui le guettent à chaque détour.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.4",
+      "imdbRating": "6.3",
       "links": [
         {
           "name": "TMDB",
@@ -1227,7 +1253,7 @@
       "type": "movie",
       "name": "UNABOMBER",
       "poster": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/XohTvvPXiGhUKhiQSvmoMTnj2z.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
       "description": "Ted Kaczynski, un jeune prodige qui intègre Harvard à 16 ans avant de basculer dans le terrorisme. Soumis à des expériences psychologiques discutables menées par le docteur Henry Murray, le passé tourmenté de Kaczynski refait surface des décennies plus tard, lorsque la traque d'Unabomber menée par l'agente du FBI Joanne Miller met en lumière les conséquences terrifiantes de l'ambition et de l'isolement.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "imdbRating": "6.6",
@@ -1282,7 +1308,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
       "description": "Tiré du best-seller cité par le New York Times, The Love Hypothesis suit Olive (Lili Reinhart), une doctorante qui embrasse sur un coup de tête Adam Carlsen (Tom Bateman), le professeur le plus intimidant de son département à la fac. Leur besoin mutuel d'une fausse relation se transforme en une expérience de chimie capable, contre toute attente, de résoudre l'équation de l'amour.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
+      "imdbRating": "7.8",
       "links": [
         {
           "name": "TMDB",
@@ -1375,6 +1401,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1381078",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1316427",
+      "type": "movie",
+      "name": "7 كلاب",
+      "poster": "https://image.tmdb.org/t/p/w500/sqtFKaktHBb52pR3jygsjDAPJ1o.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7cHPvy3aF1mDMX1zqmZRt8YE7Vr.jpg",
+      "description": "L'agent d'Interpol Khalid Al-Azzazi s'associe à Ghali Abu Dawood, membre du syndicat du crime « 7 Dogs », pour lutter contre le trafic de drogue.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "5.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1316427"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1316427-7-klb/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1316427",
         "hasScheduledVideos": false
       }
     },
@@ -1776,7 +1828,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/p1Ag7etCR5yUvElhwZmWsMo5IFu.jpg",
       "description": "Un pasteur en proie au doute emménage avec sa famille dans un quartier difficile de New York, où ils doivent sauver une église délabrée de la fermeture avant Noël.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1",
+      "imdbRating": "6.9",
       "links": [
         {
           "name": "TMDB",
@@ -3388,7 +3440,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/h1fNLREGjyOBCUlUDrUBcp2eqDD.jpg",
       "description": "Emma Fogarty est atteinte d'épidermolyse bulleuse, une maladie génétique rare et extrêmement douloureuse qui rend sa peau si fragile qu'elle se couvre d'ampoules et se déchire au moindre contact. Alors qu'elle s'apprête à fêter ses 40 ans, un âge que les médecins pensaient qu'elle n'atteindrait jamais, elle accepte la proposition de son ami de longue date, Colin Farrell, de courir ensemble le marathon de Dublin. Farrell la poussera en fauteuil roulant pour les derniers kilomètres.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "9",
+      "imdbRating": "8.5",
       "links": [
         {
           "name": "TMDB",
@@ -3596,7 +3648,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/upecGaCuQOIbSpdz85mrJ395UMg.jpg",
       "description": "Le Mandalorien et Grogu retrouvent leurs alliés improbables lors d’une fête épique pour célébrer leur héroïsme. Alors que leurs amis racontent leurs aventures à un public enthousiaste, une attaque de pirates menace.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.6",
+      "imdbRating": "6.5",
       "links": [
         {
           "name": "TMDB",
@@ -3689,6 +3741,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1257147",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1659239",
+      "type": "movie",
+      "name": "Love Love: Fractures",
+      "poster": "https://image.tmdb.org/t/p/w500/aNyyjKKIKoed2Z3jdaMuHUAZqG8.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7z5d5CtweZVk7c0eLl0xQWi6j6G.jpg",
+      "description": "Disponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "10",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1659239"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1659239-love-love-fractures/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1659239",
         "hasScheduledVideos": false
       }
     },
@@ -5434,6 +5512,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1318642",
+      "type": "movie",
+      "name": "ดีว่า..ราวี",
+      "poster": "https://image.tmdb.org/t/p/w500/lw9hl7SKlrfsCc7XkiMD659yTAT.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jijKnQUI8CbK2J05zelxrSoYE7d.jpg",
+      "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "4.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1318642"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1318642-diwa-rawi/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1318642",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1630420",
       "type": "movie",
       "name": "Overacting",
@@ -5456,6 +5560,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1630420",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1773727",
+      "type": "movie",
+      "name": "The JLO Show",
+      "poster": "https://image.tmdb.org/t/p/w500/6uc4X6ytnytrZ9cWP9NI6mihqdb.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qBSWU70e99BH6t06DsNjzQovyyK.jpg",
+      "description": "Retraçant son parcours, du Bronx au statut d’icône mondiale, Jennifer Lopez propose un spectacle à la fois intime et spectaculaire, accompagnée d’un orchestre complet, d’un ensemble vocal et de 16 danseurs. Le spectacle mêle ses plus grands succès à des récits personnels, mettant à l’honneur les artistes et les chansons qui l’ont influencée. Le résultat est un spectacle à la fois moderne, nostalgique et intemporel.\n\nDisponibilité France : Paramount Plus, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1773727"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1773727-the-jlo-show/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1773727",
         "hasScheduledVideos": false
       }
     },
@@ -6240,6 +6370,31 @@
       }
     },
     {
+      "id": "tmdb:movie:1723884",
+      "type": "movie",
+      "name": "Joyeux Noël, Plankton",
+      "poster": "https://image.tmdb.org/t/p/w500/eChQaIEzlGBOfOtbsrFTeZmWqp1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/at3ipqB0F1ES2viO6sdH97RO9Kq.jpg",
+      "description": "Quand Plankton prend le contrôle du pôle Nord, Bob l'éponge, Monsieur Krabs et d'autres compagnons s'unissent pour sauver Noël.\n\nDisponibilité France : Paramount Plus, Paramount Plus Premium.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1723884"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1723884-spongebob-squarepants-merry-christmas-mr-plankton/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1723884",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1268609",
       "type": "movie",
       "name": "Pavane",
@@ -6351,7 +6506,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/Ary1sG0AHn4V1DFrwV7g72Fomq0.jpg",
       "description": "Une adolescente, seule membre entendante d'une famille de sourds, trouve sa voix et apprend à croire en elle grâce à sa passion pour le chant.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.8",
+      "imdbRating": "6.9",
       "links": [
         {
           "name": "TMDB",
@@ -7436,6 +7591,32 @@
       }
     },
     {
+      "id": "tmdb:movie:1295722",
+      "type": "movie",
+      "name": "Les K d'Or",
+      "poster": "https://image.tmdb.org/t/p/w500/zUfJUgBqc5enC4EXQOKrIdkYjba.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1kFyvXG0WEfFfsJh7SL6ZMnksy6.jpg",
+      "description": "D’après sa mère, Noé, serait le fils caché de Kadhafi. Devenu chasseur de trésors, Noé n’a plus qu’une obsession, retrouver l’or du leader Lybien, éparpillé dans le Sahel après sa mort : l’or de son père. Pour y arriver il a besoin des connexions de Zoulika (anciennement Louise) attachante et incontrôlable, tout juste sortie de centre de réinsertion civique après son arrestation à la frontière. Il leur faut une couverture pour passer les contrôles et ça tombe bien : Ryan, malvoyant réac et puceau de 52 ans a prévu de participer au célèbre « Marathon des sables » et cherche des sponsors. Noé veut récupérer l’or de son père, Zoulika passer enfin la frontière et Ryan réaliser son rêve de gosse : en route pour le Sahel !\n\nDisponibilité France : Canal+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "4.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1295722"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1295722-les-k-d-or/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1295722",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1596303",
       "type": "movie",
       "name": "The Last First : le K2 en hiver",
@@ -7781,7 +7962,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/8mdZuwDtyhidCrb7ffsfl0FLeoN.jpg",
       "description": "Les photographies de Richard Avedon ne se contentaient pas de refléter la culture, elles l'ont façonnée et continuent de le faire. Le documentaire « AVEDON » retrace la vie et l’héritage d’un artiste qui s’est servi de la mode, du portrait et de la photographie commerciale pour explorer l’identité, le pouvoir, la peur et la beauté. Bénéficiant d’un accès sans précédent aux archives d’Avedon, comprenant des photos inédites, des enregistrements des coulisses et des entretiens avec ceux qui le connaissaient le mieux, « AVEDON » est une exploration visuellement époustouflante de l’esprit d’un artiste qui a façonné notre image collective du XXe siècle.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.9",
+      "imdbRating": "6.2",
       "links": [
         {
           "name": "TMDB",
@@ -7859,7 +8040,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/iBik58vWTbO3s9GgUW86v7fYqfZ.jpg",
       "description": "Lorsque la performance de Raygun aux Jeux olympiques de Paris 2024 est devenue virale du jour au lendemain, une avalanche de mèmes, de fausses informations et de théories du complot a suivi, tous remettant en question la manière dont elle avait réussi à atteindre la scène olympique.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.6",
+      "imdbRating": "5.5",
       "links": [
         {
           "name": "TMDB",
@@ -8194,7 +8375,7 @@
       "type": "movie",
       "name": "HB2Me",
       "poster": "https://image.tmdb.org/t/p/w500/3V52qsWdwqL7pvxS5aXv2RSg2sW.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/hrwpI9Y5K9B97RvfXqKXCOrXoav.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/tfDCojehwRIIietgYiR9ye7lVJC.jpg",
       "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
       "links": [
@@ -8221,7 +8402,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/3wiTWMVT6RpnMkWfW5tW39Ou8ba.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/nHAc3ovLgHXDNb8lpgrF138pHwA.jpg",
       "description": "Alice, médecin urgentiste, s'apprête à prendre sa garde le soir de Noël. Avec l'aide de Brian, cardiologue de renom, elle parvient à mettre au monde trois bébés, lors d'un baby-boom. Ce qui tisse en eux un lien inaltérable.\n\nDisponibilité France : Netflix, Netflix Standard with Ads, TF1+.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
+      "releaseInfo": "2026",
       "imdbRating": "6.4",
       "links": [
         {
@@ -8248,7 +8429,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/j4NdsFyYxPYAZl7ZYTD9wq1Tis2.jpg",
       "description": "Un adolescent enquêtant sur de mystérieux meurtres dans sa petite ville découvre une collection de cassettes VHS qui pourraient révéler l'identité d'un célèbre tueur en série. Mais peut-être est-il déjà trop tard ?\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.7",
+      "imdbRating": "5.6",
       "links": [
         {
           "name": "TMDB",
@@ -8586,7 +8767,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/51M331d6lEMidnZlAEbTKox5ih4.jpg",
       "description": "En 2016, des enfants de Caroline du Sud ont repéré des clowns dans les bois. Les rapports se sont répandus à travers l'Amérique, provoquant des blocages et des enquêtes. À l'aide de contenus d'archives et d'interviews, il examine comment la peur et les réseaux sociaux ont transformé un étrange mythe en hystérie.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "3.7",
+      "imdbRating": "3.8",
       "links": [
         {
           "name": "TMDB",
@@ -11519,7 +11700,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/aZY17mncsi7zM8IcvucdxgnbM1C.jpg",
       "description": "Dans ce recueil débridé, Stavros Halkias imagine devenir un oncle « crasseux », critique le système de santé et met en garde contre les risques de vivre pleinement sa vie.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.9",
+      "imdbRating": "6.4",
       "links": [
         {
           "name": "TMDB",
@@ -12611,7 +12792,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/n4lmOJZw2TDIzLF6EbQQAAUNdp5.jpg",
       "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.6",
+      "imdbRating": "7.3",
       "links": [
         {
           "name": "TMDB",
@@ -12712,7 +12893,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/okmLf17lLDfAjJdFjizyblCphrj.jpg",
       "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.7",
+      "imdbRating": "5.8",
       "links": [
         {
           "name": "TMDB",
@@ -12841,7 +13022,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/ax5fGBSTqYEeYkgPmvYK47xdKHj.jpg",
       "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.6",
+      "imdbRating": "6.7",
       "links": [
         {
           "name": "TMDB",

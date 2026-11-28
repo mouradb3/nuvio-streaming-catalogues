@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1318642",
+    "type": "movie",
+    "name": "ดีว่า..ราวี",
+    "poster": "https://image.tmdb.org/t/p/w500/lw9hl7SKlrfsCc7XkiMD659yTAT.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/jijKnQUI8CbK2J05zelxrSoYE7d.jpg",
+    "description": "Disponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2025",
+    "imdbRating": "4.7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1318642"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1318642-diwa-rawi/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1318642",
+      "hasScheduledVideos": false
+    }
+  }
+}

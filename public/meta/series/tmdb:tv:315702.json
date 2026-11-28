@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:315702",
+    "type": "series",
+    "name": "ミッドナイトタクシー",
+    "poster": "https://image.tmdb.org/t/p/w500/3hGPd0j6w2VK1DdUo0LM2QM3OwW.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/1p6sUtA9JGdYVTDBPDJzODKeEmc.jpg",
+    "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/315702"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/315702-mitdonaitotakushi/watch?locale=CA"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:315702",
+      "hasScheduledVideos": true
+    }
+  }
+}

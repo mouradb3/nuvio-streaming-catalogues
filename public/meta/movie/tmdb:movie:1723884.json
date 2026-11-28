@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1723884",
+    "type": "movie",
+    "name": "Joyeux Noël, Plankton",
+    "poster": "https://image.tmdb.org/t/p/w500/eChQaIEzlGBOfOtbsrFTeZmWqp1.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/at3ipqB0F1ES2viO6sdH97RO9Kq.jpg",
+    "description": "Quand Plankton prend le contrôle du pôle Nord, Bob l'éponge, Monsieur Krabs et d'autres compagnons s'unissent pour sauver Noël.\n\nDisponibilité France : Paramount Plus, Paramount Plus Premium.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1723884"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1723884-spongebob-squarepants-merry-christmas-mr-plankton/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1723884",
+      "hasScheduledVideos": false
+    }
+  }
+}

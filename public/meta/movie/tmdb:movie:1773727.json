@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1773727",
+    "type": "movie",
+    "name": "The JLO Show",
+    "poster": "https://image.tmdb.org/t/p/w500/6uc4X6ytnytrZ9cWP9NI6mihqdb.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/qBSWU70e99BH6t06DsNjzQovyyK.jpg",
+    "description": "Retraçant son parcours, du Bronx au statut d’icône mondiale, Jennifer Lopez propose un spectacle à la fois intime et spectaculaire, accompagnée d’un orchestre complet, d’un ensemble vocal et de 16 danseurs. Le spectacle mêle ses plus grands succès à des récits personnels, mettant à l’honneur les artistes et les chansons qui l’ont influencée. Le résultat est un spectacle à la fois moderne, nostalgique et intemporel.\n\nDisponibilité France : Paramount Plus, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "7",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1773727"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1773727-the-jlo-show/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1773727",
+      "hasScheduledVideos": false
+    }
+  }
+}

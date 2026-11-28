@@ -138,7 +138,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg",
       "description": "Cora, une fugitive devenue Blade Runner, s'associe à Olwen, un réplicant mourant, pour traquer un fugitif dans un Los Angeles renaissant. Ensemble, ils découvrent une vérité menaçant de détruire leur ville fragile.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.5",
+      "imdbRating": "5.7",
       "links": [
         {
           "name": "TMDB",
@@ -339,32 +339,6 @@
       }
     },
     {
-      "id": "tmdb:tv:288120",
-      "type": "series",
-      "name": "Vienna Game",
-      "poster": "https://image.tmdb.org/t/p/w500/uJ4firkLeu1aUN8sHc7Zys0LwNQ.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/hQ7pzPFt7HiwAnsTwTsUadwHu6A.jpg",
-      "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.2",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/288120"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/288120-vienna-game/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:288120",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:318420",
       "type": "series",
       "name": "Valentina et les 12 signes",
@@ -387,6 +361,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:318420",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:288120",
+      "type": "series",
+      "name": "Vienna Game",
+      "poster": "https://image.tmdb.org/t/p/w500/uJ4firkLeu1aUN8sHc7Zys0LwNQ.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/hQ7pzPFt7HiwAnsTwTsUadwHu6A.jpg",
+      "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/288120"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/288120-vienna-game/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:288120",
         "hasScheduledVideos": true
       }
     },
@@ -546,32 +546,6 @@
       }
     },
     {
-      "id": "tmdb:tv:312661",
-      "type": "series",
-      "name": "急診室的奇蹟",
-      "poster": "https://image.tmdb.org/t/p/w500/aatKnanzNiI0qyRf1yuAyGQ4tKg.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg",
-      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/312661"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/312661-ji-zhen-shi-de-qi-ji/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:312661",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:335981",
       "type": "series",
       "name": "Le Cinéma selon Cunk",
@@ -594,6 +568,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:335981",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:312661",
+      "type": "series",
+      "name": "急診室的奇蹟",
+      "poster": "https://image.tmdb.org/t/p/w500/aatKnanzNiI0qyRf1yuAyGQ4tKg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wZ0EW0svlRLRBNaUpIYjSSOM9Rt.jpg",
+      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/312661"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/312661-ji-zhen-shi-de-qi-ji/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:312661",
         "hasScheduledVideos": true
       }
     },
@@ -1087,32 +1087,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:289517",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:307478",
-      "type": "series",
-      "name": "라이어",
-      "poster": "https://image.tmdb.org/t/p/w500/up1YBgPq6lC0ut2JvjguNwLiXw4.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/5V7scQ0nVkNcz8dcHRfZIiHECcc.jpg",
-      "description": "Disponibilité Canada : Disney Plus, Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/307478"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/307478-laieo/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:307478",
         "hasScheduledVideos": true
       }
     },
@@ -2675,32 +2649,6 @@
       }
     },
     {
-      "id": "tmdb:tv:319800",
-      "type": "series",
-      "name": "NCIS: New York",
-      "poster": "https://image.tmdb.org/t/p/w500/ifmi1Rr9v2qckSsxhNiQIVLE51p.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/wLL8oRsz9XGFQpnCpgi8S0Pj6sO.jpg",
-      "description": "Disponibilité Canada : Paramount Plus, Paramount Plus Apple TV channel, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel, StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/319800"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/319800-ncis-new-york/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:319800",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:316891",
       "type": "series",
       "name": "塩対応の佐藤さんが俺にだけ甘い",
@@ -2748,6 +2696,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:316551",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:319800",
+      "type": "series",
+      "name": "NCIS: New York",
+      "poster": "https://image.tmdb.org/t/p/w500/ifmi1Rr9v2qckSsxhNiQIVLE51p.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wLL8oRsz9XGFQpnCpgi8S0Pj6sO.jpg",
+      "description": "Disponibilité Canada : Paramount Plus, Paramount Plus Apple TV channel, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel, StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/319800"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/319800-ncis-new-york/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:319800",
         "hasScheduledVideos": true
       }
     },
@@ -2986,32 +2960,6 @@
       }
     },
     {
-      "id": "tmdb:tv:231801",
-      "type": "series",
-      "name": "GET JIRO",
-      "poster": "https://image.tmdb.org/t/p/w500/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/xe6wbOPKuSMOze4rl48NFWy8PNe.jpg",
-      "description": "Disponibilité Canada : StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "9",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/231801"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/231801-get-jiro/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:231801",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:283692",
       "type": "series",
       "name": "目覚めたら最強装備と宇宙船持ちだったので、一戸建て目指して傭兵として自由に生きたい",
@@ -3086,6 +3034,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:303060",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:231801",
+      "type": "series",
+      "name": "GET JIRO",
+      "poster": "https://image.tmdb.org/t/p/w500/li3TH09EF6JyHPVoTvub4nPOfwU.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xe6wbOPKuSMOze4rl48NFWy8PNe.jpg",
+      "description": "Disponibilité Canada : StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "9",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/231801"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/231801-get-jiro/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:231801",
         "hasScheduledVideos": true
       }
     },
@@ -3220,32 +3194,6 @@
       }
     },
     {
-      "id": "tmdb:tv:298852",
-      "type": "series",
-      "name": "WAR",
-      "poster": "https://image.tmdb.org/t/p/w500/9X2wqwFg7AjXCawxUC9XqBinLJ1.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/muPKymUvvBqjLCyGSacxKgjrhxN.jpg",
-      "description": "Une série anthologique se déroulant dans le monde élitiste du droit à Londres, suivant deux cabinets rivaux, Cathcarts et Taylor & Byrne, qui s'affrontent dans une nouvelle affaire judiciaire médiatisée chaque saison.\n\nDisponibilité Canada : Crave, Crave Amazon Channel, Hayu.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.3",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/298852"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/298852-war/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:298852",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:324502",
       "type": "series",
       "name": "テムパル～アイテムの力～",
@@ -3294,6 +3242,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:284558",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:298852",
+      "type": "series",
+      "name": "WAR",
+      "poster": "https://image.tmdb.org/t/p/w500/9X2wqwFg7AjXCawxUC9XqBinLJ1.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/muPKymUvvBqjLCyGSacxKgjrhxN.jpg",
+      "description": "Une série anthologique se déroulant dans le monde élitiste du droit à Londres, suivant deux cabinets rivaux, Cathcarts et Taylor & Byrne, qui s'affrontent dans une nouvelle affaire judiciaire médiatisée chaque saison.\n\nDisponibilité Canada : Crave, Crave Amazon Channel, Hayu.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/298852"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/298852-war/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:298852",
         "hasScheduledVideos": true
       }
     },
@@ -3617,7 +3591,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/4LbceO1PH5nTAPd3E9aoqKnkOh.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.7",
       "links": [
         {
           "name": "TMDB",
@@ -3981,7 +3955,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/fSZ0LIiRiM74cypogZrh2HqVPge.jpg",
       "description": "Disponibilité Canada : StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "3.7",
+      "imdbRating": "4.8",
       "links": [
         {
           "name": "TMDB",
@@ -4059,7 +4033,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/obYKFv7HONlwNJPT6dt8CWx5Y7R.jpg",
       "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "9",
+      "imdbRating": "8.3",
       "links": [
         {
           "name": "TMDB",
@@ -4468,6 +4442,32 @@
       }
     },
     {
+      "id": "tmdb:tv:323557",
+      "type": "series",
+      "name": "Lion",
+      "poster": "https://image.tmdb.org/t/p/w500/mvFQIZo2DG1pyiINL2bDa5QNR4O.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xc5PQ22igs1F3OyJ1vXVTZW6793.jpg",
+      "description": "Disponibilité Canada : Disney Plus, StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/323557"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/323557-lion/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:323557",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:95350",
       "type": "series",
       "name": "Lanterns",
@@ -4676,32 +4676,6 @@
       }
     },
     {
-      "id": "tmdb:tv:298168",
-      "type": "series",
-      "name": "The Shards",
-      "poster": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg",
-      "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.9",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/298168"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/298168-the-shards/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:298168",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:289324",
       "type": "series",
       "name": "スター・ウォーズ：ビジョンズ／九人目のジェダイ",
@@ -4724,6 +4698,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:289324",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:298168",
+      "type": "series",
+      "name": "The Shards",
+      "poster": "https://image.tmdb.org/t/p/w500/wP0GdqwVu2g1y3q1KzBXuSrdTvX.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/AhzF2bkYYybcCT4PnqpoagRGBWJ.jpg",
+      "description": "Disponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.9",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/298168"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/298168-the-shards/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:298168",
         "hasScheduledVideos": true
       }
     },
@@ -5378,6 +5378,32 @@
       }
     },
     {
+      "id": "tmdb:tv:312266",
+      "type": "series",
+      "name": "花織さんは転生しても喧嘩がしたい",
+      "poster": "https://image.tmdb.org/t/p/w500/daXebjCM3U6SEm0EgINh5dTyWJe.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rGpovV6h1XSyksXyHRn0zzQNW8V.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/312266"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/312266-hua-zhi-sanha-zhuan-sheng-shitemo-xuan-hua-gashitai/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:312266",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:286345",
       "type": "series",
       "name": "ふつつかな悪女ではございますが ～雛宮蝶鼠とりかえ伝～",
@@ -5426,32 +5452,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:286709",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:312266",
-      "type": "series",
-      "name": "花織さんは転生しても喧嘩がしたい",
-      "poster": "https://image.tmdb.org/t/p/w500/daXebjCM3U6SEm0EgINh5dTyWJe.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/rGpovV6h1XSyksXyHRn0zzQNW8V.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.1",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/312266"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/312266-hua-zhi-sanha-zhuan-sheng-shitemo-xuan-hua-gashitai/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:312266",
         "hasScheduledVideos": true
       }
     },
@@ -5742,32 +5742,6 @@
       }
     },
     {
-      "id": "tmdb:tv:285574",
-      "type": "series",
-      "name": "きみが死ぬまで恋をしたい",
-      "poster": "https://image.tmdb.org/t/p/w500/73DZoZWswGICwZ8G287avfBUeYj.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ppR5S0tqg53tVFA8Gc8CfkWkQG8.jpg",
-      "description": "Disponibilité Canada : Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.3",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/285574"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/285574-kimiga-si-numade-lian-oshitai/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:285574",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:255358",
       "type": "series",
       "name": "The Ghost in the Shell",
@@ -5816,6 +5790,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:117120",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:285574",
+      "type": "series",
+      "name": "きみが死ぬまで恋をしたい",
+      "poster": "https://image.tmdb.org/t/p/w500/73DZoZWswGICwZ8G287avfBUeYj.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ppR5S0tqg53tVFA8Gc8CfkWkQG8.jpg",
+      "description": "Disponibilité Canada : Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/285574"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/285574-kimiga-si-numade-lian-oshitai/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:285574",
         "hasScheduledVideos": true
       }
     },
@@ -5872,32 +5872,6 @@
       }
     },
     {
-      "id": "tmdb:tv:320406",
-      "type": "series",
-      "name": "가족관계증명서",
-      "poster": "https://image.tmdb.org/t/p/w500/qVK5lrPrRswoe542XEnufx8BH2j.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/xBFkSHJAco6XCwYZ3YRZc81pn22.jpg",
-      "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "10",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/320406"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/320406-gajoggwangyejeungmyeongseo/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:320406",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:302051",
       "type": "series",
       "name": "ここは俺に任せて先に行けと言ってから10年がたったら伝説になっていた。",
@@ -5920,32 +5894,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:302051",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:325158",
-      "type": "series",
-      "name": "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました",
-      "poster": "https://image.tmdb.org/t/p/w500/d0hx0f1vz6S5UvZChaxyUf51HFK.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/4ZQopUsLT8JHmgPHscxe7lX6Guo.jpg",
-      "description": "Disponibilité Canada : HiDive, Hidive Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.1",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/325158"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/325158-she-terare-sheng-nu-no-yi-shi-jie-gohan-lu-yin-resukirudekiyanpingukao-zhao-huan-shimashita/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:325158",
         "hasScheduledVideos": true
       }
     },
@@ -6002,6 +5950,32 @@
       }
     },
     {
+      "id": "tmdb:tv:320406",
+      "type": "series",
+      "name": "가족관계증명서",
+      "poster": "https://image.tmdb.org/t/p/w500/qVK5lrPrRswoe542XEnufx8BH2j.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/xBFkSHJAco6XCwYZ3YRZc81pn22.jpg",
+      "description": "Disponibilité Canada : Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "10",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/320406"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/320406-gajoggwangyejeungmyeongseo/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:320406",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:284581",
       "type": "series",
       "name": "最強出涸らし皇子の暗躍帝位争い",
@@ -6024,6 +5998,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:284581",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:325158",
+      "type": "series",
+      "name": "捨てられ聖女の異世界ごはん旅 隠れスキルでキャンピングカーを召喚しました",
+      "poster": "https://image.tmdb.org/t/p/w500/d0hx0f1vz6S5UvZChaxyUf51HFK.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4ZQopUsLT8JHmgPHscxe7lX6Guo.jpg",
+      "description": "Disponibilité Canada : HiDive, Hidive Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/325158"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/325158-she-terare-sheng-nu-no-yi-shi-jie-gohan-lu-yin-resukirudekiyanpingukao-zhao-huan-shimashita/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:325158",
         "hasScheduledVideos": true
       }
     },
@@ -6106,32 +6106,6 @@
       }
     },
     {
-      "id": "tmdb:tv:293489",
-      "type": "series",
-      "name": "鬼の花嫁",
-      "poster": "https://image.tmdb.org/t/p/w500/nV8jHPc2sObbCfSTXjSmiq6C65t.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/o2BUR8LQAVu7oRp76v7jH7ZWpOk.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.4",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/293489"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/293489-gui-no-hua-jia/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:293489",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:300267",
       "type": "series",
       "name": "世界最強の後衛 ～迷宮国の新人探索者～",
@@ -6154,6 +6128,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:300267",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:293489",
+      "type": "series",
+      "name": "鬼の花嫁",
+      "poster": "https://image.tmdb.org/t/p/w500/nV8jHPc2sObbCfSTXjSmiq6C65t.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/o2BUR8LQAVu7oRp76v7jH7ZWpOk.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/293489"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/293489-gui-no-hua-jia/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:293489",
         "hasScheduledVideos": true
       }
     },
@@ -6191,7 +6191,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/egAGdTC9aR8YJG4dU1OTPf950UP.jpg",
       "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "7.3",
       "links": [
         {
           "name": "TMDB",
@@ -6366,32 +6366,6 @@
       }
     },
     {
-      "id": "tmdb:tv:312949",
-      "type": "series",
-      "name": "ヤニねこ",
-      "poster": "https://image.tmdb.org/t/p/w500/1OEYjA3bpPlXNPwV51WJhGWx8Mk.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
-      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.1",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/312949"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/312949-yanineko/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:312949",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:287028",
       "type": "series",
       "name": "これ描いて死ね",
@@ -6440,6 +6414,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:308874",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:312949",
+      "type": "series",
+      "name": "ヤニねこ",
+      "poster": "https://image.tmdb.org/t/p/w500/1OEYjA3bpPlXNPwV51WJhGWx8Mk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
+      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/312949"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/312949-yanineko/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:312949",
         "hasScheduledVideos": true
       }
     },
@@ -7349,6 +7349,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:289271",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:315702",
+      "type": "series",
+      "name": "ミッドナイトタクシー",
+      "poster": "https://image.tmdb.org/t/p/w500/3hGPd0j6w2VK1DdUo0LM2QM3OwW.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/1p6sUtA9JGdYVTDBPDJzODKeEmc.jpg",
+      "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/315702"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/315702-mitdonaitotakushi/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:315702",
         "hasScheduledVideos": true
       }
     },
@@ -8266,7 +8292,7 @@
       "id": "tmdb:tv:287450",
       "type": "series",
       "name": "Secret Service",
-      "poster": "https://image.tmdb.org/t/p/w500/xfMN8liyfR06b4yRg8bkZMV9KTQ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/f7tksyddK3VvismfoWCwpXPqz0x.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/z5vJszVCv3feLAlsoPjIuMZjQ46.jpg",
       "description": "Disponibilité Canada : MGM Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
@@ -8991,58 +9017,6 @@
       }
     },
     {
-      "id": "tmdb:tv:250220",
-      "type": "series",
-      "name": "The Miniature Wife",
-      "poster": "https://image.tmdb.org/t/p/w500/ah763FJpttOTCcfxIK3dxXCoJvk.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/gQTjztsHxB7swHm6Dy2h8blukEi.jpg",
-      "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.1",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/250220"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/250220-the-miniature-wife/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:250220",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:291506",
-      "type": "series",
-      "name": "Grosses erreurs",
-      "poster": "https://image.tmdb.org/t/p/w500/qeCmU79haciBBOBmOy7dJtbz95Y.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/oGORe3yzIPBueHVHroSmsaMVKDi.jpg",
-      "description": "Lorsque des personnes très dangereuses les font chanter, une sœur et un frère dysfonctionnels deviennent le duo le plus désorganisé du crime organisé.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/291506"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/291506-big-mistakes/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:291506",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:273467",
       "type": "series",
       "name": "姫騎士は蛮族の嫁",
@@ -9065,6 +9039,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:273467",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:250220",
+      "type": "series",
+      "name": "The Miniature Wife",
+      "poster": "https://image.tmdb.org/t/p/w500/ah763FJpttOTCcfxIK3dxXCoJvk.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/gQTjztsHxB7swHm6Dy2h8blukEi.jpg",
+      "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/250220"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/250220-the-miniature-wife/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:250220",
         "hasScheduledVideos": true
       }
     },
@@ -9095,6 +9095,32 @@
       }
     },
     {
+      "id": "tmdb:tv:291506",
+      "type": "series",
+      "name": "Grosses erreurs",
+      "poster": "https://image.tmdb.org/t/p/w500/qeCmU79haciBBOBmOy7dJtbz95Y.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/oGORe3yzIPBueHVHroSmsaMVKDi.jpg",
+      "description": "Lorsque des personnes très dangereuses les font chanter, une sœur et un frère dysfonctionnels deviennent le duo le plus désorganisé du crime organisé.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/291506"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/291506-big-mistakes/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:291506",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:287527",
       "type": "series",
       "name": "The Testaments",
@@ -9121,32 +9147,6 @@
       }
     },
     {
-      "id": "tmdb:tv:278894",
-      "type": "series",
-      "name": "冰湖重生",
-      "poster": "https://image.tmdb.org/t/p/w500/qCh5TAFeUshmThNrzCrMAEuo49w.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/9gjYUk8NfKMExVKXkxkofgEJPI1.jpg",
-      "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/278894"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/278894-bing-hu-zhong-sheng/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:278894",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:312522",
       "type": "series",
       "name": "女神『異世界転生何になりたいですか』俺『勇者の肋骨で』",
@@ -9169,6 +9169,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:312522",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:278894",
+      "type": "series",
+      "name": "冰湖重生",
+      "poster": "https://image.tmdb.org/t/p/w500/qCh5TAFeUshmThNrzCrMAEuo49w.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/9gjYUk8NfKMExVKXkxkofgEJPI1.jpg",
+      "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/278894"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/278894-bing-hu-zhong-sheng/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:278894",
         "hasScheduledVideos": true
       }
     },
@@ -9251,32 +9277,6 @@
       }
     },
     {
-      "id": "tmdb:tv:301944",
-      "type": "series",
-      "name": "マリッジトキシン",
-      "poster": "https://image.tmdb.org/t/p/w500/bHCm3vz7Mg60wEO6HTm9g2g8IEH.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/edyP3Y3j5M1aponwAtDEUtTlPIA.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/301944"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/301944-maritjitokishin/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:301944",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:290019",
       "type": "series",
       "name": "クラスで２番目に可愛い女の子と友だちになった",
@@ -9299,6 +9299,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:290019",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:301944",
+      "type": "series",
+      "name": "マリッジトキシン",
+      "poster": "https://image.tmdb.org/t/p/w500/bHCm3vz7Mg60wEO6HTm9g2g8IEH.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/edyP3Y3j5M1aponwAtDEUtTlPIA.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/301944"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/301944-maritjitokishin/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:301944",
         "hasScheduledVideos": true
       }
     },
@@ -9459,32 +9485,6 @@
       }
     },
     {
-      "id": "tmdb:tv:312474",
-      "type": "series",
-      "name": "日本三國",
-      "poster": "https://image.tmdb.org/t/p/w500/5twD6rCmqkYsJtkNXw0ShsRQHqY.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/seKQ4siIyJZAt3Xubijt5iXfjvA.jpg",
-      "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/312474"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/312474-ri-ben-san-guo/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:312474",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:285818",
       "type": "series",
       "name": "カナン様はあくまでチョロい",
@@ -9507,6 +9507,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:285818",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:296870",
+      "type": "series",
+      "name": "神の庭付き楠木邸",
+      "poster": "https://image.tmdb.org/t/p/w500/cvuNkbVcGwvZyRmeIqmePO9nxwV.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/cXPaWWolacjHHKYvLlpOQ0j8o0X.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/296870"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/296870-shen-no-ting-fu-ki-nan-mu-di/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:296870",
         "hasScheduledVideos": true
       }
     },
@@ -9537,28 +9563,28 @@
       }
     },
     {
-      "id": "tmdb:tv:296870",
+      "id": "tmdb:tv:312474",
       "type": "series",
-      "name": "神の庭付き楠木邸",
-      "poster": "https://image.tmdb.org/t/p/w500/cvuNkbVcGwvZyRmeIqmePO9nxwV.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/cXPaWWolacjHHKYvLlpOQ0j8o0X.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "name": "日本三國",
+      "poster": "https://image.tmdb.org/t/p/w500/5twD6rCmqkYsJtkNXw0ShsRQHqY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/seKQ4siIyJZAt3Xubijt5iXfjvA.jpg",
+      "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.2",
+      "imdbRating": "8.7",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/296870"
+          "url": "https://www.themoviedb.org/tv/312474"
         },
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/296870-shen-no-ting-fu-ki-nan-mu-di/watch?locale=CA"
+          "url": "https://www.themoviedb.org/tv/312474-ri-ben-san-guo/watch?locale=CA"
         }
       ],
       "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:296870",
+        "defaultVideoId": "tmdb:tv:312474",
         "hasScheduledVideos": true
       }
     },
@@ -9745,32 +9771,6 @@
       }
     },
     {
-      "id": "tmdb:tv:296232",
-      "type": "series",
-      "name": "スノウボールアース",
-      "poster": "https://image.tmdb.org/t/p/w500/61E9aXjYUGPfrO5CW2cTutu0jX3.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/5Jhaxj3sBDGB5oLj9snBz2bdqBG.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel, Disney Plus, Netflix, Netflix Standard with Ads, Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.3",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/296232"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/296232-sunouboruasu/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:296232",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:303870",
       "type": "series",
       "name": "霧尾ファンクラブ",
@@ -9797,6 +9797,32 @@
       }
     },
     {
+      "id": "tmdb:tv:296232",
+      "type": "series",
+      "name": "スノウボールアース",
+      "poster": "https://image.tmdb.org/t/p/w500/61E9aXjYUGPfrO5CW2cTutu0jX3.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5Jhaxj3sBDGB5oLj9snBz2bdqBG.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel, Disney Plus, Netflix, Netflix Standard with Ads, Rakuten Viki.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/296232"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/296232-sunouboruasu/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:296232",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:283428",
       "type": "series",
       "name": "Les remparts de glace",
@@ -9819,32 +9845,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:283428",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:274622",
-      "type": "series",
-      "name": "ガンバレ！中村くん！！",
-      "poster": "https://image.tmdb.org/t/p/w500/rCI8bgsqoq2ho04ZE0gUr36l8Pg.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/wpsLsjCcIf3QexYO6pCaLm9PI0Z.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.3",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/274622"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/274622-ganbare-zhong-cun-kun/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:274622",
         "hasScheduledVideos": true
       }
     },
@@ -9897,6 +9897,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:303405",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:274622",
+      "type": "series",
+      "name": "ガンバレ！中村くん！！",
+      "poster": "https://image.tmdb.org/t/p/w500/rCI8bgsqoq2ho04ZE0gUr36l8Pg.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wpsLsjCcIf3QexYO6pCaLm9PI0Z.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/274622"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/274622-ganbare-zhong-cun-kun/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:274622",
         "hasScheduledVideos": true
       }
     },
@@ -11460,6 +11486,32 @@
       }
     },
     {
+      "id": "tmdb:tv:308112",
+      "type": "series",
+      "name": "Mel Brooks: The 99 Year Old Man!",
+      "poster": "https://image.tmdb.org/t/p/w500/7ywcx3HrSv5JjGjbjH5mg9puXLs.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5ECEMrt5DbTcXQqGfVwhtOtdcJl.jpg",
+      "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.8",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/308112"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/308112-mel-brooks-the-99-year-old-man/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:308112",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:281401",
       "type": "series",
       "name": "Rêve de glace",
@@ -11928,32 +11980,6 @@
       }
     },
     {
-      "id": "tmdb:tv:279593",
-      "type": "series",
-      "name": "小城大事",
-      "poster": "https://image.tmdb.org/t/p/w500/qOxz5TnqxgZTLx31PWXsuEJ8AIb.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/l43ULOU8DQA0LomqfmSQoDKschy.jpg",
-      "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/279593"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/279593-xiao-cheng-da-shi/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:279593",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:280049",
       "type": "series",
       "name": "ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～ はじまりの召喚士",
@@ -11980,28 +12006,28 @@
       }
     },
     {
-      "id": "tmdb:tv:288589",
+      "id": "tmdb:tv:271609",
       "type": "series",
-      "name": "お気楽領主の楽しい領地防衛 ～生産系魔術で名もなき村を最強の城塞都市に～",
-      "poster": "https://image.tmdb.org/t/p/w500/27sQp8T5zwGICIKmxOn6XkK5UtD.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/zwdmHsZIbFu9Bia6EvXMbG1lBBt.jpg",
+      "name": "DARK MOON　-黒の月: 月の祭壇-",
+      "poster": "https://image.tmdb.org/t/p/w500/qgy4z9HsdotSpVUy44ZMUt7J9tL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/iKalNKa27eSiNgqGvDn55Q8fNjI.jpg",
       "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "8.4",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/288589"
+          "url": "https://www.themoviedb.org/tv/271609"
         },
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/288589-o-qi-le-ling-zhu-no-le-shii-ling-de-fang-wei-sheng-chan-xi-mo-shu-de-ming-monaki-cun-o-zui-qiang-no-cheng-sai-dou-shi-ni/watch?locale=CA"
+          "url": "https://www.themoviedb.org/tv/271609-dark-moon/watch?locale=CA"
         }
       ],
       "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:288589",
+        "defaultVideoId": "tmdb:tv:271609",
         "hasScheduledVideos": true
       }
     },
@@ -12032,28 +12058,54 @@
       }
     },
     {
-      "id": "tmdb:tv:271609",
+      "id": "tmdb:tv:288589",
       "type": "series",
-      "name": "DARK MOON　-黒の月: 月の祭壇-",
-      "poster": "https://image.tmdb.org/t/p/w500/qgy4z9HsdotSpVUy44ZMUt7J9tL.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/iKalNKa27eSiNgqGvDn55Q8fNjI.jpg",
+      "name": "お気楽領主の楽しい領地防衛 ～生産系魔術で名もなき村を最強の城塞都市に～",
+      "poster": "https://image.tmdb.org/t/p/w500/27sQp8T5zwGICIKmxOn6XkK5UtD.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/zwdmHsZIbFu9Bia6EvXMbG1lBBt.jpg",
       "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "8.4",
+      "imdbRating": "7.6",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/271609"
+          "url": "https://www.themoviedb.org/tv/288589"
         },
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/271609-dark-moon/watch?locale=CA"
+          "url": "https://www.themoviedb.org/tv/288589-o-qi-le-ling-zhu-no-le-shii-ling-de-fang-wei-sheng-chan-xi-mo-shu-de-ming-monaki-cun-o-zui-qiang-no-cheng-sai-dou-shi-ni/watch?locale=CA"
         }
       ],
       "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:271609",
+        "defaultVideoId": "tmdb:tv:288589",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:279593",
+      "type": "series",
+      "name": "小城大事",
+      "poster": "https://image.tmdb.org/t/p/w500/qOxz5TnqxgZTLx31PWXsuEJ8AIb.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/l43ULOU8DQA0LomqfmSQoDKschy.jpg",
+      "description": "Disponibilité Canada : Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/279593"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/279593-xiao-cheng-da-shi/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:279593",
         "hasScheduledVideos": true
       }
     },
@@ -12292,32 +12344,6 @@
       }
     },
     {
-      "id": "tmdb:tv:294280",
-      "type": "series",
-      "name": "魔王の娘は優しすぎる!!",
-      "poster": "https://image.tmdb.org/t/p/w500/gUpjTomq5J4aOpwAOJ3WB76kh5g.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/7BDhqdsznowpcEDMQ334WAaCPcK.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.1",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/294280"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/294280-mo-wang-no-niang-ha-you-shisugiru/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:294280",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:290667",
       "type": "series",
       "name": "29歳独身中堅冒険者の日常",
@@ -12344,28 +12370,28 @@
       }
     },
     {
-      "id": "tmdb:tv:293629",
+      "id": "tmdb:tv:294280",
       "type": "series",
-      "name": "鎧真伝サムライトルーパー",
-      "poster": "https://image.tmdb.org/t/p/w500/2vDNh9Jg2Ds244rkvvjgOrOCkOa.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/wKILy6ADkaCIbfnam27jWWwlzx9.jpg",
-      "description": "Disponibilité Canada : Crunchyroll.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "name": "魔王の娘は優しすぎる!!",
+      "poster": "https://image.tmdb.org/t/p/w500/gUpjTomq5J4aOpwAOJ3WB76kh5g.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7BDhqdsznowpcEDMQ334WAaCPcK.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "8.1",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/293629"
+          "url": "https://www.themoviedb.org/tv/294280"
         },
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/293629-kai-zhen-yun-samuraitorupa/watch?locale=CA"
+          "url": "https://www.themoviedb.org/tv/294280-mo-wang-no-niang-ha-you-shisugiru/watch?locale=CA"
         }
       ],
       "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:293629",
+        "defaultVideoId": "tmdb:tv:294280",
         "hasScheduledVideos": true
       }
     },
@@ -12396,28 +12422,28 @@
       }
     },
     {
-      "id": "tmdb:tv:295366",
+      "id": "tmdb:tv:293629",
       "type": "series",
-      "name": "勇者パーティーにかわいい子がいたので、告白してみた。",
-      "poster": "https://image.tmdb.org/t/p/w500/hlprcIJFyWVkCNOxU7UySb1ECLe.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/h4wBD8Lrq8hSAxd4fRgbIDTzDLJ.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "name": "鎧真伝サムライトルーパー",
+      "poster": "https://image.tmdb.org/t/p/w500/2vDNh9Jg2Ds244rkvvjgOrOCkOa.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/wKILy6ADkaCIbfnam27jWWwlzx9.jpg",
+      "description": "Disponibilité Canada : Crunchyroll.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.2",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
           "category": "source",
-          "url": "https://www.themoviedb.org/tv/295366"
+          "url": "https://www.themoviedb.org/tv/293629"
         },
         {
           "name": "JustWatch",
           "category": "watch",
-          "url": "https://www.themoviedb.org/tv/295366-yong-zhe-pateinikawaii-zi-gaitanode-gao-bai-shitemita/watch?locale=CA"
+          "url": "https://www.themoviedb.org/tv/293629-kai-zhen-yun-samuraitorupa/watch?locale=CA"
         }
       ],
       "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:295366",
+        "defaultVideoId": "tmdb:tv:293629",
         "hasScheduledVideos": true
       }
     },
@@ -12448,6 +12474,32 @@
       }
     },
     {
+      "id": "tmdb:tv:295366",
+      "type": "series",
+      "name": "勇者パーティーにかわいい子がいたので、告白してみた。",
+      "poster": "https://image.tmdb.org/t/p/w500/hlprcIJFyWVkCNOxU7UySb1ECLe.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/h4wBD8Lrq8hSAxd4fRgbIDTzDLJ.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.2",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/295366"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/295366-yong-zhe-pateinikawaii-zi-gaitanode-gao-bai-shitemita/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:295366",
+        "hasScheduledVideos": true
+      }
+    },
+    {
       "id": "tmdb:tv:305163",
       "type": "series",
       "name": "拷問バイトくんの日常",
@@ -12474,32 +12526,6 @@
       }
     },
     {
-      "id": "tmdb:tv:293144",
-      "type": "series",
-      "name": "綺麗にしてもらえますか。",
-      "poster": "https://image.tmdb.org/t/p/w500/u3FoBE3Vw0tTHFV6djpSv5HHBU5.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/qwQwTAvgH6QXPOOKsIlE0i2GfOn.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/293144"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/293144-qi-li-nishitemoraemasuka/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:293144",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:280948",
       "type": "series",
       "name": "Fièvre printanière",
@@ -12522,6 +12548,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:280948",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:293144",
+      "type": "series",
+      "name": "綺麗にしてもらえますか。",
+      "poster": "https://image.tmdb.org/t/p/w500/u3FoBE3Vw0tTHFV6djpSv5HHBU5.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/qwQwTAvgH6QXPOOKsIlE0i2GfOn.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/293144"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/293144-qi-li-nishitemoraemasuka/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:293144",
         "hasScheduledVideos": true
       }
     },
@@ -12574,32 +12626,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:291084",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:253476",
-      "type": "series",
-      "name": "違国日記",
-      "poster": "https://image.tmdb.org/t/p/w500/oMgxAEq7OVvkLDevVMfYwlAzBrP.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
-      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/253476"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/253476-wei-guo-ri-ji/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:253476",
         "hasScheduledVideos": true
       }
     },
@@ -12678,6 +12704,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:282946",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:253476",
+      "type": "series",
+      "name": "違国日記",
+      "poster": "https://image.tmdb.org/t/p/w500/oMgxAEq7OVvkLDevVMfYwlAzBrP.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/nUBAxPUHcHefOo0mgLT01g0fEyZ.jpg",
+      "description": "Disponibilité Canada : Crunchyroll, Crunchyroll Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/253476"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/253476-wei-guo-ri-ji/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:253476",
         "hasScheduledVideos": true
       }
     },

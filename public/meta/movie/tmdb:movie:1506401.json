@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1506401",
+    "type": "movie",
+    "name": "Le Petit",
+    "poster": "https://image.tmdb.org/t/p/w500/8Gcdl3XhM1CvEafZ9NBLdYaUk7t.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/kkierrbus8z4QpsexmSg8QSKqak.jpg",
+    "description": "L'histoire de Mariaje et Nicasio, la mère et le grand-père de l'un des enfants décédés dans une explosion de gaz en octobre 1980, dans une ville du Pays basque. La tragédie a secoué la communauté locale ainsi que toute la nation espagnole, marquant la vie des habitants à jamais. Au fil d'un périple émotionnel imprévisible, Mariaje et Nicasio découvrent peu à peu, chacun à sa manière, comment surmonter cette perte.\n\nDisponibilité France : Netflix.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "6",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1506401"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1506401-el-nino/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1506401",
+      "hasScheduledVideos": false
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1659239",
+    "type": "movie",
+    "name": "Love Love: Fractures",
+    "poster": "https://image.tmdb.org/t/p/w500/aNyyjKKIKoed2Z3jdaMuHUAZqG8.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/7z5d5CtweZVk7c0eLl0xQWi6j6G.jpg",
+    "description": "Disponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "10",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1659239"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1659239-love-love-fractures/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1659239",
+      "hasScheduledVideos": false
+    }
+  }
+}

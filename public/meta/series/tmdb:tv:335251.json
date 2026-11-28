@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": "tmdb:tv:335251",
+    "type": "series",
+    "name": "L'art de l'arnaque",
+    "poster": "https://image.tmdb.org/t/p/w500/sJZ4s8Bgum6c4aI8O5rcP4SoV8q.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/veDby1jiMvHKml9kdjCtgvjrM80.jpg",
+    "description": "Une série documentaire consacrée aux crimes de Joanna et Mikael Segelstrom qui dirigeaient un système de vente pyramidale rapportant des millions.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/335251"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/335251-sztuka-oszustwa/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:335251",
+      "hasScheduledVideos": true
+    }
+  }
+}

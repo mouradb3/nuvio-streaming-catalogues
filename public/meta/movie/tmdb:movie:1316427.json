@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:movie:1316427",
+    "type": "movie",
+    "name": "7 كلاب",
+    "poster": "https://image.tmdb.org/t/p/w500/sqtFKaktHBb52pR3jygsjDAPJ1o.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/7cHPvy3aF1mDMX1zqmZRt8YE7Vr.jpg",
+    "description": "L'agent d'Interpol Khalid Al-Azzazi s'associe à Ghali Abu Dawood, membre du syndicat du crime « 7 Dogs », pour lutter contre le trafic de drogue.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "5.8",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/movie/1316427"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/movie/1316427-7-klb/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:movie:1316427",
+      "hasScheduledVideos": false
+    }
+  }
+}

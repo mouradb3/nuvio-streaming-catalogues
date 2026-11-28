@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "id": "tmdb:tv:323557",
+    "type": "series",
+    "name": "Lion",
+    "poster": "https://image.tmdb.org/t/p/w500/mvFQIZo2DG1pyiINL2bDa5QNR4O.jpg",
+    "background": "https://image.tmdb.org/t/p/w1280/xc5PQ22igs1F3OyJ1vXVTZW6793.jpg",
+    "description": "Fruit de quatre ans de tournage, cette série documentaire ambitieuse retrace l'extraordinaire histoire vraie de Kio, un lionceau au destin de roi. Confronté au deuil, à l'exil et à de féroces rivaux, il doit surmonter d'incroyables défis dans une lutte acharnée pour survivre et trouver sa place au cœur du monde sauvage.\n\nDisponibilité France : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+    "releaseInfo": "2026",
+    "imdbRating": "8.3",
+    "links": [
+      {
+        "name": "TMDB",
+        "category": "source",
+        "url": "https://www.themoviedb.org/tv/323557"
+      },
+      {
+        "name": "JustWatch",
+        "category": "watch",
+        "url": "https://www.themoviedb.org/tv/323557-lion/watch?locale=FR"
+      }
+    ],
+    "behaviorHints": {
+      "defaultVideoId": "tmdb:tv:323557",
+      "hasScheduledVideos": true
+    }
+  }
+}
