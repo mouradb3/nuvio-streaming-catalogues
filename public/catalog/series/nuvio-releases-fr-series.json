@@ -60,6 +60,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/6k5dug3eriqHf1kgJeLHXrfBROc.jpg",
       "description": "En 1982, la matriarche d'un empire hôtelier hollandais est kidnappée contre rançon. Sa famille cherche alors désespérément à la faire libérer. Inspiré d'une histoire vraie.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
@@ -85,6 +86,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/f4ocST2EI5HDUPVB2FyQ7pkk7Ns.jpg",
       "description": "Retrouvailles à Boracay, histoire d'amour au bureau, quiproquos et querelle entre sœurs : quatre récits qui célèbrent l'amour, la famille et la magie d'un Noël philippin.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
@@ -133,10 +135,10 @@
       "type": "series",
       "name": "Blade Runner 2099",
       "poster": "https://image.tmdb.org/t/p/w500/w5ORXfoCNFVI2wbkgObzLjpq9kY.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/nuLUxzJ4bVVxafru5lgWfmcPOm7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg",
       "description": "Cora, une fugitive devenue Blade Runner, fait équipe avec Olwen, une Réplicante mourante, pour traquer un fugitif dans un Los Angeles qui a retrouvé un nouveau souffle. Ensemble, elles découvrent une vérité qui menace de détruire leur fragile cité.\n\nDisponibilité France : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.4",
+      "imdbRating": "5.5",
       "links": [
         {
           "name": "TMDB",
@@ -266,7 +268,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
       "description": "Jeunes, idéalistes et soudain milliardaires, ils voulaient faire le bien... avant de se pousser au pire. Un amour toxique sur fond d'escroquerie réelle.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.5",
+      "imdbRating": "6.4",
       "links": [
         {
           "name": "TMDB",
@@ -441,32 +443,6 @@
       }
     },
     {
-      "id": "tmdb:tv:303182",
-      "type": "series",
-      "name": "El crimen de Pazos",
-      "poster": "https://image.tmdb.org/t/p/w500/8BSTywNtgPiO4MhJYJbrvQTUp7X.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
-      "description": "Quand une femme est agressée en pleine nuit, un sergent tenace soupçonne le mari de ne pas être aussi innocent qu'il en a l'air dans ce drame inspiré de faits réels.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.3",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/303182"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/303182-el-crimen-de-pazos/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:303182",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:305245",
       "type": "series",
       "name": "Douce Nuit",
@@ -489,6 +465,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:305245",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:303182",
+      "type": "series",
+      "name": "El crimen de Pazos",
+      "poster": "https://image.tmdb.org/t/p/w500/8BSTywNtgPiO4MhJYJbrvQTUp7X.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/jM5dhDrpRiVxuzcvAEeHhcAKt50.jpg",
+      "description": "Quand une femme est agressée en pleine nuit, un sergent tenace soupçonne le mari de ne pas être aussi innocent qu'il en a l'air dans ce drame inspiré de faits réels.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.3",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/303182"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/303182-el-crimen-de-pazos/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:303182",
         "hasScheduledVideos": true
       }
     },
@@ -1434,7 +1436,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
       "description": "Alors qu’un détective privé enquête sur la disparition du jeune héritier d’une puissante entreprise de pêche, il se retrouve en désaccord avec un détective local méfiant, un charismatique professeur d’université qui aime les hommes plus jeunes, et un labyrinthe de suspects énigmatiques, de vies secrètes et de magie ancienne.\n\nDisponibilité France : HBO Max, HBO Max Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "6.8",
       "links": [
         {
           "name": "TMDB",
@@ -1615,7 +1617,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/H8VA7K15NWVKLbUbp8ZQ17zvU2.jpg",
       "description": "Trente personnes passent deux semaines en prison et révèlent ce dont elles sont capables à travers des jeux de pouvoir, dans cette célèbre étude de psychologie sociale revisitée.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1",
+      "imdbRating": "6.2",
       "links": [
         {
           "name": "TMDB",
@@ -2543,32 +2545,6 @@
       }
     },
     {
-      "id": "tmdb:tv:312850",
-      "type": "series",
-      "name": "Nia Liston: The Merciless Maiden",
-      "poster": "https://image.tmdb.org/t/p/w500/iSP99hEjoLqSVAnH4JHKa9kI4eL.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/5obfnImCRn0LzQnRb4jxuCJRlxd.jpg",
-      "description": "Aux portes de la mort, une guerrière intrépide et invaincue, succombe à ses blessures et se réincarne dans le corps frêle et maladif de Nia Liston. À la recherche d’un adversaire capable de se hisser à sa hauteur, la jeune fille entreprend de recouvrer sa force, en dépit de ce nouveau corps dont elle va devoir percer les secrets si elle souhaite retrouver sa splendeur d’antan.\n\nDisponibilité France : Animation Digital Network, Anime Digital Network Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/312850"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/312850-xiong-luan-ling-niang-nia-risuton-bing-ruo-ling-niang-ni-zhuan-sheng-shita-shen-sha-shino-wu-ren-no-hua-li-naru-wu-shuang-lu/watch?locale=FR"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:312850",
-        "hasScheduledVideos": true
-      }
-    },
-    {
       "id": "tmdb:tv:316891",
       "type": "series",
       "name": "The Cold Sato-san Is Only Sweet to Me",
@@ -2642,6 +2618,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:327765",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:312850",
+      "type": "series",
+      "name": "Nia Liston: The Merciless Maiden",
+      "poster": "https://image.tmdb.org/t/p/w500/iSP99hEjoLqSVAnH4JHKa9kI4eL.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/5obfnImCRn0LzQnRb4jxuCJRlxd.jpg",
+      "description": "Aux portes de la mort, une guerrière intrépide et invaincue, succombe à ses blessures et se réincarne dans le corps frêle et maladif de Nia Liston. À la recherche d’un adversaire capable de se hisser à sa hauteur, la jeune fille entreprend de recouvrer sa force, en dépit de ce nouveau corps dont elle va devoir percer les secrets si elle souhaite retrouver sa splendeur d’antan.\n\nDisponibilité France : Animation Digital Network, Anime Digital Network Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/312850"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/312850-xiong-luan-ling-niang-nia-risuton-bing-ruo-ling-niang-ni-zhuan-sheng-shita-shen-sha-shino-wu-ren-no-hua-li-naru-wu-shuang-lu/watch?locale=FR"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:312850",
         "hasScheduledVideos": true
       }
     },
@@ -3849,7 +3851,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/iyHgIyMJ6Vd5w79dLeGOTOkqDS5.jpg",
       "description": "Un gangster en perdition s'associe au fils retors d'un politicien. Ensemble, ils font disparaître les vilains secrets de leurs clients, du côté de la pègre comme de la loi.\n\nDisponibilité France : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.6",
+      "imdbRating": "6.7",
       "links": [
         {
           "name": "TMDB",

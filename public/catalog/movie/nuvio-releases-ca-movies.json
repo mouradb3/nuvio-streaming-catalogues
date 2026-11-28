@@ -1,6 +1,32 @@
 {
   "metas": [
     {
+      "id": "tmdb:movie:1480665",
+      "type": "movie",
+      "name": "Quasimodo, l'âme de Paris",
+      "poster": "https://image.tmdb.org/t/p/w500/6siD5VN1detW107mGHQFCeuzuFY.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/7bsFkCxWM2Dx3vv7ollsGDLdlWn.jpg",
+      "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1480665"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1480665-quasimodo-l-ame-de-paris/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1480665",
+        "hasScheduledVideos": false
+      }
+    },
+    {
       "id": "tmdb:movie:1458300",
       "type": "movie",
       "name": "Le Mosquito Bowl",
@@ -8,7 +34,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/nfcXn5yvBejpbljQIBrTlOMQZoC.jpg",
       "description": "Après l'attaque contre Pearl Harbor, quatre étoiles du football universitaire entrent dans les Marines et découvrent la force de la fraternité et le coût de la guerre.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
@@ -34,7 +60,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/vOByLZRhCIIItlSlCT7bYbI9MYL.jpg",
       "description": "Jake, un commando de la Marine blessé en mission, aide son neveu Marc, un ado timide et tourmenté, à devenir un jeune guerrier grâce à des principes militaires.\n\nDisponibilité Canada : Apple TV, Apple TV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.4",
       "links": [
         {
           "name": "TMDB",
@@ -82,7 +108,7 @@
       "id": "tmdb:movie:1599329",
       "type": "movie",
       "name": "All for Christmas",
-      "poster": "https://image.tmdb.org/t/p/w500/oGdv5eh69qZBws5vjIFJvvSH1Uz.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/h0IsIi6QxeFfsobZHABfyP3krHV.jpg",
       "background": "https://image.tmdb.org/t/p/w1280/umIrgCdfDgZXXlzMCkLk38CURs.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
@@ -242,7 +268,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/rMY8eSDKrZhm4MyU6BiC2fzoowV.jpg",
       "description": "Disponibilité Canada : StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
@@ -268,7 +294,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/g1bEboMx1a8JCg1jXeDCh24RtgW.jpg",
       "description": "Dans cette charmante comédie d'action, Lilith, la « méchante » demi-sœur de Cendrillon, vole la baguette de la bonne fée marraine et bouleverse le conte tel qu'on le connaît.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "7.1",
       "links": [
         {
           "name": "TMDB",
@@ -320,7 +346,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/uXMzojW1TAyqlZej4ro5mbj2wli.jpg",
       "description": "Disponibilité Canada : StackTV Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "6.7",
       "links": [
         {
           "name": "TMDB",
@@ -787,7 +813,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/tiwSeVdbQSEb1FgjQbZvIGrYvLo.jpg",
       "description": "En quête de renouveau, une citadine turbulente échange sa vie avec celle de sa sœur casanière à Noël… et se retrouve avec un paquet d'ennuis à déballer.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.5",
+      "imdbRating": "6.4",
       "links": [
         {
           "name": "TMDB",
@@ -969,7 +995,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/8uRYkZe2pbQ3m0l7pwb52I2dJyB.jpg",
       "description": "Bertie retrouve une meute de loups qu’il suit depuis sept ans et se lance dans la capture de l’une des chasses les plus dangereuses et les plus rarement filmées de l’Arctique : des loups s’attaquant à un orignal mâle, une proie environ dix fois plus grosse qu’eux. Menée par Kona, un magnifique mâle reproducteur blanc, la meute traverse un hiver critique, alors que la raréfaction de la nourriture, l’arrivée d’une meute rivale et le vieillissement de son chef menacent sa survie.\n\nDisponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3",
+      "imdbRating": "7.2",
       "links": [
         {
           "name": "TMDB",
@@ -1099,6 +1125,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/kLqLPbbVwNQRESvHdw1bwPopPjq.jpg",
       "description": "Disponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
+      "imdbRating": "8",
       "links": [
         {
           "name": "TMDB",
@@ -2681,7 +2708,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
       "description": "Quand une surdose en plein tribunal l'envoie en désintox, un avocat a une semaine pour sauver sa carrière et se préparer à son propre procès avec l'aide d'une stagiaire tenace.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.5",
+      "imdbRating": "6.6",
       "links": [
         {
           "name": "TMDB",
@@ -4526,7 +4553,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/uujYvxE9s6KY4SbBZ0ZFN3oBJhW.jpg",
       "description": "Disponibilité Canada : Paramount Plus, Paramount Plus Basic with Ads, Paramount Plus Premium, Paramount+ Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.3",
+      "imdbRating": "6.4",
       "links": [
         {
           "name": "TMDB",
@@ -7802,7 +7829,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/kQ3V85ke3LKA4dnww2tH42bsZfX.jpg",
       "description": "Disponibilité Canada : AMC+, Shudder, Shudder Amazon Channel, Shudder Apple TV channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.6",
+      "imdbRating": "5.5",
       "links": [
         {
           "name": "TMDB",
@@ -11276,32 +11303,6 @@
       }
     },
     {
-      "id": "tmdb:movie:1043197",
-      "type": "movie",
-      "name": "Mouton de poussière",
-      "poster": "https://image.tmdb.org/t/p/w500/9sWYzu6MZWabozmyGofqtULGjLF.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/AecGG1XVCmkk7fT10ko3FC0dLIP.jpg",
-      "description": "Aurora, dix ans, demande à un tueur à gages d'éliminer le monstre qui, selon elle, a dévoré toute sa famille. Pour la protéger, il devra affronter une horde d'assassins tout en acceptant l'idée que certains monstres existent bel et bien.\n\nDisponibilité Canada : Crave, Crave Amazon Channel, Starz Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "6.7",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1043197"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1043197-dust-bunny/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1043197",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tmdb:movie:1206008",
       "type": "movie",
       "name": "Ella McCay",
@@ -11350,6 +11351,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1379963",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:movie:1043197",
+      "type": "movie",
+      "name": "Mouton de poussière",
+      "poster": "https://image.tmdb.org/t/p/w500/9sWYzu6MZWabozmyGofqtULGjLF.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/AecGG1XVCmkk7fT10ko3FC0dLIP.jpg",
+      "description": "Aurora, dix ans, demande à un tueur à gages d'éliminer le monstre qui, selon elle, a dévoré toute sa famille. Pour la protéger, il devra affronter une horde d'assassins tout en acceptant l'idée que certains monstres existent bel et bien.\n\nDisponibilité Canada : Crave, Crave Amazon Channel, Starz Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2025",
+      "imdbRating": "6.7",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/movie/1043197"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/movie/1043197-dust-bunny/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:movie:1043197",
         "hasScheduledVideos": false
       }
     },
@@ -11740,58 +11767,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:movie:1430593",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1550797",
-      "type": "movie",
-      "name": "Lutins d’élite : le Protocole Boule de Neige",
-      "poster": "https://image.tmdb.org/t/p/w500/npMY9C4zm8flkczEhu2o34eXA3t.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/tombkp3ir9tmm5v9QLnHaDZCWa7.jpg",
-      "description": "Les lutins de Noël Lanny et Wayne paniquent lorsque leurs missions de Noël tournent mal, laissant Wayne penser qu'il a de gros problèmes avec le Père Noël et révélant accidentellement d'autres joyeuses mésaventures.\n\nDisponibilité Canada : Disney Plus.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "6.8",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1550797"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1550797-prep-landing-the-snowball-protocol/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1550797",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:movie:1480295",
-      "type": "movie",
-      "name": "Project: Affinity",
-      "poster": "https://image.tmdb.org/t/p/w500/hnl7CgDFtEUANjOsvVi9TZsEQw2.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ekpdjcuVVU2LIFM3EyePYykYZ4b.jpg",
-      "description": "Un ancien Navy SEAL souffrant de stress post-traumatique sauve une femme puis en tombe amoureux, avant de la perdre aux mains de mystérieux ravisseurs. Il réunit une équipe d’élite pour la retrouver, mais découvre bientôt la triste vérité : elle a été bio-ingéniérée par un scientifique fou endeuillé par la mort de sa femme.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2025",
-      "imdbRating": "6.9",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/movie/1480295"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/movie/1480295-affinity/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:movie:1480295",
         "hasScheduledVideos": false
       }
     },

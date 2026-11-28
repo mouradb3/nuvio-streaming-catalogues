@@ -60,6 +60,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/6k5dug3eriqHf1kgJeLHXrfBROc.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
@@ -85,6 +86,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/f4ocST2EI5HDUPVB2FyQ7pkk7Ns.jpg",
       "description": "Disponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
+      "imdbRating": "7",
       "links": [
         {
           "name": "TMDB",
@@ -133,10 +135,10 @@
       "type": "series",
       "name": "Blade Runner 2099",
       "poster": "https://image.tmdb.org/t/p/w500/w5ORXfoCNFVI2wbkgObzLjpq9kY.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/nuLUxzJ4bVVxafru5lgWfmcPOm7.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/rACaCUxa8WAxkqdpZl0vGqBmIJg.jpg",
       "description": "Cora, une fugitive devenue Blade Runner, s'associe à Olwen, un réplicant mourant, pour traquer un fugitif dans un Los Angeles renaissant. Ensemble, ils découvrent une vérité menaçant de détruire leur ville fragile.\n\nDisponibilité Canada : Amazon Prime Video, Amazon Prime Video with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "5.4",
+      "imdbRating": "5.5",
       "links": [
         {
           "name": "TMDB",
@@ -266,7 +268,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/m8JTMj7jDMJFZAPP1ASmSi4gMWi.jpg",
       "description": "Jeunes, idéalistes et soudain pleins aux as, ils essaient de faire le bien – mais font ressortir le pire chez l'autre. Une histoire d'amour toxique inspirée par une vraie fraude.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.5",
+      "imdbRating": "6.4",
       "links": [
         {
           "name": "TMDB",
@@ -1252,7 +1254,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/gSlWzjRk1QarsB2PrJemCd88wJc.jpg",
       "description": "Au cœur du glamour et des privilèges de l'élite de Rio de Janeiro, la collectionneuse d'art Lúcia Rossetti et sa fille, Maíra Rossetti, entretiennent une relation complexe et tumultueuse. Lorsque leurs chemins croisent celui d'Irina, elles basculent dans un monde de secrets, de tensions et de mystères.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "6.8",
       "links": [
         {
           "name": "TMDB",
@@ -1278,7 +1280,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/3nJL65FgsUpmBEIMXc0kt0h5uay.jpg",
       "description": "Cette série documentaire sur la vedette adorée de « Friends » relate, grâce aux récits de ses proches, son succès à Hollywood, son militantisme actif et sa mort tragique.\n\nDisponibilité Canada : Netflix, Netflix Standard with Ads.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.3",
       "links": [
         {
           "name": "TMDB",
@@ -1433,7 +1435,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
       "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "6.8",
       "links": [
         {
           "name": "TMDB",
@@ -1448,32 +1450,6 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:314360",
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:tv:286171",
-      "type": "series",
-      "name": "尚公主",
-      "poster": "https://image.tmdb.org/t/p/w500/bgPVGcFIlY2vetjneDXQ1WQbJRD.jpg",
-      "background": "https://image.tmdb.org/t/p/w1280/ccG6WAuf2XBC808HFaeIjvk2hXW.jpg",
-      "description": "Disponibilité Canada : Rakuten Viki, Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
-      "releaseInfo": "2026",
-      "imdbRating": "6.9",
-      "links": [
-        {
-          "name": "TMDB",
-          "category": "source",
-          "url": "https://www.themoviedb.org/tv/286171"
-        },
-        {
-          "name": "JustWatch",
-          "category": "watch",
-          "url": "https://www.themoviedb.org/tv/286171-shang-gong-zhu/watch?locale=CA"
-        }
-      ],
-      "behaviorHints": {
-        "defaultVideoId": "tmdb:tv:286171",
         "hasScheduledVideos": true
       }
     },
@@ -1500,6 +1476,32 @@
       ],
       "behaviorHints": {
         "defaultVideoId": "tmdb:tv:332649",
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:tv:286171",
+      "type": "series",
+      "name": "尚公主",
+      "poster": "https://image.tmdb.org/t/p/w500/bgPVGcFIlY2vetjneDXQ1WQbJRD.jpg",
+      "background": "https://image.tmdb.org/t/p/w1280/ccG6WAuf2XBC808HFaeIjvk2hXW.jpg",
+      "description": "Disponibilité Canada : Rakuten Viki, Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
+      "releaseInfo": "2026",
+      "imdbRating": "6.9",
+      "links": [
+        {
+          "name": "TMDB",
+          "category": "source",
+          "url": "https://www.themoviedb.org/tv/286171"
+        },
+        {
+          "name": "JustWatch",
+          "category": "watch",
+          "url": "https://www.themoviedb.org/tv/286171-shang-gong-zhu/watch?locale=CA"
+        }
+      ],
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:tv:286171",
         "hasScheduledVideos": true
       }
     },
@@ -3485,7 +3487,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/mNIc5QqjBuXHeeyj6P4WSqTCBu9.jpg",
       "description": "Disponibilité Canada : Crave, Crave Amazon Channel.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "6.4",
+      "imdbRating": "6.2",
       "links": [
         {
           "name": "TMDB",
@@ -7072,7 +7074,7 @@
       "background": "https://image.tmdb.org/t/p/w1280/gxkcHgZJfyGZOtVPdfGOtFnmwHT.jpg",
       "description": "Disponibilité Canada : Rakuten Viki, Tencent Video.\n\nDonnées de disponibilité fournies par JustWatch via TMDB.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.5",
       "links": [
         {
           "name": "TMDB",
